@@ -1,3 +1,17 @@
+# 广东专升本 · 复习笔记站
+
+> VitePress 静态站 · **Sakiko 式正文嵌题** · 樱花二次元主题（Live2D / 樱花粒子 / 暗色网格）
+
+**线上：** https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/
+
+## 主题致谢
+
+视觉组件与 Live2D 资源参考开源仓库 [a3292334877-star/blog](https://github.com/a3292334877-star/blog)（Sakiko の博客，MIT）。
+高数 2024/2026 详解移植自其公开博文；英语 / 计算机考点拆分为本库增量内容。
+
+
+---
+
 # 广东专升本 · 复习笔记库
 
 > Obsidian 同步仓库 · 公共课 + 计算机专业课  

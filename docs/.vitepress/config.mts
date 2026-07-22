@@ -5,7 +5,7 @@ import { defineConfig } from 'vitepress'
 const base = process.env.VITEPRESS_BASE || '/zhuan-sheng-ben-notes/'
 
 export default defineConfig({
-  title: '广东专升本 · 复习笔记',
+  title: '专升本笔记 · Sakiko 风',
   description: '公共课 + 计算机专业课 · 历年真题详解 · 考点拆分',
   lang: 'zh-CN',
   base,
@@ -15,7 +15,10 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', href: `${base}favicon.svg` }],
-    ['meta', { name: 'theme-color', content: '#e85d75' }],
+    ['meta', { name: 'theme-color', content: '#e4596f' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    ['link', { href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap', rel: 'stylesheet' }],
   ],
 
   markdown: {
@@ -56,7 +59,8 @@ export default defineConfig({
           { text: '计算机 · 考点拆分', link: '/posts/computer/topics/' },
           { text: '公共英语 · 2024', link: '/posts/english/2024' },
           { text: '公共英语 · 总览', link: '/posts/english/' },
-          { text: '高等数学', link: '/posts/math/' },
+          { text: '高等数学 2026', link: '/posts/math/2026' },
+          { text: '高等数学总览', link: '/posts/math/' },
           { text: '政治理论', link: '/posts/politics/' },
         ],
       },
@@ -90,7 +94,11 @@ export default defineConfig({
       '/posts/math/': [
         {
           text: '高等数学',
-          items: [{ text: '真题总览', link: '/posts/math/' }],
+          items: [
+            { text: '真题总览', link: '/posts/math/' },
+            { text: '2026 全卷详解', link: '/posts/math/2026' },
+            { text: '2024 全卷详解', link: '/posts/math/2024' },
+          ],
         },
       ],
       '/posts/english/': [
