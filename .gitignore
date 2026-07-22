@@ -48,3 +48,7 @@ package-lock.json.bak
 # site-embedded exam PDFs (split by year for the blog)
 !docs/public/papers/**/*.pdf
 __pycache__/
+资料/**/*.docx
+资料/**/*.txt
+!资料/**/*.md
+!资料/**/*.py

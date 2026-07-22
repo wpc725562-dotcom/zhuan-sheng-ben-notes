@@ -9,7 +9,8 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "docs:sync": "node scripts/sync-obsidian-to-blog.mjs",
-    "docs:fill-gaps": "node scripts/fill-gaps-from-web.mjs"
+    "docs:fill-gaps": "node scripts/fill-gaps-from-web.mjs",
+    "docs:fill-exams": "python scripts/fill_more_exams.py"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
