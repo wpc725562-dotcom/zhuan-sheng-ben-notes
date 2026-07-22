@@ -1,0 +1,38 @@
+:root {
+  --vp-c-brand-1: #e85d75;
+  --vp-c-brand-2: #f07a8e;
+  --vp-c-brand-3: #d64a63;
+  --vp-c-brand-soft: rgba(232, 93, 117, 0.14);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #e85d75 30%, #f5a3b0);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #fde2e7 0%, #ffe8d6 100%);
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+.dark {
+  --vp-c-brand-1: #f07a8e;
+  --vp-c-brand-2: #f5a3b0;
+  --vp-c-brand-3: #e85d75;
+  --vp-c-brand-soft: rgba(240, 122, 142, 0.16);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #4a2430 0%, #3a2a20 100%);
+}
+
+/* 答案块强调 */
+.vp-doc strong {
+  font-weight: 600;
+}
+
+/* 表格更紧凑一点，适合真题 */
+.vp-doc table {
+  font-size: 0.92em;
+}
+
+/* 代码块圆角 */
+.vp-doc div[class*='language-'] {
+  border-radius: 10px;
+}
+
+/* 首页特性卡微调 */
+.VPFeature {
+  border-radius: 12px;
+}

@@ -3,6 +3,30 @@
 > Obsidian 同步仓库 · 公共课 + 计算机专业课  
 > 仓库：[`wpc725562-dotcom/zhuan-sheng-ben-notes`](https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes)
 
+## 网站（像 Sakiko 博客那样打开）
+
+- **在线地址（开启 Pages 后）**：[https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/)
+- 技术栈：**VitePress** + 公式渲染 + 本地搜索 + GitHub Pages（**不需要个人服务器**）
+- 首次上线：仓库 **Settings → Pages → Source** 选 **GitHub Actions**，然后 push / 手动跑一次 Deploy 工作流
+
+### 本地预览网站
+
+```bash
+npm install
+npm run docs:dev
+```
+
+### 网站目录
+
+```
+docs/
+├── .vitepress/          # 站点配置与主题
+├── index.md             # 首页
+├── guide/               # 使用说明
+├── posts/               # 网页版文章（从历年真题导出）
+└── public/
+```
+
 ---
 
 ## 目录结构
@@ -93,4 +117,5 @@
 |:---|:---|
 | 2026-07-22 | 初建四科历年真题骨架 |
 | 2026-07-23 | 计算机 2024 全量详解 + 考点拆分入库；README 上线 |
+| 2026-07-23 | VitePress 学习站骨架 + 2024 计算机网页版 + Pages 自动部署 |
 
