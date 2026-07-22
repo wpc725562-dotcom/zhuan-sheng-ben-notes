@@ -1,12 +1,11 @@
 import { defineConfig } from 'vitepress'
 
-// GitHub Pages 项目站固定 base（本地 dev 也用同一路径，避免线上资源 404）
-// 本地预览：npm run docs:dev 后打开 http://localhost:5173/zhuan-sheng-ben-notes/
+// GitHub Pages 项目站固定 base
 const base = process.env.VITEPRESS_BASE || '/zhuan-sheng-ben-notes/'
 
 export default defineConfig({
   title: '专升本笔记 · Sakiko 风',
-  description: '公共课 + 计算机专业课 · 历年真题详解 · 考点拆分',
+  description: 'Obsidian 全库 + 历年真题详解 · 公共课 + 计算机',
   lang: 'zh-CN',
   base,
   cleanUrls: true,
@@ -53,17 +52,33 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '历年真题',
+        text: '高数',
         items: [
-          { text: '计算机 · 2024 全卷', link: '/posts/computer/2024' },
-          { text: '计算机 · 考点拆分', link: '/posts/computer/topics/' },
-          { text: '公共英语 · 2024', link: '/posts/english/2024' },
-          { text: '公共英语 · 总览', link: '/posts/english/' },
-          { text: '高等数学 2026', link: '/posts/math/2026' },
-          { text: '高等数学总览', link: '/posts/math/' },
-          { text: '政治理论', link: '/posts/politics/' },
+          { text: '章节笔记', link: '/posts/math/notes/' },
+          { text: '真题总览', link: '/posts/math/' },
+          { text: '2026 全卷', link: '/posts/math/2026' },
+          { text: '2024 全卷', link: '/posts/math/2024' },
         ],
       },
+      {
+        text: '计算机',
+        items: [
+          { text: '知识点', link: '/posts/computer/notes/' },
+          { text: '2024 全卷', link: '/posts/computer/2024' },
+          { text: '考点拆分', link: '/posts/computer/topics/' },
+          { text: '真题总览', link: '/posts/computer/' },
+        ],
+      },
+      {
+        text: '英语',
+        items: [
+          { text: '学习笔记', link: '/posts/english/notes/' },
+          { text: '真题总览', link: '/posts/english/' },
+          { text: '2024', link: '/posts/english/2024' },
+          { text: '2023', link: '/posts/english/2023' },
+        ],
+      },
+      { text: '政治', link: '/posts/politics/' },
       { text: '使用说明', link: '/guide/' },
       {
         text: 'GitHub',
@@ -71,12 +86,445 @@ export default defineConfig({
       },
     ],
     sidebar: {
+      '/posts/math/': [
+        {
+          text: '高等数学 · 真题',
+          items: [
+                    {
+                              "text": "真题总览",
+                              "link": "/posts/math/"
+                    },
+                    {
+                              "text": "章节笔记总览",
+                              "link": "/posts/math/notes/"
+                    },
+                    {
+                              "text": "2026 全卷",
+                              "link": "/posts/math/2026"
+                    },
+                    {
+                              "text": "2024 全卷",
+                              "link": "/posts/math/2024"
+                    },
+                    {
+                              "text": "2023 演练",
+                              "link": "/posts/math/2023"
+                    },
+                    {
+                              "text": "2022 演练",
+                              "link": "/posts/math/2022"
+                    },
+                    {
+                              "text": "2021 演练",
+                              "link": "/posts/math/2021"
+                    },
+                    {
+                              "text": "2020 演练",
+                              "link": "/posts/math/2020"
+                    },
+                    {
+                              "text": "2019 演练",
+                              "link": "/posts/math/2019"
+                    },
+                    {
+                              "text": "2018 演练",
+                              "link": "/posts/math/2018"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 一章 函数与极限",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "1.1 函数的概念",
+                              "link": "/posts/math/notes/1.1-函数的概念"
+                    },
+                    {
+                              "text": "1.1 左右极限与极限存在判定",
+                              "link": "/posts/math/notes/1.1-左右极限与极限存在判定"
+                    },
+                    {
+                              "text": "1.2 函数的连续性与间断点分类",
+                              "link": "/posts/math/notes/1.2-函数的连续性与间断点分类"
+                    },
+                    {
+                              "text": "1.3 函数的连续性",
+                              "link": "/posts/math/notes/1.3-函数的连续性"
+                    },
+                    {
+                              "text": "1.3 极限界限之“抓大头”法则",
+                              "link": "/posts/math/notes/1.3-极限界限之“抓大头”法则"
+                    },
+                    {
+                              "text": "1.4 等价无穷小替换原理",
+                              "link": "/posts/math/notes/1.4-等价无穷小替换原理"
+                    },
+                    {
+                              "text": "1.5 闭区间上连续函数的性质",
+                              "link": "/posts/math/notes/1.5-闭区间上连续函数的性质"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 二章 一元函数微分学",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "2.1 导数的定义",
+                              "link": "/posts/math/notes/2.1-导数的定义"
+                    },
+                    {
+                              "text": "2.2 单侧导数以及可导与连续的关系",
+                              "link": "/posts/math/notes/2.2-单侧导数以及可导与连续的关系"
+                    },
+                    {
+                              "text": "2.3 基本导数公式和四则运算求导法…",
+                              "link": "/posts/math/notes/2.3-基本导数公式和四则运算求导法则"
+                    },
+                    {
+                              "text": "2.4 复合函数的求导方法（链式法则…",
+                              "link": "/posts/math/notes/2.4-复合函数的求导方法（链式法则）"
+                    },
+                    {
+                              "text": "2.5 隐函数与参数方程求导方法",
+                              "link": "/posts/math/notes/2.5-隐函数与参数方程求导方法"
+                    },
+                    {
+                              "text": "2.6 高阶导数",
+                              "link": "/posts/math/notes/2.6-高阶导数"
+                    },
+                    {
+                              "text": "2.7 微分",
+                              "link": "/posts/math/notes/2.7-微分"
+                    },
+                    {
+                              "text": "2.8 微分中值定理（罗尔与拉格朗日…",
+                              "link": "/posts/math/notes/2.8-微分中值定理（罗尔与拉格朗日）"
+                    },
+                    {
+                              "text": "2.9 洛必达法则",
+                              "link": "/posts/math/notes/2.9-洛必达法则"
+                    },
+                    {
+                              "text": "2.10 导数的几何应用（切线与单调…",
+                              "link": "/posts/math/notes/2.10-导数的几何应用（切线与单调性）"
+                    },
+                    {
+                              "text": "2.11 函数的极值与曲线凹凸性",
+                              "link": "/posts/math/notes/2.11-函数的极值与曲线凹凸性"
+                    },
+                    {
+                              "text": "2.12 函数曲线的渐近线",
+                              "link": "/posts/math/notes/2.12-函数曲线的渐近线"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 三章 一元函数积分学",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "3.1 原函数与不定积分的概念及性质",
+                              "link": "/posts/math/notes/3.1-原函数与不定积分的概念及性质"
+                    },
+                    {
+                              "text": "3.2 直接积分法",
+                              "link": "/posts/math/notes/3.2-直接积分法"
+                    },
+                    {
+                              "text": "3.3 第一类换元法（凑微分法）",
+                              "link": "/posts/math/notes/3.3-第一类换元法（凑微分法）"
+                    },
+                    {
+                              "text": "3.4 第二类换元法之根式代换",
+                              "link": "/posts/math/notes/3.4-第二类换元法之根式代换"
+                    },
+                    {
+                              "text": "3.5 第二类换元法之三角代换",
+                              "link": "/posts/math/notes/3.5-第二类换元法之三角代换"
+                    },
+                    {
+                              "text": "3.6 分部积分法",
+                              "link": "/posts/math/notes/3.6-分部积分法"
+                    },
+                    {
+                              "text": "3.7 定积分的概念",
+                              "link": "/posts/math/notes/3.7-定积分的概念"
+                    },
+                    {
+                              "text": "3.8 牛顿-莱布尼兹公式及定积分的…",
+                              "link": "/posts/math/notes/3.8-牛顿-莱布尼兹公式及定积分的性质"
+                    },
+                    {
+                              "text": "3.9 定积分的换元法",
+                              "link": "/posts/math/notes/3.9-定积分的换元法"
+                    },
+                    {
+                              "text": "3.10 定积分的分部积分法",
+                              "link": "/posts/math/notes/3.10-定积分的分部积分法"
+                    },
+                    {
+                              "text": "3.11 积分变限函数及其导数",
+                              "link": "/posts/math/notes/3.11-积分变限函数及其导数"
+                    },
+                    {
+                              "text": "3.12 反常积分（广义积分）",
+                              "link": "/posts/math/notes/3.12-反常积分（广义积分）"
+                    },
+                    {
+                              "text": "3.13 求平面图形的面积",
+                              "link": "/posts/math/notes/3.13-求平面图形的面积"
+                    },
+                    {
+                              "text": "3.14 求旋转体的体积",
+                              "link": "/posts/math/notes/3.14-求旋转体的体积"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 四章 向量与空间几何",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "4.1 空间直角坐标系与向量的线性运…",
+                              "link": "/posts/math/notes/4.1-空间直角坐标系与向量的线性运算"
+                    },
+                    {
+                              "text": "4.2 向量的数量积与向量积",
+                              "link": "/posts/math/notes/4.2-向量的数量积与向量积"
+                    },
+                    {
+                              "text": "4.3 平面及其方程",
+                              "link": "/posts/math/notes/4.3-平面及其方程"
+                    },
+                    {
+                              "text": "4.4 空间直线及其方程",
+                              "link": "/posts/math/notes/4.4-空间直线及其方程"
+                    },
+                    {
+                              "text": "4.5 曲面与空间曲线",
+                              "link": "/posts/math/notes/4.5-曲面与空间曲线"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 五章 多元函数",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "5.1 多元函数的基本概念",
+                              "link": "/posts/math/notes/5.1-多元函数的基本概念"
+                    },
+                    {
+                              "text": "5.2 偏导数与全微分",
+                              "link": "/posts/math/notes/5.2-偏导数与全微分"
+                    },
+                    {
+                              "text": "5.3 多元复合函数与隐函数求导法",
+                              "link": "/posts/math/notes/5.3-多元复合函数与隐函数求导法"
+                    },
+                    {
+                              "text": "5.4 多元函数的极值",
+                              "link": "/posts/math/notes/5.4-多元函数的极值"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 六章 重积分与曲线积分",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "6.1 二重积分的概念与性质",
+                              "link": "/posts/math/notes/6.1-二重积分的概念与性质"
+                    },
+                    {
+                              "text": "6.2 二重积分的计算",
+                              "link": "/posts/math/notes/6.2-二重积分的计算"
+                    },
+                    {
+                              "text": "6.3 三重积分",
+                              "link": "/posts/math/notes/6.3-三重积分"
+                    },
+                    {
+                              "text": "6.4 曲线积分",
+                              "link": "/posts/math/notes/6.4-曲线积分"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 七章 常微分方程",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "7.1 微分方程的基本概念",
+                              "link": "/posts/math/notes/7.1-微分方程的基本概念"
+                    },
+                    {
+                              "text": "7.2 一阶微分方程",
+                              "link": "/posts/math/notes/7.2-一阶微分方程"
+                    },
+                    {
+                              "text": "7.3 高阶线性微分方程",
+                              "link": "/posts/math/notes/7.3-高阶线性微分方程"
+                    }
+          ],
+        },
+        {
+          text: "笔记 · 八章 无穷级数",
+          collapsed: true,
+          items: [
+                    {
+                              "text": "8.1 常数项级数的概念与性质",
+                              "link": "/posts/math/notes/8.1-常数项级数的概念与性质"
+                    },
+                    {
+                              "text": "8.2 正项级数审敛法",
+                              "link": "/posts/math/notes/8.2-正项级数审敛法"
+                    },
+                    {
+                              "text": "8.3 幂级数",
+                              "link": "/posts/math/notes/8.3-幂级数"
+                    },
+                    {
+                              "text": "8.4 傅里叶级数",
+                              "link": "/posts/math/notes/8.4-傅里叶级数"
+                    }
+          ],
+        },
+      ],
       '/posts/computer/': [
         {
-          text: '计算机程序设计',
+          text: '计算机 · 真题',
           items: [
-            { text: '真题总览', link: '/posts/computer/' },
-            { text: '2024 全卷详解', link: '/posts/computer/2024' },
+                    {
+                              "text": "真题总览",
+                              "link": "/posts/computer/"
+                    },
+                    {
+                              "text": "知识点总览",
+                              "link": "/posts/computer/notes/"
+                    },
+                    {
+                              "text": "2024 全卷",
+                              "link": "/posts/computer/2024"
+                    },
+                    {
+                              "text": "2023 演练",
+                              "link": "/posts/computer/2023"
+                    },
+                    {
+                              "text": "2022 演练",
+                              "link": "/posts/computer/2022"
+                    },
+                    {
+                              "text": "2021 演练",
+                              "link": "/posts/computer/2021"
+                    },
+                    {
+                              "text": "2020 演练",
+                              "link": "/posts/computer/2020"
+                    },
+                    {
+                              "text": "2019 演练",
+                              "link": "/posts/computer/2019"
+                    },
+                    {
+                              "text": "2018 演练",
+                              "link": "/posts/computer/2018"
+                    }
+          ],
+        },
+        {
+          text: 'C 语言知识点',
+          collapsed: false,
+          items: [
+                    {
+                              "text": "1.1 C语言概述与基本概念",
+                              "link": "/posts/computer/notes/1.1-C语言概述与基本概念"
+                    },
+                    {
+                              "text": "1.2 数据的存储与运算",
+                              "link": "/posts/computer/notes/1.2-数据的存储与运算"
+                    },
+                    {
+                              "text": "1.3 顺序程序设计",
+                              "link": "/posts/computer/notes/1.3-顺序程序设计"
+                    },
+                    {
+                              "text": "1.4 选择结构程序设计",
+                              "link": "/posts/computer/notes/1.4-选择结构程序设计"
+                    },
+                    {
+                              "text": "1.5 循环结构程序设计",
+                              "link": "/posts/computer/notes/1.5-循环结构程序设计"
+                    },
+                    {
+                              "text": "1.6 数组",
+                              "link": "/posts/computer/notes/1.6-数组"
+                    },
+                    {
+                              "text": "1.7 函数",
+                              "link": "/posts/computer/notes/1.7-函数"
+                    },
+                    {
+                              "text": "1.8 指针",
+                              "link": "/posts/computer/notes/1.8-指针"
+                    },
+                    {
+                              "text": "1.9 结构体与共用体",
+                              "link": "/posts/computer/notes/1.9-结构体与共用体"
+                    },
+                    {
+                              "text": "1.10 文件操作",
+                              "link": "/posts/computer/notes/1.10-文件操作"
+                    },
+                    {
+                              "text": "1.11 程序运行环境与调试",
+                              "link": "/posts/computer/notes/1.11-程序运行环境与调试"
+                    }
+          ],
+        },
+        {
+          text: '数据结构知识点',
+          collapsed: false,
+          items: [
+                    {
+                              "text": "2.1 数据结构基本概念",
+                              "link": "/posts/computer/notes/2.1-数据结构基本概念"
+                    },
+                    {
+                              "text": "2.2 线性表",
+                              "link": "/posts/computer/notes/2.2-线性表"
+                    },
+                    {
+                              "text": "2.3 栈和队列",
+                              "link": "/posts/computer/notes/2.3-栈和队列"
+                    },
+                    {
+                              "text": "2.4 串、数组和广义表",
+                              "link": "/posts/computer/notes/2.4-串、数组和广义表"
+                    },
+                    {
+                              "text": "2.5 树和二叉树",
+                              "link": "/posts/computer/notes/2.5-树和二叉树"
+                    },
+                    {
+                              "text": "2.6 图",
+                              "link": "/posts/computer/notes/2.6-图"
+                    },
+                    {
+                              "text": "2.7 查找",
+                              "link": "/posts/computer/notes/2.7-查找"
+                    },
+                    {
+                              "text": "2.8 排序",
+                              "link": "/posts/computer/notes/2.8-排序"
+                    },
+                    {
+                              "text": "2.9 算法基本概念与分析",
+                              "link": "/posts/computer/notes/2.9-算法基本概念与分析"
+                    }
           ],
         },
         {
@@ -91,45 +539,56 @@ export default defineConfig({
           ],
         },
       ],
-      '/posts/math/': [
-        {
-          text: '高等数学',
-          items: [
-            { text: '真题总览', link: '/posts/math/' },
-            { text: '2026 全卷详解', link: '/posts/math/2026' },
-            { text: '2024 全卷详解', link: '/posts/math/2024' },
-          ],
-        },
-      ],
       '/posts/english/': [
         {
-          text: '公共英语',
+          text: '英语 · 学习笔记',
+          items: [
+            { text: '笔记总览', link: '/posts/english/notes/' },
+            { text: "考试概述与题型分析", link: '/posts/english/notes/overview' },
+            { text: "作文模板与高分句型", link: '/posts/english/notes/writing' },
+            { text: "历年真题分类与讲解", link: '/posts/english/notes/past-papers-guide' },
+            { text: "语法考点精讲", link: '/posts/english/notes/grammar' },
+            { text: "阅读理解高分技巧", link: '/posts/english/notes/reading' },
+            { text: "高频词汇速记", link: '/posts/english/notes/vocabulary' },
+          ],
+        },
+        {
+          text: '公共英语 · 真题',
           items: [
             { text: '真题总览', link: '/posts/english/' },
-            { text: '2024', link: '/posts/english/2024' },
-            { text: '2023', link: '/posts/english/2023' },
-            { text: '2022', link: '/posts/english/2022' },
-            { text: '2021', link: '/posts/english/2021' },
-            { text: '2020', link: '/posts/english/2020' },
-            { text: '2019', link: '/posts/english/2019' },
-            { text: '2018', link: '/posts/english/2018' },
-            { text: '2017', link: '/posts/english/2017' },
-            { text: '2016', link: '/posts/english/2016' },
-            { text: '2015', link: '/posts/english/2015' },
-            { text: '2014', link: '/posts/english/2014' },
-            { text: '2013', link: '/posts/english/2013' },
-            { text: '2012', link: '/posts/english/2012' },
-            { text: '2011', link: '/posts/english/2011' },
-            { text: '2010', link: '/posts/english/2010' },
-            { text: '2009', link: '/posts/english/2009' },
-            { text: '2008', link: '/posts/english/2008' },
+            { text: "2024", link: '/posts/english/2024' },
+            { text: "2023", link: '/posts/english/2023' },
+            { text: "2022", link: '/posts/english/2022' },
+            { text: "2021", link: '/posts/english/2021' },
+            { text: "2020", link: '/posts/english/2020' },
+            { text: "2019", link: '/posts/english/2019' },
+            { text: "2018", link: '/posts/english/2018' },
+            { text: "2017", link: '/posts/english/2017' },
+            { text: "2016", link: '/posts/english/2016' },
+            { text: "2015", link: '/posts/english/2015' },
+            { text: "2014", link: '/posts/english/2014' },
+            { text: "2013", link: '/posts/english/2013' },
+            { text: "2012", link: '/posts/english/2012' },
+            { text: "2011", link: '/posts/english/2011' },
+            { text: "2010", link: '/posts/english/2010' },
+            { text: "2009", link: '/posts/english/2009' },
+            { text: "2008", link: '/posts/english/2008' },
           ],
         },
       ],
       '/posts/politics/': [
         {
           text: '政治理论',
-          items: [{ text: '真题总览', link: '/posts/politics/' }],
+          items: [
+            { text: '真题总览', link: '/posts/politics/' },
+            { text: '2024', link: '/posts/politics/2024' },
+            { text: '2023', link: '/posts/politics/2023' },
+            { text: '2022', link: '/posts/politics/2022' },
+            { text: '2021', link: '/posts/politics/2021' },
+            { text: '2020', link: '/posts/politics/2020' },
+            { text: '2019', link: '/posts/politics/2019' },
+            { text: '2018', link: '/posts/politics/2018' },
+          ],
         },
       ],
       '/guide/': [
@@ -150,7 +609,7 @@ export default defineConfig({
     ],
     footer: {
       message: '仅供个人学习 · 考生回忆版 · 非考试院原卷',
-      copyright: '内容整理自公开回忆版与个人笔记',
+      copyright: '内容整理自公开回忆版与个人 Obsidian 笔记',
     },
     docFooter: {
       prev: '上一篇',

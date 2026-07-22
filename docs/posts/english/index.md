@@ -1,37 +1,50 @@
 ---
-title: 公共英语 · 真题总览
-description: 广东专升本公共英语 2008–2024 · 正文嵌入题干（非 PDF）
+title: "公共英语 · 总览"
+description: "真题正文嵌入 + 系统学习笔记"
 ---
 
-# 公共英语 · 真题总览
+# 公共英语 · 总览
 
-> 学习方式已升级为 **Sakiko 式正文嵌入**：题干、选项、答案块直接写在网页里，不再依赖 PDF 预览。
+> 题目嵌在正文里（Sakiko 体例）+ Obsidian 系统学习笔记。
 
-| 年份 | 页面 | 说明 |
-|:---:|:---|:---|
-| 2024 | [打开](/posts/english/2024) | 正文嵌入 · 切题约 15 道 |
-| 2023 | [打开](/posts/english/2023) | 正文嵌入 · 切题约 31 道 |
-| 2022 | [打开](/posts/english/2022) | 正文嵌入 · 切题约 31 道 |
-| 2021 | [打开](/posts/english/2021) | 正文嵌入 · 切题约 65 道 |
-| 2020 | [打开](/posts/english/2020) | 正文嵌入 · 切题约 66 道 |
-| 2019 | [打开](/posts/english/2019) | 正文嵌入 · 切题约 66 道 |
-| 2018 | [打开](/posts/english/2018) | 正文嵌入 · 切题约 65 道 |
-| 2017 | [打开](/posts/english/2017) | 正文嵌入 · 切题约 66 道 |
-| 2016 | [打开](/posts/english/2016) | 正文嵌入 · 切题约 65 道 |
-| 2015 | [打开](/posts/english/2015) | 正文嵌入 · 切题约 65 道 |
-| 2014 | [打开](/posts/english/2014) | 正文嵌入 · 切题约 76 道 |
-| 2013 | [打开](/posts/english/2013) | 正文嵌入 · 切题约 76 道 |
-| 2012 | [打开](/posts/english/2012) | 正文嵌入 · 切题约 72 道 |
-| 2011 | [打开](/posts/english/2011) | 正文嵌入 · 切题约 73 道 |
-| 2010 | [打开](/posts/english/2010) | 正文嵌入 · 切题约 75 道 |
-| 2009 | [打开](/posts/english/2009) | 正文嵌入 · 切题约 75 道 |
-| 2008 | [打开](/posts/english/2008) | 正文嵌入 · 切题约 75 道 |
+## 系统学习笔记
 
-## 刷题建议
+| 笔记 | 说明 |
+|:---|:---|
+| [学习笔记首页](/posts/english/notes/) | 知识库总导航 |
+| [考试概述与题型分析](/posts/english/notes/overview) | 从 Obsidian 同步 |
+| [作文模板与高分句型](/posts/english/notes/writing) | 从 Obsidian 同步 |
+| [历年真题分类与讲解](/posts/english/notes/past-papers-guide) | 从 Obsidian 同步 |
+| [语法考点精讲](/posts/english/notes/grammar) | 从 Obsidian 同步 |
+| [阅读理解高分技巧](/posts/english/notes/reading) | 从 Obsidian 同步 |
+| [高频词汇速记](/posts/english/notes/vocabulary) | 从 Obsidian 同步 |
 
-1. 先闭卷做「客观题」区
-2. 对答案速查
-3. 精读解析 OCR 中的中文说明
-4. 写作默写范文结构（称呼 / 目的 / 三点理由 / 落款）
+## 历年真题（正文嵌题）
+
+| 年份 | 页面 |
+|:---:|:---|
+| 2024 | [打开](/posts/english/2024) |
+| 2023 | [打开](/posts/english/2023) |
+| 2022 | [打开](/posts/english/2022) |
+| 2021 | [打开](/posts/english/2021) |
+| 2020 | [打开](/posts/english/2020) |
+| 2019 | [打开](/posts/english/2019) |
+| 2018 | [打开](/posts/english/2018) |
+| 2017 | [打开](/posts/english/2017) |
+| 2016 | [打开](/posts/english/2016) |
+| 2015 | [打开](/posts/english/2015) |
+| 2014 | [打开](/posts/english/2014) |
+| 2013 | [打开](/posts/english/2013) |
+| 2012 | [打开](/posts/english/2012) |
+| 2011 | [打开](/posts/english/2011) |
+| 2010 | [打开](/posts/english/2010) |
+| 2009 | [打开](/posts/english/2009) |
+| 2008 | [打开](/posts/english/2008) |
+
+## 怎么刷
+
+1. 先过 [考试概述](/posts/english/notes/overview) + [高频词汇](/posts/english/notes/vocabulary)
+2. 近三年真题：[2024](/posts/english/2024) / [2023](/posts/english/2023) / [2022](/posts/english/2022)
+3. 写作默写 [作文模板](/posts/english/notes/writing)
 
 ← [回首页](/)
