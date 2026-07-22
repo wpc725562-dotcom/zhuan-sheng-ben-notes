@@ -45,4 +45,6 @@ package-lock.json.bak
 # keep small helper scripts & md under 资料/
 !资料/**/*.md
 !资料/**/*.py
+# site-embedded exam PDFs (split by year for the blog)
+!docs/public/papers/**/*.pdf
 __pycache__/

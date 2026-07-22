@@ -41,6 +41,12 @@ docs/
 └── public/
 ```
 
+### 英语：网页内直接看卷（不用本地 PDF）
+
+- 入口：[公共英语总览](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/english/)
+- 每年页顶部 **内嵌 PDF 预览** + 下载链接
+- 文件在 `docs/public/papers/english/`（如 `2023-full.pdf`）
+
 ---
 
 ## 目录结构
