@@ -61,29 +61,34 @@ type LiveModel = {
  * 无高木/洛琪希正版包；气质接近：小春≈短发少女、仙狐≈魔法萝莉感
  * Cubism2 + Cubism3+ 均支持（l2d-widget）
  */
-const MODELS: LiveModel[] = [
+/**
+   * 统一视觉高度：画布固定 300×430，各模型 scale 按引擎/源文件校准到相近占位。
+   * Cubism3（.model3）默认单位更大 → scale 偏低；Cubism2 偏高。
+   * 整体约比旧配置大 1.8～2 倍，和 Sakiko 那种「左下角真人尺寸」更接近。
+   */
+  const MODELS: LiveModel[] = [
   {
     id: 'senko',
     name: '仙狐',
     tag: '狐耳 · 魔法感',
     path: `${CDN}/Senko_Normals/senko.model3.json`,
-    scale: 0.1,
-    offset: [0, 0.1],
+    scale: 0.2,
+    offset: [0, 0.08],
   },
   {
     id: 'koharu',
     name: '小春',
     tag: '短发 · 像高木',
     path: `${CDN}/koharu/model.json`,
-    scale: 0.09,
-    offset: [0, 0],
+    scale: 0.18,
+    offset: [0, 0.02],
   },
   {
     id: 'hibiki',
     name: '响',
     tag: '舰娘 · 短发',
     path: `${CDN}/hibiki/hibiki.model.json`,
-    scale: 0.22,
+    scale: 0.28,
     offset: [0, 0],
   },
   {
@@ -91,23 +96,23 @@ const MODELS: LiveModel[] = [
     name: 'Haru',
     tag: '官方样例',
     path: `${CDN}/Haru/Haru.model3.json`,
-    scale: 0.12,
-    offset: [0, 0],
+    scale: 0.2,
+    offset: [0, 0.02],
   },
   {
     id: 'hiyori',
     name: 'Hiyori',
     tag: '官方样例',
     path: `${CDN}/Hiyori/Hiyori.model3.json`,
-    scale: 0.1,
-    offset: [0, 0],
+    scale: 0.18,
+    offset: [0, 0.02],
   },
   {
     id: 'shizuku',
     name: '雫',
     tag: '经典 Cubism2',
     path: `${CDN}/shizuku/shizuku.model.json`,
-    scale: 0.18,
+    scale: 0.28,
     offset: [0, 0],
   },
   {
@@ -115,7 +120,7 @@ const MODELS: LiveModel[] = [
     name: '黑猫',
     tag: '猫系萌',
     path: `${CDN}/cat-black/model.json`,
-    scale: 0.14,
+    scale: 0.26,
     offset: [0, 0],
   },
   {
@@ -123,7 +128,7 @@ const MODELS: LiveModel[] = [
     name: '22',
     tag: 'B站娘',
     path: `${CDN}/bilibili-22/index.json`,
-    scale: 0.22,
+    scale: 0.28,
     offset: [0, 0],
   },
   {
@@ -172,7 +177,7 @@ function resolveModels() {
       : m.path
     return {
       path,
-      scale: m.scale ?? 0.1,
+      scale: m.scale ?? 0.2,
       offset: m.offset ?? ([0, 0] as [number, number]),
       volume: 0,
       tips: {
@@ -220,7 +225,8 @@ async function loadWidget(): Promise<void> {
     widget = createWidget({
       model: models,
       position: 'bottom-left',
-      size: { width: 220, height: 320 },
+      // 与 Sakiko 同级「存在感」：比旧 220×320 大约 1.5 倍可视面积
+      size: { width: 300, height: 430 },
       primaryColor: 'rgba(228, 89, 111, 0.92)',
       transitionDuration: 900,
       transitionType: 'fade',
@@ -351,7 +357,8 @@ onUnmounted(() => {
 .live2d-close {
   position: fixed;
   left: 16px;
-  bottom: 300px;
+  /* 对齐放大后的画布高度 430 */
+  bottom: 410px;
   z-index: 102;
   width: 30px;
   height: 30px;
