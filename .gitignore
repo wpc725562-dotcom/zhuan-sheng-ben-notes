@@ -1,0 +1,31 @@
+# Obsidian workspace / local state (device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Trash / temp
+.obsidian-mcp-trash/
+.trash/
+*.tmp
+*.temp
+~*
+
+# Local learning DB / scripts not part of notes
+mtool_learning_state.db
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large media (keep notes only)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
