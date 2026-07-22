@@ -15,6 +15,7 @@ title: 站点说明
 | 高数章节 | `高等数学/` | [/posts/math/notes/](/posts/math/notes/) |
 | 计算机知识点 | `计算机程序设计/` | [/posts/computer/notes/](/posts/computer/notes/) |
 | 英语笔记 | `编程技能/专升本英语/` | [/posts/english/notes/](/posts/english/notes/) |
+| 政治笔记 | `政治理论/` | [/posts/politics/notes/](/posts/politics/notes/) |
 | 各科真题 | `历年真题/` | `/posts/{math,computer,english,politics}/` |
 
 重新同步（本地）：

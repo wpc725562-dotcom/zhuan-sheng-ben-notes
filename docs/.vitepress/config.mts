@@ -78,7 +78,14 @@ export default defineConfig({
           { text: '2023', link: '/posts/english/2023' },
         ],
       },
-      { text: '政治', link: '/posts/politics/' },
+      {
+        text: '政治',
+        items: [
+          { text: '系统笔记', link: '/posts/politics/notes/' },
+          { text: '真题总览', link: '/posts/politics/' },
+          { text: '大纲题型', link: '/posts/politics/notes/00-考试大纲与题型' },
+        ],
+      },
       { text: '使用说明', link: '/guide/' },
       {
         text: 'GitHub',
@@ -544,6 +551,7 @@ export default defineConfig({
           text: '英语 · 学习笔记',
           items: [
             { text: '笔记总览', link: '/posts/english/notes/' },
+            { text: "考试大纲与题型补强", link: '/posts/english/notes/syllabus' },
             { text: "考试概述与题型分析", link: '/posts/english/notes/overview' },
             { text: "作文模板与高分句型", link: '/posts/english/notes/writing' },
             { text: "历年真题分类与讲解", link: '/posts/english/notes/past-papers-guide' },
@@ -578,7 +586,32 @@ export default defineConfig({
       ],
       '/posts/politics/': [
         {
-          text: '政治理论',
+          text: '政治 · 系统笔记',
+          items: [
+            { text: '笔记总览', link: '/posts/politics/notes/' },
+            { text: "00 考试大纲与题型", link: '/posts/politics/notes/00-考试大纲与题型' },
+            { text: "01 马克思主义中国化时代化", link: '/posts/politics/notes/01-马克思主义中国化时代化' },
+            { text: "02 毛泽东思想", link: '/posts/politics/notes/02-毛泽东思想' },
+            { text: "03 新民主主义革命", link: '/posts/politics/notes/03-新民主主义革命' },
+            { text: "04 社会主义改造", link: '/posts/politics/notes/04-社会主义改造' },
+            { text: "05 建设道路初步探索", link: '/posts/politics/notes/05-建设道路初步探索' },
+            { text: "06 中国特色社会主义理论体系", link: '/posts/politics/notes/06-中国特色社会主义理论体系' },
+            { text: "07 邓小平理论", link: '/posts/politics/notes/07-邓小平理论' },
+            { text: "08 三个代表与科学发展观", link: '/posts/politics/notes/08-三个代表与科学发展观' },
+            { text: "09 习思想形成与历史地位", link: '/posts/politics/notes/09-习思想形成与历史地位' },
+            { text: "10 中国式现代化", link: '/posts/politics/notes/10-中国式现代化' },
+            { text: "11 党的领导与以人民为中心", link: '/posts/politics/notes/11-党的领导与以人民为中心' },
+            { text: "12 改革发展与五位一体", link: '/posts/politics/notes/12-改革发展与五位一体' },
+            { text: "13 民主法治文化民生", link: '/posts/politics/notes/13-民主法治文化民生' },
+            { text: "14 生态安全国防统一外交", link: '/posts/politics/notes/14-生态安全国防统一外交' },
+            { text: "15 全面从严治党", link: '/posts/politics/notes/15-全面从严治党' },
+            { text: "16 时事政治备考", link: '/posts/politics/notes/16-时事政治备考' },
+            { text: "17 辨析论述材料题模板", link: '/posts/politics/notes/17-辨析论述材料题模板' },
+            { text: "18 必背金句与名词", link: '/posts/politics/notes/18-必背金句与名词' },
+          ],
+        },
+        {
+          text: '政治 · 真题演练',
           items: [
             { text: '真题总览', link: '/posts/politics/' },
             { text: '2024', link: '/posts/politics/2024' },

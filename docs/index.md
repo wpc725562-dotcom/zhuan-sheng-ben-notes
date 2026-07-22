@@ -15,6 +15,9 @@ hero:
     - theme: brand
       text: 计算机知识点
       link: /posts/computer/notes/
+    - theme: brand
+      text: 政治系统笔记
+      link: /posts/politics/notes/
     - theme: alt
       text: 英语真题
       link: /posts/english/
@@ -24,7 +27,7 @@ hero:
 
 features:
   - title: Obsidian 学习库上站
-    details: 高数 50+ 章节、计算机 1.1–2.9、英语系统笔记、各科真题——不再只开本地库。
+    details: 高数 50+ 章节、计算机 1.1–2.9、政治 19 模块、英语系统笔记、各科真题——不再只开本地库。
   - title: 题目嵌在正文里
     details: 题干、选项、答案解析直接写在 Markdown 页面中，可搜索、可复制、可公式渲染。
   - title: 二次元主题
@@ -40,7 +43,7 @@ features:
 1. **计算机** → [知识点](/posts/computer/notes/) → [2024 全卷](/posts/computer/2024) → [考点拆分](/posts/computer/topics/)
 2. **高数** → [章节笔记](/posts/math/notes/) → [2026](/posts/math/2026) / [2024](/posts/math/2024)
 3. **英语** → [学习笔记](/posts/english/notes/) → 近三年真题
-4. **政治** → [真题总览](/posts/politics/)
+4. **政治** → [系统笔记](/posts/politics/notes/) → [真题演练](/posts/politics/)
 
 </div>
 
@@ -71,8 +74,12 @@ features:
     <h3>📝 英语真题</h3>
     <p>2008–2024 正文嵌入</p>
   </a>
+  <a class="home-card" href="./posts/politics/notes/">
+    <h3>📕 政治系统笔记</h3>
+    <p>大纲 · 毛中特 · 习思想 · 金句 · 答题模板</p>
+  </a>
   <a class="home-card" href="./posts/politics/">
-    <h3>📕 政治理论</h3>
+    <h3>📕 政治真题</h3>
     <p>2018–2024 同型演练</p>
   </a>
   <a class="home-card" href="./posts/computer/topics/">
@@ -88,10 +95,11 @@ features:
 | 高数章节 50+ 篇 | [/posts/math/notes/](/posts/math/notes/) | `高等数学/` |
 | 计算机 20 篇知识点 | [/posts/computer/notes/](/posts/computer/notes/) | `计算机程序设计/` |
 | 英语系统笔记 | [/posts/english/notes/](/posts/english/notes/) | `编程技能/专升本英语/` |
+| 政治系统笔记 | [/posts/politics/notes/](/posts/politics/notes/) | `政治理论/` 19 模块 |
 | 高数真题 | [/posts/math/](/posts/math/) | 2024/2026 完整 + 历年演练 |
 | 计算机真题 | [/posts/computer/](/posts/computer/) | 2024 完整 + 历年演练 |
 | 英语真题 | [/posts/english/](/posts/english/) | 2008–2024 |
-| 政治真题 | [/posts/politics/](/posts/politics/) | 2018–2024 |
+| 政治真题 | [/posts/politics/](/posts/politics/) | 2018–2024 充实演练 |
 
 ## 和 Sakiko 的关系（透明说明）
 

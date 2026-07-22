@@ -12,6 +12,7 @@ description: "真题正文嵌入 + 系统学习笔记"
 | 笔记 | 说明 |
 |:---|:---|
 | [学习笔记首页](/posts/english/notes/) | 知识库总导航 |
+| [考试大纲与题型补强](/posts/english/notes/syllabus) | 从 Obsidian 同步 |
 | [考试概述与题型分析](/posts/english/notes/overview) | 从 Obsidian 同步 |
 | [作文模板与高分句型](/posts/english/notes/writing) | 从 Obsidian 同步 |
 | [历年真题分类与讲解](/posts/english/notes/past-papers-guide) | 从 Obsidian 同步 |

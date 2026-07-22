@@ -162,9 +162,24 @@ function wikiToHref(p) {
     return '/posts/english/notes/'
   }
   if (s === '英语') return '/posts/english/'
-  if (s === '政治') return '/posts/politics/'
+  if (s === '政治' || s.endsWith('/政治')) return '/posts/politics/'
+  if (s.includes('政治理论/')) {
+    const base = path.basename(s)
+    const m = base.match(/^(\d{2})-(.+)$/)
+    if (m) return `/posts/politics/notes/${m[1]}-${slugifyCn(m[2])}`
+    if (base.startsWith('00-')) return '/posts/politics/notes/00-syllabus'
+    return '/posts/politics/notes/'
+  }
 
   return null
+}
+
+function slugifyCn(s) {
+  return String(s || '')
+    .replace(/[\\/:*?"<>|]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '')
 }
 
 function slugNote(num, title) {
@@ -197,6 +212,11 @@ function syncMathNotes() {
 
   for (const f of files) {
     const meta = chapterMetaFromPath(f)
+    // 只同步「1.1 标题」式章节笔记，跳过 00-大纲 等总览页
+    if (!/^\d+\.\d+/.test(String(meta.num))) {
+      stats.skipped++
+      continue
+    }
     const raw = read(f)
     const content = convertMd(raw, {
       title: meta.title,
@@ -315,6 +335,81 @@ ${dPart.map((i) => `- [${i.title}](/posts/computer/notes/${i.slug})`).join('\n')
   return items
 }
 
+// ─────────── 同步：政治系统笔记 ───────────
+function syncPoliticsNotes() {
+  const srcRoot = path.join(ROOT, '政治理论')
+  const files = listMd(srcRoot)
+  const items = []
+
+  for (const f of files) {
+    const base = path.basename(f, '.md')
+    // 00-考试大纲与题型 / 01-马克思主义中国化时代化
+    const m = base.match(/^(\d{2})-(.+)$/)
+    if (!m) continue
+    const num = m[1]
+    const titlePart = m[2]
+    const title = `${num} ${titlePart}`
+    const slug = `${num}-${slugifyCn(titlePart)}`
+    const raw = read(f)
+    const content = convertMd(raw, {
+      title,
+      description: `政治理论 · ${title}`,
+      extraFront: { category: 'politics-note' },
+    })
+    writeFile(`posts/politics/notes/${slug}.md`, content)
+    items.push({ num, title, slug, titlePart })
+  }
+
+  items.sort((a, b) => String(a.num).localeCompare(String(b.num), 'zh', { numeric: true }))
+
+  let indexBody = `---
+title: "政治理论 · 系统笔记"
+description: "按 2026 广东专升本政治大纲模块整理"
+---
+
+# 政治理论 · 系统笔记
+
+> 从 Obsidian \`政治理论/\` 同步。对齐公开考纲：毛中特 + 习思想 + 时政答题模板。
+
+| # | 笔记 |
+|:---:|:---|
+${items.map((i) => `| ${i.num} | [${i.title}](/posts/politics/notes/${i.slug}) |`).join('\n')}
+
+## 推荐路径
+
+1. [00 大纲题型](/posts/politics/notes/00-考试大纲与题型) → [18 金句](/posts/politics/notes/18-必背金句与名词)
+2. 按 01–15 模块闭卷默写
+3. 回 [真题总览](/posts/politics/) 做 2018–2024 演练
+
+← [真题总览](/posts/politics/) · [回首页](/)
+`
+  // fix links if slug uses slugifyCn (Chinese kept)
+  indexBody = `---
+title: "政治理论 · 系统笔记"
+description: "按 2026 广东专升本政治大纲模块整理"
+---
+
+# 政治理论 · 系统笔记
+
+> 从 Obsidian \`政治理论/\` 同步。对齐公开考纲：毛中特 + 习思想 + 时政答题模板。
+
+| # | 笔记 |
+|:---:|:---|
+${items.map((i) => `| ${i.num} | [${i.title}](/posts/politics/notes/${i.slug}) |`).join('\n')}
+
+## 推荐路径
+
+1. 先过 **00 大纲** + **18 金句**
+2. 按 01–15 模块闭卷默写
+3. 回 [真题总览](/posts/politics/) 做 2018–2024 演练
+4. 主观题用 **17 答题模板**
+
+← [真题总览](/posts/politics/) · [回首页](/)
+`
+  writeFile('posts/politics/notes/index.md', indexBody)
+  return items
+}
+
 // ─────────── 同步：真题年份（不覆盖完整页） ───────────
 function syncYearPapers(subject, srcDir, outDir, { skipYears = [], label }) {
   const years = []
@@ -350,6 +445,7 @@ function syncYearPapers(subject, srcDir, outDir, { skipYears = [], label }) {
 // ─────────── 同步：英语学习笔记 ───────────
 function syncEnglishNotes() {
   const map = [
+    ['00-考试大纲与题型补强.md', 'syllabus', '考试大纲与题型补强'],
     ['专升本英语考试概述与题型分析.md', 'overview', '考试概述与题型分析'],
     ['作文模板与高分句型.md', 'writing', '作文模板与高分句型'],
     ['历年真题分类与讲解.md', 'past-papers-guide', '历年真题分类与讲解'],
@@ -395,7 +491,7 @@ function syncEnglishNotes() {
 }
 
 // ─────────── 更新各科总览 ───────────
-function updateIndexes({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes }) {
+function updateIndexes({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes, politicsNotes }) {
   // math index
   writeFile(
     'posts/math/index.md',
@@ -507,22 +603,50 @@ ${computerNotes
     'posts/politics/index.md',
     `---
 title: "政治理论 · 总览"
-description: "2018–2024 真题演练（Obsidian 同步）"
+description: "系统笔记 + 2018–2024 真题演练"
 ---
 
 # 政治理论 · 总览
 
-> 从 Obsidian \`历年真题/政治理论/\` 同步。骨架 / 同型演练，完整回忆卷后续可继续补。
+> 广东普通专升本公共课《政治理论》· 满分 100 · 120 分钟
+> 系统笔记按 **2026 公开考纲** 模块整理；真题为同型演练（非原卷全文）。
+
+## 推荐先看
+
+| 页面 | 说明 |
+|:---|:---|
+| [**系统笔记**](/posts/politics/notes/) | 大纲 · 毛中特 · 习思想 · 答题模板 · 金句（${politicsNotes?.length || 0} 篇） |
+| [00 考试大纲与题型](/posts/politics/notes/${politicsNotes?.find((i) => i.num === '00')?.slug || '00-考试大纲与题型'}) | 题型分值 + 范围 |
+| [18 必背金句](/posts/politics/notes/${politicsNotes?.find((i) => i.num === '18')?.slug || '18-必背金句与名词'}) | 考前默写 |
+
+## 系统笔记
+
+${(politicsNotes || []).map((i) => `- [${i.title}](/posts/politics/notes/${i.slug})`).join('\n')}
+
+## 历年真题演练
 
 | 年份 | 页面 |
 |:---:|:---|
 ${polYears.map((y) => `| ${y.year} | [打开](/posts/politics/${y.year}) |`).join('\n')}
 
+## 试卷结构（常见）
+
+| 题型 | 分值 |
+|:---|:---:|
+| 单选 20 | 20 |
+| 多选 10 | 20 |
+| 辨析 2 | 14 |
+| 问答 3 | 21 |
+| 论述 1 | 10 |
+| 材料 1 | 15 |
+| **合计** | **100** |
+
 ## 学习建议
 
-1. 先按年做同型自测表
-2. 马原 / 毛中特 / 史纲 / 思修法治 分模块回炉教材
-3. 时政部分以考前 3 个月官方大纲为准
+1. 先过系统笔记 00 + 18（题型 + 金句）
+2. 01–15 分模块闭卷默写
+3. 按年做同型演练；材料题用 17 四步法
+4. 时政以**当年大纲**时间区间为准
 
 ← [回首页](/)
 `,
@@ -589,6 +713,9 @@ hero:
     - theme: brand
       text: 计算机知识点
       link: /posts/computer/notes/
+    - theme: brand
+      text: 政治系统笔记
+      link: /posts/politics/notes/
     - theme: alt
       text: 英语真题
       link: /posts/english/
@@ -598,7 +725,7 @@ hero:
 
 features:
   - title: Obsidian 学习库上站
-    details: 高数 50+ 章节、计算机 1.1–2.9、英语系统笔记、各科真题——不再只开本地库。
+    details: 高数 50+ 章节、计算机 1.1–2.9、政治 19 模块、英语系统笔记、各科真题——不再只开本地库。
   - title: 题目嵌在正文里
     details: 题干、选项、答案解析直接写在 Markdown 页面中，可搜索、可复制、可公式渲染。
   - title: 二次元主题
@@ -614,7 +741,7 @@ features:
 1. **计算机** → [知识点](/posts/computer/notes/) → [2024 全卷](/posts/computer/2024) → [考点拆分](/posts/computer/topics/)
 2. **高数** → [章节笔记](/posts/math/notes/) → [2026](/posts/math/2026) / [2024](/posts/math/2024)
 3. **英语** → [学习笔记](/posts/english/notes/) → 近三年真题
-4. **政治** → [真题总览](/posts/politics/)
+4. **政治** → [系统笔记](/posts/politics/notes/) → [真题演练](/posts/politics/)
 
 </div>
 
@@ -645,8 +772,12 @@ features:
     <h3>📝 英语真题</h3>
     <p>2008–2024 正文嵌入</p>
   </a>
+  <a class="home-card" href="./posts/politics/notes/">
+    <h3>📕 政治系统笔记</h3>
+    <p>大纲 · 毛中特 · 习思想 · 金句 · 答题模板</p>
+  </a>
   <a class="home-card" href="./posts/politics/">
-    <h3>📕 政治理论</h3>
+    <h3>📕 政治真题</h3>
     <p>2018–2024 同型演练</p>
   </a>
   <a class="home-card" href="./posts/computer/topics/">
@@ -662,10 +793,11 @@ features:
 | 高数章节 50+ 篇 | [/posts/math/notes/](/posts/math/notes/) | \`高等数学/\` |
 | 计算机 20 篇知识点 | [/posts/computer/notes/](/posts/computer/notes/) | \`计算机程序设计/\` |
 | 英语系统笔记 | [/posts/english/notes/](/posts/english/notes/) | \`编程技能/专升本英语/\` |
+| 政治系统笔记 | [/posts/politics/notes/](/posts/politics/notes/) | \`政治理论/\` 19 模块 |
 | 高数真题 | [/posts/math/](/posts/math/) | 2024/2026 完整 + 历年演练 |
 | 计算机真题 | [/posts/computer/](/posts/computer/) | 2024 完整 + 历年演练 |
 | 英语真题 | [/posts/english/](/posts/english/) | 2008–2024 |
-| 政治真题 | [/posts/politics/](/posts/politics/) | 2018–2024 |
+| 政治真题 | [/posts/politics/](/posts/politics/) | 2018–2024 充实演练 |
 
 ## 和 Sakiko 的关系（透明说明）
 
@@ -692,7 +824,7 @@ npm run docs:dev
 }
 
 // ─────────── config.mts 侧栏 ───────────
-function writeConfig({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes }) {
+function writeConfig({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes, politicsNotes }) {
   const mathNoteItems = []
   for (const ch of mathChapters.ordered) {
     const items = mathChapters.byChapter.get(ch) || []
@@ -816,7 +948,14 @@ export default defineConfig({
           { text: '2023', link: '/posts/english/2023' },
         ],
       },
-      { text: '政治', link: '/posts/politics/' },
+      {
+        text: '政治',
+        items: [
+          { text: '系统笔记', link: '/posts/politics/notes/' },
+          { text: '真题总览', link: '/posts/politics/' },
+          { text: '大纲题型', link: '/posts/politics/notes/${politicsNotes?.find((i) => i.num === '00')?.slug || ''}' },
+        ],
+      },
       { text: '使用说明', link: '/guide/' },
       {
         text: 'GitHub',
@@ -892,7 +1031,14 @@ ${engYearLinks.map((i) => `            { text: ${JSON.stringify(i.text)}, link: 
       ],
       '/posts/politics/': [
         {
-          text: '政治理论',
+          text: '政治 · 系统笔记',
+          items: [
+            { text: '笔记总览', link: '/posts/politics/notes/' },
+${(politicsNotes || []).map((i) => `            { text: ${JSON.stringify(i.title.length > 16 ? i.title.slice(0, 16) + '…' : i.title)}, link: '/posts/politics/notes/${i.slug}' },`).join('\n')}
+          ],
+        },
+        {
+          text: '政治 · 真题演练',
           items: [
             { text: '真题总览', link: '/posts/politics/' },
 ${polYears.map((y) => `            { text: '${y.year}', link: '/posts/politics/${y.year}' },`).join('\n')}
@@ -958,6 +1104,7 @@ title: 站点说明
 | 高数章节 | \`高等数学/\` | [/posts/math/notes/](/posts/math/notes/) |
 | 计算机知识点 | \`计算机程序设计/\` | [/posts/computer/notes/](/posts/computer/notes/) |
 | 英语笔记 | \`编程技能/专升本英语/\` | [/posts/english/notes/](/posts/english/notes/) |
+| 政治笔记 | \`政治理论/\` | [/posts/politics/notes/](/posts/politics/notes/) |
 | 各科真题 | \`历年真题/\` | \`/posts/{math,computer,english,politics}/\` |
 
 重新同步（本地）：
@@ -990,6 +1137,7 @@ function main() {
   const mathChapters = syncMathNotes()
   const computerNotes = syncComputerNotes()
   const engNotes = syncEnglishNotes()
+  const politicsNotes = syncPoliticsNotes()
 
   const mathYears = syncYearPapers(
     'math',
@@ -1018,10 +1166,10 @@ function main() {
     { skipYears: [], label: '政治理论' },
   )
 
-  updateIndexes({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes })
+  updateIndexes({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes, politicsNotes })
   updateHome()
   updateGuide()
-  writeConfig({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes })
+  writeConfig({ mathChapters, computerNotes, mathYears, compYears, polYears, engNotes, politicsNotes })
 
   console.log(JSON.stringify({ written: stats.written, skipped: stats.skipped, sample: stats.files.slice(0, 20) }, null, 2))
   console.log(`✅ done · wrote ${stats.written} files · skipped ${stats.skipped}`)

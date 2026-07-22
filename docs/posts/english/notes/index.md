@@ -74,6 +74,7 @@ description: "公共英语系统笔记导航"
 
 ## 本站笔记入口
 
+- [考试大纲与题型补强](/posts/english/notes/syllabus)
 - [考试概述与题型分析](/posts/english/notes/overview)
 - [作文模板与高分句型](/posts/english/notes/writing)
 - [历年真题分类与讲解](/posts/english/notes/past-papers-guide)
