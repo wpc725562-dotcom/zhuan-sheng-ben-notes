@@ -9,13 +9,6 @@
 视觉组件与 Live2D 资源参考开源仓库 [a3292334877-star/blog](https://github.com/a3292334877-star/blog)（Sakiko の博客，MIT）。
 高数 2024/2026 详解移植自其公开博文；英语 / 计算机考点拆分为本库增量内容。
 
-### 看板娘（可切换）
-
-- 引擎：[hacxy/l2d-widget](https://github.com/hacxy/l2d-widget)（Cubism 2 + 6，MIT）
-- 模型 CDN：`https://model.hacxy.cn`（[hacxy/l2d-models](https://github.com/hacxy/l2d-models)，仅学习/非商用）
-- 默认：仙狐 Senko；菜单可换：小春 / 响 / Haru / Hiyori / 雫 / 黑猫 / 22 / 本地默认
-- 桌面宽度 ≥ 900px 显示；左下角「🎭」切换、「×」关闭（记忆到 localStorage）
-
 
 ---
 
