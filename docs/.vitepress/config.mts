@@ -54,8 +54,9 @@ export default defineConfig({
         items: [
           { text: '计算机 · 2024 全卷', link: '/posts/computer/2024' },
           { text: '计算机 · 考点拆分', link: '/posts/computer/topics/' },
+          { text: '公共英语 · 2024', link: '/posts/english/2024' },
+          { text: '公共英语 · 总览', link: '/posts/english/' },
           { text: '高等数学', link: '/posts/math/' },
-          { text: '公共英语', link: '/posts/english/' },
           { text: '政治理论', link: '/posts/politics/' },
         ],
       },
@@ -95,7 +96,26 @@ export default defineConfig({
       '/posts/english/': [
         {
           text: '公共英语',
-          items: [{ text: '真题总览', link: '/posts/english/' }],
+          items: [
+            { text: '真题总览', link: '/posts/english/' },
+            { text: '2024', link: '/posts/english/2024' },
+            { text: '2023', link: '/posts/english/2023' },
+            { text: '2022', link: '/posts/english/2022' },
+            { text: '2021', link: '/posts/english/2021' },
+            { text: '2020', link: '/posts/english/2020' },
+            { text: '2019', link: '/posts/english/2019' },
+            { text: '2018', link: '/posts/english/2018' },
+            { text: '2017', link: '/posts/english/2017' },
+            { text: '2016', link: '/posts/english/2016' },
+            { text: '2015', link: '/posts/english/2015' },
+            { text: '2014', link: '/posts/english/2014' },
+            { text: '2013', link: '/posts/english/2013' },
+            { text: '2012', link: '/posts/english/2012' },
+            { text: '2011', link: '/posts/english/2011' },
+            { text: '2010', link: '/posts/english/2010' },
+            { text: '2009', link: '/posts/english/2009' },
+            { text: '2008', link: '/posts/english/2008' },
+          ],
         },
       ],
       '/posts/politics/': [

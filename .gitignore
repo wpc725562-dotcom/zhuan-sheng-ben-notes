@@ -37,3 +37,12 @@ docs/.vitepress/cache/
 package-lock.json.bak
 *.log
 .npm/
+
+# Large local study materials (keep on disk, don't push)
+*.pdf
+资料/英语真题原卷/_extract/
+资料/英语真题原卷/_by_year/
+# keep small helper scripts & md under 资料/
+!资料/**/*.md
+!资料/**/*.py
+__pycache__/
