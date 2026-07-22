@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 
-// GitHub Pages 项目站：https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/
-const base = process.env.GITHUB_ACTIONS ? '/zhuan-sheng-ben-notes/' : '/'
+// GitHub Pages 项目站固定 base（本地 dev 也用同一路径，避免线上资源 404）
+// 本地预览：npm run docs:dev 后打开 http://localhost:5173/zhuan-sheng-ben-notes/
+const base = process.env.VITEPRESS_BASE || '/zhuan-sheng-ben-notes/'
 
 export default defineConfig({
   title: '广东专升本 · 复习笔记',

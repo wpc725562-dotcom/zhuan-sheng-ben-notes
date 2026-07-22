@@ -5,15 +5,29 @@
 
 ## 网站（像 Sakiko 博客那样打开）
 
-- **在线地址（开启 Pages 后）**：[https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/)
+- **在线地址（修好后）**：[https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/)
 - 技术栈：**VitePress** + 公式渲染 + 本地搜索 + GitHub Pages（**不需要个人服务器**）
-- 首次上线：仓库 **Settings → Pages → Source** 选 **GitHub Actions**，然后 push / 手动跑一次 Deploy 工作流
+- 静态成品已推到 **`gh-pages` 分支**（可直接挂载）
+
+### 若打开是 404（必做，约 1 分钟）
+
+免费账号的 **GitHub Pages 不能挂私有仓库**。当前仓库若是 Private，会一直 404。
+
+1. 打开：https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes/settings  
+2. 滚到 **Danger Zone → Change repository visibility → Make public**（公开）  
+3. 打开：https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes/settings/pages  
+4. **Build and deployment → Source** 选 **Deploy from a branch**  
+5. Branch 选 **`gh-pages`** / 文件夹 **`/ (root)`** → Save  
+6. 等 1～2 分钟，刷新上面的在线地址  
+
+> 备选：Source 选 **GitHub Actions**，再去 Actions 跑 `Deploy VitePress site to GitHub Pages`（同样要先 Public）。
 
 ### 本地预览网站
 
 ```bash
 npm install
 npm run docs:dev
+# 浏览器打开终端提示的地址（路径含 /zhuan-sheng-ben-notes/）
 ```
 
 ### 网站目录
