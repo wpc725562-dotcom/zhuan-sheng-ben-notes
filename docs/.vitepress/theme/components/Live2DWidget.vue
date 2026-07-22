@@ -1,15 +1,37 @@
 <template>
-  <div class="live2d-controls">
+  <div class="live2d-controls" v-if="desktopEligible">
+    <template v-if="loaded && !disabled">
+      <button
+        class="live2d-close"
+        type="button"
+        aria-label="关闭看板娘"
+        title="关闭看板娘"
+        @click="disableWidget"
+      >×</button>
+      <div class="live2d-picker" :class="{ open: pickerOpen }">
+        <button
+          class="live2d-switch"
+          type="button"
+          title="切换看板娘"
+          @click="pickerOpen = !pickerOpen"
+        >🎭 {{ currentName }}</button>
+        <ul v-if="pickerOpen" class="live2d-list" role="listbox">
+          <li
+            v-for="(m, i) in MODELS"
+            :key="m.id"
+            :class="{ active: i === modelIndex }"
+            role="option"
+            :aria-selected="i === modelIndex"
+            @click="selectModel(i)"
+          >
+            <span class="name">{{ m.name }}</span>
+            <span class="tag">{{ m.tag }}</span>
+          </li>
+        </ul>
+      </div>
+    </template>
     <button
-      v-if="loaded && !disabled"
-      class="live2d-close"
-      type="button"
-      aria-label="关闭看板娘"
-      title="关闭看板娘"
-      @click="disableWidget"
-    >×</button>
-    <button
-      v-else-if="disabled && desktopEligible"
+      v-else-if="disabled"
       class="live2d-restore"
       type="button"
       title="显示看板娘"
@@ -19,90 +41,157 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, onUnmounted, ref } from 'vue'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
 import { withBase } from 'vitepress'
 
-const MODEL_PATH = withBase('/live2d/model.json')
-const STORAGE_KEY = 'zsb-live2d-disabled'
+/** 公开模型 CDN：https://model.hacxy.cn （学习/非商用） */
+const CDN = 'https://model.hacxy.cn'
+
+type LiveModel = {
+  id: string
+  name: string
+  tag: string
+  path: string
+  scale?: number
+  offset?: [number, number]
+}
+
+/**
+ * A+B：默认好看模型 + 多模型切换
+ * 无高木/洛琪希正版包；气质接近：小春≈短发少女、仙狐≈魔法萝莉感
+ * Cubism2 + Cubism3+ 均支持（l2d-widget）
+ */
+const MODELS: LiveModel[] = [
+  {
+    id: 'senko',
+    name: '仙狐',
+    tag: '狐耳 · 魔法感',
+    path: `${CDN}/Senko_Normals/senko.model3.json`,
+    scale: 0.1,
+    offset: [0, 0.1],
+  },
+  {
+    id: 'koharu',
+    name: '小春',
+    tag: '短发 · 像高木',
+    path: `${CDN}/koharu/model.json`,
+    scale: 0.09,
+    offset: [0, 0],
+  },
+  {
+    id: 'hibiki',
+    name: '响',
+    tag: '舰娘 · 短发',
+    path: `${CDN}/hibiki/hibiki.model.json`,
+    scale: 0.22,
+    offset: [0, 0],
+  },
+  {
+    id: 'haru',
+    name: 'Haru',
+    tag: '官方样例',
+    path: `${CDN}/Haru/Haru.model3.json`,
+    scale: 0.12,
+    offset: [0, 0],
+  },
+  {
+    id: 'hiyori',
+    name: 'Hiyori',
+    tag: '官方样例',
+    path: `${CDN}/Hiyori/Hiyori.model3.json`,
+    scale: 0.1,
+    offset: [0, 0],
+  },
+  {
+    id: 'shizuku',
+    name: '雫',
+    tag: '经典 Cubism2',
+    path: `${CDN}/shizuku/shizuku.model.json`,
+    scale: 0.18,
+    offset: [0, 0],
+  },
+  {
+    id: 'cat-black',
+    name: '黑猫',
+    tag: '猫系萌',
+    path: `${CDN}/cat-black/model.json`,
+    scale: 0.14,
+    offset: [0, 0],
+  },
+  {
+    id: 'bilibili-22',
+    name: '22',
+    tag: 'B站娘',
+    path: `${CDN}/bilibili-22/index.json`,
+    scale: 0.22,
+    offset: [0, 0],
+  },
+  {
+    id: 'local',
+    name: '默认',
+    tag: '站内本地',
+    // withBase 在客户端解析 base 路径
+    path: '',
+    scale: 1,
+    offset: [0, 0],
+  },
+]
+
+const STORAGE_DISABLED = 'zsb-live2d-disabled'
+const STORAGE_MODEL = 'zsb-live2d-model'
+
 const loaded = ref(false)
 const disabled = ref(false)
 const desktopEligible = ref(false)
+const pickerOpen = ref(false)
+const modelIndex = ref(0)
+const switching = ref(false)
+
+const currentName = computed(() => MODELS[modelIndex.value]?.name || '看板娘')
+
+type WidgetApi = {
+  switchModel: (index: number) => Promise<void>
+  sleep: () => void
+  destroy: () => Promise<void>
+}
+
+let widget: WidgetApi | null = null
 let loadTimer: ReturnType<typeof setTimeout> | null = null
 let idleHandle: number | null = null
+let outsideHandler: ((e: MouseEvent) => void) | null = null
 
 type IdleWindow = Window & {
   requestIdleCallback?: (callback: () => void, options?: { timeout: number }) => number
   cancelIdleCallback?: (handle: number) => void
 }
 
-declare global {
-  interface Window {
-    L2Dwidget: any
-  }
-}
-
-async function loadResources(): Promise<void> {
-  // Font Awesome（live2d-widget 依赖）
-  if (!document.querySelector('link[data-live2d="fa"]')) {
-    const link = document.createElement('link')
-    link.rel = 'stylesheet'
-    link.href = withBase('/live2d/font-awesome.min.css')
-    link.setAttribute('data-live2d', 'fa')
-    document.head.appendChild(link)
-  }
-
-  // L2Dwidget JS（已本地化，不依赖 CDN）
-  if (!window.L2Dwidget) {
-    await new Promise<void>((resolve, reject) => {
-      const script = document.createElement('script')
-      script.src = withBase('/live2d/L2Dwidget.min.js')
-      script.onload = () => resolve()
-      script.onerror = () => reject(new Error('Live2D load failed'))
-      document.head.appendChild(script)
-    })
-  }
-}
-
-function initWidget(): void {
-  // L2Dwidget 的 webpack public path 已调整为根域名下的 /live2d/，
-  // 会自动从本地加载 chunk (L2Dwidget.0.min.js) 与模型资源。
-  window.L2Dwidget.init({
-    tagMode: false,
-    debug: false,
-    model: {
-      jsonPath: MODEL_PATH,
-      scale: 1,
-    },
-    display: {
-      superSample: 2,
-      width: 200,
-      height: 300,
-      position: 'left',
-      hOffset: 0,
-      vOffset: -20,
-    },
-    mobile: {
-      show: false,
-      scale: 0.5,
-      motion: false,
-    },
-    react: {
-      opacityDefault: 0.8,
-      opacityOnHover: 0.2,
-    },
-    dialog: {
-      enable: false,
-      hitokoto: false,
-    },
-    name: {
-      canvas: 'live2dcanvas',
-      div: 'live2d-widget',
-    },
-    dev: {
-      border: false,
-    },
+function resolveModels() {
+  return MODELS.map((m) => {
+    const path = m.id === 'local'
+      ? withBase('/live2d/model.json')
+      : m.path
+    return {
+      path,
+      scale: m.scale ?? 0.1,
+      offset: m.offset ?? ([0, 0] as [number, number]),
+      volume: 0,
+      tips: {
+        welcomeMessage: [
+          '主人好～今天刷哪一科？',
+          '专升本加油！我陪你。',
+          'Ciallo～欢迎回来。',
+        ],
+        messages: [
+          '休息一下眼睛吧～',
+          '高数公式背完了吗？',
+          '英语单词别偷懒哦。',
+          '计算机指针再看一眼～',
+        ],
+        duration: 3500,
+        interval: 12000,
+      },
+    }
   })
-  loaded.value = true
 }
 
 function shouldLoad(): boolean {
@@ -111,50 +200,117 @@ function shouldLoad(): boolean {
     && !connection?.saveData
 }
 
+function readSavedIndex(): number {
+  const raw = localStorage.getItem(STORAGE_MODEL)
+  if (raw == null) return 0
+  const n = Number(raw)
+  if (!Number.isFinite(n) || n < 0 || n >= MODELS.length) return 0
+  return n
+}
+
 async function loadWidget(): Promise<void> {
-  if (disabled.value || loaded.value) return
+  if (disabled.value || loaded.value || widget) return
   try {
-    await loadResources()
-    initWidget()
+    // 仅客户端动态导入，避免 SSR 触碰 document
+    const { createWidget } = await import('l2d-widget')
+    const models = resolveModels()
+    const startIndex = modelIndex.value
+
+    // MODELS 下标 == switchModel 下标；默认加载第 0 个后切到已保存下标
+    widget = createWidget({
+      model: models,
+      position: 'bottom-left',
+      size: { width: 220, height: 320 },
+      primaryColor: 'rgba(228, 89, 111, 0.92)',
+      transitionDuration: 900,
+      transitionType: 'fade',
+      menus: {
+        align: 'right',
+      },
+    }) as WidgetApi
+
+    if (startIndex > 0) {
+      await widget.switchModel(startIndex)
+    }
+
+    loaded.value = true
   } catch (e) {
-    console.error('Live2D load failed:', e)
+    console.error('Live2D (l2d-widget) load failed:', e)
+    widget = null
+    loaded.value = false
   }
 }
 
-function setWidgetVisible(visible: boolean): boolean {
-  // 兼容修复前错误使用的 live2d-tooltip 容器 ID。
-  const widget = document.getElementById('live2d-widget')
-    || document.getElementById('live2d-tooltip')
-    || document.getElementById('live2dcanvas')?.parentElement
-  if (!widget) return false
-  widget.style.display = visible ? '' : 'none'
-  return true
+async function selectModel(index: number): Promise<void> {
+  if (switching.value || index === modelIndex.value) {
+    pickerOpen.value = false
+    return
+  }
+  if (!widget) return
+  switching.value = true
+  pickerOpen.value = false
+  try {
+    await widget.switchModel(index)
+    modelIndex.value = index
+    localStorage.setItem(STORAGE_MODEL, String(index))
+  } catch (e) {
+    console.error('switchModel failed:', e)
+  } finally {
+    switching.value = false
+  }
 }
 
 function disableWidget(): void {
   disabled.value = true
-  localStorage.setItem(STORAGE_KEY, '1')
-  // L2Dwidget 没有可靠的销毁 API。保留已初始化实例，仅隐藏画布，
-  // 避免恢复时重复创建 WebGL 上下文导致花屏。
-  setWidgetVisible(false)
+  pickerOpen.value = false
+  localStorage.setItem(STORAGE_DISABLED, '1')
+  try {
+    widget?.sleep()
+  } catch {
+    // ignore
+  }
 }
 
-function restoreWidget(): void {
+async function restoreWidget(): Promise<void> {
   disabled.value = false
-  localStorage.removeItem(STORAGE_KEY)
-  if (setWidgetVisible(true)) {
-    loaded.value = true
-    return
+  localStorage.removeItem(STORAGE_DISABLED)
+  if (widget) {
+    // sleep 后点状态条可唤醒；若状态条不可见则重建
+    try {
+      // 重新 create 更稳妥
+      await destroyWidget()
+    } catch {
+      // ignore
+    }
   }
-  void loadWidget()
+  await loadWidget()
+}
+
+async function destroyWidget(): Promise<void> {
+  if (!widget) return
+  const w = widget
+  widget = null
+  loaded.value = false
+  try {
+    await w.destroy()
+  } catch {
+    // ignore
+  }
 }
 
 onMounted(() => {
   desktopEligible.value = shouldLoad()
-  disabled.value = localStorage.getItem(STORAGE_KEY) === '1'
+  disabled.value = localStorage.getItem(STORAGE_DISABLED) === '1'
+  modelIndex.value = readSavedIndex()
+
+  outsideHandler = (e: MouseEvent) => {
+    const t = e.target as HTMLElement | null
+    if (!t?.closest?.('.live2d-picker')) pickerOpen.value = false
+  }
+  document.addEventListener('click', outsideHandler)
+
   if (!desktopEligible.value || disabled.value) return
 
-  // 浏览器空闲时再加载 1MB+ 的模型；不支持 idle callback 时延迟加载。
   const idleWindow = window as IdleWindow
   if (idleWindow.requestIdleCallback) {
     idleHandle = idleWindow.requestIdleCallback(() => {
@@ -163,7 +319,7 @@ onMounted(() => {
   } else {
     loadTimer = setTimeout(() => {
       void loadWidget()
-    }, 3000)
+    }, 2500)
   }
 })
 
@@ -173,15 +329,18 @@ onUnmounted(() => {
     const idleWindow = window as IdleWindow
     idleWindow.cancelIdleCallback?.(idleHandle)
   }
+  if (outsideHandler) {
+    document.removeEventListener('click', outsideHandler)
+    outsideHandler = null
+  }
+  void destroyWidget()
 })
 </script>
 
 <style scoped>
 .live2d-close,
-.live2d-restore {
-  position: fixed;
-  left: 16px;
-  z-index: 102;
+.live2d-restore,
+.live2d-switch {
   border: 1px solid var(--vp-c-divider);
   background: color-mix(in srgb, var(--vp-c-bg) 88%, transparent);
   color: var(--vp-c-text-2);
@@ -190,20 +349,81 @@ onUnmounted(() => {
   cursor: pointer;
 }
 .live2d-close {
-  bottom: 286px;
+  position: fixed;
+  left: 16px;
+  bottom: 300px;
+  z-index: 102;
   width: 30px;
   height: 30px;
   border-radius: 50%;
   font-size: 20px;
   line-height: 1;
 }
-.live2d-restore {
+.live2d-picker {
+  position: fixed;
+  left: 16px;
   bottom: 18px;
+  z-index: 102;
+}
+.live2d-switch {
+  padding: 7px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  max-width: 160px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.live2d-restore {
+  position: fixed;
+  left: 16px;
+  bottom: 18px;
+  z-index: 102;
   padding: 7px 11px;
   border-radius: 999px;
   font-size: 12px;
 }
+.live2d-list {
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + 8px);
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  min-width: 168px;
+  max-height: 280px;
+  overflow: auto;
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider);
+  background: color-mix(in srgb, var(--vp-c-bg) 94%, transparent);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, .16);
+  backdrop-filter: blur(12px);
+}
+.live2d-list li {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--vp-c-text-1);
+}
+.live2d-list li:hover,
+.live2d-list li.active {
+  background: color-mix(in srgb, var(--sakura-pink, #e4596f) 16%, transparent);
+}
+.live2d-list .tag {
+  font-size: 11px;
+  color: var(--vp-c-text-3);
+}
 .live2d-close:hover,
-.live2d-restore:hover { color: var(--accent-color); border-color: var(--sakura-pink); }
-@media (max-width: 899px) { .live2d-controls { display: none; } }
+.live2d-restore:hover,
+.live2d-switch:hover {
+  color: var(--accent-color, #e4596f);
+  border-color: var(--sakura-pink, #e4596f);
+}
+@media (max-width: 899px) {
+  .live2d-controls { display: none; }
+}
 </style>

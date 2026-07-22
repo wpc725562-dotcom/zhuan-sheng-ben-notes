@@ -29,6 +29,19 @@ export default defineConfig({
     },
   },
 
+  // l2d-widget 仅客户端使用；打包时不走 Node SSR 解析
+  vite: {
+    ssr: {
+      noExternal: [],
+    },
+    optimizeDeps: {
+      exclude: ['l2d-widget'],
+    },
+    build: {
+      chunkSizeWarningLimit: 1200,
+    },
+  },
+
   themeConfig: {
     logo: '/favicon.svg',
     siteTitle: '专升本笔记',
