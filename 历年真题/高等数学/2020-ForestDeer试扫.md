@@ -3,9 +3,9 @@
 > **试扫日期**：2026-07-24 · 批次 #2
 > **来源库**：[ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
 > **源文件**：`高等数学/2020年广东专插本考试《高等数学》试题.pdf`（6 页扫描件）
-> **识别方式**：PyMuPDF 渲染 200% → `tesseract chi_sim+eng`（第 1–2 页验收）
-> **本地缓存**：`D:/专升本/_pdf_cache/forestdeer/高等数学/2020-高数.pdf`（**不进 Git**）
-> **关联**：[[2020]] · [[02-ForestDeer试扫记录]]
+> **识别方式（更新）**：PyMuPDF 250dpi → **RapidOCR**（主）/ Tesseract（对照）· 第 1–2 页  
+> **本地缓存**：`D:/专升本/_pdf_cache/forestdeer/高等数学/2020-高数.pdf`（**不进 Git**）  
+> **关联**：[[2020]] · [[02-ForestDeer试扫记录]] · [[_ocr_compare_math2020_p1-2]] · [[03-版权OCR体积解法]]
 
 ---
 
@@ -14,9 +14,10 @@
 | 项 | 结果 |
 |:---|:---|
 | 文字层 `pdftotext` | ❌ 仅水印噪声 |
-| OCR 第 1–2 页 | ⚠️ **能认出卷头/题型结构**；公式大量糊掉 |
-| 能否全卷入库 | ❌ 暂否（公式不可靠，须人工校对） |
-| 当前策略 | 用 OCR **确认试卷结构**；题目练习继续以本库 [[2020]] 为主 |
+| OCR 第 1–2 页（Tesseract） | ⚠️ 结构勉强；错字多、公式崩 |
+| OCR 第 1–2 页（**RapidOCR**） | ✅ **卷头/注意事项/题号明显更好**；公式仍糊 |
+| 能否全卷入库当原题 | ❌ 公式不可靠，须人工 / 纸质册 |
+| 当前策略 | RapidOCR 确认**结构**；题目练 [[2020]] + 正版册 |
 
 ### 从 OCR 可靠读出的结构（广东 2020 专插本高数）
 

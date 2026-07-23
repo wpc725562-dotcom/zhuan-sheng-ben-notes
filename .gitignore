@@ -40,6 +40,8 @@ package-lock.json.bak
 
 # Large local study materials (keep on disk, don't push)
 *.pdf
+*.png
+!docs/public/**/*.png
 资料/英语真题原卷/_extract/
 资料/英语真题原卷/_by_year/
 # keep small helper scripts & md under 资料/
@@ -52,3 +54,13 @@ __pycache__/
 资料/**/*.txt
 !资料/**/*.md
 !资料/**/*.py
+
+# ForestDeer / external raw cache must never enter notes git
+# (actual cache lives outside repo at D:/专升本/_pdf_cache/ — belt & suspenders)
+_pdf_cache/
+**/_pdf_cache/
+*.PNG
+# OCR intermediate dumps if someone copies them under notes root
+**/_ocr_raw/
+**/*_tesseract.txt
+**/*_rapidocr.txt

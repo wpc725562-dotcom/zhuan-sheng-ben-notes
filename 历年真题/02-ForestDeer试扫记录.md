@@ -45,31 +45,51 @@
 
 ---
 
-## 流水线（已验证）
+## 批次 #3（2026-07-24）· 版权 / OCR / 体积解法
+
+| 动作 | 结果 | 笔记 |
+|:---|:---|:---|
+| 三道坎解法文档 | ✅ 版权边界 + OCR 分流 + 体积策略 | [[03-版权OCR体积解法]] |
+| 装 **RapidOCR**（onnxruntime） | ✅ 中文扫描默认引擎 | 本机 pip |
+| 高数 2020 p1–2 对比验收 | ✅ RapidOCR ≫ Tesseract（结构）；公式仍糊 | [[高等数学/_ocr_compare_math2020_p1-2]] |
+| 分流脚本 | ✅ `scripts/pdf_pipeline.py` | detect / text / ocr / docx / auto |
+| `.gitignore` 加硬 | ✅ `_pdf_cache` / OCR 中间文件 | 仓库根 |
+
+**「全量加入」已重新定义**：全量 = 扩 Markdown 年/科覆盖，**不是**把 ForestDeer PDF 推进 Git。  
+详见 [[03-版权OCR体积解法]]。
+
+---
+
+## 流水线（已验证 · v2 分流）
 
 ```
 ForestDeer raw URL
-  → curl 到 D:/专升本/_pdf_cache/forestdeer/   （本地缓存，gitignore）
-  → pdftotext / python-docx / (可选) tesseract OCR
-  → 历年真题/<学科>/<年>-ForestDeer试扫.md
-  → git commit + push 私有库
+  → curl 到 D:/专升本/_pdf_cache/forestdeer/   （本地缓存，永不进 Git）
+  → scripts/pdf_pipeline.py auto <file>
+       ├ text-layer PDF → PyMuPDF / pdftotext
+       ├ DOCX           → python-docx
+       └ scan PDF       → RapidOCR（默认）/ Tesseract（备用）
+  → 历年真题/<学科>/<年>-ForestDeer试扫.md 或合并进 年.md
+  → git commit + push 私有库（仅 Markdown）
 ```
 
 ### 什么算「功能完善」再全量加入？
 
-| 门槛 | 说明 |
-|:---|:---|
-| 文字层 PDF | 自动抽 + 人工校对写作/答案块 |
-| 扫描件 PDF | 分页 OCR 可用、中文公式不崩太多 |
-| 版权边界 | 只进结构化笔记，不进整本 PDF 二进制 |
-| 与本库体例一致 | 得分点 / 默写清单 / 链接到 `_索引` |
+| 门槛 | 说明 | 状态 |
+|:---|:---|:---|
+| 文字层 PDF | 自动抽 + 人工校对写作/答案块 | ✅ |
+| 扫描件 · 中文结构 | RapidOCR 分页可用 | ✅ 验收通过 |
+| 扫描件 · 公式原题 | 须公式模型或人工；不硬录 | ❌ 下一阶段 |
+| 版权边界 | 只进结构化笔记，不进整本 PDF | ✅ 硬规则 |
+| 体积 | 缓存盘外 + gitignore | ✅ |
+| 与本库体例一致 | 得分点 / 默写清单 / 链接到 `_索引` | 进行中 |
 
 ### 本批建议
 
-1. **英语 2022–2024 精析 PDF**：文字层好，优先继续补写作题到正式 `公共英语/年.md`。
-2. **计算机 2021–2024 docx**：抽文本完整，可与现有回忆版交叉核对。
-3. **高数 2020 扫描 PDF**：需 OCR，单开下一阶段。
-4. **不下载**：政治 80MB+ 讲义、词汇 13MB 大图包，等 OCR 流程稳了再说。
+1. **优先**：文字层 / DOCX 继续扩年并合并正式 `年.md`（零 OCR 风险）。
+2. **扫描件**：只用 OCR 确认**卷结构**；题目练本库已有年.md + 纸质册。
+3. **不下载进 Git**：政治 80MB+ 讲义、词汇大包——本地缓存可下，**禁止 commit**。
+4. 解法全文：[[03-版权OCR体积解法]]。
 
 ---
 
