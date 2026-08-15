@@ -1,0 +1,317 @@
+# 公共英语 · 2009 年真题（ForestDeer 完整版）
+
+> **来源**：[ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
+> **提取日期**：2026-08-15
+> **识别方式**：pdftotext -layout 提取文字层
+> **说明**：完整真题，英文题目清晰可读。中文解析因 PDF 字符编码问题可能有乱码。
+
+---
+
+## 试题
+
+  2009
+  Part I Vocabulary and Structure
+  1.
+      []
+  www.gzzkgk.cn C when......before......sinceafter
+      ...... C
+  2.
+      []
+     C and
+      what ""
+  3.
+      []
+     C  B  D  A  was
+       leisure Until recently "" C
+  4.
+      []
+     C
+       be  little  did
+       C
+  5.
+      []
+     B paybillchargenote B
+  6.
+      []
+     C  a point ""
+       where  C
+  7.
+      []
+     B servefailfail to do sth.""manage
+      manage to do ""enjoy B
+  8.
+      []
+     C "For the whole period of two months"
+       rain
+       has C
+  9.
+                         QQ:1163816823              :gzzkgk                            61
+  www.gzzkgk.cn 020-8828266715374053589
+      []
+     A get accustomed to sth./doing sth."/"get along with......get
+      byget off A
+  10.
+        []
+      C  however
+        on the one handon the contraryotherwise
+  11.
+        []
+      B  and  and  A
+        C more educated  rich  richer
+  12.
+        []
+      C  suggestions whatever
+   www.gzzkgk.cn what  which however
+         C
+  13.
+        []
+      D  with, along with, together with, as well as
+         Mr. Johnsonbe
+        to do  D
+  14.
+        []
+      B detailedspecificlimitedsophisticated
+         B
+  15.
+        []
+      A objectivesubjectobjecting object
+        aiming aim  A
+  16.
+        []
+      B call forapply forlook forpay for......
+         B
+  17.
+        []
+      A "............""+than"
+        "" much/little
+        "" little  less
+         A
+  18.
+        []
+      A rejectstopdeclineprevent
+         A
+  19.
+        []
+  62  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+      B criticalmeaningfulbeneficial
+        useful B
+  20.
+        []
+      A regretfulregrettableBD  regret
+         A
+  21.
+        []
+      D living, live, alive ""alive ""
+        living
+        live ""
+         live fishlive "
+        "lively D
+  22.
+        []
+  www.gzzkgk.cn D contactcontestpossibilityopportunityhave the opportunity
+        to do sth."" D
+  23.
+        []
+      D limitationfreedomexpenselacklack of
+        "" D
+  24.
+        []
+      C specialize in ""major inpull
+        get
+  25.
+        []
+      D  of
+         what that all which
+         D
+  26.
+        []
+      A issuesocial issue ""subject
+        questionobject A
+  27.
+        []
+      A omitthinkpaythank nothing
+         omitted
+  28.
+        []
+      C existraisearisearouse C
+  29.
+        []
+      B  so that so as
+        because such...that  B
+  30.
+        []
+  QQ:1163816823  :gzzkgk    63
+  www.gzzkgk.cn 020-8828266715374053589
+      B encouragediscouragepreventask
+         B
+  31.
+        []
+      A  be while
+         be  be
+         exercise  you
+         A
+  32.
+        []
+      B defendoffendconfuseoffer
+         B
+  33.
+        []
+      B take turnstake turns to do sth.""take sides
+   www.gzzkgk.cn give upgive off
+  34.
+        []
+      D pay for......give backgive awaypay off
+         D
+  35.
+        []
+      A engagementinvestmentappointmentarrangement
+         marriage  A
+  Part II Reading Comprehension
+                                                                  Passage 1
+  36. []
+      D "...prevent any gas from coming out of the tank...prevent the gas from
+        steaming...""...it will increase tyre life and gas mileage."
+         D
+  37. []
+      A "Idling just burns gas..." A
+  38. []
+      B "Your car will stay cooler, too..."
+         B
+  39. []
+      C
+         C
+  40. []
+      A  8
+         A
+                                                                  Passage 2
+  41. []
+      C
+         C
+  42. []
+  64  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+     D
+        D
+  43. []
+     A
+         30  45  Even
+        dedicated "" hardworking
+         A
+  44. []
+     C "As a result of formal and informal learning, college graduates are more
+        knowledgeable..."A "In the sense that a degree is increasingly
+        required...still pay off." B
+        "...a college education is likely to have a lasting effect on your knowledge and
+        values."D "Even the least dedicated student is bound to learn something
+        from these courses." C  C
+  www.gzzkgk.cn 45.[]
+     B
+         B
+                                                                  Passage 3
+  46. []
+     A  But
+         A favor A
+  47. []
+     D "...more people take taxis...labour-saving devices become more
+        popular." A  B "An increasingly fast pace of life" C
+        "...makes it difficult for people to spend time playing sports." D
+  48. []
+     A "a young lady"
+         A
+  49. []
+     B 15%
+         9%
+         B
+  50. []
+     C "
+         30 "
+         C
+                                                                  Passage 4
+  51. []
+     D
+        D A B
+        C
+  52. []
+     D Jacob  the Metropolitan Museum of Art
+         D
+  53. []
+  QQ:1163816823  :gzzkgk    65
+  www.gzzkgk.cn 020-8828266715374053589
+     A "...Jacob learned that history books often ignored the accomplishments of
+        African Americans."
+         A
+  54. []
+     B "the Federal Art Project""help struggling artists
+        survive the depression" B
+  55. []
+     D  Jacob  Jacob
+  Part III Cloze
+  56. []
+     C eitherwhetheras wellever
+         C
+  57. []
+     B go to do sth."" B
+  www.gzzkgk.cn 58.[]
+     C  and "all the other
+        subjects"all the other "" C
+  59. []
+     D thoseones  one everyall
+        "" all  that
+  60. []
+     A sendsend sb. to ""present
+        appointselect
+  61. []
+     B prepare...for..."............"
+  62.[]
+     B  the time
+         when  B
+  63.[]
+     A foron......with......to
+        "" for
+  64.[]
+     D ""
+        practicaltruefortunatelucky ""
+  65.[]
+     A  the only reason
+         why A
+  66.[]
+     D  than  more  D
+  67.[]
+     A above allover all on all in all
+        "" A
+  68.[]
+     C ""
+       so that
+  66  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+  69.[]
+     B "" left
+  70.[]
+     B "+" how to learn  knows
+  71.[]
+     A wheneverwhicheverwhateverhowever
+      "......" whenever
+  72.[]
+     C  has never had "" before
+       ago
+  73.[]
+     D pathcourseroadwayin the best way
+      ""
+  www.gzzkgk.cn 74.[]
+     C on the other hand ""
+  75.[]
+     C "not just...but...""............"
+  Part IV Writing
+  76.
+                                                                                                        June 6, 2009
+  Dear Mum and Dad,
+        I will graduate from the university in July. For one thing, there will be more than 6 million
+  graduates all over the country this year; for another thing, a financial crisis broke out in the
+  world, which makes it extremely difficult to find a good job. I attended lots of job fairs, but
+  I haven't got my dreaming job so far.
+        However, I won't give up. Please believe that I am confident enough to face all kinds of
+  challenges. I also believe beautiful future belongs to me as long as I work hard.
+        Best wishes to you!
+                                                                                                  Yours lovingly,
+                                                                                                           Wang Hong

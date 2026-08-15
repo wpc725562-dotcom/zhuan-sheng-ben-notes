@@ -1,0 +1,616 @@
+# 公共英语 · 2013 年真题（ForestDeer 完整版）
+
+> **来源**：[ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
+> **提取日期**：2026-08-15
+> **识别方式**：pdftotext -layout 提取文字层
+> **说明**：完整真题，英文题目清晰可读。中文解析因 PDF 字符编码问题可能有乱码。
+
+---
+
+## 试题
+
+  2013
+  Part I Vocabulary and Structure
+  1.
+      []
+     B even ifas long asin caseeven though
+       B
+  2.
+  []
+  D none either
+  both neither
+   thinks  C
+   A D
+  3.
+  []
+  B  B
+  4.""
+  []
+  C
+   C
+  5.
+                   QQ:1163816823                       :gzzkgk                      111
+  www.gzzkgk.cn 020-8828266715374053589
+      []
+     B by nownow thatfor nowever since
+       B
+  6.
+      []
+     A name...after..."......" A
+  7.
+      []
+     D There is no sense in doing sth."" D
+  8.
+      []
+     A  when
+       A
+  9.
+      []
+  www.gzzkgk.cn A be located in ""lie ""
+      laid  lay ""place A
+  10. 5  10
+        []
+      C sinceafter......before......when......
+         C
+  11. 6 8  10
+        []
+      A respectivelyrespectablyrespected respectedly
+        respectfully A
+  12.
+        []
+      B hurtspoildamageharm
+         B
+  13.
+        []
+      A specificspecialspecialistspare
+         A
+  14.
+        []
+      B continuousroutineinitialconstant
+         B
+  15.
+        []
+      D in front of......advance in......BC
+        in advance of...... D
+  16.
+        []
+      C uniformlikesimilar
+        same the
+         C
+  17.
+        []
+  112  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+      B contributecontribute...to "......"commit
+        be committed to "" to combine
+         with assignassign sb. to "......"
+         B
+  18.
+        []
+      D escape doing sth."" B  C
+         often  D
+  19.
+        []
+      B speaktelltalk
+        say B
+  20.
+        []
+      B  common  the most common
+         three  most common the  three
+         B
+  21.
+        []
+      A  as as
+        "......" Aif
+        sothat
+  22.
+        []
+      B  so
+         neither/nor  be
+         so, neither  nor  A  B
+  23.
+        []
+      A keep track of......keep pace with......keep in touch
+        with......keep company with............ A
+  24.
+        []
+      D plant......growraise
+        yield
+         D
+  25.
+        []
+      B stand up tomake up for......come up withput up with
+         B
+  26.
+        []
+      B confirmconform to confine
+        inform B
+  27.
+        []
+  QQ:1163816823  :gzzkgk    113
+  www.gzzkgk.cn 020-8828266715374053589
+      D arrive atwork outwork ongive
+        up D
+  28.
+        []
+      C  There be no doing"............"stop
+         C
+  29.
+        []
+      B unlessbefore......untilalthough
+         B
+  30.
+        []
+      A sightlook
+        viewglance A
+  31.
+   www.gzzkgk.cn []
+      D laterlatter lastlatelate spring
+        "" D
+  32.
+        []
+      C in allafter allabove allover all
+         C
+  33.
+        []
+      C take overthink overhand over......get over
+         C
+  34.
+        []
+      A however however + adj./adv.++
+        A D  no matter how  much A
+  35.
+        []
+      D normalaverageregularordinary
+         D
+  Part II Reading Comprehension
+  Passage 1
+  36. []
+      C quite early
+        no place for him to sit C
+  37. []
+      A  half past eleven1130
+         1230half past twelve
+  38. []
+      C "Oh! It's going backward!"
+         C
+  39. []
+      D
+         ABC
+  114  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+         11:55  11:40 11:30
+         D
+  40. []
+      C  C
+                                                                 Passage 2
+  41. []
+      B "In Greece there are the ruins of a water system for baths built
+        over 3000 years ago." B
+  42. []
+      B A "only at night""In one American
+        city..." 30  C
+        B
+        D  B
+  43. []
+  www.gzzkgk.cn C  C
+  44. []
+      A perfume "" A "...perfume was
+        often used to cover up body smells!" A
+  45. []
+      D dirty bodies bathing
+         D
+                                                                 Passage 3
+  46. []
+      C "Filling in company application forms...a negative reaction from
+        readers."
+         CA
+        B  D
+  47. []
+      A "Each company or organization usually...may vary in detail."
+         A
+  48. []
+      A
+         A
+  49. []
+      D "
+        "
+         D
+  50. []
+      C
+         C
+  Passage 4
+  51. []
+  QQ:1163816823  :gzzkgk    115
+  www.gzzkgk.cn 020-8828266715374053589
+      C "...went to the Over 60s Club. She always went there on Thursdays.
+        It was a nice outing for an old woman who lived alone.""the Over
+        60s Club" C
+  52. []
+      A "She checked the back door and the windows...There was no sign
+        of forced entry."
+         A
+  53. []
+      D ""
+        ""
+         D
+  54. []
+      B master key
+         B
+  www.gzzkgk.cn 55. []
+      D D the man's hand was badly
+        hurt by bot water 2016  34
+  Part III Cloze
+  56. []
+      B  early""Early
+        in the 1900s " 20 " A  D  early
+        C
+  57. []
+      D builddesigncoverline......
+         be lined with "" D
+  58. []
+      B variedvariousvariety
+        varyingvary
+        "" B
+  59. []
+      C objectmaterialgoodssubstance
+        "clothingfurniturehardwaregroceries"
+        "" C
+  60. []
+      D "offered services"
+         D Additionally""A ""
+        B C
+  61. []
+      D coverholdcontain  include ""
+         contain include
+        "drugstoresrestaurants
+        shoe-repair storesand barber or hairdressing shops"
+         included
+  62. []
+      B take place "" begin
+         B
+  63. []
+  116  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+      A """"while "
+        "where  when though
+  64. []
+      C be available to sb.""be valid
+        forbe useful to......be ready for......"
+        " C
+  65. []
+      D over......from............after......outside......
+        """"
+         D
+  66. []
+      A "
+        " AB  when "......"
+         while "......" A
+  www.gzzkgk.cn 67. []
+      A startfoundestabish
+        build""
+         A ""
+  68. []
+      B out of......away fromnext toalong with......
+        "
+        " B
+  69. []
+      A attractinterestdelight......enjoy
+        "" A
+  70. []
+      D "away from...to..............."
+        ""downtown
+         D
+  71. []
+      C distinctionfamepopularityinterest
+        ""
+         C
+  72. []
+      B  in turnBy turnsin return
+         by return
+  73. []
+      A  had developed  By"by+"
+  74. []
+      C requirementfacilityconveniencecondition
+         C
+  75. []
+      C foroverwithbeyond......
+        "" C
+  Part IV Writing
+  76.
+  QQ:1163816823  :gzzkgk    117
+  www.gzzkgk.cn 020-8828266715374053589
+                                                                                                     March 10, 2013
+  Dear Sir,
+        I heard from the notice that the English Club is searching for members. I' m interested in
+  this campus society very much and want to apply for it.
+        I'm a freshman and my major is English. I have been interested in English for many years and
+  persisted in studying English since I was young. It's my favorite subject all the time. I have
+  made great progress in many competitions of English debate and composition, and through hard-working
+  study and practice, I can speak English fluently. I once helped my teacher organize many English
+  activities in the high school, and received much praise and respect from my classmates. Once I
+  enter the English Club, I will actively participate in various English activities and volunteer
+  to plan and organize some new programs for English lovers.
+        I hope to enter the English Club sincerely. Look forward to your permission.
+        Thank you!
+                                                                                                 Yours sincerely,
+                                                                                                                Li Hua
+       www.gzzkgk.cn  2014
+  Part I Vocabulary and Structure (35)
+  1. The committee              a conclusion only after days of discussion.
+       A. reached               B. achieved                      C. arrived                   D. completed
+  2. The next afternoon I went to               Miss Barkley again, but found her out.
+       A. call for              B. call on            C. call up                     D. call off
+  3. He said           was not within his power to answer the question.
+       A. that                  B. this               C. what                        D. it
+  4.             to hurt her, he did not tell her the truth.
+       A. Not to want           B. Not wanting        C. To want not                          D. Wanting not
+  5. He risked               his house when his company went bankrupt.
+       A. to lose               B. having lost        C. losing                      D. to have lost
+  6. I didn't heat              because there was too much noise where I was sitting.
+       A. what did he say B. what he said C. what was he saying D. what to say
+  7. I can't        this type of computer, it's too expensive.
+      A. cost                   B. spend              C. afford                      D. pay
+  8. Faced with the crisis, the girl looked pale, but was quite        .
+      A. silent                 B. quiet              C. still                       D. calm
+  9. He didn't allow in his room. Actually he did not allow his family               at all.
+      A. to smoke, to smoke                           B. smoking, to smoke
+  C. to smoke, smoking                                D. smoking, smoking
+  10. George took       , of the fine weather to do a day's work in his garden.
+      A. advantage              B. profit             C. use                         D. charge
+  11. I was very tired. Otherwise, I         to the theatre with you.
+       A. had gone              B. would go           C. will have gone      D. would have gone
+  12. Seldom           in such a ride way.
+       A. we have been treated                  B. we have treated
+       C. have we been treated                  D. have we treated
+  13. This well-known international organization was             several years ago.
+  118                  QQ:1163816823                                   :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+       A. set up               B. made up               C. taken up                 D. got up
+  14. The policeman            the thief down the road.
+       A. chased               B. ran                   C. rushed                   D. raced
+  15. Every means              but it's not so effective.
+       A. have been tried B. has been tried             C. have tried               D. has tried
+  16. By the time class was over, the rain      .
+       A. will stop          B. would stop                 C. had stopped           D. have stopped
+  17. Fortunately, the demonstration           to be quite peaceful.
+  A. turned in               B. turned out              C. turned off               D. turned up
+  18. Mr. Johnson, together with his wife and two daughters,              to arrive this evening.
+  A. were                    B. are                        C. was                   D. is
+  19.        , he'll make a first-class tennis player.
+  A. Given time              B. To give time                C. Giving time          D. Being given time
+  20. We shall have an opportunity to exchange              tomorrow.
+  A. sights                  B. opinions                   C. thoughts              D. minds
+                             the island during the summer months.
+  www.gzzkgk.cn 21. Many birds
+  A. settle              B. join                C. move                             D. visit
+  22. Thank you for the        you did me to move the sofa upstairs.
+  A. favor               B. good                C. help                             D. aid
+  23. I paid him 50 dollars for the painting, but its real         must be about 500 dollars.
+  A. fee                     B. value           C. price                            D. fare
+  24. We enjoyed ourselves very much at the party. You                    with us.
+  A. must have come                                     B. must come
+  C. should have come                                   D. should come
+  25. Where is the             writing desk?
+  A. charming round small                               B.charming round small
+  C. charming small round                               D. small round charming
+  26. It would be unwise to               too much importance to these opinion polls.
+  A. stick                   B. give               C. apply                    D. attach
+  27. We haven't been able to find out the              of the rumor.
+  A. source                  B. cause           C. resource                    D. reason
+  28. I           to come to your house last night but it rained hard.
+  A. thought                 B. attended        C. intended                    D. considered
+  29. The cost of the reconstruction would                  from 2.5 to 3 million pounds.
+  A. deserve                 B. spend           C. range                       D. include
+  30. The authorities have refused to           him a visa to visit England.
+  A. arrange                 B. agree           C. approve                          D. grant
+  31. By the time I saw the job advertised, it was too late to              .
+  A. ask                     B. request         C. demand                      D. apply
+  32. Unfortunately he didn't             to read the agreement carefully before signing it.
+  A. bother                  B. disturb         C. trouble                     D. interrupt
+  33. Import for the first three months this year is larger than for the            period last year.
+  A. relating                B. concerning      C. corresponding                    D. regarding
+  34. I bought a new bicycle,             was very high.
+  A. the price of which                         B. which price
+  C. price of which                             D. which the price
+  35. The furniture arrived            , so we had to send it back.
+  A. damaging                B. to be damaged           C. to damage           D. damaged
+                         QQ:1163816823                                         :gzzkgk                   119
+  www.gzzkgk.cn 020-8828266715374053589
+  Part II Reading Comprehension (40)
+  Passage 1
+       Surfing () the Internet can be as addictive () as drugs, alcohol or gambling, a researcher from
+  University of Pittsburgh said last month.
+       In a study of almost 400 men and women in Canada, researchers found Internet addiction caused people to
+  spend 40 hours or more a week online. Most of them often got involved in role-playing games or chat room
+  discussion.
+       One 17-year-old boy was so addicted to the Internet activities that his parents had to admit him to a hospital
+  for 10 days' treatment.
+       One woman was described by friends and family as a perfect wife and mother. She became so addicted to
+  the Internet that she would not cook or clean and was neglecting her children and husband, because she was
+  spending as much as 12 hours a day talking to people on the Internet. Finally her husband said, "Choose me or
+  the computer." She divorced him.
+       Kimberly Young, an assistant professor of psychology at the University of Pittsburgh, found that 76 per
+  cent of the subjects () in the study spend an average of 40 hours a week on the Internet.
+       www.gzzkgk.cn Of 396 people who met Young's criteria () for addicted Internet users, 157 were men,239 women. The
+  men were younger with an average age of 29; the women average 43 years of age. The largest group of addicted
+  users of the Internet was people who were not working outside home; housewives, students and those who were
+  disabled () or retired.
+  36. According to the researcher in the University of Pittsburgh, surfing the Internet can be highly     .
+       A. tiring           B. exciting                   C. harmful                D. wastful
+  37. After getting addicted to the Internet, the woman               .
+       A. chose to leave her husband                     B. chose to live with her husband
+       C. was too busy with her housework                D. was too busy to work
+  38. From the passage, we lcarn that the majority of addicted Internet users are           .
+       A. middle-aged men                                B. middle-aged women
+       C. young men                                      D. young women
+  39. According to this research, people who are likely to become addicted Internet users are          .
+       A. those who are busy with their work             B. those who want to make friends
+       C. those who are not employed                     D. those who are fond of talking
+  40. The writer's attitude towards Internet surfing is            .
+  A. supportive            B. negative                   C. neutral                D. practical
+  Passage 2
+       Many parents complain that their teenage children are rebelling (). I wish it were so. At this age you
+  ought to be growing away from your parents. You should be learning to stand on your own feet.
+       But take a good look at the present rebellion. It seems that teenagers are all taking the same way of showing
+  that disagree with their parents. They say they want to dress as they please, but all of them wear the same clothes.
+  They set off in new directions in music, but all of them end up listening to the same record. Their reason for
+  thinking or acting is that the others are doing it that way.
+       It has become harder and harder for a teenager to stand up against the popularity wave and go his or her
+  own way. These days every teenager can learn from the advertisements what a teenager should have and be. And
+  many of today's parents have come to award () high marks for the popularity of their children. All this adds
+  up to a great barrier for the teenager who wants to find his or her own path.
+       But the barrier is worth climbing over. The path is worth following. You may want to listen to classical
+  music instead of going to a party. You may want to collect rocks when everyone else is collecting records and
+  stamps. Well, go to it. Find yourself. Be yourself. Popularity will come with the people who respect you for who
+  you are. That's the only kind of popularity that really counts.
+  41. Which of the following is true according to paragraph 1?
+  120                      QQ:1163816823                                 :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+  A. Parents are happy that their children rebel.
+  B. Teenagers should not live with their parents.
+  C. The author of this passage agrees with the parents.
+  D. Parents dislike their children's rebellion.
+  42. The kind of rebellion mentioned in this passage is that all teenagers     .
+  A. dress in their own ways                          B. wear the same clothes
+  C. listen to the same music                         D. act in the same way
+  43. According to the writer, many teenagers think they are brave enough to act on their own, but in fact, most of
+  them            .
+  A. have difficulty understanding each other
+  B. follow the popularity wave
+  C. dare to deal with problems by themselves
+  D. are very much afraid of getting lonely
+  44. Which of the following is one way of "climbing over the barrier" according to the author?
+  A. Listening to classical music.
+  www.gzzkgk.cn B. Going to evening partiesC. Collecting records and stamps.
+  D. Learning from advertisements.
+  45. In this passage the writer wants to tell     .
+  A. teenagers how to decide things for themselves
+  B. readers how to be popular with other people
+  C. parents how to control and guide their children
+  D. people how to understand and respect each other
+  Passage 3
+  A moment's drilling by the dentist may make us nervous and upset. Many of us cannot stand pain. To avoid
+  the pain of a drilling that may last perhaps a minute or two, we demand the needle that deadens the nerves
+  around the tooth.
+  Now it's true that the human body has developed its millions of nerves to be highly aware of what goes on
+  both inside and outside it. This helps us adjust to the world. Without our nerves and our brain, we wouldn't
+  know what's happening. But we pay for our sensitivity. We can feel pain when the slightest thing is wring with
+  any part of our body. The history of torture () is based on the human body being open to pain.
+  But there is a way to handle pain. Some Indian monks can sit on a bed of nails. Fakirs () can put a
+  needle right through an arm, and feel no pain. This ability that some humans have developed to handle pain
+  should give us ideas about how the mind can deal with pain.
+  The big thing in standing pain is our attitude toward it. If the dentist says this will hurt a little, it helps us to
+  accept the pain. By staying relaxed, and by treating the pain as an interesting sensation () , we can handle
+  the pain calmly. After all, although pain is an unpleasant sensation, it is still a sensation, and sensations are the
+  stuff of life.
+  46. The word "deaden" in paragraph l probably means "            ".
+  A. increase                  B. restrain            C. improve                   D. excite
+  47. The sentence "But we pay for our sensitivity" in the second paragraph means that           .
+  A. we should pay a debt for our feeling
+  B. we have to be hurt when we feel something
+  C. our pain is worthwhile
+  D. when we feel pain, we suffering it
+  48. When the author mentions the Indian fakir, he suggests that            .
+  A. Indians are not at all afraid of pain
+  B. some people may be senseless of pain
+                     QQ:1163816823                                 :gzzkgk                          121
+  www.gzzkgk.cn 020-8828266715374053589
+       C. some people are able to handle pain
+       D. fakirs have magic to avoid pain
+  49. Which of the following is true?
+       A. The nerves play an important part in feeling pain
+       B. We can only feel pain when badly wounded.
+       C. The dentists can do nothing to the pain.
+       D. Everyone should try his best to avoid pain.
+  50. The most important thing to handle pain is how to          .
+       A. avoid pain                                  B. put up with pain
+       C. look at pain                             D. stop pain
+  Passage 4
+       There is a popular belief among parents that schools are no longer interested in spelling. No school I have
+  taught in has ever ignored spelling or considered it unimportant as a basic skill. There are, however, vastly
+  different ideas about how to teach it, or how much priority () it must be given over general language
+  development and writing ability. The problem is how to encourage a child to express himself freely and
+  www.gzzkgk.cn confidently in writing without holding him back with the complexities () of spelling.
+       If spelling becomes the only focus of his teacher's in interest, clearly a bright child will be likely to play
+  safe. He will tend to write only words within his spelling range, choosing to avoid adventurous language. That's
+  why teachers often encourage the early use of dictionaries and pay attention to content rather than technical
+  ability.
+       I was once shocked to read on the bottom of a piece of writing about a personal experience: "This work is
+  terrible! There are far too many spelling errors in the writing, but it was also a sad reflection on the teacher who
+  had feelings." The teacher was not wrong to draw attention to the errors, but of his priorities had centered on the
+  child's ideas, an expression of his disappointment with the presentation would have encouraged the pupil to
+  improve his writing.
+  51. Which of the following is true according to paragraph 1?
+       A. Parents are not interested in spelling.
+       B. Schools are not interested in spelling.
+       C. Teachers must give top priority to spelling.
+       D. Complex spelling prevents free writing.
+  52. From the passage, we can infer that                .
+       A. parents support how the schools teach spelling.
+       B. parents don't know how the schools teach spelling
+       C. people agree on the importance of spelling in writing
+       D. people agree on how to teach spelling in writing
+  53. In the second paragraph, the expression "play safe" most probably means "     ".
+       A. pay more attention to the ideas
+       B. write freely and smoothly
+       C. avoid words he is not sure of
+       D. use dictionaries very early
+  54. Which of the following is true according to the last paragraph?
+       A. The writing did not truly reflect the feelings.
+       B. The teacher liked the writing very much.
+       C. The teacher's priority was on the child's ideas.
+       D. The author disagreed to the teacher's comments.
+  55. This passage mainly discusses                .
+       A. the necessity of teaching spelling in writing
+       B. the role of developing writing skills
+  122                   QQ:1163816823                                      :gzzkgk
+  www.gzzkgk.cn                                       020-8828266715374053589
+      C. the complexities of spelling
+      D. the relationship between spelling and ideas
+  Part III Cloze10
+  Have you 56 asked yourself why children go to school? You will probably say that they go 57
+  their own language and other languages, arithmetic, history, science and 58 subjects. That is quite true; but
+  why do they learn these things? And are these things 59 that they learn at school?
+  We 60 our children to school to 61 them for the time 62 they are grown-up and have to work
+  63 their own. Nearly all they learn at school has some 64 use in their life, but is that the only reason 65
+  they go to school?
+  There is 66 in education than just learning facts. We go to school 67 all to learn how to learn,
+  68 when we have 69 school we can continue to learn. A man who really knows 70 will always be
+  successful, because 71 he has to do something new which he has never had to do 72 he will rapidly
+  teach himself how to do it in the best 73 . The uneducated person, 74 , is probably unable to do
+  something new, or does it badly. The purpose of schools, therefore is not just to teach languages, arithmetic, etc.
+  www.gzzkgk.cn 75 to teach students the way to learn.56. A. eitherB. foreverC. everD. never
+                                                      C. for learning   D. in learning
+  57. A. learning         B. to learn                 C. all the other  D. all the others
+                                                      C. every          D. all
+  58. A. all other        B. all others               C. fetch          D. select
+                                                      C. make           D. give
+  59. A. each             B. ones                     C. while          D. how
+                                                      C. with           D. to
+  60. A. send             B. get                      C. efficient      D. practical
+                                                      C. how            D. what
+  61. A. set              B. prepare                  C. many           D. more
+                                                      C. on             D. beyond
+  62. A. where            B. when                     C. so that        D. such that
+                                                      C. get out        D. went aeay
+  63. A. on               B. for                      B. how to learn
+                                                      D. how learning   D. however
+  64. A. realistic        B. effective                C. whatever       D. after
+                                                      C. before         D. way
+  65. A. why              B. which                    C. road
+  66. A. much             B. most
+  67. A. above            B. over
+  68. A. so as            B. as that
+  69. A. remained         B. left
+  70. A. how to be learned
+  C. how to have learned
+  71. A. whenever         B. whichever
+  72. A. ago              B. later
+  73. A. path             B. course
+  74. A. on another hand                              B. on other hand
+  C. on the other hands                               D. on the other hand
+  75. A. yet              B. however                  C. but            D. or
+  Part IV Writing (15)
+  76. indulge inon line
+  game-playing

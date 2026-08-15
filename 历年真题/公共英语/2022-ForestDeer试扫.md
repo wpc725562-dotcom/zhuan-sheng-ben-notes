@@ -1,0 +1,234 @@
+# 公共英语 · 2022 · ForestDeer 真题精析（完整版）
+
+> **更新日期**：2026-08-14
+> **来源库**：[ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
+> **源文件**：`英语/2022广东普通专升本英语-真题_精析_高清打印版.pdf`
+> **识别方式**：pdftotext 提取文字层
+> **关联**：[[2022]] · [[_索引]]
+
+---
+
+## 试卷内容
+
+  46  100  120 15  2  30 ABCD A If you are conducting businesses in foreign markets, it is necessary to know the customs and traditions of the locals when it comes to New Year's Day celebration. This knowledge can help
+  you blend in better with your foreign co-workers or make a good impression on your target audiences. Let's find out how some European countries celebrate New Year's Day! Denmark While in some cultures, breaking things is a bad sign, Danish people welcome New Year's
+  Day by smashing unused plates and glasses against the doors of family and friends. This action is performed with the aim of warding off evil spirits. Some people even stand on chairs and jump off them together at midnight in the hopes of bringing good luck.
+  Spain People in Spain have a unique way to celebrate New Year's Day. It is a custom to eat 12 grapes at midnight on New Year's Eve, one at each stroke of the clock. Each grape is a representation of a month of good fortune in the coming year. If you are able to get all of them
+  into your mouth, all of your wishes will come true! Ireland In preparation for New Year's Day, people in Ireland make sure their entire house, including their gardens and cars, is cleaned without a spot. They have the custom of throwing bread at the
+  walls as the clock approaches midnight to scare away evil spirits and bring good luck in. Greece If you are offered a cake on New Year's Day in Greece, you may need tough teeth. As January 1st is also Saint Basil's Day in Greece, many Greeks celebrate this day with extra-special
+  customs. They bake St. Basil's Cake with one special ingredient -- a coin made of gold or silver. If you get a slice of cake that contains this coin, you will have a full lucky year. Germany Every year, millions of people flock to Berlin for one of Europe's largest New Year's Eve
+  celebrations. It is called Silvester, during which people gather for wishing for good luck. They throw parties, watch fireworks, and drink a German sparkling wine. Families melt lead at home by holding a flame beneath a tablespoon, then putting it into water. The pattern shown is said to
+  predict the coming year. For example, a heart or ring shape indicates an upcoming wedding while a pig is a sign of plenty of food.
+
+**1. Which of the following is a Danish tradition to welcome New Year's Day?**
+- A. Doing cleaning                    B. Breaking things
+- C. Watching fireworks                D. Drinking wine
+
+**2. Eating grapes on New Year's Eve is a custom in ______.**
+- A. Greece            B. Ireland      C. Spain                     D. Denmark
+
+**3. What might Greeks find in St. Basil's Cake on New Year's Day?**
+- A. A grape           B. A coin       C. A ring                    D. A tooth
+
+**4. What does a pig shape of melted lead indicate in Germany?**
+- A. Someone will marry soon.          B. Someone will strike the clock.
+- C. Someone will jump off the chair.  D. Someone will have sufficient food.
+
+**5. What is the common purpose of celebration activities in the five countries?**
+- A. To get good luck                  B. To be successful in business
+- C. To scare away bad spirits         D. To wish for a good harvest B Today lots of people love to wear T-shirts for the fashionable feel. In most cases, people wear the right T-shirt under a sports coat instead of a traditional dress shirt and shirt and tie.
+  The T-shirt did not look like the T-shirt we know today until after the First World War (1914--1918). During World War I, some soldiers were wearing old-fashioned woolen uniforms during the summer, while other soldiers wore cotton undershirts that were significantly cooler.
+  During the 1920s the word "T-shirt" was added to a dictionary. By the Second World War, most soldiers wore cotton T-shirts as standard underwear. T-shirts were considered solely as underwear until the 1950s. In those days, even the word
+  "underwear" was never mentioned in the upper social class. So in the 1950s, it was quite shocking to see movie stars such as Jean Arc and James Ron wearing just a T-shirt! But by 1955 it became socially acceptable for young men to wear just a T-shirt without a regular shirt covering it. James
+  Ron, the famous film star, made this style "cool" for teenage males across Europe. Today T-shirts become part of people's way of life. People wear T-shirts that promote their favorite music band or sports team. People wear T-shirts advertising places that they have visited.
+  T-shirts with images of cartoon characters are worn by children of all ages. In fact, you can find every cartoon character that ever graced the screen on a T-shirt somewhere.
+
+**6. How do people normally wear a T-shirt today?**
+- A. They wear it under a sports coat.
+- B. They wear it under a shirt.
+- C. They wear it under a dress.
+- D. They wear it under a uniform.
+
+**7. During the First World War, soldiers found cotton undershirts ______.**
+- A. durable             B. acceptable  C. fashionable                      D. comfortable
+
+**8. Before the 1950s, the upper class considered wearing just a T-shirt ______.**
+- A. formal              B. normal      C. inappropriate                    D. isolated
+
+**9. Which group of people was influenced by James Ron's T-shirt dressing style?**
+- A. Female musicians.                  B. Male stars.
+- C. Male teenagers.                    D. Sportswomen.
+
+**10. What can we know about people from the T-shirts they wear?**
+- A. Their preferences.                 B. Their families.
+- C. Their ages.                        D. Their destinations. C Scientists have come up with a new way of identifying animals in an area by testing DNA sucked out of the air. The researchers believe their new method could help scientists keep track of
+  animals that are hard to spot, including endangered animals. A team of scientists in Denmark came up with the question: Could they identify the animals in an area from DNA that was simply floating in the air? At the very beginning, they didn't have
+  high hopes for the new method. Every living thing has DNA that can be used to identify it. All creatures leave bits of DNA behind them wherever they go -- for example, from skin, hair, feathers, or waste. DNA left behind
+  like this is called "environmental" DNA, or eDNA. Scientists can use this eDNA to tell what kinds of animals are in a certain place. Testing for eDNA isn't a new idea, but most of the time, scientists look for it in water. DNA
+  in the air is usually so small that it would take a microscope to see it. The Danish scientists worked on an experiment. They collected samples from different locations at a zoo, using vacuumsand fans to collect extremely tiny bits of DNA onto very high quality filters.
+  In the laboratory, they got the DNA from the filters and made copies of it to study. By comparing these samples with examples of DNA from different animals, the scientists were able to identify many different animals at the zoo. They identified 49 different kinds of animals. They
+  even identified DNA from animals that were inside sealed buildings. The scientists chose to test in the zoo because there were rare animals not naturally found in the area. As Dr. Elizabeth Clare, who led the team, said, "There's no other way I would detect DNA from a tiger, except for the
+  zoo's tiger." The researchers are excited about the ways this new method could be used in the wild. Scientists have been looking for better ways to track endangered animals without interfering with them. If scientists know where animals live, they can do a better job of protecting them.
+
+**11. What could the new method help scientists according to Paragraph 1?**
+- A. To trace the hard-to-spot animals.
+- B. To identify rare animal species.
+- C. To count animal numbers.
+- D. To record animal types.
+
+**12. What was the Danish scientists' attitude to the new method before the experiment?**
+- A. Neutral.  B. Doubtful.                    C. Positive.                 D. Critical.
+
+**13. In most cases, scientists look for eDNA ______.**
+- A. from air  B. in laboratory                C. from waste                D. in water
+
+**14. Why did the scientists collect samples in the zoo?**
+- A. Because the zoo had samples not locally found.
+- B. Because animals at the zoo were easily tested.
+- C. Because they could easily get help in the zoo.
+- D. Because their laboratory was in the zoo.
+
+**15. In which section of a magazine does this passage most likely appear?**
+- A. Health.                                   B. Environment.
+- C. Science.                                  D. Geography. 5  2  10 When people go to the movies today, they can settle in to watch and listen to a story. But what if when the lights dimmed and the movie began, there was no dialogue, sound effects, or
+  music? 16 Those silent films are important to film history. When movie theaters showed silent films, a musician was often there to play live music along with the movie. 17 Occasionally, musicians or theater staff also produced sound effects,
+  such as tires screeching or doors slamming. 18 Instead, the story was told through the performers' motions and through words shown on the screen. When movies first included sound, audiences weren't sure what to think. Not everyone was
+  excited about the new type of film which became known as the "talkie". 19 Clara Bow, who was a famous silent-movie actress in the early 1920s, was too nervous about her voice to become a star in the world of talking pictures. She failed from the spotlight and left show business
+  altogether. The first movie with sound, The Jazz Singer, was released in 1927. 20 After that, talking pictures became a huge success.
+- A. It marked the beginning of a new era.
+- B. That's what the first movies were like.
+- C. Music was chosen to fit the mood of the movie.
+- D. However, there was no sound in the movie itself.
+- E. Many silent film performers had trouble with the new format. ABCD During the last fifty years psychologists have made us believe that differences between men and women are mainly the 21 of the way we are brought up. According to this theory
+  women can be trained to do 22 that men traditionally do, and men can and should do more 23 . This so-called "new man" should be more 24 and emotional. But two books newly 25 say that, according to a recent scientific study, gender
+  differences 26 because men's and women's brains work completely 27 and their biological differences mean that they can never think or 28 the same way. Try this experiment: read a 29 aloud from a book or magazine. At the same time tap
+  on the table with one finger, and try to 30 a constant speed. Do this first with your right hand and then with your left hand. If you are a 31 , you will be able to maintain constant speed with 32 hand. Men, however, when tapping with their left hand will 33 down.
+  This is one of the many 34 that prove men's brains are in compartments, with verbal abilities on the left side and spatial abilities on the right. For women, however, verbal and spatial 35 are dealt with on both the left and right sides of the brain.
+
+**21. A. practice     B. result       C. part                               D. fact**
+
+**22. A. cleaning     B. cooking      C. jobs                               D. exercises**
+
+**23. A. research     B. experiments  C. assignments                        D. housework**
+
+**24. A. communicative B. boring      C. happy                              D. aggressive**
+
+**25. A. selected     B. published    C. borrowed                           D. bought**
+
+**26. A. stay         B. disappear    C. exist                              D. matter**
+
+**27. A. differently  B. positively   C. silently                           D. happily**
+
+**28. A. move         B. walk         C. reply                              D. behave**
+
+**29. A. picture      B. word         C. phrase                             D. passage**
+
+**30. A. exceed       B. reduce       C. keep                               D. record**
+
+**31. A. man          B. woman        C. writer                             D. scientist**
+
+**32. A. either       B. left         C. neither                            D. right**
+
+**33. A. turn         B. bring        C. shut                               D. slow**
+
+**34. A. magazines    B. books        C. experiments                        D. works**
+
+**35. A. problems     B. abilities    C. differences                        D. features 10  1.5  15 When I was younger, I didn't use to get any exercise. For a long time I regretted not 36 (do) much sport, but recently, I decided things needed to change. I saw a marathon on TV and**
+  made up my mind that was 37 I wanted to do. I started slowly because I felt I needed to get used to 38 (thing) gradually. I went swimming in the local pool and started going to a gym. I then 39 (join) a group of runners.
+  We met each week and we had 40 excellent coach who gave us guidance and training tips. At first I found the training quite hard and I nearly gave up because I thought that everyone was 41 (good) than me. However, I decided to persevere with it and I'm really glad I did. I
+  realized that 42 I wanted to take part in such a big race, I had to be willing to try. I now go running twice a day as well as going to the gym and I run marathons 43 (regular). To tell the truth, I wish I 44 (run) a marathon years ago. I'd certainly advise
+  anybody to give 45 a try. It's amazing how good it can make you feel. 16  3   8 2 306 Dragon Boat Festival 2 / 30 A
+
+**1.B  breaking things is a bad sign, Danish people welcome New Year's Day by smashing unused plates and glasses against the doors of family and friends"**
+
+**2.C  It is a custom to eat 12 grapes at midnight on New Year's Eve" 12 "**
+
+**3.B  They bake St. Basil's Cake with one special ingredient -- a coin made of gold or silver. "**
+
+**4.D  a heart or ring shape indicates an upcoming wedding while a pig is a sign of plenty of food""**
+
+**5.A  bringing good luck your wishes will come true bring good luck in  you will have a full lucky year "" 1  1 B**
+
+**6.A  people wear the right T-shirt under a sports coat " T "**
+
+**7.D  some soldiers were wearing old-fashioned woolen uniforms during the summer, while other soldiers wore cotton undershirts that were significantly cooler"" T  comfortable""10 Tim**
+
+**8. C  T-shirts were considered solely as underwear until the 1950s. In those days, even the word "underwear" was never mentioned in the upper social class. " 20  50 T `' " T  inappropriate""**
+
+**9.C  James Ron, the famous film star, made this style "cool" for teenage males across Europe. " `'"**
+
+**10.A  T T  A  preferences" T T 1914-1918T  T 20  20 "T " T 20  50 T "" 20  50 T  1955  T T T  T T C**
+
+**11.A  new method could help scientists keep track of animals that are hard to spot, including endangered animals"**
+
+**12.B  At the very beginning, they didn't have high hopes for the new method. "" doubtful""**
+
+**13. D  Testing for eDNA isn't a new idea, but most of the time, scientists look for it in water. " eDNA**
+
+**14. A  The scientists chose to test in the zoo because there were rare animals not naturally found in the area." " A ""**
+
+**15.C  eDNA DNA DNA DNA DNA DNA ""DNA  eDNA eDNA eDNA  DNA DNA DNA DNA 49  DNA " DNA" 2 / 10 10 Tim**
+
+**16.B "But what if when the lights dimmed and the movie began, there was no dialogue, sound effects, or music" "silent films" B"That's what the first movies were like" B**
+
+**17.C "a musician was often there to play live music along with the movie" "musicians or theater staff also produced sound effects, such as tires screeching or doors slamming" C "fit the mood of the movie" C**
+
+**18.D "Instead, the story was told through the performers' motions and through words shown on the screen" D"However, there was no sound in the movie itself" D**
+
+**19.E  Not everyone was excited about the new type of film which became known as the "talkie.""" Clara Bow  E**
+
+**20.A "The first movie with sound""talking pictures became a huge success" A"It marked the beginning of a new era" A " 20 2 / 30**
+
+**21.B " """practice""result"" part""fact"" B**
+
+**22.C men can and should do more housework" "cleaning""cooking""jobs""exercises"" C**
+
+**23.D ""research""experiments"" assignments""housework"" D**
+
+**24.A  emotional""BC D "" Acommunicative""boring" "happy""aggressive""**
+
+**25.B """"selected" "published""borrowed""bought"" B**
+
+**26.C ""stay""disappear" "exist""matter"" C**
+
+**27.A  biological differences"" ""differently""positively""silently ""happily"" A**
+
+**28.D ABC D  behave"" ABC think and behave ""move""walk""reply""behave"" D**
+
+**29.D  book or magazine""" "picture""word""phrase""passage"" D**
+
+**30.C "" ""exceed""reduce""keep""record "" C**
+
+**31.B  Men, however, when tapping... man""woman""writer""scientist""10 Tim  B**
+
+**32.A  For women, however, verbal and spatial...of the brain. either""left""neither" "right"" A**
+
+**33.D  however"" turn down""bring down ""shut down""slow down"" D**
+
+**34.C  Try this experiment"" experiment""" """magazines""books"" experiments""works"" C**
+
+**35.B  verbal abilities"" spatial abilities"" ""problems""abilities""differences""features "" B**
+
+**1.5 / 15**
+
+**36.doing regret not doing sth "" doing**
+
+**37.what do "......" what**
+
+**38.things things**
+
+**39.joined "I went swimming in the local pool and started going to a gym" went, started  joined**
+
+**40.an """excellent" an**
+
+**41.better than"......" better**
+
+**42.if : "" if**
+
+**43.regularly "run" regular  regularly regularly**
+
+**44.had run wish+ years ago wish  had run**
+
+**45.it give it a try " 15 / 15 Dear Tim, I'm Li Hua, the monitor. The Dragon Boat Festival is coming. We are going to hold a class meeting. All the teachers and students will attend the meeting. We would like to invite you to our**
+  class meeting. I promise you'll be very interested in it. There will be a great number of different activities in the meeting including making zongzi, telling stories and reciting poems and so on. The class meeting will be held on June 3 at 8 p.m. in
+  classroom 306 of the teaching building. Finally, I sincerely invite you to come and I'm sure you'll enjoy the class meeting very much. Yours, Li Hua

@@ -1,0 +1,291 @@
+# 公共英语 · 2018 年真题（ForestDeer 完整版）
+
+> **来源**：[ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
+> **提取日期**：2026-08-15
+> **识别方式**：pdftotext -layout 提取文字层
+> **说明**：完整真题，英文题目清晰可读。中文解析因 PDF 字符编码问题可能有乱码。
+
+---
+
+## 试题
+
+  2018
+  Part I Vocabulary and Structure
+  1.
+  []
+  C health examination
+   the; make a call "" C
+  2.
+  []
+   D Whatever:
+  whenever: wherever: whoever:
+   D
+  3.
+  []
+  C turn over:turn in:turn up:turn out:
+   C
+  4.
+  []
+  B realize:recognize:repeat:remind:
+   B
+  5.
+  []
+  B invitation:recommendation:a letter of recommendation
+  ""register:inquiry: B
+  6.
+                    QQ:1163816823                        :gzzkgk                                                 169
+  www.gzzkgk.cn 020-8828266715374053589
+      []
+     D concerned:comfortable:confused:
+      confident: D
+  7.
+      []
+      D ache  suffering "" ache
+       suffering damage  injury ""
+      injury  damage  D
+  8.
+      []
+      A manage:manage to do sth.""want:
+      try:need: A
+  9.
+      []
+     B  writings
+  www.gzzkgk.cn  whose  B
+  10
+        []
+       D  If  will forget
+        "" D
+  11.
+        []
+       A be angry with sb.""be angry about sth."
+        "angry  for, of  A
+  12.
+        []
+       B very  A too...to... "............"
+         C enough  D
+        "sb./sth.+be+adj.+enough to do""/............" B
+  13.
+        []
+      B everything:something:nothing:anything:
+         B
+  14.
+        []
+      C money few  a few  B  D A little "
+        "little "" C
+  15.
+        []
+      D can:nay:might: may must:
+         D
+  16.
+        []
+      C  When
+         C
+  17.
+        []
+  170  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+      B come into effect:take effect:()effect
+        change put sth. Into effect: B
+  18.
+        []
+      C either:none:
+        neither:all: two  BD
+         but  neither C
+  19.
+        []
+      B to one's surprise "" B
+  20.
+        []
+      A attach:attach sth. to sth.""bring:take:
+        print: A
+  21.
+   www.gzzkgk.cn []
+      C moreover:therefore:however:besides:
+         C
+  22.
+        []
+      D  before  went
+        "" D
+  23.
+        []
+      A "+"four-hour
+         four hours',"" A
+  24.
+        []
+      C get get sth. done:get sb. to do sth.:
+        get sb. doing sth.: C
+  25.
+        []
+      D when:why:where:how: Dhow to solve the
+        problem "+to do" know
+  26.
+        []
+      A  D
+        "" provide  A
+         A
+  27.
+        []
+      B or  the day before
+        yesterday"would have+
+        " B
+  28.
+        []
+      B believe  what
+         Your parents,
+  QQ:1163816823  :gzzkgk    171
+  www.gzzkgk.cn 020-8828266715374053589
+        ""
+         B
+  29.
+        []
+      D in the course of:............as a result of:......by means
+        of:............for the sake of:............
+         D
+  30.
+        []
+      C "the+...the+...""............"Bored
+         more bored C
+  Part II Reading Comprehension
+  Passage 1
+  31.A "...a very senior woman who was very smart and well
+        spoken, but she did not wear appropriate clothes...she was not being taken seriously."
+   www.gzzkgk.cn  A
+  32.C
+         take more guts "" C
+  33.D "...it allows the other person...to disagree--they have
+        an action they can take."
+         D
+  34.D "I was raised by grandma, and she was a pretty straight
+        talker because she thought you could handle it."
+         D
+  35.A
+         A"" A
+  Passage 2
+  36.B "A punctual person is in the habit of doing a thing at the
+        proper...""The unpunctual man, on the contrary, never does what he has to do
+        at the proper time."
+         B
+  37.D "The unpunctual man is forever wasting and mismanaging
+        his most valuable asset as well as others'."
+         D C
+  38.C
+         C
+  39.D "Unpunctuality...is very harmful when it comes
+        to doing one's duty, whether public or private. Imagine...failed to be at their proper place..."
+         D
+  40.C
+         C
+  Passage 3
+  41.D "For the past 20 years, they had been on good terms
+        forming side by side..." 20
+  172  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+        Serious:tense:distant:close:
+        close  good  D
+  42.B "...he may have done this to offend me, but I'll do
+        him one better."
+         B
+        ACD
+  43.C "His younger brother was coming toward them with hands
+        outstretched...The two brothers...taking each other's hand."
+        generous
+         C
+  44.C "The two brothers...taking each other's hand."
+        "...I have many more bridges to build."
+         C
+  45.A
+        "I have many more bridges to
+   www.gzzkgk.cn build()"
+        Better make friends than make enemies
+         AB ""C ""D "
+        "
+  Passage 4
+  46.A "Batteries can power anything from small sensors to
+        large systems." introduction
+        Example:question:conclusion: A
+  47.D "The researchers at University of Missouri(MU)are
+        developing a nuclear energy source...","...Jae Kwon, assistant professor of
+        electrical and computer engineering at MU.""Kwon and his research team have
+        been working on building a small nuclear battery..."
+        Jae Kwon Jae Kwon
+         D Kwon  A B
+         radioisotope battery; C  electrical
+  48.C "Although nuclear batteries can cause concerns, Kwon
+        said they are safe.""...nuclear power sources have already been safely..."
+         C
+  49.D "...can damage the lattice structure...using a liquid
+        semiconductor, we believe we can minimize that problem."
+         D
+  50.A  Jae Kwon
+         C ""science news
+        report AB ""D ""
+  Part III Cloze
+  51.[]
+     A walk:drive:wander:ride:
+        "...stopped a passing car..." B
+        wander  A  A
+         D
+  52.[]
+  QQ:1163816823  :gzzkgk    173
+  www.gzzkgk.cn 020-8828266715374053589
+     C "...except for the letter that he had to deliver to Mrs. Carter."
+        "...when Bill had mails for her, he usually finished his day's work..."
+         finished()Forget:start:
+        neglect: C
+  53.[]
+     C "quite heavy""now except for the letter that he had to deliver
+        to Mrs. Carter" empty,""
+        Heavy:full:handy: C
+  54.[]
+     A "She lived quite a few blocks away..."
+        (later) A
+  55.[]
+     C lend:sell:offer:borrow: happy
+         C
+  www.gzzkgk.cn 56.[]
+     B glad:surprised:mad:angry:"She usually spent
+        her afternoon there..." B
+  57.[]
+     B windy:fine:bad:rainy:
+        "" B
+  58.[]
+     A think:see:find:notice:
+         might  thinking,
+         A
+  59.[]
+     B doubt:answer:chance:way:"
+        " B
+  60.[]
+     A rarely:hardly:often:
+        always:"" A
+  61.[]
+     B anger:worry:encourage:bother:
+         B
+  62.[]
+     D sad:busy:absent:sick:
+         D
+  63.[]
+     D because:after:......as:until:......
+        "" D
+  64.[]
+     A small:large:dark:clean: but
+        "" A
+  65.[]
+     D stand:cry:tremble:lie: unconsciously
+        "" D
+        Part IV Writing
+  174  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+        66.
+        Dear Mr. Robert,
+              I'm Li Ming. Our class is going to hold a graduation party on May 28 in Room 502 of the
+        Teaching Building. It would be pleasant to have you here. Will you join us?
+              During the party, my classmates will give some performances in which I'm sure you will
+        be interested. The performances are of various forms including singing, dancing, games, etc.
+        You are also welcomed to give a performance if you'd like to. All of our teachers and the
+        classmates will come to the party at that time.
+            We really hope you will be there with us on this special occasion, since we have spent so
+        many meaningful hours together. The party will begin at 19:30. We are looking forward to your
+        participation in the pasty.
+                                                                                                 Sincerely yours,
+                                                                                                              Li Ming

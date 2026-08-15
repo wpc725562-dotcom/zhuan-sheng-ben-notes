@@ -1,0 +1,277 @@
+# 公共英语 · 2015 年真题（ForestDeer 完整版）
+
+> **来源**：[ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
+> **提取日期**：2026-08-15
+> **识别方式**：pdftotext -layout 提取文字层
+> **说明**：完整真题，英文题目清晰可读。中文解析因 PDF 字符编码问题可能有乱码。
+
+---
+
+## 试题
+
+  2015
+  Part I Vocabulary and Structure
+  1.
+  []
+  B be patient with sb. "" B
+  2.
+  []
+  A The seller  cheat
+   A
+  3.
+  []
+  D eithernonebothneither
+   My mother and father "" D
+  4.----
+  ----
+  []
+                        QQ:1163816823              :gzzkgk                                                   135
+  www.gzzkgk.cn 020-8828266715374053589
+     C I hope  so, not  I hope so "" I hope not
+      "" C
+  5.
+      []
+     B for a momentin a moment
+      for the momentat the moment B
+  6.----
+               ----
+      []
+     D getremainmaintainkeep
+       D
+  7.
+      []
+     A pay in cash "" A
+  8.
+  www.gzzkgk.cn []
+     D  news
+       that  D
+  9.
+      []
+     A  lie  lay Lie ""lay
+      """" I  lie
+       lying A
+  10.
+        []
+      B It is (not) known..."......" It
+       B
+  11.
+        []
+      D  last night  wouldn' t have been caught
+      "had+" D
+  12.
+        []
+     B treatadjustadopt
+      remedy B
+  13.
+        []
+     A somehowsomewhatsomewhere
+      sometime A
+  14.
+        []
+     D one-fifthone quarterone halfone-thirdDozen
+      "" D
+  15. 70%
+        []
+     B as many as...... as few as......
+      as much as...... as little as......
+      "70% of his spare time" B
+  136  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+  16. 500
+        []
+      A enough
+       enough  big
+       A
+  17.
+        []
+      C hurtdamagespoilharm become
+       C
+  18.
+        []
+      C every dayeveryday
+       C
+  19.
+        []
+  www.gzzkgk.cn C mustshould
+      maywould C
+  20.
+        []
+      B lastlatterlater late
+      late B
+  21.
+        []
+      C turn overturn  from turn to......
+      turn up C
+  22.
+        []
+      D  the three civil
+      servants  D
+  23.
+        []
+      C come up withcatch up withput up withkeep
+      up with...... C
+  24.
+        []
+      B When, whether, how  that
+      When ""how
+      ""whether ""that
+       how
+  25.
+        []
+      A contextcontactcontentcontrast
+       A
+  26.
+        []
+      C have a direct effect on sb./sth ."......" C
+  27.
+        []
+  QQ:1163816823  :gzzkgk    137
+  www.gzzkgk.cn 020-8828266715374053589
+      A make room for "............" A
+  28.
+        []
+      D name...after..."......" D
+  29.
+        []
+      D have a good sense of direction "" D
+  30.
+        []
+      B "+is it
+      that+" B
+  Part II Reading Comprehension
+                                                                 Passage 1
+  31. []
+      A
+  www.gzzkgk.cn "...his fearful cries filled the room and the hearts of those who watched."
+       A
+  32. []
+      B "Young men and women went to parties to try it. Most of then
+      spent their time laughing...""" B
+  33. []
+      C "He decided to make an experiment on himself."Wells
+       C
+  34. []
+      D Wells ""
+       D
+  35. []
+      B """"
+       B
+                                                                 Passage 2
+  36. []
+      D "The status given to waiters in a restaurant varies in different
+      parts of the world." D
+  37. []
+      A Eddie Lam
+       A
+  38. []
+      C Eddie Lam
+       C
+  39. []
+      B "However, if customers receive bad service in a restaurant, they
+      usually react very quickly."
+       B
+  40. []
+      C Eddie Lam
+       C
+                                                                 Passage 3
+  41. []
+  138  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589
+      A "But in the U.S., children often argue with their parents, students
+      may disagree with their teachers...an employee will politely point it out."
+       A
+  42. []
+      D "The extremely competitive nature of Americans is probably their
+      worst fault.""But the desire to get ahead of others..."
+       D
+  43. []
+      C "Americans are generally viewed as friendly, adaptable...Most
+      newcomers to the U.S. like Americans..." C
+  44. []
+      C "Perhaps the greatest American virtue is a deep interest in new
+      ideas and new people...the foreigner does not remain an outsider for long."
+       C
+  www.gzzkgk.cn 45. []
+      B  B
+                                                                 Passage 4
+  46. []
+      D "...but while some people try to protect the school examination system
+      in name of equality, others...want only to destroy it."it school
+      examination system D
+  47. []
+      A "...but to have no tests or examinations would mean the end of equality
+      and of standards." A
+  48. []
+      D "Without examinations, employers will look for employees from the
+      highly respected schools...favoritism will replace equality."
+       D
+  49. []
+      A "...because they show differences between pupils...there must
+      be no special, different academic class."
+      """" A
+  50. []
+      B
+       B
+  Part III Cloze
+  51. []
+      A leave......livesend be
+      "" A
+  52. []
+      B workerchildrenparentcaregiver
+      "" B
+  53. []
+      C continuousconstantregular
+      normal"" C
+  54. []
+  QQ:1163816823  :gzzkgk    139
+  www.gzzkgk.cn 020-8828266715374053589
+      D  story Unfortunate
+       an D
+  55. []
+      A care  the care
+       that  A
+  56. []
+      B ""
+       how
+  57. []
+       D  more  children
+       than"more...than..............." D
+  58. []
+      C Thereforehowever
+      moreoverwhereas C
+  59. []
+  www.gzzkgk.cn B  today  than years ago ""
+       B
+  60. []
+      C in......on......for......over
+      "" C
+  61. []
+      B questioninterview......inquire
+      ask"" B
+  62. []
+      D admirationtasknecessityresponsibility
+      have responsibility to do sth. ""
+      "" D
+  63. []
+      C causeenablemake
+      "make sb. do sth."get feel  C
+  64. []
+      A someoneanyoneeveryoneanybody
+      "" A
+  65. []
+      B "......"and
+       Caring for being taken care of B
+  Part IV Writing
+  66.
+                                            A Notice of the English Speech Contest
+        An English speech contest will be held on June 8th at the university auditorium to memorize
+  the World Environment Day. Any full-time student in this university is entitled to take part in
+  the speech. Students who are interested in the activity are required to mail a draft of his/hers
+  to @qq.com. The topic must focus on the world environment. The winner will be awarded the
+  prize by the president of the university and will be recommended to take part in the English Speech
+  Contest among universities in the district of Guangdong Province. For further information, please
+  contact us at .
+                                                                                            The Students 'Union
+                                                                                                          May 8 ,2015
+  140  QQ:1163816823  :gzzkgk
+  www.gzzkgk.cn 020-8828266715374053589

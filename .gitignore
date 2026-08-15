@@ -1,0 +1,66 @@
+# Obsidian workspace / local state (device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Trash / temp
+.obsidian-mcp-trash/
+.trash/
+*.tmp
+*.temp
+~*
+
+# Local learning DB / scripts not part of notes
+mtool_learning_state.db
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large media (keep notes only)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
+
+# Node / VitePress
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+package-lock.json.bak
+*.log
+.npm/
+
+# Large local study materials (keep on disk, don't push)
+*.pdf
+*.png
+!docs/public/**/*.png
+资料/英语真题原卷/_extract/
+资料/英语真题原卷/_by_year/
+# keep small helper scripts & md under 资料/
+!资料/**/*.md
+!资料/**/*.py
+# site-embedded exam PDFs (split by year for the blog)
+!docs/public/papers/**/*.pdf
+__pycache__/
+资料/**/*.docx
+资料/**/*.txt
+!资料/**/*.md
+!资料/**/*.py
+
+# ForestDeer / external raw cache must never enter notes git
+# (actual cache lives outside repo at D:/专升本/_pdf_cache/ — belt & suspenders)
+_pdf_cache/
+**/_pdf_cache/
+*.PNG
+# OCR intermediate dumps if someone copies them under notes root
+**/_ocr_raw/
+**/*_tesseract.txt
+**/*_rapidocr.txt

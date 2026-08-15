@@ -1,0 +1,198 @@
+{
+  "years": {
+    "2023": {
+      "paper": {
+        "start": 1,
+        "end": 11,
+        "pages": 11
+      },
+      "answers": {
+        "start": 94,
+        "end": 99,
+        "pages": 6
+      },
+      "full_pages": 17
+    },
+    "2022": {
+      "answers": {
+        "start": 100,
+        "end": 104,
+        "pages": 5
+      },
+      "full_pages": 5
+    },
+    "2021": {
+      "paper": {
+        "start": 12,
+        "end": 21,
+        "pages": 10
+      },
+      "answers": {
+        "start": 105,
+        "end": 107,
+        "pages": 3
+      },
+      "full_pages": 13
+    },
+    "2020": {
+      "paper": {
+        "start": 22,
+        "end": 29,
+        "pages": 8
+      },
+      "answers": {
+        "start": 108,
+        "end": 111,
+        "pages": 4
+      },
+      "full_pages": 12
+    },
+    "2019": {
+      "paper": {
+        "start": 30,
+        "end": 37,
+        "pages": 8
+      },
+      "answers": {
+        "start": 112,
+        "end": 115,
+        "pages": 4
+      },
+      "full_pages": 12
+    },
+    "2018": {
+      "paper": {
+        "start": 38,
+        "end": 45,
+        "pages": 8
+      },
+      "answers": {
+        "start": 116,
+        "end": 120,
+        "pages": 5
+      },
+      "full_pages": 13
+    },
+    "2017": {
+      "paper": {
+        "start": 46,
+        "end": 53,
+        "pages": 8
+      },
+      "answers": {
+        "start": 121,
+        "end": 125,
+        "pages": 5
+      },
+      "full_pages": 13
+    },
+    "2016": {
+      "paper": {
+        "start": 54,
+        "end": 61,
+        "pages": 8
+      },
+      "answers": {
+        "start": 126,
+        "end": 131,
+        "pages": 6
+      },
+      "full_pages": 14
+    },
+    "2015": {
+      "paper": {
+        "start": 62,
+        "end": 69,
+        "pages": 8
+      },
+      "answers": {
+        "start": 132,
+        "end": 136,
+        "pages": 5
+      },
+      "full_pages": 13
+    },
+    "2014": {
+      "paper": {
+        "start": 70,
+        "end": 77,
+        "pages": 8
+      },
+      "answers": {
+        "start": 137,
+        "end": 141,
+        "pages": 5
+      },
+      "full_pages": 13
+    },
+    "2013": {
+      "paper": {
+        "start": 78,
+        "end": 85,
+        "pages": 8
+      },
+      "answers": {
+        "start": 142,
+        "end": 147,
+        "pages": 6
+      },
+      "full_pages": 14
+    },
+    "2012": {
+      "paper": {
+        "start": 1,
+        "end": 9,
+        "pages": 9
+      },
+      "full_pages": 9,
+      "answers": null,
+      "note": "answers PDF is scanned; open combined local answers if needed"
+    },
+    "2011": {
+      "paper": {
+        "start": 10,
+        "end": 19,
+        "pages": 10
+      },
+      "full_pages": 10,
+      "answers": null,
+      "note": "answers PDF is scanned; open combined local answers if needed"
+    },
+    "2010": {
+      "paper": {
+        "start": 20,
+        "end": 30,
+        "pages": 11
+      },
+      "full_pages": 11,
+      "answers": null,
+      "note": "answers PDF is scanned; open combined local answers if needed"
+    },
+    "2009": {
+      "paper": {
+        "start": 31,
+        "end": 40,
+        "pages": 10
+      },
+      "full_pages": 10,
+      "answers": null,
+      "note": "answers PDF is scanned; open combined local answers if needed"
+    },
+    "2008": {
+      "paper": {
+        "start": 41,
+        "end": 50,
+        "pages": 10
+      },
+      "full_pages": 10,
+      "answers": null,
+      "note": "answers PDF is scanned; open combined local answers if needed"
+    },
+    "2024": {
+      "full_pages": 11,
+      "note": "scanned full volume"
+    }
+  },
+  "note": "personal study use only",
+  "answers_2008_2012": "2008-2012-answers.pdf"
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9ca24"/>
+      <stop offset="1" stop-color="#f0932b"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#050816" stop-opacity="0.34"/>
+      <stop offset="0.62" stop-color="#050816" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#050816" stop-opacity="0.24"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#fff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="art-clip"><rect x="760" y="76" width="368" height="440" rx="32"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#shade)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+  <path d="M -80 610 L 760 -80 L 910 -80 L 70 690 Z" fill="#fff" opacity="0.045"/>
+  <circle cx="1160" cy="-20" r="260" fill="#fff" opacity="0.06"/>
+
+  <text x="80" y="78" font-size="18" font-weight="700" letter-spacing="4" fill="#fff" opacity="0.82">SAKIKO / FIELD NOTES</text>
+  <text x="1120" y="78" font-size="18" font-weight="700" letter-spacing="2" text-anchor="end" fill="#fff" opacity="0.82">NO. 03</text>
+  <line x1="80" y1="104" x2="1120" y2="104" stroke="#fff" stroke-opacity="0.28"/>
+
+  <g>
+    <rect x="80" y="154" width="128" height="38" rx="19" fill="#fff" opacity="0.16"/>
+    <text x="144" y="179" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="2" fill="#fff">ARTICLE</text>
+  </g>
+
+  <text font-size="50" font-weight="750" fill="#fff" letter-spacing="-1"><tspan x="80" y="270">C++ 高精度算法详解与竞赛模板</tspan></text>
+  <line x1="80" y1="322" x2="650" y2="322" stroke="#fff" stroke-opacity="0.5"/>
+  <text x="80" y="366" font-size="21" fill="#fff" opacity="0.84">教程 · C++ · 算法</text>
+
+  <rect x="760" y="76" width="368" height="440" rx="32" fill="#fff" opacity="0.09" stroke="#fff" stroke-opacity="0.28"/>
+  <g clip-path="url(#art-clip)" transform="translate(-10 28) scale(0.96)">
+  <g font-family="'Fira Code',monospace" fill="rgba(255,255,255,0.92)" text-anchor="end">
+    <text x="1080" y="170" font-size="42" font-weight="700">9999999999</text>
+    <text x="1080" y="220" font-size="42" font-weight="700">+ 8888888888</text>
+    <line x1="830" y1="235" x2="1080" y2="235" stroke="rgba(255,255,255,0.7)" stroke-width="2"/>
+    <text x="1080" y="285" font-size="42" font-weight="700" fill="#fff">18888888887</text>
+  </g>
+  <!-- 进位小字标注 -->
+  <text x="930" y="155" font-size="14" fill="#fff" font-family="'Fira Code',monospace" opacity="0.7">↑进位</text>
+  <text x="850" y="335" font-size="16" fill="rgba(255,255,255,0.65)" font-family="'Fira Code',monospace">逐位相加 · 处理进位</text>
+  </g>
+  <text x="1102" y="492" text-anchor="end" font-size="13" letter-spacing="2" fill="#fff" opacity="0.58">VISUAL INDEX / 03</text>
+
+  <line x1="80" y1="560" x2="1120" y2="560" stroke="#fff" stroke-opacity="0.28"/>
+  <text x="80" y="608" font-size="17" letter-spacing="2" fill="#fff" opacity="0.72">2026 / 06 / 02</text>
+  <text x="1120" y="608" text-anchor="end" font-size="17" letter-spacing="2" fill="#fff" opacity="0.72">SAKIKOBLOG.INFO</text>
+  <circle cx="80" cy="636" r="4" fill="#fff" opacity="0.75"/>
+  <line x1="96" y1="636" x2="270" y2="636" stroke="#fff" stroke-opacity="0.3"/>
+</svg>

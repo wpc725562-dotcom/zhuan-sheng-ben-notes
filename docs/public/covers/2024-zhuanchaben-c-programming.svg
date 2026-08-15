@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0984e3"/>
+      <stop offset="1" stop-color="#5f27cd"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#050816" stop-opacity="0.34"/>
+      <stop offset="0.62" stop-color="#050816" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#050816" stop-opacity="0.24"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#fff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="art-clip"><rect x="760" y="76" width="368" height="440" rx="32"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#shade)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+  <path d="M -80 610 L 760 -80 L 910 -80 L 70 690 Z" fill="#fff" opacity="0.045"/>
+  <circle cx="1160" cy="-20" r="260" fill="#fff" opacity="0.06"/>
+
+  <text x="80" y="78" font-size="18" font-weight="700" letter-spacing="4" fill="#fff" opacity="0.82">SAKIKO / FIELD NOTES</text>
+  <text x="1120" y="78" font-size="18" font-weight="700" letter-spacing="2" text-anchor="end" fill="#fff" opacity="0.82">NO. 09</text>
+  <line x1="80" y1="104" x2="1120" y2="104" stroke="#fff" stroke-opacity="0.28"/>
+
+  <g>
+    <rect x="80" y="154" width="128" height="38" rx="19" fill="#fff" opacity="0.16"/>
+    <text x="144" y="179" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="2" fill="#fff">ARTICLE</text>
+  </g>
+
+  <text font-size="43" font-weight="750" fill="#fff" letter-spacing="-1"><tspan x="80" y="270">2024年广东专插本《计算机基础与程序</tspan><tspan x="80" y="332">设计》真题回忆版+详解</tspan></text>
+  <line x1="80" y1="376" x2="650" y2="376" stroke="#fff" stroke-opacity="0.5"/>
+  <text x="80" y="420" font-size="21" fill="#fff" opacity="0.84">专插本 · C语言 · 数据结构</text>
+
+  <rect x="760" y="76" width="368" height="440" rx="32" fill="#fff" opacity="0.09" stroke="#fff" stroke-opacity="0.28"/>
+  <g clip-path="url(#art-clip)" transform="translate(-10 28) scale(0.96)">
+  <g transform="translate(810 110)">
+    <rect width="270" height="210" rx="10" fill="rgba(0,0,0,0.4)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+    <!-- 顶栏 -->
+    <rect width="270" height="36" rx="10" fill="rgba(255,255,255,0.1)"/>
+    <rect y="26" width="270" height="10" fill="rgba(255,255,255,0.1)"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+    <text x="135" y="23" font-size="13" fill="rgba(255,255,255,0.6)" font-family="'Fira Code',monospace" text-anchor="middle">exam_2024.c</text>
+    <!-- 代码行 -->
+    <text x="20" y="68" font-size="14" fill="#7fcdff" font-family="'Fira Code',monospace">int</text>
+    <text x="50" y="68" font-size="14" fill="#fff" font-family="'Fira Code',monospace">main() {</text>
+    <text x="35" y="92" font-size="14" fill="#7fcdff" font-family="'Fira Code',monospace">int</text>
+    <text x="65" y="92" font-size="14" fill="#fff" font-family="'Fira Code',monospace">n, sum = 0;</text>
+    <text x="35" y="116" font-size="14" fill="#c792ea" font-family="'Fira Code',monospace">scanf</text>
+    <text x="88" y="116" font-size="14" fill="#fff" font-family="'Fira Code',monospace">("%d", &amp;n);</text>
+    <text x="35" y="140" font-size="14" fill="#c792ea" font-family="'Fira Code',monospace">for</text>
+    <text x="68" y="140" font-size="14" fill="#fff" font-family="'Fira Code',monospace">(i=0; i&lt;n; i++)</text>
+    <text x="50" y="164" font-size="14" fill="#fff" font-family="'Fira Code',monospace">sum += i;</text>
+    <text x="35" y="188" font-size="14" fill="#c792ea" font-family="'Fira Code',monospace">printf</text>
+    <text x="90" y="188" font-size="14" fill="#fff" font-family="'Fira Code',monospace">("%d", sum);</text>
+    <text x="20" y="208" font-size="14" fill="#fff" font-family="'Fira Code',monospace">}</text>
+  </g>
+  </g>
+  <text x="1102" y="492" text-anchor="end" font-size="13" letter-spacing="2" fill="#fff" opacity="0.58">VISUAL INDEX / 09</text>
+
+  <line x1="80" y1="560" x2="1120" y2="560" stroke="#fff" stroke-opacity="0.28"/>
+  <text x="80" y="608" font-size="17" letter-spacing="2" fill="#fff" opacity="0.72">2026 / 06 / 04</text>
+  <text x="1120" y="608" text-anchor="end" font-size="17" letter-spacing="2" fill="#fff" opacity="0.72">SAKIKOBLOG.INFO</text>
+  <circle cx="80" cy="636" r="4" fill="#fff" opacity="0.75"/>
+  <line x1="96" y1="636" x2="270" y2="636" stroke="#fff" stroke-opacity="0.3"/>
+</svg>
