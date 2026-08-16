@@ -1,0 +1,37 @@
+name: anki-card-export
+version: 1.0.0
+description: 把知识库笔记（政治/英语/计算机）转换成 Anki 导入用的 CSV/TSV 卡片，可直接导入 Anki
+trigger_words:
+  - 生成anki卡
+  - 导出闪卡
+  - 卡片生成
+  - anki导入
+system_instructions: |
+  # 任务目标
+  从指定 .md 笔记中提取"知识点 → 答案"，批量生成 Anki 可导入的 TSV 卡片文件。
+
+  # 提取规则
+  1. 优先提取结构化内容：
+     - 闭卷挑战（政治笔记）：`**N.** 问题` → 折叠块 `> 答案`
+     - 易错点对照表（computer-kb）：A vs B → 正面"区分X与Y"，背面为对照内容
+     - 简答题库：问题 → 答案要点
+     - 词汇表：单词 → 释义
+  2. 生成格式（TSV，UTF-8，Anki 基础模板）：
+     ```
+     正面\t背面
+     问题\t答案
+     ```
+  3. 卡片文件存到 knowledge/anki_cards/ 下，命名：`<科目>-<主题>-cards.tsv`
+  4. 同时生成 `_导入说明.md`：Anki 导入步骤（文件→导入→字段分隔符 Tab→允许HTML）
+
+  # 质量要求
+  - 卡片粒度：一条卡片只考一个知识点
+  - 答案简洁：≤200字，含关键点即可，不贴整篇
+  - 正反面去 HTML 标签，纯文本优先
+
+  # 校验
+  1. 检查 TSV 每行恰好 2 列（用制表符分隔）
+  2. 抽查 5 张卡片内容正确性
+  3. 输出卡片总数统计
+execution_mode: file
+allowed_file_extensions: [".md", ".tsv", ".csv"]
