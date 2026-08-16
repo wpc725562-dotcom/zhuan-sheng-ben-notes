@@ -59,7 +59,6 @@ __pycache__/
 # (actual cache lives outside repo at D:/专升本/_pdf_cache/ — belt & suspenders)
 _pdf_cache/
 **/_pdf_cache/
-*.PNG
 # OCR intermediate dumps if someone copies them under notes root
 **/_ocr_raw/
 **/*_tesseract.txt

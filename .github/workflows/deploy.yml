@@ -29,6 +29,14 @@ jobs:
           node-version: 20
           cache: npm
 
+      - name: Diagnostics
+        run: |
+          node --version
+          npm --version
+          git log --oneline -3
+          echo "--- npm config ---"
+          npm config get registry
+
       - name: Install
         run: npm ci
 
@@ -38,7 +46,7 @@ jobs:
         run: npm run docs:build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: docs/.vitepress/dist
 
@@ -51,4 +59,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
