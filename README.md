@@ -2,171 +2,138 @@
   <img src="https://img.shields.io/badge/广东专升本-计算机类-blue?style=for-the-badge&logo=github" alt="Badge">
   <img src="https://img.shields.io/badge/适用-2027届-brightgreen?style=for-the-badge" alt="Year">
   <img src="https://img.shields.io/badge/状态-备考中-yellow?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/PR-welcome-orange?style=for-the-badge" alt="PR">
+  <img src="https://img.shields.io/badge/笔记-20+篇-orange?style=for-the-badge" alt="Notes">
+  <img src="https://img.shields.io/badge/模拟卷-3套-red?style=for-the-badge" alt="Exams">
 </p>
 
-<h1 align="center">📚 广东专升本 · 复习笔记库</h1>
+<h1 align="center">📚 广东专升本 · 计算机复习笔记库</h1>
 
 <p align="center">
-  <strong>Obsidian 同步仓库 · 公共课 + 计算机专业课</strong><br>
+  <strong>VitePress 知识库 · 20+ 篇标准化笔记 · 3 套全真模拟卷</strong><br>
   🎯 目标：公办本科 · 计算机类 · 2027 年 3 月考试
 </p>
 
 <p align="center">
-  <a href="#-快速开始">🚀 快速开始</a> •
-  <a href="#-科目导航">📖 科目导航</a> •
-  <a href="#-备考计划">📅 备考计划</a> •
-  <a href="#-学习资料">📚 学习资料</a> •
-  <a href="#-目录结构">📁 目录结构</a>
+  <a href="#-仓库结构">📁 仓库结构</a> •
+  <a href="#-学习路线">📖 学习路线</a> •
+  <a href="#-笔记使用说明">📝 笔记使用说明</a> •
+  <a href="#-模拟卷使用说明">📄 模拟卷使用说明</a> •
+  <a href="#-在线访问">🌐 在线访问</a>
 </p>
 
 ---
 
-## 🚀 快速开始
+## 🎯 项目简介
 
-```bash
-# 1. 克隆仓库
-git clone https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes.git
+本仓库是基于 **2026 年广东专升本计算机考纲** 构建的完整复习知识库，覆盖《计算机基础与程序设计》全部 21 个考点，包含：
 
-# 2. 用 Obsidian 打开
-# 打开 Obsidian → 打开本地文件夹 → 选择克隆的目录
-
-# 3. 或者用 VitePress 预览网站
-npm install
-npm run docs:dev
-```
-
-> 💡 **零基础？** 先看 [[备考计划/2027届-完整备考时间线|📅 备考时间线]] → 再看 [[备考计划/各科零基础学习指南|📖 学习指南]] → 开始学习！
-
----
-
-## 📖 科目导航
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>💻 计算机基础与程序设计</h3>
-      <p><strong>200分 · 占比40% · ⭐⭐⭐⭐⭐</strong></p>
-      <p>C语言 + 数据结构</p>
-      <a href="计算机程序设计.md">📂 进入笔记 →</a><br>
-      <a href="历年真题/计算机程序设计/_索引.md">📝 刷真题 →</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>📐 高等数学</h3>
-      <p><strong>100分 · 占比20% · ⭐⭐⭐⭐</strong></p>
-      <p>函数→极限→导数→积分→微分方程</p>
-      <a href="高等数学.md">📂 进入笔记 →</a><br>
-      <a href="历年真题/高等数学/_索引.md">📝 刷真题 →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🏛️ 政治理论</h3>
-      <p><strong>100分 · 占比20% · ⭐⭐⭐</strong></p>
-      <p>毛中特 + 习思想 + 时事政治</p>
-      <a href="政治.md">📂 进入笔记 →</a><br>
-      <a href="历年真题/政治理论/_索引.md">📝 刷真题 →</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🇬🇧 英语</h3>
-      <p><strong>100分 · 占比20% · ⭐⭐</strong></p>
-      <p>语法 + 阅读 + 完形 + 写作</p>
-      <a href="英语.md">📂 进入笔记 →</a><br>
-      <a href="历年真题/公共英语/_索引.md">📝 刷真题 →</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📅 备考计划
-
-> 专为 **零基础 · 2027届** 考生设计，从入门到上岸的完整路径。
-
-| 文件 | 说明 | 适合人群 |
-|:---|:---|:---:|
-| [📅 完整备考时间线](备考计划/2027届-完整备考时间线.md) | 从现在到考前的月/周详细计划 | 所有人 |
-| [📖 各科零基础学习指南](备考计划/各科零基础学习指南.md) | 四科分别怎么从零开始学 | 零基础 ✅ |
-| [📝 每日学习日志模板](备考计划/每日学习日志模板.md) | 每天记录学习进度 | 所有人 |
-| [❌ 错题本模板](备考计划/错题本模板.md) | 记录错题，针对性补弱 | 所有人 |
-| [✅ 进度自测表](备考计划/进度自测表.md) | 每阶段自测掌握程度 | 所有人 |
-
----
-
-## 📚 学习资料
-
-| 文件 | 大小 | 内容 |
+| 资源 | 数量 | 说明 |
 |:---|:---:|:---|
-| [📚 学习资源大全](资料/学习资源大全.md) | 11 KB | 20+ B站UP主 · 10+ APP · 10+ 网站 · 教材推荐 |
-| [📐 数学公式速查卡](资料/数学公式速查卡.md) | 32 KB | 8章全部公式，LaTeX格式，高频标记 |
-| [💻 C语言代码示例库](资料/C语言代码示例库.md) | 92 KB | 21个专题，完整可运行代码 |
-| [📊 数据结构算法模板](资料/数据结构算法模板.md) | 21 KB | 29个算法模板，含时间复杂度和稳定性 |
-| [❓ 高频简答题库](资料/高频简答题库.md) | 32 KB | 45道简答题（C语言20+数据结构15+政治10） |
-| [❌ 政治选择题题库](资料/政治选择题题库.md) | 43 KB | 100道选择题（63单选+37多选） |
-| [🧮 高数计算题专项训练](资料/高数计算题专项训练.md) | 30 KB | 50道计算题，覆盖8章，含完整步骤 |
-| [📅 刷题计划卡](资料/刷题计划卡.md) | 17 KB | 每日计划+每周统计+打卡日历+进度曲线 |
+| 标准化笔记 | 20+ 篇 | 统一 6 模块模板（考情/引入/核心/例题/扣分坑/自测）|
+| 真题审计报告 | 14 份 | 每章基于 2021-2026 年真题的考点频次/分值/陷阱分析 |
+| 汇总文档 | 2 份 | 全书索引目录、高频错题汇总 |
+| 全真模拟卷 | 3 套 | 每套 45 题 200 分，含完整参考答案和解析 |
+| 专项训练 | 2 份 | 编程题做题策略、改错题专项训练 |
 
 ---
 
-## 📁 目录结构
+## 📁 仓库结构
 
 ```
 zhuan-sheng-ben-notes/
-├── 📁 备考计划/              # 零基础备考计划（时间线/指南/日志/错题本/自测）
-├── 📁 资料/                  # 学习资料（公式/代码/算法/简答/选择/计算/刷题卡）
-├── 📁 历年真题/              # 2008-2024 全科真题
-│   ├── 📁 计算机程序设计/    # C + 数据结构 真题 + 考点拆分
-│   ├── 📁 公共英语/          # 2020-2024 标准试卷排版
-│   ├── 📁 高等数学/
-│   └── 📁 政治理论/
-├── 📁 计算机程序设计/        # ⚠️ 系统笔记实际位于 docs/posts/computer/notes/（C语言 1.x + 数据结构 2.x）
-├── 📁 高等数学/              # 8章53篇系统笔记
-├── 📁 政治理论/              # 19篇系统笔记
-├── 📁 编程技能/              # 零基础教程(12课) + 英语笔记
-├── 📁 docs/                  # VitePress 网站源码
-│   ├── 📁 posts/             # 网页版文章
-│   └── 📁 public/            # 静态资源
-├── 📁 guangdong-zhuanshengben-resources/  # 外部资源库
-├── 计算机程序设计.md         # 计算机 MoC 入口
-├── 高等数学.md               # 高数 MoC 入口
-├── 政治.md                   # 政治 MoC 入口
-├── 英语.md                   # 英语 MoC 入口
-└── README.md                 # 你在这里
+├── docs/posts/computer/notes/     # 📖 核心笔记（20+ 篇，VitePress 站点源）
+│   ├── 0.0-计算机基础理论.md        # 前置总览
+│   ├── 1.1-1.11  C语言笔记         # 11 篇系统笔记
+│   ├── 2.1-2.9  数据结构笔记       # 9 篇系统笔记
+│   ├── 3.0-改错题专项训练.md        # 改错题专项
+│   ├── 3.3-编程题做题策略.md        # 编程题专项
+│   ├── 高频错题汇总.md              # 全局高错陷阱
+│   └── index.md                    # 全书索引目录
+├── knowledge/audit/               # 📋 14 份章节审计报告
+├── plan/                          # 📄 模拟卷
+│   ├── 模拟卷命题评估方案.md         # 命题方案
+│   ├── 模拟卷-卷一-基础巩固卷.md     # 卷一
+│   ├── 模拟卷-卷二-综合中档卷.md     # 卷二
+│   └── 模拟卷-卷三-拔高冲刺卷.md     # 卷三
+├── agent-troubleshoot/            # Agent 排障库
+├── computer-kb/                   # 考点速查
+├── skills/                        # 技能库
+├── tests/                         # 单元测试
+├── docs/.vitepress/               # VitePress 站点配置
+└── .github/workflows/             # CI/CD 自动部署
 ```
 
 ---
 
-## 🎯 目标分数
+## 📖 学习路线
 
-| 科目 | 目标分数 | 占比 | 优先级 |
-|:---|:---:|:---:|:---:|
-| 💻 计算机基础与程序设计 | **160+** | 40% | ⭐⭐⭐⭐⭐ |
-| 📐 高等数学 | **80+** | 20% | ⭐⭐⭐⭐ |
-| 🏛️ 政治理论 | **75+** | 20% | ⭐⭐⭐ |
-| 🇬🇧 英语 | **70+** | 20% | ⭐⭐ |
-| **总分** | **385+** | **100%** | |
+### 阶段一：基础入门（第一轮）
+
+| 顺序 | 内容 | 时间 |
+|:---:|:---|:---:|
+| 1 | [0.0 计算机基础理论](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/0.0-计算机基础理论) | 1 天 |
+| 2 | [1.1 C语言概述](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.1-C语言概述与基本概念) → [1.5 循环结构](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.5-循环结构程序设计) | 5 天 |
+| 3 | [1.6 数组](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.6-数组) → [1.7 函数](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.7-函数) → [1.8 指针](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.8-指针) | 5 天 |
+| 4 | [1.9 结构体](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.9-结构体与共用体) → [1.10 文件](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.10-文件操作) | 2 天 |
+
+### 阶段二：数据结构（第二轮）
+
+| 顺序 | 内容 | 时间 |
+|:---:|:---|:---:|
+| 1 | [2.1 数据结构概念](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.1-数据结构基本概念) → [2.2 线性表](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.2-线性表) → [2.3 栈和队列](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.3-栈和队列) | 4 天 |
+| 2 | [2.4 串/数组/广义表](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.4-串、数组和广义表) → [2.5 树和二叉树](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.5-树和二叉树) | 3 天 |
+| 3 | [2.6 图](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.6-图) → [2.7 查找](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.7-查找) → [2.8 排序](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.8-排序) | 4 天 |
+
+### 阶段三：专项突破 + 模拟（第三轮）
+
+| 顺序 | 内容 | 时间 |
+|:---:|:---|:---:|
+| 1 | [3.0 改错题专项](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/3.0-改错题专项训练) | 1 天 |
+| 2 | [3.3 编程题策略](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/3.3-编程题做题策略) | 1 天 |
+| 3 | [高频错题汇总](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/高频错题汇总) 复盘 | 1 天 |
+| 4 | 卷一 → 卷二 → 卷三 限时模拟 | 3 天 |
 
 ---
 
-## 🔗 推荐先看
+## 📝 笔记使用说明
 
-| 推荐 | 链接 |
-|:---|:---|
-| ⭐ **计算机 2024 全卷详解** | [`历年真题/计算机程序设计/2024.md`](历年真题/计算机程序设计/2024.md) |
-| ⭐ **考点拆分（分批刷题）** | [`历年真题/计算机程序设计/考点拆分/_索引.md`](历年真题/计算机程序设计/考点拆分/_索引.md) |
-| ⭐ **B站学习资源库** | [`docs/guide/B站学习资源库.md`](docs/guide/B站学习资源库.md) |
-| ⭐ **零基础学习路线** | [`docs/guide/零基础学习路线.md`](docs/guide/零基础学习路线.md) |
+每篇笔记遵循 **6 模块统一模板**：
+
+| 模块 | 图标 | 内容 |
+|:---|:---:|:---|
+| 历年真题考情 | ① 📊 | 出题频次星级、常考题型、预估分值、学习目标 |
+| 零基础大白话引入 | ② 🗣️ | 生活化类比（厨师/储物柜/排队等）|
+| 正式核心知识点讲解 | ③ 📖 | 考纲要求 + 真题实考内容，禁止超纲 |
+| 真题同源例题 | ④ 🧪 | 入门基础题 + 真题改编题，逐变量推演 |
+| 历年真题高频扣分坑 | ⑤ ⚠️ | 每章 10 条陷阱表，含出处年份 |
+| 课后自测练习题 | ⑥ 📝 | 2-5 题真题风格 + VitePress 折叠答案 |
 
 ---
 
-## 📝 刷题建议
+## 📄 模拟卷使用说明
 
-```
-1. 闭卷限时做 2024 全卷摸底
-2. 错题进「考点拆分」01–05 回炉
-3. 回系统笔记 1.x / 2.x 补概念
-4. 每周手撕 ≥2 道编程 + 1 道简答
-```
+- **三卷递进**：卷一摸底（基础 60%）→ 卷二强化（中档 50%）→ 卷三冲刺（拔高 40%）
+- **全真还原**：每套 45 题 200 分，题型/题量/时间与真题一致
+- **参考答案**：每卷附 `<details>` 折叠完整答案，含解析和可运行代码
+- **考点覆盖**：三卷合计覆盖全部 21 个考纲考点
+
+---
+
+## 🌐 在线访问
+
+**VitePress 站点**：https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/
+
+> 站点全量同步笔记内容，支持搜索、导航、代码高亮、数学公式渲染。
+
+---
+
+## 🛠️ 技术栈
+
+- **框架**：VitePress 1.6 + Vue 3
+- **部署**：GitHub Actions → GitHub Pages
+- **数学公式**：markdown-it-mathjax3
+- **代码高亮**：highlight.js
+- **搜索**：VitePress 本地搜索
 
 ---
 
@@ -174,21 +141,13 @@ zhuan-sheng-ben-notes/
 
 | 日期 | 更新内容 |
 |:---|:---|
-| 2026-08-15 | **新增考试题库**：政治选择题100题 + 高数计算题50题；英语2020真题排版优化 |
-| 2026-08-15 | **新增学习资料**：高数公式速查卡 + C语言代码示例库 + 数据结构算法模板 + 高频简答题库 + 刷题计划卡 |
-| 2026-08-15 | **新增学习资源大全**：B站UP主 + APP + 网站 + 教材汇总；英语真题试卷优化排版 |
-| 2026-08-15 | **新增备考计划**：零基础时间线 + 各科学习指南 + 日志/错题本/自测表模板 |
-| 2026-07-23 | **补全资料**：英语 2008–2024 真题入库；谭浩强辅导书归档；网站英语页上线 |
-| 2026-07-23 | VitePress 学习站骨架 + 2024 计算机网页版 + Pages 自动部署 |
-| 2026-07-23 | 计算机 2024 全量详解 + 考点拆分入库；README 上线 |
-| 2026-07-22 | 初建四科历年真题骨架 |
+| 2026-08-16 | P0-P4 全项目闭环：20+ 篇笔记重制、14 份审计报告、3 套模拟卷、2 份汇总文档 |
+| 2026-08-15 | 笔记审计流水线启动，全局 6 模块格式统一，CI 修复 |
 
 ---
 
-## 📄 许可
-
-仅供个人学习使用。真题来源于网络回忆版，版权归原作者所有。
-
 <p align="center">
-  <a href="#-广东专升本--复习笔记库">⬆ 回到顶部</a>
+  <strong>📚 广东专升本 · 计算机复习笔记库</strong><br>
+  <a href="https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/">🌐 在线访问</a> •
+  <a href="https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes">📦 GitHub 仓库</a>
 </p>
