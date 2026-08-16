@@ -1,7 +1,9 @@
 ---
-title: "计算机 · 考试大纲与试卷结构"
-description: "题型分值与考点地图"
+title: "考纲一览"
+description: "计算机程序设计 · 考纲一览"
+category: "computer-note"
 ---
+
 
 # 计算机 · 考试大纲与试卷结构
 
