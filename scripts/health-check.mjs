@@ -104,7 +104,7 @@ function checkBrokenLinks() {
         // 检查 wiki 双链 [[...]]
         const wikiLinks = content.match(/\[\[([^\]]+)\]\]/g) || [];
         for (const link of wikiLinks) {
-          const target = link.slice(2, -2).split('#')[0]; // 去掉 [[ 和 ]]，去掉锚点
+          const target = link.slice(2, -2).replace(/\|.+$/, '').split('#')[0]; // 去掉 [[ 和 ]]，去掉 |显示文字 和 #锚点
           if (!target) continue;
           // 尝试按 basename 匹配
           const found = findFileByBasename(target, docsDir);
