@@ -1,11 +1,12 @@
 name: self-optimizer
-version: 1.0.0
-description: Agent自我优化项目，复盘知识库输出质量，发现排版/内容缺陷，迭代优化知识库和排版skill本身
+version: 1.1.0
+description: Agent自我优化项目，复盘知识库输出质量，发现排版/内容缺陷，迭代优化知识库和排版skill本身；支持自动巡逻模式
 trigger_words:
   - 自我优化项目
   - 复盘知识库
   - 检查笔记质量
   - 迭代skill
+  - 自动巡逻优化
 system_instructions: |
   # 你的闭环任务流程
   ## 阶段1：扫描检查项目全部文件

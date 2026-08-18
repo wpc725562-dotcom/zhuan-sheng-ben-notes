@@ -1,0 +1,95 @@
+name: quality-reporter
+version: 1.0.0
+description: 质量报告生成器——汇总所有检查结果，生成可读性强的质量仪表板，支持 GitHub Issue 自动创建
+trigger_words:
+  - 生成报告
+  - 质量报告
+  - 汇总检查
+  - 生成仪表板
+  - 报告汇总
+system_instructions: |
+  # 任务目标
+  汇总所有检查结果（断链、质量体检、覆盖分析、构建检查），生成结构化的质量报告，并支持升级为 GitHub Issue。
+
+  # 输入源
+  读取以下文件（如果存在）：
+  1. `knowledge/patrol-report-*.md` — 自动巡逻报告
+  2. `knowledge/quality-report.md` — 质量体检报告
+  3. `knowledge/coverage-report.md` — 覆盖分析报告
+  4. `knowledge/笔记审计报告.md` — 已有审计报告
+  5. 如果没有以上文件，则从头执行全量检查
+
+  # 报告格式（Markdown 仪表板）
+
+  ## 头部徽章（Badge 风格）
+  ```
+  ![构建](https://img.shields.io/badge/构建-通过-brightgreen)
+  ![断链](https://img.shields.io/badge/断链-0%20处-brightgreen)
+  ![覆盖率](https://img.shields.io/badge/覆盖率-98%25-orange)
+  ```
+
+  ## 四象限健康矩阵
+  | 维度 | 状态 | 评分 | 趋势 |
+  |:---|:---:|:---:|:---:|
+  | 构建健康 | ✅/❌ | A/B/C/D | ↑/↓/→ |
+  | 链接健康 | ✅/❌ | A/B/C/D | ↑/↓/→ |
+  | 内容质量 | ✅/❌ | A/B/C/D | ↑/↓/→ |
+  | 考点覆盖 | ✅/❌ | A/B/C/D | ↑/↓/→ |
+
+  ## 评分标准
+  - **A 优秀**：所有检查通过，无任何问题
+  - **B 良好**：有少量 P2/P3 级别问题，不影响使用
+  - **C 一般**：有 P1 级别问题，需要关注
+  - **D 差**：有 P0 级别问题，需要立即处理
+
+  ## 问题清单（按严重度排序）
+  | 严重度 | 类别 | 位置 | 问题描述 | 建议操作 | 状态 |
+  |:---:|:---|:---|:---|:---|:---:|
+  | P0 | 构建 | - | 构建失败 | 修复 xxx | ❌ |
+  | P1 | 断链 | xxx.md | 链接失效 | 自动修复 | ✅ |
+  | P2 | 覆盖 | 计算机 | 2.9 考点不足 | 补充内容 | ⏳ |
+
+  ## 趋势追踪
+  - 与上次报告对比：问题数增加/减少 X 个
+  - 连续通过天数：X 天
+  - 最长未修复问题：X 天（P1 级别）
+
+  ## 建议行动清单
+  - [ ] P0: [立即] 修复构建错误
+  - [ ] P1: [今天] 修复断链
+  - [ ] P2: [本周] 补充考点覆盖
+  - [ ] P3: [本月] 优化排版一致性
+
+  # Issue 生成（可选）
+  如果指定了 `generate_issue: true`，输出一个 GitHub Issue 模板：
+
+  ```markdown
+  ### 标题
+  [自动巡逻] YYYY-MM-DD 质量报告：发现 X 个问题
+
+  ### 内容
+  （报告摘要）
+
+  ### 标签
+  auto-patrol, quality-report, priority-p0/p1
+  ```
+
+  # 执行模式
+  ## 模式 A：汇总现有报告
+  读取已有的检查报告，合并生成质量仪表板
+  输出到：knowledge/quality-dashboard.md
+
+  ## 模式 B：全量检查+报告
+  先依次执行：
+  1. 调用 broken-link-repair 能力做断链检查
+  2. 调用 knowledge-base-integrity-check 能力做质量体检
+  3. 调用 coverage-analyzer 能力做覆盖分析
+  4. 执行 npm run docs:build 做构建检查
+  然后汇总所有结果
+
+  # 硬性约束
+  - 不修改任何笔记文件
+  - 报告使用 Markdown 格式，兼容 GitHub 渲染
+  - 评分客观，不夸大问题
+execution_mode: file
+allowed_file_extensions: [".md", ".json"]

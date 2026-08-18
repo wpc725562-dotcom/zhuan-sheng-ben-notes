@@ -11,7 +11,11 @@
     "docs:sync": "node scripts/sync-obsidian-to-blog.mjs",
     "docs:fill-gaps": "node scripts/fill-gaps-from-web.mjs",
     "docs:fill-exams": "python scripts/fill_more_exams.py",
-    "docs:fill-abc": "python scripts/fill_abc_exams.py"
+    "docs:fill-abc": "python scripts/fill_abc_exams.py",
+    "health:check": "node scripts/health-check.mjs",
+    "health:quick": "node scripts/health-check.mjs --quick",
+    "health:coverage": "node scripts/health-check.mjs --coverage",
+    "health:json": "node scripts/health-check.mjs --json"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",

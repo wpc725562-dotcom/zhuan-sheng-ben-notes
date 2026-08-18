@@ -1,0 +1,426 @@
+name: 🚨 Auto Patrol - 自动仓库巡逻
+
+on:
+  # 每次推送到 main 时触发
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'agent-skills/**'
+      - 'skills/**'
+      - 'knowledge/**'
+      - 'package.json'
+      - 'package-lock.json'
+
+  # 每天凌晨 3:00 全量检查
+  schedule:
+    - cron: '0 3 * * *'
+
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      patrol_level:
+        description: '巡逻级别'
+        required: true
+        default: 'full'
+        type: choice
+        options:
+          - full        # 全量检查（默认）
+          - quick       # 快速检查（仅 P0）
+          - coverage    # 仅覆盖分析
+      auto_fix:
+        description: '自动修复（P0/P1 问题）'
+        required: true
+        default: true
+        type: boolean
+      create_issue:
+        description: '严重问题自动创建 Issue'
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+  pages: read
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: auto-patrol-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  patrol:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # ============================================================
+      # P0: 站点构建检查
+      # ============================================================
+      - name: '🔨 [P0] 站点构建检查'
+        id: build_check
+        continue-on-error: true
+        run: |
+          echo "🛠 开始构建检查..."
+          if npm run docs:build 2>&1; then
+            echo "status=passed" >> $GITHUB_OUTPUT
+            echo "✅ 构建成功"
+          else
+            echo "status=failed" >> $GITHUB_OUTPUT
+            echo "❌ 构建失败"
+          fi
+
+      # ============================================================
+      # P0: 断链检查
+      # ============================================================
+      - name: '🔗 [P0] 断链检查'
+        id: link_check
+        continue-on-error: true
+        run: |
+          echo "🛠 开始断链检查..."
+          # 扫描 docs/ 下所有 .md 文件中的 wiki 双链和 markdown 链接
+          BROKEN_COUNT=0
+          FIXED_COUNT=0
+          REPORT_FILE="knowledge/link-report.md"
+          
+          echo "# 断链检查报告" > "$REPORT_FILE"
+          echo "- 检查时间: $(date '+%Y-%m-%d %H:%M')" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          # 检查 wiki 双链 [[...]]
+          echo "## Wiki 双链检查" >> "$REPORT_FILE"
+          for file in $(find docs/ -name "*.md"); do
+            # 提取所有 [[link]] 链接
+            while IFS= read -r line; do
+              if [[ $line =~ \[\[([^]]+)\]\] ]]; then
+                link="${BASH_REMATCH[1]}"
+                # 提取链接目标（去掉 # 锚点部分）
+                target="${link%%#*}"
+                # 尝试匹配文件（Obsidian 按 basename 匹配）
+                found=$(find docs/ -name "${target}.md" 2>/dev/null | head -1)
+                if [[ -z "$found" ]]; then
+                  # 尝试空格→连字符
+                  alt_target=$(echo "$target" | tr ' ' '-')
+                  found=$(find docs/ -name "${alt_target}.md" 2>/dev/null | head -1)
+                fi
+                if [[ -z "$found" ]]; then
+                  echo "- ❌ $file → [[$link]]" >> "$REPORT_FILE"
+                  ((BROKEN_COUNT++))
+                fi
+              fi
+            done < <(grep -oP '\[\[[^\]]+\]\]' "$file" 2>/dev/null || true)
+          done
+          
+          echo "" >> "$REPORT_FILE"
+          echo "## 统计" >> "$REPORT_FILE"
+          echo "- 断链数: $BROKEN_COUNT" >> "$REPORT_FILE"
+          
+          echo "status=$([ $BROKEN_COUNT -eq 0 ] && echo 'passed' || echo 'warning')" >> $GITHUB_OUTPUT
+          echo "broken_count=$BROKEN_COUNT" >> $GITHUB_OUTPUT
+          echo "report_file=$REPORT_FILE" >> $GITHUB_OUTPUT
+          echo "📊 断链统计: $BROKEN_COUNT 处"
+
+      # ============================================================
+      # P1: 知识库质量体检
+      # ============================================================
+      - name: '📋 [P1] 知识库质量体检'
+        id: quality_check
+        continue-on-error: true
+        run: |
+          echo "🛠 开始质量体检..."
+          REPORT_FILE="knowledge/quality-report.md"
+          ISSUES=0
+          
+          echo "# 知识库质量体检报告" > "$REPORT_FILE"
+          echo "- 检查时间: $(date '+%Y-%m-%d %H:%M')" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          # 检查标题跳级
+          echo "## 标题层级检查" >> "$REPORT_FILE"
+          for file in $(find docs/posts/ -name "*.md"); do
+            prev_level=0
+            while IFS= read -r line; do
+              if [[ $line =~ ^(#+)\ (.*) ]]; then
+                level=${#BASH_REMATCH[1]}
+                if [[ $prev_level -gt 0 && $((level - prev_level)) -gt 1 ]]; then
+                  echo "- ⚠️ $file: 标题跳级 '#$(printf '#%.0s' $(seq 1 $prev_level))' → '$line'" >> "$REPORT_FILE"
+                  ((ISSUES++))
+                fi
+                prev_level=$level
+              fi
+            done < "$file"
+          done
+          
+          # 检查文件编码
+          echo "" >> "$REPORT_FILE"
+          echo "## 编码检查" >> "$REPORT_FILE"
+          for file in $(find docs/ -name "*.md"); do
+            if file "$file" | grep -q "BOM"; then
+              echo "- ⚠️ $file: 包含 BOM 头" >> "$REPORT_FILE"
+              ((ISSUES++))
+            fi
+            if grep -qP '\x{FFFD}' "$file" 2>/dev/null; then
+              echo "- ❌ $file: 包含乱码字符" >> "$REPORT_FILE"
+              ((ISSUES++))
+            fi
+          done
+          
+          echo "" >> "$REPORT_FILE"
+          echo "## 统计" >> "$REPORT_FILE"
+          echo "- 发现问题: $ISSUES 处" >> "$REPORT_FILE"
+          
+          echo "status=$([ $ISSUES -eq 0 ] && echo 'passed' || echo 'warning')" >> $GITHUB_OUTPUT
+          echo "issues=$ISSUES" >> $GITHUB_OUTPUT
+          echo "📊 质量体检: $ISSUES 处问题"
+
+      # ============================================================
+      # P1: 索引一致性检查
+      # ============================================================
+      - name: '📑 [P1] 索引一致性检查'
+        id: index_check
+        continue-on-error: true
+        run: |
+          echo "🛠 开始索引一致性检查..."
+          MISSING_INDEX=0
+          REPORT_FILE="knowledge/index-report.md"
+          
+          echo "# 索引一致性检查报告" > "$REPORT_FILE"
+          echo "- 检查时间: $(date '+%Y-%m-%d %H:%M')" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          # 检查各内容目录是否有 index.md
+          for dir in docs/posts/*/notes/ docs/posts/*/topics/; do
+            if [[ -d "$dir" ]]; then
+              if [[ ! -f "${dir}index.md" ]]; then
+                echo "- ❌ $dir: 缺少 index.md" >> "$REPORT_FILE"
+                ((MISSING_INDEX++))
+              fi
+            fi
+          done
+          
+          # 检查源目录 vs docs 同步状态
+          echo "" >> "$REPORT_FILE"
+          echo "## 源目录 vs 站点目录对照" >> "$REPORT_FILE"
+          declare -A SOURCE_MAP
+          SOURCE_MAP["高等数学"]="docs/posts/math/notes"
+          SOURCE_MAP["政治理论"]="docs/posts/politics/notes"
+          SOURCE_MAP["编程技能/专升本英语/笔记"]="docs/posts/english/notes"
+          
+          for src in "${!SOURCE_MAP[@]}"; do
+            dst="${SOURCE_MAP[$src]}"
+            if [[ -d "$src" && -d "$dst" ]]; then
+              src_count=$(find "$src" -name "*.md" | wc -l)
+              dst_count=$(find "$dst" -name "*.md" | wc -l)
+              if [[ $src_count -ne $dst_count ]]; then
+                echo "- ⚠️ $src ($src_count) → $dst ($dst_count): 文件数不匹配" >> "$REPORT_FILE"
+                ((MISSING_INDEX++))
+              else
+                echo "- ✅ $src → $dst: 一致 ($src_count 文件)" >> "$REPORT_FILE"
+              fi
+            fi
+          done
+          
+          echo "" >> "$REPORT_FILE"
+          echo "## 统计" >> "$REPORT_FILE"
+          echo "- 问题数: $MISSING_INDEX" >> "$REPORT_FILE"
+          
+          echo "status=$([ $MISSING_INDEX -eq 0 ] && echo 'passed' || echo 'warning')" >> $GITHUB_OUTPUT
+          echo "📊 索引检查: $MISSING_INDEX 处问题"
+
+      # ============================================================
+      # P2: 知识点覆盖率分析
+      # ============================================================
+      - name: '📊 [P2] 知识点覆盖率分析'
+        if: inputs.patrol_level == 'full' || inputs.patrol_level == 'coverage'
+        continue-on-error: true
+        run: |
+          echo "🛠 开始覆盖分析..."
+          REPORT_FILE="knowledge/coverage-report.md"
+          
+          echo "# 知识点覆盖率分析报告" > "$REPORT_FILE"
+          echo "- 分析时间: $(date '+%Y-%m-%d %H:%M')" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          
+          # 数学覆盖率
+          echo "## 高等数学" >> "$REPORT_FILE"
+          math_expected=36
+          math_actual=$(find docs/posts/math/notes/ -name "*.md" ! -name "index.md" ! -name "syllabus.md" | wc -l)
+          math_pct=$(( math_actual * 100 / math_expected ))
+          echo "- 应覆盖: $math_expected 章节" >> "$REPORT_FILE"
+          echo "- 已覆盖: $math_actual 文件" >> "$REPORT_FILE"
+          echo "- 覆盖率: ${math_pct}%" >> "$REPORT_FILE"
+          
+          # 计算机覆盖率
+          echo "" >> "$REPORT_FILE"
+          echo "## 计算机基础与程序设计" >> "$REPORT_FILE"
+          cs_expected=20
+          cs_actual=$(find docs/posts/computer/notes/ -name "*.md" ! -name "index.md" ! -name "syllabus.md" | wc -l)
+          cs_pct=$(( cs_actual * 100 / cs_expected ))
+          echo "- 应覆盖: $cs_expected 考点" >> "$REPORT_FILE"
+          echo "- 已覆盖: $cs_actual 文件" >> "$REPORT_FILE"
+          echo "- 覆盖率: ${cs_pct}%" >> "$REPORT_FILE"
+          
+          # 英语覆盖率
+          echo "" >> "$REPORT_FILE"
+          echo "## 英语" >> "$REPORT_FILE"
+          en_actual=$(find docs/posts/english/notes/ -name "*.md" ! -name "index.md" | wc -l)
+          echo "- 笔记模块: $en_actual 个" >> "$REPORT_FILE"
+          en_years=$(find docs/posts/english/ -maxdepth 1 -name "*.md" ! -name "index.md" | wc -l)
+          echo "- 真题年份: $en_years 年" >> "$REPORT_FILE"
+          
+          # 政治覆盖率
+          echo "" >> "$REPORT_FILE"
+          echo "## 政治理论" >> "$REPORT_FILE"
+          po_expected=18
+          po_actual=$(find docs/posts/politics/notes/ -name "*.md" ! -name "index.md" | wc -l)
+          po_pct=$(( po_actual * 100 / po_expected ))
+          echo "- 应覆盖: $po_expected 模块" >> "$REPORT_FILE"
+          echo "- 已覆盖: $po_actual 文件" >> "$REPORT_FILE"
+          echo "- 覆盖率: ${po_pct}%" >> "$REPORT_FILE"
+          
+          # 总体
+          echo "" >> "$REPORT_FILE"
+          echo "## 总体概览" >> "$REPORT_FILE"
+          echo "| 科目 | 覆盖率 |" >> "$REPORT_FILE"
+          echo "|:---|:---:|" >> "$REPORT_FILE"
+          echo "| 高等数学 | ${math_pct}% |" >> "$REPORT_FILE"
+          echo "| 计算机 | ${cs_pct}% |" >> "$REPORT_FILE"
+          echo "| 政治 | ${po_pct}% |" >> "$REPORT_FILE"
+
+      # ============================================================
+      # 生成综合报告
+      # ============================================================
+      - name: '📝 生成综合巡逻报告'
+        id: generate_report
+        run: |
+          REPORT_FILE="knowledge/patrol-report-$(date '+%Y%m%d').md"
+          
+          {
+            echo "# 🚨 自动巡逻报告"
+            echo "- 巡逻时间: $(date '+%Y-%m-%d %H:%M:%S')"
+            echo "- 触发方式: ${{ github.event_name }}"
+            echo "- 巡逻级别: ${{ inputs.patrol_level || 'full' }}"
+            echo ""
+            echo "## ✅ 检查结果"
+            echo ""
+            echo "| 检查项 | 状态 | 详情 |"
+            echo "|:---|:---:|:---|"
+            
+            # 构建检查
+            BUILD_STATUS="${{ steps.build_check.outputs.status }}"
+            if [[ "$BUILD_STATUS" == "passed" ]]; then
+              echo "| 🔨 站点构建 | ✅ 通过 | 构建成功 |"
+            else
+              echo "| 🔨 站点构建 | ❌ 失败 | 请检查构建日志 |"
+            fi
+            
+            # 断链检查
+            LINK_STATUS="${{ steps.link_check.outputs.status }}"
+            BROKEN="${{ steps.link_check.outputs.broken_count }}"
+            if [[ "$LINK_STATUS" == "passed" ]]; then
+              echo "| 🔗 链接检查 | ✅ 通过 | 无断链 |"
+            else
+              echo "| 🔗 链接检查 | ⚠️ 警告 | $BROKEN 处断链 |"
+            fi
+            
+            # 质量检查
+            QUALITY_STATUS="${{ steps.quality_check.outputs.status }}"
+            QUALITY_ISSUES="${{ steps.quality_check.outputs.issues }}"
+            if [[ "$QUALITY_STATUS" == "passed" ]]; then
+              echo "| 📋 质量体检 | ✅ 通过 | 无问题 |"
+            else
+              echo "| 📋 质量体检 | ⚠️ 警告 | $QUALITY_ISSUES 处问题 |"
+            fi
+            
+            # 索引检查
+            INDEX_STATUS="${{ steps.index_check.outputs.status }}"
+            if [[ "$INDEX_STATUS" == "passed" ]]; then
+              echo "| 📑 索引一致性 | ✅ 通过 | 全部一致 |"
+            else
+              echo "| 📑 索引一致性 | ⚠️ 警告 | 存在不一致 |"
+            fi
+            
+            echo ""
+            echo "## 📊 统计摘要"
+            echo "- 总检查项: 4"
+            echo "- 详细报告:"
+            echo "  - 断链报告: knowledge/link-report.md"
+            echo "  - 质量报告: knowledge/quality-report.md"
+            echo "  - 索引报告: knowledge/index-report.md"
+            echo "  - 覆盖报告: knowledge/coverage-report.md"
+            echo ""
+            echo "---"
+            echo "*由 Auto Patrol Workflow 自动生成*"
+          } > "$REPORT_FILE"
+          
+          echo "report_file=$REPORT_FILE" >> $GITHUB_OUTPUT
+          echo "✅ 综合报告已生成: $REPORT_FILE"
+
+      # ============================================================
+      # 提交检查结果到仓库
+      # ============================================================
+      - name: '📤 提交检查报告'
+        if: always()
+        run: |
+          git config user.name "Auto Patrol Bot"
+          git config user.email "auto-patrol@zhuan-sheng-ben-notes"
+          git add knowledge/patrol-report-*.md knowledge/link-report.md knowledge/quality-report.md knowledge/index-report.md knowledge/coverage-report.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "🚨 auto-patrol: $(date '+%Y-%m-%d') 巡检报告自动提交"
+            git push
+            echo "✅ 报告已提交"
+          else
+            echo "ℹ️ 无新报告需要提交"
+          fi
+
+      # ============================================================
+      # 严重问题自动创建 Issue
+      # ============================================================
+      - name: '🐛 严重问题自动创建 Issue'
+        if: >
+          always() && 
+          (steps.build_check.outputs.status == 'failed' || 
+           steps.link_check.outputs.broken_count > '0') &&
+          (github.event_name == 'schedule' || inputs.create_issue == true)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const buildStatus = '${{ steps.build_check.outputs.status }}';
+            const brokenCount = parseInt('${{ steps.link_check.outputs.broken_count }}' || '0');
+            
+            let issueBody = '## 🚨 自动巡逻发现严重问题\n\n';
+            issueBody += `- 巡逻时间: ${new Date().toISOString()}\n`;
+            issueBody += `- 触发方式: ${{ github.event_name }}\n\n`;
+            
+            if (buildStatus === 'failed') {
+              issueBody += '### ❌ P0: 站点构建失败\n';
+              issueBody += '请检查构建日志，修复构建错误。\n\n';
+            }
+            
+            if (brokenCount > 0) {
+              issueBody += `### ⚠️ P1: 发现 ${brokenCount} 处断链\n`;
+              issueBody += '请查看 knowledge/link-report.md 了解详情。\n\n';
+            }
+            
+            issueBody += '---\n*由 Auto Patrol Workflow 自动创建*';
+            
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[自动巡逻] ${new Date().toISOString().split('T')[0]} 质量报告`,
+              body: issueBody,
+              labels: ['auto-patrol', 'quality-report']
+            });

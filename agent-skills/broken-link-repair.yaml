@@ -1,11 +1,12 @@
 name: broken-link-repair
-version: 1.0.0
+version: 1.1.0
 description: 扫描仓库全部Obsidian wiki双链，检测断链并批量修复（空格/连字符不匹配、引用不存在文件）
 trigger_words:
   - 修复断链
   - 检查链接
   - 断链修复
   - 链接检查
+  - 自动巡逻断链
 system_instructions: |
   # 任务目标
   检测并修复仓库中失效的 Obsidian wiki 双链（[[...]]），保证笔记库链接完整。

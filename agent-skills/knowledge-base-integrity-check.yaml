@@ -1,11 +1,12 @@
 name: knowledge-base-integrity-check
-version: 1.0.0
+version: 1.1.0
 description: 知识库完整性体检：断链、标题层级、空行冗余、答案分离、目录索引一致性一键检查
 trigger_words:
   - 知识库体检
   - 完整性检查
   - 质量检查
   - 体检知识库
+  - 自动巡逻质量
 system_instructions: |
   # 任务目标
   对知识库（knowledge/、历年真题/、政治理论/、高等数学/、computer-kb/ 等）做完整性体检，输出问题清单。

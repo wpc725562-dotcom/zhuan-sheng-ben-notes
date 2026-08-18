@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-08-18T07:58:41.213Z",
+  "checks": [
+    {
+      "name": "文件结构",
+      "status": "passed",
+      "detail": "所有必需文件存在"
+    },
+    {
+      "name": "目录完整性",
+      "status": "passed",
+      "detail": "所有必需目录存在"
+    },
+    {
+      "name": "断链检查",
+      "status": "warning",
+      "detail": "发现 26 处断链"
+    },
+    {
+      "name": "编码检查",
+      "status": "passed",
+      "detail": "所有文件 UTF-8 无 BOM"
+    },
+    {
+      "name": "索引文件",
+      "status": "passed",
+      "detail": "所有目录有 index.md"
+    },
+    {
+      "name": "文件大小",
+      "status": "passed",
+      "detail": "所有笔记文件大小正常"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "warning": 1,
+    "failed": 0
+  }
+}
