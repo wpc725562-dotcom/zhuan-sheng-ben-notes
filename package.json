@@ -15,7 +15,9 @@
     "health:check": "node scripts/health-check.mjs",
     "health:quick": "node scripts/health-check.mjs --quick",
     "health:coverage": "node scripts/health-check.mjs --coverage",
-    "health:json": "node scripts/health-check.mjs --json"
+    "health:json": "node scripts/health-check.mjs --json",
+    "link:check": "node scripts/check-links.mjs",
+    "link:quick": "node scripts/check-links.mjs --quick"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
