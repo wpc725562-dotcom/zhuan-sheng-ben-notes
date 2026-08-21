@@ -1,4 +1,4 @@
-﻿# Obsidian workspace / local state (device-specific)
+# Obsidian workspace / local state (device-specific)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspaces.json
@@ -49,6 +49,10 @@ package-lock.json.bak
 !资料/**/*.py
 # site-embedded exam PDFs (split by year for the blog)
 !docs/public/papers/**/*.pdf
+
+# 2026 精编讲义 & 黄金知识汇编（用户要求纳入版本管理，2026-08-22）
+!资料/2026精编讲义/*.pdf
+!资料/2026黄金知识汇编/*.pdf
 __pycache__/
 资料/**/*.docx
 资料/**/*.txt
