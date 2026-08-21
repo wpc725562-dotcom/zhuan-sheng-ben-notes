@@ -119,6 +119,10 @@ export default defineConfig({
                               "link": "/posts/math/notes/"
                     },
                     {
+                              "text": "2026 黄金知识汇编 ⭐",
+                              "link": "/posts/math/2026-黄金知识汇编"
+                    },
+                    {
                               "text": "2026 全卷",
                               "link": "/posts/math/2026"
                     },
@@ -434,6 +438,10 @@ export default defineConfig({
                               "link": "/posts/computer/notes/"
                     },
                     {
+                              "text": "2026 黄金知识汇编 ⭐",
+                              "link": "/posts/computer/2026-黄金知识汇编"
+                    },
+                    {
                               "text": "2026 题型变化",
                               "link": "/posts/computer/2026"
                     },
@@ -602,6 +610,7 @@ export default defineConfig({
           text: '英语 · 学习笔记',
           items: [
             { text: '笔记总览', link: '/posts/english/notes/' },
+            { text: "2026 黄金知识汇编 ⭐", link: '/posts/english/2026-黄金知识汇编' },
             { text: "考试大纲与题型补强", link: '/posts/english/notes/syllabus' },
             { text: "考试概述与题型分析", link: '/posts/english/notes/overview' },
             { text: "作文模板与高分句型", link: '/posts/english/notes/writing' },
