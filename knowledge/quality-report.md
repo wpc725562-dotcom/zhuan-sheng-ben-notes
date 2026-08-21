@@ -1,7 +1,7 @@
 # 知识库质量体检报告
-- 检查时间: 2026-08-21 12:16
+- 检查时间: 2026-08-21 13:42
 
 ## 标题层级检查
 
 ## 编码检查
-- ⚠️ docs/posts/math/notes/6.4-曲线积分.md: 包含 BOM 头
+- ⚠️ docs/posts/politics/index.md: 包含 BOM 头
