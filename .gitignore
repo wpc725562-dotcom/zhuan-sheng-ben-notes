@@ -67,3 +67,7 @@ _pdf_cache/
 # ForestDeer 本地资源副本（大文件，不推送）
 guangdong-zhuanshengben-resources/
 
+
+# Obsidian 误建的空库
+zsb/
+
