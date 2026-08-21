@@ -1,4 +1,4 @@
----
+﻿---
 title: "政治理论 · 总览"
 description: "系统笔记 + 2018–2024 真题演练"
 ---
@@ -47,6 +47,7 @@ description: "系统笔记 + 2018–2024 真题演练"
 | 2022 | [打开](/posts/politics/2022) |
 | 2021 | [打开](/posts/politics/2021) |
 | 2020 | [打开](/posts/politics/2020) |
+  | 2020-原卷 | [OCR文字版](/posts/politics/2020-原卷文字版) |
 | 2019 | [打开](/posts/politics/2019) |
 | 2018 | [打开](/posts/politics/2018) |
 

@@ -143,6 +143,10 @@ export default defineConfig({
                               "link": "/posts/math/2020"
                     },
                     {
+                              "text": "2020 原卷文字版 📄",
+                              "link": "/posts/math/2020-原卷文字版"
+                    },
+                    {
                               "text": "2019 演练",
                               "link": "/posts/math/2019"
                     },
@@ -446,6 +450,10 @@ export default defineConfig({
                               "link": "/posts/computer/2024"
                     },
                     {
+                              "text": "原卷文字版 2021-2024 📄",
+                              "link": "/posts/computer/原卷文字版"
+                    },
+                    {
                               "text": "2023 演练",
                               "link": "/posts/computer/2023"
                     },
@@ -657,6 +665,7 @@ export default defineConfig({
           text: '政治 · 真题演练',
           items: [
             { text: '真题总览', link: '/posts/politics/' },
+            { text: '2020 原卷文字版 📄', link: '/posts/politics/2020-原卷文字版' },
             { text: '2024', link: '/posts/politics/2024' },
             { text: '2023', link: '/posts/politics/2023' },
             { text: '2022', link: '/posts/politics/2022' },

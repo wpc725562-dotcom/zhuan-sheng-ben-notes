@@ -1,4 +1,4 @@
----
+﻿---
 title: "高等数学 · 总览"
 description: "真题 + 章节笔记"
 ---
@@ -17,6 +17,7 @@ description: "真题 + 章节笔记"
 | 2022 | [演练页](/posts/math/2022) | Obsidian 同步 · 骨架/同型 |
 | 2021 | [演练页](/posts/math/2021) | Obsidian 同步 · 骨架/同型 |
 | 2020 | [演练页](/posts/math/2020) | Obsidian 同步 · 骨架/同型 |
+  | 2020-原卷 | [OCR文字版](/posts/math/2020-原卷文字版) |
 | 2019 | [演练页](/posts/math/2019) | Obsidian 同步 · 骨架/同型 |
 | 2018 | [演练页](/posts/math/2018) | Obsidian 同步 · 骨架/同型 |
 
