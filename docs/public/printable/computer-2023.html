@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>计算机程序设计 · 2023</title>
+<style>
+body { font-family: "Microsoft YaHei", "Noto Sans SC", sans-serif; max-width: 800px; margin: 40px auto; padding: 0 24px; font-size: 14px; line-height: 1.8; color: #222; }
+h1 { font-size: 22px; border-bottom: 2px solid #333; padding-bottom: 8px; }
+h2 { font-size: 18px; margin-top: 24px; }
+h3 { font-size: 16px; }
+table { margin: 12px 0; }
+blockquote { border-left: 3px solid #999; margin: 8px 0; padding: 4px 12px; color: #555; background: #f7f7f7; }
+code { background: #f0f0f0; padding: 1px 5px; border-radius: 3px; }
+.gap { height: 8px; }
+@media print { body { margin: 0; padding: 0; max-width: none; } }
+</style>
+</head>
+<body>
+<div class='gap'></div>
+<div class='gap'></div>
+<h1>计算机程序设计 · 2023 年真题（回忆版 + 结构化）</h1>
+<div class='gap'></div>
+<blockquote>**类型**：考生回忆 + 公开抽取整理（B 级）| **200** 分 · **150** 分钟</blockquote>
+<blockquote>**边界**：回忆版 / 公开整理，**非**考试院原卷 PDF 镜像；个别措辞以正版真题册为准。见 00-资料来源与使用说明</blockquote>
+<blockquote>本地：`资料/计算机真题原卷/2023.txt`</blockquote>
+<div class='gap'></div>
+<h2>试卷结构</h2>
+<div class='gap'></div>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>题型</th><th>题量</th><th>分值</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>一、单项选择</th><th>20</th><th>60</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>二、判断</th><th>10</th><th>20</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>三、填空</th><th>5</th><th>20</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>四、简答</th><th>4</th><th>40</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>五、计算</th><th>3</th><th>30</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>六、应用</th><th>3</th><th>30</th></tr>
+<div class='gap'></div>
+<p>---</p>
+<div class='gap'></div>
+<h2>一、选择题（回忆要点）</h2>
+<div class='gap'></div>
+<ol>
+<li>不能做标识符 → **C. `&amp;a`**</li>
+<li>`fopen` 失败 → **B. `NULL`**</li>
+<li>取第 i 结点及前驱最省时 → **C. 顺序表**</li>
+<li>`a=4,b=3,c=2` 为真 → **D. `a&amp;&amp;b||c`**</li>
+<li>算法分析两方面 → **D. 时间 + 空间复杂度**</li>
+<li>结构体错误说法 → **B. 由系统直接提供**</li>
+<li>选存储结构不考虑 → **B. 各结点值如何**</li>
+<li>`scanf` 正确 → **C. `scanf(&quot;%f%f&quot;,&amp;c,&amp;d)`**</li>
+<li>`b=*(p++)`，`p=&amp;a[1]`，`a[5]={10..50}` → **A. 20**</li>
+<li>栈特点 → **C. LIFO**</li>
+<li>`for(int i=1;i++&lt;4;);` 次数 → **A. 3**</li>
+<li>完全二叉树 12 结点叶子 → **B. 6**</li>
+<li>操作链表须找到 → **D. 表头**</li>
+<li>删 `q`（`p` 前驱）→ **`p-&gt;next=q-&gt;next; free(q);`**</li>
+<li>`person` 是变量不是类型名</li>
+<li>双重 for → **O(n²)**</li>
+<li>二分查找 → **键值有序顺序表**</li>
+<li>字符串连接 → **`strcat`**</li>
+<li>树深度错误：各结点度最大值</li>
+<li>`int a[5];` 输入 → **`scanf(&quot;%d&quot;,a)`**</li>
+</ol>
+<div class='gap'></div>
+<h2>二、判断（回忆）</h2>
+<div class='gap'></div>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>#</th><th>命题</th><th>参考</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>1</th><th>注释只能在程序最开始</th><th>错</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>2</th><th>满二叉树是完全二叉树特殊情形</th><th>对</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>3</th><th>if 表达式只能是逻辑表达式</th><th>错</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>4</th><th>程序一定是算法</th><th>错</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>5</th><th>栈和队列都是线性表</th><th>对</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>6</th><th>C 可嵌套调用</th><th>对（调用可嵌套）</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>7</th><th>循环链表不一定成环</th><th>错</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>8</th><th>结构体成员存续期驻留内存</th><th>对</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>9</th><th>fclose 成功返回 0</th><th>对</th></tr>
+<table border='1' cellpadding='6' style='border-collapse:collapse;width:100%'>
+<tr><th>10</th><th>同一队列元素类型可不同</th><th>错</th></tr>
+<div class='gap'></div>
+<h2>三、填空（回忆）</h2>
+<div class='gap'></div>
+<ol>
+<li>`char` 占 **1** 字节</li>
+<li>图：元素 **多对多**</li>
+<li>`a[][3]={0},{1},{2}`，`a[1][2]=` **0**</li>
+<li>图遍历：深度优先 + **广度**优先</li>
+<li>合并升序 5 与 9：最少比较约 **5**（最坏 13，以教材为准）</li>
+</ol>
+<div class='gap'></div>
+<h2>四、简答要点</h2>
+<div class='gap'></div>
+<ol>
+<li>字符数组：输入 `scanf/gets/fgets`，输出 `printf/puts`</li>
+<li>文件：文本 / 二进制</li>
+<li>数据 vs 数据对象</li>
+<li>递归：优缺点（简洁 / 栈开销）</li>
+</ol>
+<div class='gap'></div>
+<h2>五、计算题</h2>
+<div class='gap'></div>
+<h3>递归 `sub(6)` → **21**；`i` 仍为 **6**</h3>
+<h3>跳过不及格平均 → n=**5**，avg=**81.20**</h3>
+<h3>静态链表输出 → **2** 然后 **4**</h3>
+<div class='gap'></div>
+<h2>六、应用题（默写）</h2>
+<div class='gap'></div>
+<p><code>`</code>c</p>
+<p>// 1. 三次成绩取最大</p>
+<p>int a,b,c,m; scanf(&quot;%d%d%d&quot;,&amp;a,&amp;b,&amp;c);</p>
+<p>m=a; if(b&gt;m)m=b; if(c&gt;m)m=c; printf(&quot;%d\n&quot;,m);</p>
+<div class='gap'></div>
+<p>// 2. 正负零</p>
+<p>int x; scanf(&quot;%d&quot;,&amp;x);</p>
+<p>if(x&gt;0) puts(&quot;正数&quot;); else if(x&lt;0) puts(&quot;负数&quot;); else puts(&quot;零&quot;);</p>
+<div class='gap'></div>
+<p>// 3. 十班人数查 y</p>
+<p>int a[10],y,i,ok=0;</p>
+<p>for(i=0;i&lt;10;i++) scanf(&quot;%d&quot;,&amp;a[i]);</p>
+<p>scanf(&quot;%d&quot;,&amp;y);</p>
+<p>for(i=0;i&lt;10;i++) if(a[i]==y){ ok=1; break; }</p>
+<p>puts(ok?&quot;Success&quot;:&quot;Fail&quot;);</p>
+<p><code>`</code></p>
+<div class='gap'></div>
+<h2>回炉</h2>
+<div class='gap'></div>
+<li>[原卷 PDF](/papers/computer/2023.pdf)</li>
+<li>2024 全量详解 · 考点拆分</li>
+<div class='gap'></div>
+<p>---</p>
+<p>返回：_索引 · 总索引</p>
+<div class='gap'></div>
+</body>
+</html>

@@ -17,7 +17,12 @@
     "health:coverage": "node scripts/health-check.mjs --coverage",
     "health:json": "node scripts/health-check.mjs --json",
     "link:check": "node scripts/check-links.mjs",
-    "link:quick": "node scripts/check-links.mjs --quick"
+    "link:quick": "node scripts/check-links.mjs --quick",
+    "drill:today": "node scripts/daily-drill.mjs",
+    "drill:list": "node scripts/daily-drill.mjs --list",
+    "mistake:stats": "node scripts/mistake-stats.mjs",
+    "print:html": "python scripts/md-to-printable.py --all",
+    "print:pdf": "node scripts/html-to-pdf.mjs"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
