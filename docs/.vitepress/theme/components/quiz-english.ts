@@ -1,0 +1,17 @@
+export const questions: { q: string; options: string[]; answer: number; explain: string }[] = [
+  { q: 'The teacher as well as the students ___ seen the film.', options: ['has', 'have', 'are', 'is'], answer: 0, explain: 'as well as 连接并列主语时，谓语与最前面的主语 the teacher 保持一致，用单数 has。' },
+  { q: 'Either he or I ___ wrong.', options: ['am', 'is', 'are', 'be'], answer: 0, explain: 'either...or... 连接并列主语遵循就近原则，谓语与最近的主语 I 一致，用 am。' },
+  { q: 'I have two pens. One is red and ___ is blue.', options: ['another', 'the other', 'other', 'others'], answer: 1, explain: '两者中的“另一个”用 the other；another 用于三者或三者以上。' },
+  { q: 'Many new buildings ___ in the city in recent years.', options: ['have completed', 'have been completed', 'completed', 'are completed'], answer: 1, explain: '现在完成时的被动语态结构为 have/has been + 过去分词，建筑物是被建成。' },
+  { q: 'If my lawyer ___ here last Sunday, he could have told me what to do.', options: ['had been', 'was', 'has been', 'were'], answer: 0, explain: '与过去事实相反的虚拟条件从句用 had + 过去分词，主句用 could have done。' },
+  { q: 'We strongly suggested that the meeting ___ put off till the next day.', options: ['be', 'was', 'is', 'would be'], answer: 0, explain: 'suggest 等表示建议的动词后宾语从句用 be 型虚拟，谓语为 (should) + 动词原形。' },
+  { q: 'You ___ the report last week, but you didn\'t.', options: ['should finish', 'should have finished', 'must finish', 'can finish'], answer: 1, explain: 'should have done 表示“本应该做而实际没做”，含责备、遗憾意味。' },
+  { q: 'The ground is wet. It ___ last night.', options: ['must have rained', 'should rain', 'can rain', 'must rain'], answer: 0, explain: 'must have done 表示对过去情况的肯定推测，意为“肯定已经……”。' },
+  { q: 'We don\'t allow ___ in the hall.', options: ['smoking', 'to smoke', 'smoke', 'smoked'], answer: 0, explain: 'allow 等动词后接动名词作宾语，不接不定式，故用 smoking。' },
+  { q: '___ his speech, he answered our questions.', options: ['Having finished', 'Finishing', 'To finish', 'Finished'], answer: 0, explain: '现在分词完成式 having done 作状语，表示动作在谓语动词之前发生。' },
+  { q: 'This house is ___ that one.', options: ['twice as expensive as', 'twice expensive than', 'as twice expensive as', 'twice more expensive as'], answer: 0, explain: '倍数比较结构为“倍数 + as + 原级 + as”，故用 twice as expensive as。' },
+  { q: 'We all went to the Great Wall ___ Li Ming, who stayed at home.', options: ['except', 'besides', 'but for', 'in addition to'], answer: 0, explain: 'except 表示“除……之外(不包括)”，李明没去；besides/in addition to 表示“除……之外还有(包括)”。' },
+  { q: '___ he will come or not is still unknown to us.', options: ['Whether', 'If', 'That', 'What'], answer: 0, explain: 'whether 可与 or not 连用且能引导主语从句置于句首，if 不能。' },
+  { q: 'This is the most touching story ___ I have ever read.', options: ['that', 'which', 'what', 'who'], answer: 0, explain: '先行词被最高级 the most touching 修饰时，关系代词只能用 that。' },
+  { q: 'Seldom ___ in his free time.', options: ['does he read', 'he reads', 'he does read', 'read he'], answer: 0, explain: '否定词 seldom 位于句首引起部分倒装，结构为“助动词 + 主语 + 谓语”。' },
+]
