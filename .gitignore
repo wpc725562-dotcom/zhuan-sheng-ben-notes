@@ -1,4 +1,4 @@
-# Obsidian workspace / local state (device-specific)
+﻿# Obsidian workspace / local state (device-specific)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspaces.json
@@ -63,3 +63,7 @@ _pdf_cache/
 **/_ocr_raw/
 **/*_tesseract.txt
 **/*_rapidocr.txt
+
+# ForestDeer 本地资源副本（大文件，不推送）
+guangdong-zhuanshengben-resources/
+
