@@ -22,7 +22,10 @@
     "drill:list": "node scripts/daily-drill.mjs --list",
     "mistake:stats": "node scripts/mistake-stats.mjs",
     "print:html": "python scripts/md-to-printable.py --all",
-    "print:pdf": "node scripts/html-to-pdf.mjs"
+    "print:pdf": "node scripts/html-to-pdf.mjs",
+    "fix:spacing": "node scripts/fix-english-spacing.mjs",
+    "fix:spacing:dry": "node scripts/fix-english-spacing.mjs --dry-run",
+    "fix:urls": "node scripts/fix-url-damage.mjs"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",

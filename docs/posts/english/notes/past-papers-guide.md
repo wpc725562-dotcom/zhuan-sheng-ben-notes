@@ -60,7 +60,7 @@ category: "english-note"
 
 May I have your attention, please? To enrich our campus life, our school is
 going to organize a music week.
-The event is scheduled to be held in the school hall at 2:00 p.m. next Friday.
+The event is scheduled to be held in the school hall at 2:00 p. m. next Friday.
 There are many exciting activities waiting for you. For one thing, you can
 enjoy pop and folk music. For another, please bring your own instruments if
 you wish to perform.
@@ -100,7 +100,7 @@ How is everything going? I am writing this letter to express my earnest hope
 to invite you to visit the exhibition of Traditional Chinese Culture in our school.
 
 Here are some relevant details about this matter. First and foremost, the
-exhibition will be held in the school hall at 2:00 p.m. next Friday.
+exhibition will be held in the school hall at 2:00 p. m. next Friday.
 Furthermore, you can experience the art of paper-cutting yourself.
 Last but not least, it will be a meaningful and unforgettable experience.
 
@@ -235,7 +235,7 @@ Li Hua
 
 To enrich our campus life, the Student Union is going to organize an English
 speech contest.
-It will take place in the school hall at 3:00 p.m. on Nov. 20th.
+It will take place in the school hall at 3:00 p. m. on Nov. 20th.
 For one thing, the topic is "My College Life". For another, each speaker will
 have five minutes.
 Those who are interested are highly welcome to participate. Please contact us
@@ -293,7 +293,7 @@ Dear Peter,
 
 I am writing to invite you to the Traditional Chinese Culture Week in our school.
 
-First of all, it will be held in the school hall from 2:00 p.m. to 5:00 p.m.
+First of all, it will be held in the school hall from 2:00 p. m. to 5:00 p. m.
 next Friday. In addition, you can try paper-cutting and watch calligraphy shows.
 What is more, it will help you better understand Chinese culture.
 

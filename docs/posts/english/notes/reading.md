@@ -78,7 +78,7 @@ category: "english-note"
 | 对比法 | but, however, while, unlike | Unlike his **generous** brother, he is very stingy. |
 | 因果法 | because, so, since, thus | He was so **exhausted** that he fell asleep immediately. |
 | 举例法 | such as, for example, like | **Carnivores**, such as lions and tigers, eat meat. |
-| 同义法 | or, that is, i.e. | The **adversary**, or opponent, was strong. |
+| 同义法 | or, that is, i. e. | The **adversary**, or opponent, was strong. |
 
 ### 5️⃣ 观点态度题（10%）
 

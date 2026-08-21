@@ -41,7 +41,7 @@ How is everything going? I am writing this letter to express my earnest hope to 
 
 Here are some relevant details about this matter.(万能过渡句)First and foremost, _________(填入细节一：如 the deadline is Nov. 10th).Furthermore, _________(填入细节二：如 it is highly beneficial to us).Last but not least, _________(填入细节三或升华句：如 it will be a meaningful and unforgettable experience).
 
-Taking all these factors into consideration, I sincerely hope you can _________(填入期许，如：accept my invitation / give me an opportunity).I would be highly appreciative if you could take my request into consideration.I am looking forward to hearing from you soon.
+Taking all these factors into consideration, I sincerely hope you can _________(填入期许，如：accept my invitation / give me an opportunity).I would be highly appreciative if you could take my request into consideration. I am looking forward to hearing from you soon.
 
 Yours sincerely,
 Li Hua
@@ -72,7 +72,7 @@ Li Hua
 
 May I have your attention, please? To enrich our campus life, our school is going to organize _________(填入活动名称，如 a music week).
 
-The event is scheduled to be held in _________(填入地点，如 the school hall)at _________(填入时间，如 2:00 p.m. next Friday).There are many exciting activities waiting for you.(万能凑字句)For one thing, _________(细节一：如 you can enjoy pop music).For another, _________(细节二：如 please bring your own instruments).
+The event is scheduled to be held in _________(填入地点，如 the school hall)at _________(填入时间，如 2:00 p. m. next Friday).There are many exciting activities waiting for you.(万能凑字句)For one thing, _________(细节一：如 you can enjoy pop music).For another, _________(细节二：如 please bring your own instruments).
 
 Those who are interested in it are highly welcome to participate.(高级句型：极其欢迎感兴趣的同学参加)If you have any questions, please feel free to contact us at 1234567.(万能结尾句)
 
