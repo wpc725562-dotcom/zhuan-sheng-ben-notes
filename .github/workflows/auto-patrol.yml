@@ -380,7 +380,14 @@ jobs:
           git add knowledge/patrol-report-*.md knowledge/link-report.md knowledge/quality-report.md knowledge/index-report.md knowledge/coverage-report.md 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "🚨 auto-patrol: $(date '+%Y-%m-%d') 巡检报告自动提交"
-            git push
+            # push 失败时自动 rebase 重试（最多 3 次），避免并发冲突
+            for i in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "⚠️ push 冲突，第 $i 次 rebase 重试..."
+              git pull --rebase origin main || true
+            done
             echo "✅ 报告已提交"
           else
             echo "ℹ️ 无新报告需要提交"
