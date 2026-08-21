@@ -7,7 +7,7 @@ description: "把视频里的 AI 聊天功能（RAG/记忆/OCR/联网）落地�
 
 > 灵感来自视频中的 AI 聊天网站（Chroma 向量库 + 百川嵌入 + RAG + 记忆 + 图像识别 + 联网搜索）。
 > 目标：**把它变成你自己的备考工具 + 求职作品集**。
-> 文档状态：**规划中（2026-08）** · 技术栈已定，分期实施。
+> 文档状态：**MVP 已完成（2026-08）** · 代码在 [`wpc725562-dotcom/ai-learning-assistant`](https://github.com/wpc725562-dotcom/ai-learning-assistant) · 分期推进。
 
 ---
 
@@ -91,11 +91,14 @@ description: "把视频里的 AI 聊天功能（RAG/记忆/OCR/联网）落地�
 
 ## 七、实施路线
 
-- [ ] **本周**：搭建 FastAPI + Chroma 骨架，导入高数笔记，跑通 1 个问答
-- [ ] 下周：政治/计算机笔记入库，完善引用来源
-- [ ] 下月：OCR 拍照识别 → 错题本
-- [ ] 下下月：记忆系统 + 联网政策追踪
+- [x] **RAG 知识库**：Chroma + BGE 中文嵌入，615 块笔记已建索引，检索问答跑通
+- [x] **真题 OCR**：easyocr 中英文识别，拍照转文字验证通过
+- [ ] **FastAPI 后端 + Web 界面**（手机可用）
+- [ ] 记忆系统（记住薄弱考点）
+- [ ] 联网政策追踪（JLPT/签证/考纲）
 - [ ] 完成后：作为作品集项目展示
+
+> ✅ **已完成（2026-08）**：MVP 代码在 [`wpc725562-dotcom/ai-learning-assistant`](https://github.com/wpc725562-dotcom/ai-learning-assistant)，本地可直接运行。
 
 ---
 [返回首页](/)
