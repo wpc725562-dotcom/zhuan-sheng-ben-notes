@@ -30,6 +30,8 @@ description: "公共英语系统笔记导航"
 ### 🟡 进阶篇
 - 语法考点精讲 — 时态/语态/从句/虚拟语气/非谓语
 - 阅读理解高分技巧 — 六大题型 + 解题套路 + 长难句分析
+- 完形填空高分技巧 — **30 分大题** · 四步做题法 + 六大高频考点
+- 短文造句匹配（五选五）技巧 — **10 分新题型** · 三线索法 + 位置判断法
 
 ### 🔴 冲刺篇
 - 作文模板与高分句型 — **书信 + NOTICE（主背）** + 拓展模板
@@ -74,9 +76,13 @@ description: "公共英语系统笔记导航"
 
 ## 本站笔记入口
 
+- [📗 教材目录基准](/posts/english/教材目录基准)
+- [🎯 真题题型对照表](/posts/english/真题题型对照表)
 - [考试大纲与题型补强](/posts/english/notes/syllabus)
 - [考试概述与题型分析](/posts/english/notes/overview)
 - [作文模板与高分句型](/posts/english/notes/writing)
+- [完形填空高分技巧](/posts/english/notes/cloze)
+- [短文造句匹配（五选五）技巧](/posts/english/notes/matching)
 - [历年真题分类与讲解](/posts/english/notes/past-papers-guide)
 - [语法考点精讲](/posts/english/notes/grammar)
 - [阅读理解高分技巧](/posts/english/notes/reading)
