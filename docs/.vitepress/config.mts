@@ -133,6 +133,10 @@ export default defineConfig({
                               "link": "/posts/math/notes/"
                     },
                     {
+                              "text": "教材目录基准 📗",
+                              "link": "/posts/math/教材目录基准"
+                    },
+                    {
                               "text": "2026 黄金知识汇编 ⭐",
                               "link": "/posts/math/2026-黄金知识汇编"
                     },
@@ -462,6 +466,10 @@ export default defineConfig({
                     {
                               "text": "知识点总览",
                               "link": "/posts/computer/notes/"
+                    },
+                    {
+                              "text": "教材目录基准 📗",
+                              "link": "/posts/computer/教材目录基准"
                     },
                     {
                               "text": "2026 黄金知识汇编 ⭐",
