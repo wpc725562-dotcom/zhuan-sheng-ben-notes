@@ -656,6 +656,7 @@ export default defineConfig({
           items: [
             { text: '真题总览', link: '/posts/english/' },
             { text: '2020 刷题版 ✍️', link: '/posts/english/2020-英语-刷题版' },
+            { text: '2020 精析版 📖', link: '/posts/english/2020-英语-精析版' },
             { text: "高频考点 TOP20 📊", link: '/posts/高频考点/英语-高频考点TOP20' },
             { text: "2024", link: '/posts/english/2024' },
             { text: "2023", link: '/posts/english/2023' },
