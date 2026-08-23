@@ -778,6 +778,7 @@ export default defineConfig({
             { text: '科学学习方法', link: '/posts/resources/科学学习方法' },
             { text: '每日备考打卡表', link: '/posts/resources/每日备考打卡表' },
             { text: '错题记录模板 📝', link: '/posts/resources/错题记录模板' },
+            { text: '开源学习工具推荐 🧰', link: '/posts/resources/开源学习工具推荐' },
           ],
         },
       ],

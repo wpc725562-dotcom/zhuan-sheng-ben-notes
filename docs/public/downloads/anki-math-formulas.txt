@@ -1,0 +1,49 @@
+#separator:tab
+#html:false
+#columns:Front	Back
+两个重要极限之一	lim(x→0) sinx/x = 1
+两个重要极限之二	lim(x→∞) (1+1/x)^x = e
+等价无穷小：x→0 时 sinx ~	x
+等价无穷小：x→0 时 1-cosx ~	x²/2
+等价无穷小：x→0 时 ln(1+x) ~	x
+等价无穷小：x→0 时 e^x-1 ~	x
+等价无穷小：x→0 时 (1+x)^a-1 ~	ax
+基本导数：(x^n)' =	nx^(n-1)
+基本导数：(sinx)' =	cosx
+基本导数：(cosx)' =	-sinx
+基本导数：(tanx)' =	sec²x
+基本导数：(e^x)' =	e^x
+基本导数：(a^x)' =	a^x·lna
+基本导数：(lnx)' =	1/x
+基本导数：(arctanx)' =	1/(1+x²)
+基本导数：(arcsinx)' =	1/√(1-x²)
+求导法则：(uv)' =	u'v + uv'
+求导法则：(u/v)' =	(u'v - uv')/v²
+复合函数求导（链式法则）	dy/dx = dy/du · du/dx
+洛必达法则适用条件	0/0 或 ∞/∞ 型极限，分子分母分别求导
+泰勒公式（麦克劳林）e^x =	1 + x + x²/2! + x³/3! + …
+泰勒公式 ln(1+x) =	x - x²/2 + x³/3 - …
+导数与单调性	f'(x)>0 单调递增；f'(x)<0 单调递减
+极值判定（二阶导）	f'(x₀)=0 且 f''(x₀)>0 极小值；f''(x₀)<0 极大值
+曲率公式 k =	|y''| / (1+y'²)^(3/2)
+不定积分：∫x^n dx =	x^(n+1)/(n+1) + C (n≠-1)
+不定积分：∫1/x dx =	ln|x| + C
+不定积分：∫e^x dx =	e^x + C
+不定积分：∫sinx dx =	-cosx + C
+不定积分：∫cosx dx =	sinx + C
+不定积分：∫1/(1+x²) dx =	arctanx + C
+分部积分公式	∫u dv = uv - ∫v du
+牛顿-莱布尼兹公式	∫[a,b] f(x)dx = F(b) - F(a)
+第一换元（凑微分）∫f(φ(x))φ'(x)dx =	∫f(u)du，其中 u=φ(x)
+弧长公式（直角坐标）	s = ∫[a,b] √(1+y'²) dx
+旋转体体积（绕x轴）	V = π∫[a,b] y² dx
+平面图形面积	S = ∫[a,b] |f(x)-g(x)| dx
+一阶线性微分方程 y'+P(x)y=Q(x) 通解	y = e^(-∫Pdx)[∫Q·e^(∫Pdx)dx + C]
+可分离变量微分方程解法	分离变量后两边积分
+二阶常系数齐次方程特征方程	r² + pr + q = 0
+方向导数公式	∂f/∂l = fx·cosα + fy·cosβ + fz·cosγ
+梯度 grad f =	(∂f/∂x, ∂f/∂y, ∂f/∂z)
+二重积分（直角坐标→极坐标）	∫∫f dxdy = ∫∫f(rcosθ,rsinθ)·r drdθ
+曲率半径 R =	1/k
+判断级数敛散：p-级数 Σ1/n^p	p>1 收敛；p≤1 发散
+幂级数收敛半径（比值法）	R = lim |an/a(n+1)|
