@@ -137,6 +137,10 @@ export default defineConfig({
                               "link": "/posts/math/教材目录基准"
                     },
                     {
+                              "text": "真题章节对照表 🎯",
+                              "link": "/posts/math/真题章节对照表"
+                    },
+                    {
                               "text": "2026 黄金知识汇编 ⭐",
                               "link": "/posts/math/2026-黄金知识汇编"
                     },
@@ -648,11 +652,14 @@ export default defineConfig({
           text: '英语 · 学习笔记',
           items: [
             { text: '笔记总览', link: '/posts/english/notes/' },
+            { text: '教材目录基准 📗', link: '/posts/english/教材目录基准' },
             { text: "2026 黄金知识汇编 ⭐", link: '/posts/english/2026-黄金知识汇编' },
             { text: "黄金汇编刷题 ✍️", link: '/posts/english/2026-黄金知识汇编-刷题' },
             { text: "考试大纲与题型补强", link: '/posts/english/notes/syllabus' },
             { text: "考试概述与题型分析", link: '/posts/english/notes/overview' },
             { text: "作文模板与高分句型", link: '/posts/english/notes/writing' },
+            { text: "完形填空高分技巧", link: '/posts/english/notes/cloze' },
+            { text: "短文匹配（五选五）技巧", link: '/posts/english/notes/matching' },
             { text: "历年真题分类与讲解", link: '/posts/english/notes/past-papers-guide' },
             { text: "语法考点精讲", link: '/posts/english/notes/grammar' },
             { text: "阅读理解高分技巧", link: '/posts/english/notes/reading' },
@@ -696,6 +703,7 @@ export default defineConfig({
           text: '政治 · 系统笔记',
           items: [
             { text: '笔记总览', link: '/posts/politics/notes/' },
+            { text: '教材目录基准 📗', link: '/posts/politics/教材目录基准' },
             { text: "00 考试大纲与题型", link: '/posts/politics/notes/00-考试大纲与题型' },
             { text: "01 马克思主义中国化时代化", link: '/posts/politics/notes/01-马克思主义中国化时代化' },
             { text: "02 毛泽东思想", link: '/posts/politics/notes/02-毛泽东思想' },
