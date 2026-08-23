@@ -746,6 +746,15 @@ export default defineConfig({
             { text: '资料边界', link: '/guide/sources' },
           ],
         },
+        {
+          text: '📚 备考资料',
+          items: [
+            { text: '考试概况与科目结构', link: '/posts/resources/考试概况与科目结构' },
+            { text: '官方教材与参考书清单', link: '/posts/resources/官方教材与参考书清单' },
+            { text: '零基础学习路线图', link: '/posts/resources/零基础学习路线图' },
+            { text: '科学学习方法', link: '/posts/resources/科学学习方法' },
+          ],
+        },
       ],
     },
     socialLinks: [
