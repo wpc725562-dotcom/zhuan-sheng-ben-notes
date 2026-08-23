@@ -43,10 +43,24 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 
 const syncing = ref(false)
 const lastSync = ref(false)
+
+onMounted(async () => {
+  // 接入真实同步状态：启动时查询一次 git 仓库状态
+  if (!window.bencetong) return
+  syncing.value = true
+  try {
+    const res = await window.bencetong.gitStatus()
+    lastSync.value = !!(res && res.success)
+  } catch {
+    lastSync.value = false
+  } finally {
+    syncing.value = false
+  }
+})
 </script>
 
 <style scoped>

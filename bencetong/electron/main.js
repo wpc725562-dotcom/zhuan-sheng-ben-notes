@@ -1,5 +1,5 @@
 import { app, BrowserWindow, ipcMain } from 'electron'
-import { join, dirname } from 'path'
+import { join, dirname, resolve, sep } from 'path'
 import { fileURLToPath } from 'url'
 import { execSync } from 'child_process'
 import fs from 'fs'
@@ -7,8 +7,22 @@ import fs from 'fs'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const isDev = process.env.NODE_ENV === 'development'
 
-// 笔记仓库路径
-const NOTES_PATH = join(app.getPath('appData'), 'reasonix', 'global-workspace', 'zhuan-sheng-ben-notes')
+// 笔记仓库路径（可用环境变量 BENCETONG_NOTES_PATH 覆盖）
+const NOTES_PATH = process.env.BENCETONG_NOTES_PATH
+  ? resolve(process.env.BENCETONG_NOTES_PATH)
+  : join(app.getPath('appData'), 'reasonix', 'global-workspace', 'zhuan-sheng-ben-notes')
+
+/**
+ * 将用户传入的相对路径解析到笔记仓库内。
+ * 超出仓库范围（如 ../ 穿越）一律抛错，防止读取任意文件。
+ */
+function resolveWithinNotes(userPath) {
+  const base = resolve(NOTES_PATH)
+  const target = resolve(base, userPath || '.')
+  const inBase = target === base || target.toLowerCase().startsWith(base.toLowerCase() + sep)
+  if (!inBase) throw new Error('路径超出笔记仓库范围: ' + userPath)
+  return target
+}
 
 let mainWindow = null
 
@@ -22,7 +36,10 @@ function createWindow() {
     webPreferences: {
       preload: join(__dirname, 'preload.js'),
       contextIsolation: true,
-      nodeIntegration: false
+      nodeIntegration: false,
+      // preload.js 使用 ESM（import 语法），必须关闭沙箱才能加载。
+      // 安全由 contextIsolation + nodeIntegration:false + 下方路径校验共同保证。
+      sandbox: false
     }
   })
 
@@ -36,20 +53,19 @@ function createWindow() {
 
 // ===== IPC 处理器 =====
 
-// 获取仓库目录结构
-ipcMain.handle('fs:listTree', async (_, dirPath) => {
+// 获取仓库目录结构（固定扫描 NOTES_PATH，不接受任意路径）
+ipcMain.handle('fs:listTree', async () => {
   try {
-    const basePath = dirPath || NOTES_PATH
-    return listDirectoryTree(basePath, basePath)
+    return listDirectoryTree(NOTES_PATH, NOTES_PATH)
   } catch (e) {
     return { error: e.message }
   }
 })
 
-// 读取文件内容
+// 读取文件内容（限制在仓库范围内，防路径穿越）
 ipcMain.handle('fs:readFile', async (_, filePath) => {
   try {
-    const fullPath = join(NOTES_PATH, filePath)
+    const fullPath = resolveWithinNotes(filePath)
     const content = fs.readFileSync(fullPath, 'utf-8')
     return { content }
   } catch (e) {

@@ -11,26 +11,14 @@
           <input v-model="searchQuery" type="text" placeholder="搜索笔记..." class="search-input" />
         </div>
         <div class="tree">
-          <div v-for="(item, i) in filteredTree" :key="i" class="tree-item">
-            <div v-if="item.type === 'directory'" class="tree-dir" @click="toggleDir(item)">
-              <span class="dir-icon">{{ item.expanded ? '📂' : '📁' }}</span>
-              <span>{{ item.name }}</span>
-            </div>
-            <div v-if="item.type === 'file'" class="tree-file" @click="openFile(item)" :class="{ selected: currentFile === item.path }">
-              <span class="file-icon">📄</span>
-              <span>{{ item.name }}</span>
-            </div>
-            <div v-if="item.type === 'directory' && item.expanded" class="tree-children" v-for="child in item.children" :key="child.path">
-              <div v-if="child.type === 'file'" class="tree-file" @click="openFile(child)" :class="{ selected: currentFile === child.path }">
-                <span class="file-icon">📄</span>
-                <span>{{ child.name }}</span>
-              </div>
-              <div v-if="child.type === 'directory'" class="tree-dir" @click="toggleDir(child)">
-                <span class="dir-icon">{{ child.expanded ? '📂' : '📁' }}</span>
-                <span>{{ child.name }}</span>
-              </div>
-            </div>
-          </div>
+          <TreeItem
+            v-for="item in filteredTree"
+            :key="item.path"
+            :item="item"
+            :depth="0"
+            :current-file="currentFile"
+            @open="openFile"
+          />
           <div v-if="filteredTree.length === 0" class="empty-tree">暂无笔记文件</div>
         </div>
       </div>
@@ -52,6 +40,8 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
 import { marked } from 'marked'
+import DOMPurify from 'dompurify'
+import TreeItem from '../components/TreeItem.vue'
 
 const tree = ref([])
 const currentFile = ref(null)
@@ -77,18 +67,24 @@ onMounted(async () => {
   }
 })
 
+// 递归过滤目录树：搜索词命中文件或其任意层级子项时保留并自动展开
+function matchTree(items, q) {
+  return items.map(item => {
+    if (item.type === 'file') {
+      return item.name.toLowerCase().includes(q) ? item : null
+    }
+    const matched = matchTree(item.children || [], q).filter(Boolean)
+    if (item.name.toLowerCase().includes(q) || matched.length > 0) {
+      return { ...item, children: matched, expanded: true }
+    }
+    return null
+  }).filter(Boolean)
+}
+
 const filteredTree = computed(() => {
   if (!searchQuery.value) return tree.value
-  const q = searchQuery.value.toLowerCase()
-  return tree.value.filter(item => {
-    if (item.type === 'file') return item.name.toLowerCase().includes(q)
-    return true
-  })
+  return matchTree(tree.value, searchQuery.value.toLowerCase())
 })
-
-function toggleDir(item) {
-  item.expanded = !item.expanded
-}
 
 async function openFile(item) {
   currentFile.value = item.path
@@ -108,7 +104,8 @@ async function openFile(item) {
 const renderedContent = computed(() => {
   if (!content.value) return ''
   try {
-    return marked.parse(content.value)
+    // DOMPurify 过滤 marked 产物，防止笔记内容注入可执行 HTML（XSS）
+    return DOMPurify.sanitize(marked.parse(content.value))
   } catch {
     return content.value
   }
