@@ -655,6 +655,7 @@ export default defineConfig({
           text: '公共英语 · 真题',
           items: [
             { text: '真题总览', link: '/posts/english/' },
+            { text: '2020 刷题版 ✍️', link: '/posts/english/2020-英语-刷题版' },
             { text: "高频考点 TOP20 📊", link: '/posts/高频考点/英语-高频考点TOP20' },
             { text: "2024", link: '/posts/english/2024' },
             { text: "2023", link: '/posts/english/2023' },
@@ -706,6 +707,7 @@ export default defineConfig({
           text: '政治 · 真题演练',
           items: [
             { text: '真题总览', link: '/posts/politics/' },
+            { text: '2020 刷题版 ✍️', link: '/posts/politics/2020-政治-刷题版' },
             { text: '高频考点 TOP20 📊', link: '/posts/高频考点/政治-高频考点TOP20' },
             { text: '2020 原卷文字版 📄', link: '/posts/politics/2020-原卷文字版' },
             { text: '2024', link: '/posts/politics/2024' },
