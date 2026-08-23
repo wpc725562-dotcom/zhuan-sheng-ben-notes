@@ -7,6 +7,14 @@ description: "真题正文嵌入 + 系统学习笔记"
 
 > 2005-2025 共 21 年真题 · 来自 ForestDeerDev 完整版 PDF 提取 · 直接在站内刷题
 
+## 🗺️ 规范化导航
+
+| 入口 | 说明 |
+|:---|:---|
+| [📗 教材目录基准](/posts/english/教材目录基准) | 5 大题型 ↔ 刷题版/笔记对照 |
+| [🎯 真题题型对照表](/posts/english/真题题型对照表) | 新题型 5 Part 全映射 + 专项资料索引 |
+| [📝 错题记录模板](/posts/resources/错题记录模板) | 错题 → 题型勾选 → 定位薄弱点 |
+
 ## 系统学习笔记
 
 | 笔记 | 说明 |
@@ -14,6 +22,8 @@ description: "真题正文嵌入 + 系统学习笔记"
 | [学习笔记首页](/posts/english/notes/) | 知识库总导航 |
 | [考试大纲与题型补强](/posts/english/notes/syllabus) | 从 Obsidian 同步 |
 | [考试概述与题型分析](/posts/english/notes/overview) | 从 Obsidian 同步 |
+| [完形填空高分技巧](/posts/english/notes/cloze) | 30 分大题 |
+| [短文造句匹配（五选五）技巧](/posts/english/notes/matching) | 10 分新题型 |
 | [作文模板与高分句型](/posts/english/notes/writing) | 从 Obsidian 同步 |
 | [历年真题分类与讲解](/posts/english/notes/past-papers-guide) | 从 Obsidian 同步 |
 | [语法考点精讲](/posts/english/notes/grammar) | 从 Obsidian 同步 |

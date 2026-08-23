@@ -777,6 +777,7 @@ export default defineConfig({
             { text: '考纲↔本库对照导航', link: '/posts/resources/考纲与本库对照导航' },
             { text: '科学学习方法', link: '/posts/resources/科学学习方法' },
             { text: '每日备考打卡表', link: '/posts/resources/每日备考打卡表' },
+            { text: '错题记录模板 📝', link: '/posts/resources/错题记录模板' },
           ],
         },
       ],
