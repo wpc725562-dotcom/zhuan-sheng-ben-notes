@@ -655,8 +655,13 @@ export default defineConfig({
           text: '公共英语 · 真题',
           items: [
             { text: '真题总览', link: '/posts/english/' },
+            { text: '2024 刷题版 ✍️', link: '/posts/english/2024-英语-刷题版' },
+            { text: '2023 刷题版 ✍️', link: '/posts/english/2023-英语-刷题版' },
+            { text: '2022 刷题版 ✍️', link: '/posts/english/2022-英语-刷题版' },
+            { text: '2021 刷题版 ✍️', link: '/posts/english/2021-英语-刷题版' },
             { text: '2020 刷题版 ✍️', link: '/posts/english/2020-英语-刷题版' },
             { text: '2020 精析版 📖', link: '/posts/english/2020-英语-精析版' },
+            { text: '2019 刷题版 ✍️', link: '/posts/english/2019-英语-刷题版' },
             { text: "高频考点 TOP20 📊", link: '/posts/高频考点/英语-高频考点TOP20' },
             { text: "2024", link: '/posts/english/2024' },
             { text: "2023", link: '/posts/english/2023' },
