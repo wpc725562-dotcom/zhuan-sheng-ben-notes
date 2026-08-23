@@ -464,6 +464,10 @@ export default defineConfig({
                               "link": "/posts/computer/"
                     },
                     {
+                              "text": "真题章节对照表 🎯",
+                              "link": "/posts/computer/真题章节对照表"
+                    },
+                    {
                               "text": "高频考点 TOP20 📊",
                               "link": "/posts/高频考点/计算机-高频考点TOP20"
                     },
@@ -670,6 +674,7 @@ export default defineConfig({
           text: '公共英语 · 真题',
           items: [
             { text: '真题总览', link: '/posts/english/' },
+            { text: '真题题型对照表 🎯', link: '/posts/english/真题题型对照表' },
             { text: '2024 刷题版 ✍️', link: '/posts/english/2024-英语-刷题版' },
             { text: '2023 刷题版 ✍️', link: '/posts/english/2023-英语-刷题版' },
             { text: '2022 刷题版 ✍️', link: '/posts/english/2022-英语-刷题版' },
@@ -729,6 +734,7 @@ export default defineConfig({
           text: '政治 · 真题演练',
           items: [
             { text: '真题总览', link: '/posts/politics/' },
+            { text: '真题章节对照表 🎯', link: '/posts/politics/真题章节对照表' },
             { text: '2020 刷题版 ✍️', link: '/posts/politics/2020-政治-刷题版' },
             { text: '高频考点 TOP20 📊', link: '/posts/高频考点/政治-高频考点TOP20' },
             { text: '2020 原卷文字版 📄', link: '/posts/politics/2020-原卷文字版' },
