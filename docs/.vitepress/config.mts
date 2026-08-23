@@ -101,6 +101,16 @@ export default defineConfig({
       { text: '📊 投档招生', link: '/guide/投档与招生数据' },
       { text: '📈 2026 省控线', link: '/guide/省控线-录取分数线' },
       {
+        text: '📊 高频考点',
+        items: [
+          { text: '总览', link: '/posts/高频考点/' },
+          { text: '计算机 TOP20', link: '/posts/高频考点/计算机-高频考点TOP20' },
+          { text: '政治 TOP20', link: '/posts/高频考点/政治-高频考点TOP20' },
+          { text: '高数 TOP20', link: '/posts/高频考点/高数-高频考点TOP20' },
+          { text: '英语 TOP20', link: '/posts/高频考点/英语-高频考点TOP20' },
+        ],
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes',
       },
@@ -113,6 +123,10 @@ export default defineConfig({
                     {
                               "text": "真题总览",
                               "link": "/posts/math/"
+                    },
+                    {
+                              "text": "高频考点 TOP20 📊",
+                              "link": "/posts/高频考点/高数-高频考点TOP20"
                     },
                     {
                               "text": "章节笔记总览",
@@ -442,6 +456,10 @@ export default defineConfig({
                               "link": "/posts/computer/"
                     },
                     {
+                              "text": "高频考点 TOP20 📊",
+                              "link": "/posts/高频考点/计算机-高频考点TOP20"
+                    },
+                    {
                               "text": "知识点总览",
                               "link": "/posts/computer/notes/"
                     },
@@ -637,6 +655,7 @@ export default defineConfig({
           text: '公共英语 · 真题',
           items: [
             { text: '真题总览', link: '/posts/english/' },
+            { text: "高频考点 TOP20 📊", link: '/posts/高频考点/英语-高频考点TOP20' },
             { text: "2024", link: '/posts/english/2024' },
             { text: "2023", link: '/posts/english/2023' },
             { text: "2022", link: '/posts/english/2022' },
@@ -687,6 +706,7 @@ export default defineConfig({
           text: '政治 · 真题演练',
           items: [
             { text: '真题总览', link: '/posts/politics/' },
+            { text: '高频考点 TOP20 📊', link: '/posts/高频考点/政治-高频考点TOP20' },
             { text: '2020 原卷文字版 📄', link: '/posts/politics/2020-原卷文字版' },
             { text: '2024', link: '/posts/politics/2024' },
             { text: '2023', link: '/posts/politics/2023' },
