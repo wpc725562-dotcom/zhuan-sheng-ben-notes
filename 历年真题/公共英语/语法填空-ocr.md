@@ -1,0 +1,1022 @@
+# OCR 提取（RapidOCR）
+> 源文件: 语法填空.pdf
+> 页数: 20 | DPI: 250
+
+---
+
+## 第 1 页
+
+公众号/小红书：Arrow插本讨论会
+专插本英语
+语法填空
+15篇
+精华
+
+## 第 2 页
+
+公众号/小红书：Arrow插本讨论会
+Passage 1
+Mr. Johnson lived in the woods with his wife and children. He owned
+farm, which looked almost
+abandoned. -2 (lucky), he also had a cow which produced milk every day. He sold or exchanged some of
+the milk in the towns nearly 
+_ other food and made cheese and butter for the family with what
+(leave). The cow was their only means of support, in fact. One day, the cow was eating grass 
+5  it began to
+rain heavily. While making great efforts to run away, she -6
+5 (fall) over the hill and died. Then the Johnson
+tried to make a living
+ the cow. In order to support his family, Mr. Johnson began to plant herbs and
+vegetables. Since the plants took a while to grow, he started cutting down trees -
+ (sell) the wood. Thinking
+about his children's clothes, he started growing cotton too. When harvest came around, he was already selling herbs.
+- people from the town met regularly. Now it occurred to
+vegetables and cotton in the market
+10
+that his farm had much potential and that the death of the cow was a bit of luck
+Passage 2
+Going to Mount Huangshan reminds me of the popular Beatles' song The Long and Winding Road". 
+is so breathtaking about the experience is the out-of-this-world scenes. The rolling sea of clouds you see once you
+are at the top will remind you how tiny we 2 (human) are.
+The hot spring at the foot of the mountain is something you must try after the climb. It will
+(undoubted) help you get refreshed! The amazing thing about the spring is that the colder the temperature gets, the
+4 (hot) the spring! Strange, isn't it? But that's how nature is -- always leaving us 
+(astonish)
+What comes next is the endless series of steps. You can't help wondering how hard it
+ (be) for the
+people then to put all those rocks into place. Though it is the only unnatural thing on your way up the mountain,
+ offers a place where you can sit down to rest your
+still it highlights the whole adventure .
+— (ache)
+legs.
+As the song goes, this long and winding road "will never disappear", and it will always stick in the visitor's
+ (I). While you're in China, Mount Huangshan is 
+memory. It sure does in
+10
+must to visit!
+Passage 3
+Decorating with Plants, Fruits and Flowers for Chinese New Year
+Chinese New Year is a
+_ (celebrate) marking the end of the winter season and the beginning of spring
+This is why decorating with plants, fruits and flowers
+ (carry) special significance. They represent the
+earth
+3 (come) back to life and best wishes for new beginnings.
+These are some of the most popular in many parts of the country:
+Oranges: Orange trees are more
+decoration; they are a symbol of good fortune and wealth. They
+make great gifts and you see them many times
+_ (decorate) with red envelopes and messages of good
+fortune.
+Bamboo: Chinese love their ‘Lucky Bamboo" plants and you will see them often in their homes and office.
+(certain) during the holiday period, this plant is a must. Bamboo plants are associated
+ health,
+abundance and a happy home. They are easy
+.(care) for and make great presents.
+
+## 第 3 页
+
+公众号/小红书：Arrow插本讨论会
+Branches of Plum Blossoms (梅花): The
+(beauty) long branches covered with pink-colored buds
+(蓓蕾) make fantastic decorations. The plum trees are
+10
+first to flower even as the snow is melting (融化)
+They represent the promise of spring and a renewal of life.
+Passage 4
+A 90-year-old has been awarded “Woman Of The Year" for 1 (be) Britain's oldest full-time employee
+-- still working 4o hours a week. Now Irene Astbury works from 9am to 5pm daily at the pet shop in Macclesfield.
+ she opened with her late husband Les. Her years of hard work have
+_ (final) been acknowledged
+after a customer nominated (提名) her to be Cheshire's Woman Of The Year.
+Picking up her “ Lifetime Achievement" award, proud Irene
+(declare) she had no plans
+(retire) from her 36-year-old business. Irene said, ‘I don't see any reason to give up work. I love coming here and
+seeing my family and all the friends I
+(make) over the years. I work not because I have to, -
+because I want to."
+Granddaughter Gayle Parks, 31 -- who works alongside her in the family business -- said it remained unknown
+as to who nominated Irene for the award. She said, We don't have any idea who put grandma forward. When we
+8 (say) she was short-listed, we thought it was
+got a call 
+joke. But then we got an official letter
+and we were blown away. We are so proud of her. It's -10
+(wonder)."
+Passage 5
+Diets have changed in China -- and so too has its top crop. Since 201l, the country -
+(grow) more
+corn than rice. Corn production has jumped nearly 125 percent over
+past 25 years, while rice has
+increased only 7 percent.
+A taste for meat is -3_ (actual) behind the change: An important part of its corn is used to feed chickens,
+pigs, and cattle. Another reason for corn's rise: The government encourages farmers to grow corn instead of rice
+4 (improve) water quality. Corn uses less water
+,rice and creates less fertilizer （化肥) runoff. This
+switch has decreased
+(pollute) in the country's major lakes and reservoirs and made drinking water safer
+for people.
+According to the World Bank, China accounts for about 30 percent of total
+(globe) fertilizer
+consumption. The Chinese Ministry of Agriculture finds that between 2005 -- when the government
+(start) a soil-testing program 
+ gives specific fertilizer recommendations to farmers -- and 2011, fertilizer
+use dropped by 7.7 million tons. That prevented the emission (非放) of 51.8 million tons of carbon dioxide. China's
+approach to protecting its environment while
+10_ (feed) its citizens “offers useful lessons for agriculture and
+food policymakers worldwide." says the bank's Juergen Voegele.
+- 2-
+
+## 第 4 页
+
+公众号/小红书：Arrow插本讨论会
+Passage 6
+In 1863 the first underground passenger railway in the world opened in London. It ran for just under seven
+kilometers and allowed people to avoid terrible
+ (crowd) on the roads above as they travelled to and
+ work. It took three years to complete and was built using an interesting method. This included digging up the
+road, -4 (lay) the track and then building a strong roof over
+ top. When all those had been done,
+the road surface was replaced
+Steam engines 
+ (use) to pull the carriages and it must have been 
+_ (fair) unpleasant for the
+passengers, with all the smoke and noise. However, the railway quickly proved to be a great success and within six
+months, more than 25,000 people were using
+ every day.
+Later, engineers
+_ (manage) to construct railways in a system of deep tunnels (隧道), which became
+known to the tube. This development was only possible with the
+(introduce) of electric-powered engines
+and lifts. The central London Railway was one of the most
+- (success) of these new lines, and was
+opened in 1900. It had white-painted tunnels and bright red carriages, and proved extremely popular with the
+public.
+Passage 7
+If you feel stressed by responsibilities at work, you should take a step back and identify (i识别) those of 
+(great) and less importance. Then, handle the most important tasks first so you'll feel a real sense of
+(achieve). Leaving the less important things until tomorrow
+(be) often acceptable
+Most of us are more focused
+our tasks in the morning than we are later in the day. So, get an early
+start and try to be as productive
+- possible before lunch. This will give you the confidence you need to get
+you through the afternoon and go home feeling accomplished.
+ (study) show that we are far more productive at work if we take short breaks
+Recent
+(regular). Give your body and brain a rest by stepping outside for
+while, exercising, or dong something
+you enjoy.
+If you find something you love doing outside of the office, you'll be less likely
+_ (bring) your work
+home. It could be anything -- gardening, cooking, music, sports -- but whatever it is,
+10
+_ (make) sure it's a
+relief from daily stress rather than another thing to worry about.
+Passage 8
+In a study of 33 years of trends in Body Mass Index (体重指数) across 200 countries, the scientists found that
+people worldwide are getting heavier 
+ that most of the rise is due to gains in BMI in rural areas.
+BMI is an internationally recognized measurement tool 
+_ gives an indication of whether someone is a
+healthy weight. It is calculated by dividing a -3 (person) weight in kg by their height in meters squared, and a
+BMI of between 19 and 25
+_ (consider) healthy.
+The study found that between 1985 and 2017, average rural BMI increased
+2. 1 in women and men
+In cities, however, the gain
+_ (be) 1. 3 in women and 1. 6 in men. The researchers described “striking
+changes" in the geography of BMI. In 1985, urban men and women in more than three quarters of the countries
+- 3-
+
+## 第 5 页
+
+公众号/小红书：Arrow插本讨论会
+7 (study) had higher BMIs than men and women in rural areas. But 30 years later, the BMI difference between
+urban and rural people in many countries had narrowed 
+_ (sharp).
+This may be due to some disadvantages for people
+_ (live) in the countryside, including
+10
+(low) levels of income and education, higher costs of healthy foods, and fewer sports facilities.
+Passage 9
+Some time after 10,000 BC, people made the first real attempt to control the world they lived
+through agriculture. Over thousands of years, they began to depend less on -
+ could be hunted or gathered
+from the wild, and more on animals they had raised and crops they had sown.
+Farming produced more food per person
+hunting and gathering, so people were able to raise more
+children. And, as more children were born, more food
+(need). Agriculture gave people their first
+experience of the power of technology 5 (change) lives.
+By about 6000 BC, people
+_ (discover) the best crops to grow and animals to raise. Later, they
+learned to work with the 7 (season), planting at the right time and, in dry areas, 
+ (make) use of
+annual floods to irrigate (灌溉) their fields
+This style of farming lasted for quite a long time. Then, with -
+rise of science, changes began. New
+methods 
+_ (mean) that fewer people worked in farming. In the last century or so, these changes have
+accelerated. New power machinery and artificial fertilizers (化 月巴) have now totally transformed a way of life that
+started in the Stone Age.
+Passage 10
+Something significant is happening to the world population it is aging. The median age of an American in
+1 (be) 30 -- today it is 41 and is expected
+1950
+(number) are more striking -- 22 in 1950, 46 today and 53 in 2050. In 2015, one in 12 people around the world
+were over 65; by 2050, it will be one in six.
+This aging of the population is driven
+_ two factors. The first is declining birth rates, which means old
+generations are large
+ (compare) to younger generations, and so, on average, the population becomes
+_ (old) than before. This is .
+(particular) true in the US. The second reason is that people are living
+longer. A child born in the US today has
+very realistic chance of living beyond 100 and needs to plan
+accordingly
+People tend to focus on the first factor. However, greater attention should
+_(place) on longevity（长
+寿). It isn't just that people are, on average, living longer. It's also that they are on average healthier
+10
+more productive for longer. Therefore, they can work for longer, consume more and in general be boost to the
+economy.
+Passage 11
+There are several reasons why school uniforms are good idea. First of all, uniforms help the school look smart.
+The students feel that they belong to a particular group. When every pupil in the school wears the uniform, nobody
+4-
+
+## 第 6 页
+
+公众号/小红书：Arrow插本讨论会
+(have) to worry about fashion(时 尚). Everybody wears
+ same style of clothes. Uniforms can be
+useful in unexpected ways. A school in Ireland has introduced an interesting new uniform. On the edge of the jacket,
+there is a piece of cloth 3 gives off light in the dark. When the children are walking or 
+_(cycle) to
+school on dark mornings, car drivers can -
+5 (easy) see them.
+But can uniforms help improve school standards? The answer
+ this question is not clear. One study
+in America found that students' grades 7 (improve) a little after the school introduced uniforms. But some
+_ (wear) the uniform. Other American studies showed no
+students didn't want
+_ (connect)
+between uniforms and school performance.
+School uniforms are
+10
+ (tradition) in Britain, but some schools are starting to get rid of them. Some
+very good schools don't have a uniform policy. However, uniforms are still popular. Pupils at about 90 percent of
+British secondary schools wear uniforms.
+Passage 12
+Few people I know seem to have much desire or time to cook. Making Chinese -
+1 (dish) is seen as
+especially troublesome. Many westerners
+- come to China cook much less than in their own countries once
+they realize how cheap 3
+ can be to eat out. I still remember
+_ (visit) a friend who'd lived here for
+five years and I 5 (shock) when I learnt she hadn't cooked once in all that time.
+While regularly eating out seems to 
+ (become) common for many young people in recent years, it's
+not without a cost. The obvious one is money; eating out once or twice a week may be 7 (afford) but doing
+this most days adds up. There could be an even
+(high) cost on your health. Researchers have found that
+there is a direct link between the increase in food eaten outside the home and the rise in
+(weigh)
+problems.
+If you are not going to suffer this problem, then I suggest that the next time you go to your mum's home
+10
+dinner, get a few cooking tips from her. Cooking food can be fun. You might also begin to notice the effects
+not only on your health but in your pocket.
+Passage 13
+Last October, while tending her garden in Mora, Sweden, Lena Pahlsson pulled out a handful of small
+(carrot) and was about to throw them away. But something made her look closer, and she noticed a
+2-
+(shine) object. Yes, there beneath the leafy top of one tiny carrot was her long-lost wedding ring.
+Pahlsson screamed
+loudly that her daughter came running from the house. ‘she thought I had hurt
+4 (), says Pahlsson.
+Sixteen years
+_ (early), Pahlsson had removed the diamond ring 6_ (cook) a meal. When she
+wanted to put the ring back on later, it was gone. She suspected that one of her three daughters -- then ten, eight,
+and six -- had picked it up, but the girls said they hadn't. Pahlsson and her husband
+1 7 (search) the kitchen,
+checking every corner, but turned up nothing. ‘I gave up hope of finding my ring again," she says. She never
+replaced it.
+Pahlsson and her husband now think the ring probably got
+(sweep) into a pile of kitchen rubbish
+-5-
+
+## 第 7 页
+
+公众号/小红书：Arrow插本讨论会
+and was spread over the garden,
+it remained until the carrot's leafy top accidentally sprouted (生长)
+10
+through it. For Pahlsson, its return was
+wonder.
+Passage 14
+The Xi'an City Wall is the most complete city wall that has survived China's long history. It 1 (build)
+originally to protect the city 
+_ the Tang dynasty and has now been completely restored (修 复). It is
+possible 3 (walk) or bike the entire 14 kilometers.
+We accessed the wall through the South Gate. The wall is 12 meters high and from here you can see streams of
+people moving inside and outside the City Wall.
+After 
+ (spend) some time looking at all the defensive equipment at the wall, we decided it was time
+for some action and what 5 (good) than to ride on a piece of history!
+ (hire) our bikes from the rental place at the South Gate. My bike was old and shaky
+We
+did the job. It took us about 3 hours to go all 
+way around the Xi'an City Wall. Supposedly you can do it
+in two hours, but we stopped at the different gates and
+9_ (watchtower) to fake pictures or just to watch the
+10
+local people going about their
+_ (day) routines
+Passage 15
+In ancient China lived an artist, 1
+. paintings were almost lifelike. The artist's reputation had made him
+proud. One day the emperor wanted to get his portrait done so he called all great artists to come and present their
+2 (fine) work, so that he could choose the best. The artist was sure he would
+_ (choose), but when he
+presented his masterpiece to the emperor's chief minister, the old man laughed. The wise old man told him to travel
+to the Li River and perhaps he could learn a little from the greatest artist in the world.
+Filled with
+ (curious), the artist packed his bags and left. 
+ he asked the villagers on the
+banks of the river where he could find the legendary （传奇的) artist, they smiled and 
+ (point) down the
+river. The next morning he hired a boat and set out
+_ (find) the well-known painter. As the small boat
+moved,
+ (gentle) along the river he was left speechless by the mountains being silently reflected in the
+water. He passed milky white waterfalls and mountains in many shades of blue. And when he saw the mists rising
+from the river and the soft clouds
+(surround) the mountain tops, he was reduced to tears. The artist was
+finally humbled (谦卑) by the greatest artist
+10
+earth, Mother Nature.
+-6-
+
+## 第 8 页
+
+公众号/小红书：Arrow插本讨论会
+答案
+Passage 1
+【答案】a
+【解析】句意：他拥有一个农场，这个农场看起来都快废弃了。a是不定冠词，表示泛指一个，修
+饰可数名词单数。根据文意可知，Johnson先生和家人住在树林里，他拥有一个农场。故填 a。
+【答案】Luckily
+【解析】句意：幸运的是，他还有一头奶牛，每天都能产奶。luckily 副词，幸运的是。根据文意可知，
+Johnson先生的农场很破旧，都快要废弃了。但是还有奶牛每天都产奶，能让他维持生存，所以这是一
+件幸运的事。这里用副词形式修饰整个句子。
+3.
+【答案】for
+【解析】句意：他去附近的镇里卖牛奶，或是用牛奶来换其他的食物。本句话中 exchange 的意思是交
+换，根据句意可知，Johnson 先生用牛奶来换其他的食物。这里是用短语exchange...for...，故填介词 for。
+【答案】was left
+【解析】句意：他去附近的镇里卖牛奶，或是用牛奶来换其他的食物，用剩下的牛奶制作奶酪和黄油。
+leave离开；剩下，留下。根据文意可知，Johnson先生一家靠农场里的奶牛产奶来生活。除去卖掉的和
+换其他食物的牛奶，剩下的他就用来制作奶酪和黄油。这里what was left是一个宾语从句，根据句意可
+知用被动语态。
+5.
+【答案】when
+【解析】句意：一天，奶牛正在吃草，这时突然开始下起大雨。when是并列连词，意思是正在这时。
+这句话使用的句型是 be doing sth.when..，正在做某事这时………
+6.
+【答案】fell
+【解析】句意：在慌忙逃跑的时候，奶牛摔下了山死了。fall 摔倒，掉下来，根据文意可知，这篇短文
+使用的是一般过去时态，故这里填过去式fell。
+7.
+【答案】without
+【解析】句意：牛奶死了，Johnson先生不得不继续生活。根据文意可知，牛奶在慌忙躲雨的时候，不
+小心摔死了，因此Johnson先生就不得不没有了奶牛来生活。故填 without。
+8.
+【答案】 to sell
+【解析】句意：因为这些药草和蔬菜需要花费时间来生长，Johnson 先生就开始砍树来卖木头。sell 卖，
+销售。根据文意可知，Johnson先生一边种植药草和蔬菜，一边砍树去卖掉木柴。这里用动词不定式形
+式在句中做目的状语。
+9.
+【答案】where
+【解析】句意：丰收的时候，他已经在人们定期赶集的市场上去卖药草、蔬菜和棉花了。where 在这
+里引导的是一个定语从句，修饰先行词 the market。
+10.
+【答案】him
+【解析】句意：现在看来好像他的农场是非常有潜能的，奶牛的死也似乎给他带来了好运气。It occurred
+to sb.that...某人突然发现，这是一个固定的句型。因为这篇短文讲述的是 Johnson 先生，故填 him。
+Passage 2
+-7-
+
+## 第 9 页
+
+公众号/小红书：Arrow插本讨论会
+1.
+【答案】What
+【解析】考查主语从句。空格处引导的从句作主语，且空格处在从句中作主语，故填What。
+2.
+【答案】humans
+【解析】考查名词复数。此处和前面的we 构成同位语，所以要用复数形式，故填humans。
+3.
+【答案】undoubtedly
+【解析】考查副词。此处修饰动词help，所以要用副词，故填 undoubtedly。
+4.
+【答案】hotter
+【解析】考查形容词的比较级。从前面 the colder 可知，此处含有“the+比较级，the+比较级”的结构，
+故填 hotter。
+5.
+【答案】astonished
+【解析】考查形容词。此处位于 leave sb.后作宾语补足语，补充说明 us，故填 astonished。
+6.
+【答案】was
+【解析】考查时态和主谓一致。根据 then 可知，此处为一般过去时，且从句主语为 it，故填 was。
+7.
+【答案】and
+【解析】考查连词。根据语境可知，此处是并列关系，故填 and。
+8.
+【答案】aching
+【解析】考查现在分词。此处legs 与ache 之间是逻辑上的主谓关系，需用现在分词作定语，故填 aching。
+9.
+【答案】mine
+【解析】考查物主代词。此处作介词的宾语，相当于前面的 sb.'s memory，所以要用名词性物主代词
+故填 mine。
+10.
+【答案】a
+【解析】考查冠词。此处表示黄山是必须要去参观的地方，must 可用作名词，此处指一件必须做的事
+情，故填a。
+Passage 3
+1.
+【答案】 celebration
+【解析】考查名词。句意：中国新年是一个庆祝冬天的结束和春天的开始。不定冠词a后接名词形式。
+故填 celebration。
+2.
+【答案】carries
+【解析】考查主谓一致。句意：这就是为什么用植物、水果和鲜花装饰具有特殊意义的原因。这是一
+个表语从句，从句主语为动名词短语“decorating with plants, fruits and flowers"，所以谓语动词用单数
+形式。故填 carries。
+3.
+【答案】coming
+【解析】考查非谓语动词。句意：它们代表着大地的复苏和对新开端的美好祝愿。句中谓语动词为
+represent，所以这里为非谓语动词。名词 earth 与 come back to 之间为主动关系，所以用现在分词作后
+置定语。故填 coming。
+4.
+【答案】than
+【解析】考查短语。句意：桔子树不仅仅是装饰品。more than 不仅仅，不只是。故填 than。
+5.
+【答案】decorated
+-8-
+
+## 第 10 页
+
+公众号/小红书：Arrow插本讨论会
+【解析】考查非谓语动词。句意：它们是很好的礼物，你会经常看到它们装饰着红包和好运的信息。
+句中 them 指代前句中的 orange trees，与 decorate 之间为被动关系，所以用过去分词作宾语补足语。故
+填 decorated。
+6.
+【答案】Certainly
+【解析】考查副词。句意：当然在假期期间，这种植物是绝对必要的事物。介词短语做时间状语，因
+此只有改变成副词才能复合句子结构，用副词形式做状语。故填Certainly。
+7.
+【答案】with
+【解析】考查短语。句意：竹类植物与健康、富足和幸福的家庭联系在一起。be associated with 与…
+相联系。故填 with。
+8.
+【答案】to care
+【解析】考查非谓语动词。句意：它们很容易照顾，也很适合作为礼物。这里考查“be+形容词+to do”
+结构。故填 to care。
+9.
+【答案】beautiful
+【解析】考查形容词。句意：美丽的长枝上覆盖着粉红色的花蕾，做成漂亮的装饰。修饰名词branches,
+用形容词形式。故填 beautiful。
+10.
+【答案】 the
+【解析】考查冠词。句意：雪还在融化时，梅花是第一个开花的。这里表示特指，所以序数词first 前
+要加定冠词 the。故填 the。
+Passage 4
+【答案】being
+【解析】根据空格前介词 for 可知，后面接的动词须以动名词形式出现，故填 being。
+2.
+【答案】which
+【解析】此句为非限定性定语从句，用which来引导，指代“pet shop”，故填 which。
+3.
+【答案】finally
+【解析】空格处应为副词词性，修饰动词，故填 finally
+4.
+【答案】declared
+【解析】因事情发生在过去，且后半句动词用“had”，可知该句时态为一般过去时，故填declared。
+5.
+【答案】 to retire
+【解析】该句用不定式做状语表目的，“have no plans to do sth.”表示没有做某事的计划，故填 to retire。
+6.
+【答案】have made
+【解析】
+根据时间状语“over the years，多年以来”，推出该句应用现在完成时态，故填 have made。
+7.
+【答案】but
+【解析】此处句意为“我工作不是因为我必须做，而是因为我想做”，此处应为转折，故填but。
+8.
+【答案】 saying
+【解析】ing 形式与主句主语构成主动状态，故填 saying。
+9.
+【答案】a
+【解析】joke 是可数名词，前面需要填不定冠词 a或 an，joke 不是以元音音素开头，故填 a。
+-9-
+
+## 第 11 页
+
+公众号/小红书：Arrow插本讨论会
+10.
+【答案】wonderful
+【解析】此处应为形容词作表语，表示“极好的，精彩的”，故填wonderful。
+Passage 5
+1.
+【答案】has grown
+【解析】此处考查完成时。根据前文 since 和句意可知，从2011年开始，中国的谷物产量大于水稻产
+量。从过去持续到现在，故用完成时。
+2.
+【答案】the
+【解析】此处考查定冠词。根据语意和后文 past 25 years 可知这段时间是特指的，故应该用定冠词 the。
+3.
+【答案】actually
+【解析】此处考查副词。空格处修饰后文 behind the change，故应将形容词 actual 写成副词 actually。
+4.
+【答案】 to improve
+【解析】此处考查不定式。句中已经出现了谓语动词，且空之前没有连词，所以考虑非谓语；根据句
+意可知空格处表目的，所以应用不定式to improve。
+【答案】than
+【解析】此处考查比较级的固定搭配。根据语意可知此处需要填比较级的固定搭配，再根据前面less
+可知，此处应为less than 固定搭配，意为水稻相对于谷物而言，费水，使用更多的化肥。
+6.
+【答案】pollution
+【解析】此处考查动词变名词。decreased pollution 动宾搭配，减少污染，所以此处需要填名词作宾语。
+7.
+【答案】global
+【解析】此处考查名词变形容词，意思是“全球的，总体的”。句意为根据世界银行的统计，中国的化
+肥消耗量占了全球化肥消耗量的30%。
+8.
+【答案】started
+【解析】此处考查动词的时态，一般过去时。项目开始的时间是2005，所以用一般过去时。
+9.
+【答案】which / that
+【解析】此处考查定语从句。先行词是program，
+在定从中担当主语的成分，用 which或that。
+10.
+【答案】feeding
+【解析】此处考查非谓语。词组 approach to，此处的 to 是介词，后接动名词。while 在这里表示与此同
+时的意思。
+Passage 6
+1.
+【答案】crowds
+【解析】根据空格前 terrible，可以判断此空格填名词。确定名词后，考虑单复数，本句指大街上的人
+群，故填复数crowds。
+2.
+【答案】from
+【解析】空后无提示词，故空格填虚词。根据travel to 和 and 可以判断，此处应该填写介词，与 to 并
+列。根据句意“上班和下班”，此处填写from。
+3.
+【答案】laying
+- 10 -
+
+## 第 12 页
+
+公众号/小红书：Arrow插本讨论会
+【解析】这个句子除了一个连词 and 连接两个动作外，且 and 后为 building，前为 digging，并且前面已
+经出现 included 这个谓语动词，判断空格处填写非谓语动词。判断主被动，并根据 digging 和 building,
+此处填写 laying。
+4.
+【答案】the / its
+【解析】此处填写虚词。前为over，后接名词top，那么空格处为限定词，能够充当限定词并且为虚词
+的，可以是冠词或者形容词性物主代词，所以用定冠词 the或者形容词性物主代词 its。
+5.
+【答案】were used
+【解析】这个句子中有连词，后面有 must have been 谓语动词，所以前面为谓语动词，考查时态语态。
+主语为 steam engines，“被利用”，为被动；并且根据本句 must have been和下一句话中的系动词 proved,
+可知为过去时间，并且主语为复数，所以填were used。
+6.
+【答案】fairly
+【解析】空格处填写实词，并且是对后面unpleasant 这个形容词进行修饰，修饰形容词要用副词形式,
+所以填写 fair 的副词形式，fairly。
+7.
+【答案】it
+【解析】此处空格填写虚词，并且作 using 的宾语。此处指代这句话中的主语 the railway，用单数代词
+it.
+8.
+【答案】
+ managed
+【解析】空格处填写实词，句子中有连词，判断此处填写谓语动词，考查时态语态；跟主语为主动关
+系，并且为过去时间，填写 manage 的过去式，managed。
+9.
+【答案】introduction
+【解析】空格处填写实词，空格前为the，空格后为“of+名词”形式，判断空格处填写名词，直接填
+写 introduce 的名词形式 introduction。
+10.
+【答案】successful
+【解析】空格处填写实词，根据 one of the most，可以判断此处考查形容词的最高级，所以填写 success
+的形容词形式 successful。
+Passage 7
+【答案】
+greater
+【解析】考查比较级。本空所填之词和比较级 less 是并列关系，使用相同的比较级形式 greater。
+2.
+【答案】achievement
+【解析】考查名词。横线前面有介词 of，横线上要使用名词 achievement 作为 of的宾语。句意：首先
+处理重要的事情，那么你会有成就感
+3.
+【答案】is
+【解析】考查句子结构和主谓一致。本句中单个动名词短语“Leaving...tomorrow”在句中做主语，谓
+语动词使用单数形式，所以使用is。
+【答案】on
+【解析】考查固定搭配。形容词短语 be focused on集中于…。很多人早晨对任务的注意力要比晚些
+时候的注意力更集中。
+- 11-
+
+## 第 13 页
+
+公众号/小红书：Arrow插本讨论会
+5.
+【答案】
+ as
+【解析】考查固定搭配。短语 as...as possible 尽可能………。正是因为人们早晨的注意力更为集中，所以
+我们要早点开始，在午饭前尽可能有效率地完成工作。
+6.
+【答案】studies
+【解析】考查名词单复数。本句的谓语动词是 show，说明主语是复数名词 studies。
+7.
+【答案】regularly
+【解析】考查副词。在英语副词通常做状语修饰形容词、副词或动词，形容词通常在句中做定语或表
+语修饰名词。所以本句中使用副词 regularly 做状语修饰动词短语 take short breaks。
+8.
+【答案】a
+【解析】考查固定短语。介词短语 for a while一会。本句是指通过锻炼或做一些你喜欢的事情，让你的
+身体和大脑休息一会。
+9.
+【答案】 to bring
+【解析】考查形容词短语。形容词短语 be likely to do sth.可能做某事。你就不太可能把工作带回家去做，
+因为你找到了你喜欢做的事情，
+10.
+【答案】make
+【解析】考查祈使句。本句中动词短语 make sure 放在句首，构成祈使句。句意：要保证它是能够让你
+释放压力，而不是让你担忧的事。
+Passage 8
+1.
+【答案】and
+【解析】考查连词。句意：在一项对200个国家33年体重指数趋势的研究中，科学家们发现，世界各
+地的人们体重越来越重，而这主要是由于农村地区体重指数的增加。分析句子结构可知“that people
+worldwide are getting heavier 和 that most of the rise is due to gains in BMI in rural areas"都是 found 引 导的
+宾语从句，是并列关系，故填and。
+2.
+【答案】that /which
+【解析】考查定语从句关系代词。句意：BMI是一种国际公认的测量工具，它可以显示一个人的体重
+是否健康。分析句子结构可知，tool 是先行词，且在从句中做主语，故填that ／which。
+3.
+【答案】person's
+【解析】考查名词所有格。句意：它的计算方法是用一个人的体重（公斤）除以身高（米）的平方，
+BMI 在 19到25 之间被认为是健康的。分析句子结构可知，person 是修饰 weight 的，用 person 的名词
+所有格 person's。故填 person's。
+4.
+【答案】is considered
+【解析】考查动词被动语态。分析句子结构可知，句子缺少谓语，主语aBMI 是单数，时态是一般现
+在时，且主语和 consider 是表被动关系，故填 is considered。
+5.
+【答案】by
+【解析】考查介词。句意：研究发现，1985年至 2017年间，农村女性和男性的平均BMI增加了2.1。
+increase by表示“增加了"；increase to 表示“增加到”。根据正常的成人BMI数值（18.5-23.9）可知,
+increase by 符合语境，故填by。
+- 12 -
+
+## 第 14 页
+
+公众号/小红书：Arrow插本讨论会
+6.
+【答案】was
+【解析】考查主谓一致和动词时态。句意：然而，在城市中，女性增加了1.3，男性增加了1.6。分析
+句子结构可知，句子缺少谓语，主语 gain是单数，时态是一般过去时，故填 was。
+【答案】studied
+【解析】考查非谓语动词。句意：1985年，在被研究的国家中，超过四分之三的城市男性和女性的BMIs
+高于农村地区的男性和女性。分析句子结构可知，句子的谓语是 had，所以 study用非谓语形式，它的
+逻辑主语是countries，表被动关系，故填 studied。
+8.
+【答案】sharply
+【解析】考查副词。句意：但30年后，许多国家城市和农村人口的BMI差异大幅缩小。分析句子结构
+可知，sharp 是要修饰动词 narrow，用 sharp 的副词形式 sharply。故填 sharply。
+9.
+【答案】living
+【解析】考查非谓语动词。句意：这可能是由于生活在农村的人有一些不利条件，包括较低的收入和
+教育水平，较高的健康食品成本，以及较少的体育设施。分析句子结构可知，句子已有谓语动词may be，
+故 live 用非谓语形式，它的逻辑主语是 people，表主动关系，做定语，用现在分词形式，故填 living。
+10.
+【答案】lower
+【解析】考查形容词比较级。分析句子结构可知，including 说明的是一些不利条件，且后面有higher
+和 fewer，是并列关系，所以low也应该用比较级形式，故填lower。
+Passage 9
+1.
+【答案】in
+【解析】考查介词。句意：公元前10000年以后，人们第一次真正尝试通过农业来控制他们所居住的
+世界。分析可知，“they lived
+”应是之前名词the world的定语从句，定语从句引导词被省略，可
+推知先行词应是在从句中作宾语，即：theylived in the world。live in+名词，意为“居住在某地”。故填
+in.
+2.
+【答案】what
+【解析】考查名词性从句。句意：在几千年的时间里，他们开始减少对从野外采集的猎物的依赖，而
+更多地依赖饲养的动物和播种的庄稼。分析句子，宾语从句部分缺主语，所以引导词应为“连接代词”。
+根据句意，此处缺“什么”之意。故填what。
+3.
+【答案】than
+【解析】考查固定搭配。句意：农业比狩猎和采集的人均粮食产量更高。结合句意可知，此句中将农
+业生产与狩猎和采集相比，应用比较连词 than。more...than，意为“比更”故填 than。
+4.
+【答案】was needed
+【解析】考查时态语态。句意：随着越来越多的小孩出生，越多的食物被需要。分析句子，逻辑主语
+和need之间表示被动关系。同时此处描述的是过去的时间，所以时态应用过去时。故此处应用过去时
+的被动语态。food为不可数名词。故填 was needed。
+5.
+【答案】 to change
+【解析】考查非谓语动词。句意：农业让人们第一次体验到技术改变生活的力量。分析句子，简单句
+中已有动词 gave，故提示词部分需用非谓语动词。分析句意，此处需用不定式表示目的。故填 to change。
+- 13 -
+
+## 第 15 页
+
+公众号/小红书：Arrow插本讨论会
+6.
+【答案】had discovered
+【解析】考查时态。句意：大约在公元前6000年，人们已经发现了最适宜种植的庄稼和最适宜饲养的
+牲畜。分析句子，简单句中除了提示词外无其余动词，故此处需用动词的时态。逻辑主语和提示词之
+间表示主动逻辑。by+过去时间，译为“到为止”，后面的句子用过去完成时。故填 had discovered。
+7.
+【答案】seasons
+【解析】考查名词复数。句意：后来，他们学会了因地制宜，在适当的时间播种。在干旱地区，利用
+每年的洪水来灌溉农田。分析句子，提示词的词性为为可数名词，应用复数形式。故填 seasons。
+8.
+【答案】making
+【解析】考查非谓语动词。分析句子，make 所处的分句中无主语，故此处需用非谓语动词。make use of
+和逻辑主语 they 之间表示“主动”关系，所以此处用现在分词形式形式做状语。故填 making。
+9.
+【答案】the
+【解析】考查定冠词。句意：随着科学的崛起，事情发生了变化。with the rise of 译为“随着的崛
+起”是固定短语。故填 the。
+10.
+【答案】meant
+【解析】考查时态。句意：新方法意味着更少的人从事农业。分析句子，主句部分无其他动词，故此
+处应考虑的是动词的时态。文章的整体时态是过去时，根据时态一致原则此处也应为过去时。逻辑主
+语和动词之间表示主动关系。所以此处填过去时的主动形式。故填meant。
+Passage 10
+1.
+【答案】was
+【解析】时间状语 in 1950，是过去情况，故用 was。
+【答案】 to increase
+【解析】固定搭配 be expected to do。
+3.
+【答案】numbers
+【解析】空格后面有 are，说明是复数，所以用 numbers。
+4.
+【答案】by
+【解析】固定搭配或者理解为被动关系，be driven by受……驱动。
+5.
+【答案】compared
+【解析】compared to 和……相比。compare 这个词作状语时，一律用 ed 形式。
+6.
+【答案】older
+【解析】后面 than 作为提示词，所以填older。
+7.
+【答案】particularly
+【解析】修饰后面的 true，修饰形容词要用副词，故填 particularly
+8.
+【答案】a
+【解析】表示有机会活到 100 岁开外，have a chance of ...
+9.
+【答案】 be placed
+【解析】
+great attention should be placed on ...表示应该重视......
+10.
+【答案】and
+- 14 -
+
+## 第 16 页
+
+公众号/小红书：Arrow插本讨论会
+【解析】两个比较级中间用and连接。
+Passage 11
+1.
+【答案】 has / will have
+【解析】考查时态。句意：当每个学生在校穿校服时，没有人会担心时尚问题。本句是when引导的时
+间状语从句，遵循主将从现原则，因此，主句可以使用将来时willdo；根据语境可知，本文叙述的是
+客观事实，因此，本句亦可用一般现在时，主语是 nobody，谓语用 has。故填 has／will have。
+2.
+【答案】the
+【解析】考查冠词。句意：每个人都穿相同风格的衣服。same 是形容词，意思是“相同的”，常与 the
+连用修饰名词。故填the。
+3.
+【答案】that /which
+【解析】考查定语从句。这是个限制性定语从句，先行词是cloth，指物，从句中缺少主语，因此，可
+以用 that 或 which 引导。故填 that /which。
+【答案】cycling
+【解析】考查非谓语动词。句意：当孩子们在黑暗的早晨步行或骑车上学时，汽车司机很容易看到他
+们。or 连接两个并列成分，根据 or 前的 walking 可知，此处要用 cycling。故填 cycling。
+5.
+【答案】easily
+【解析】考查副词。分析句式可知，设空处所给词是修饰动词 see，修饰动词要用副词。因此，用 easy
+的副词形式。故填 easily。
+6.
+【答案】 to
+【解析】考查介词。句意：这个问题的答案不清楚。the key /answer to...这是固定搭配，“.….的答案
+是…"。故填 to。
+7.
+【答案】improved
+【解析】考查时态。句意：美国的一项研究发现，在学校引入校服后，学生的成绩有所提高。本句是
+after 引导的时间状语从句，前后时态保持一致，从句使用了一般过去式，主句用一般过去式。故填
+improved.
+8.
+【答案】 to wear
+【解析】考查非谓语动词。句意：但是，有一些学生不想穿学生服。want to do sth.想要做某事，这是
+want 的固定用法。故填 to wear。
+9.
+【答案】connection / connections
+【解析】考查名词。句意：其他的美国研究表明校服和学校表现之间没有联系。no 是形容词，形容词
+修饰名词，位于名词前，名词可用复数也可用单数形式。connect是动词，“联系”的意思，因此，要用
+其名词形式。故填 connection /connections。
+10.
+【答案】traditional
+【解析】考查形容词。句意：穿校服在英国是一个传统，但是一些学校开始允许学生上学不用穿校服。
+are 是系动词，其后常用形容词作表语，tradition是名词，“传统”的意思。因此，用其形容词形式。故
+填 traditional 
+- 15 -
+
+## 第 17 页
+
+公众号/小红书：Arrow插本讨论会
+Passage 12
+1.
+【答案】dishes
+【解析】考查名词的单复数。dish菜，是可数名词，用复数表示泛指，故答案为dishes。
+2.
+【答案】who /that
+【解析】此处考查定语从句，先行词 westerners 指人，关系代词在从句中做主语，用who 或者that，故
+答案为 who ／that。
+3.
+【答案】it
+【解析】考查 it 作形式主语的用法。宾语从句中缺少主语，指代to eat out，所以用 it 作形式主语，故
+答案为 it。
+【答案】visiting
+【解析】考查 remember 的用法。remember to do 记得要做，remember doing 记得做过。此处表明记得
+拜访过，故答案为visiting。
+5.
+【答案】was shocked
+【解析】考查被动语态。句意：我仍然记得我拜访过在这里住了五年的一个朋友，我很震惊得知她甚
+至一次都没有做过饭。此处我被某一个事实所震惊到，用被动语态，句子是一般过去时，be 动词用 was,
+加上过去分词 shocked，故答案为 was shocked。
+6.
+【答案】have become
+【解析】考查 seem 的用法。seem to have done，表明不定式的动作发生在谓语动作之前，故答案为 have
+become.
+7.
+【答案】affordable
+【解析】考查词性转化。be ＋adj.构成系表结构，所以此处用形容词，故答案为 affordable。
+8.
+【答案】higher
+【解析】考查形容词的比较级。high 形容词，而此处仍然需要形容词，even 修饰比较级，故答案为 higher。
+9.
+【答案】weight
+【解析】考查名词作定语。名词作定语表类别用处，此处指重量方面的问题，故答案为weight。
+10.
+【答案】for
+【解析】考查介词的固定搭配。go to sp.for dinner 去某处吃饭，故答案为 for。
+Passage 13
+1.
+【答案】carrots
+【解析】考查名词。根据“a handful of”可知要用carrot 的复数形式，故填carrots。
+2.
+【答案】 shiny/shining
+【解析】考查形容词。a为冠词，object 为名词，横线处应填写形容词。故填 shiny 或 shining。
+3.
+【答案】SO
+【解析】考查固定结构。根据空后的“loudly that her daughter came running from the house”可知这里为
+so...that结构，意为“如此…以至于”，故填 so。
+4.
+【答案】myself
+【解析】考查代词。主语为I，横线处为宾语，根据语境可知这里指她以为“我”弄伤了自己。故填
+- 16 -
+
+## 第 18 页
+
+公众号/小红书：Arrow插本讨论会
+myself.
+5.
+【答案】earlier
+【解析】考查形容词。这里指早在十六年前，故填 earlier。
+6.
+【答案】to cook
+【解析】考查动词不定式。一个句子不能出现双重谓语，所以此处要用不定式作目的状语。故填to cook。
+7.
+【答案】searched
+【解析】考查动词时态。根据“but turned up nothing”可知这里是叙述过去发生的事情，要用一般过去
+时，故填 searched。
+8.
+【答案】 swept
+【解析】考查动词。ring 与 sweep之间是被动关系，要用被动语态。故填 swept。
+9.
+【答案】where
+【解析】考查连接词。分析句子结构可知，所填词引导定语从句，定语从句中缺少地点状语，先行词
+为 the garden，表示地点，故填关系副词 where。
+10.
+【答案】a
+【解析】考查冠词。wonder 是可数名词的单数形式，且此处表示泛指，因此其前应加不定冠词a。故
+填a。
+Passage 14
+【答案】was built
+1.
+【解析】考查被动语态。句意：它最初是为了保护唐代的城市而建造的，现在已经完全修复了。分析
+句子可知，空格处为谓语，动词build 和主语之间是被动关系，应用被动语态，根据句意和时间状语the
+Tang dynasty 可知，用一般过去时，谓语动词用过去式，主语 it 为第三人称单数，主谓一致，故填 was
+built.
+2.
+【答案】in
+【解析】考查介词。根据句意可知，表示“在某个朝代”应用介词in。故填in。
+【答案】 to walk
+【解析】考查动词不定式。分析句子可知，此处为句型“it + be ＋adj.＋to do sth.”，it 为形式主语，动
+词 walk 的不定式短语作真正主语。故填 to walk。
+【答案】spending
+【解析】考查动名词。句意：在花了一些时间查看了城墙上所有的防御设备之后，我们决定是时候采
+取一些行动了，还有什么比骑在历史上更好的呢。分析句子可知，此处After为介词，故 spend 应用其
+动名词形式作介词宾语。故填 spending。
+5.
+【答案】better
+【解析】考查形容词比较级。句意：在花了一些时间查看了城墙上所有的防御设备之后，我们决定是
+时候采取一些行动了，还有什么比骑在历史上更好的呢。根据后文的 than 可知，此处应用形容词 good
+的比较级。故填 better。
+6.
+【答案】hired
+【解析】考查时态。句意：我们从南门的租赁处租了自行车。分析句子可知，此处为谓语动词，根据
+- 17 -
+
+## 第 19 页
+
+公众号/小红书：Arrow插本讨论会
+上下文可知，此处描述过去发生的事情，用一般过去时，谓语动词用过去式。故填hired。
+7.
+【答案】but
+【解析】考查连词。句意：我的自行车又旧又摇摇晃晃，但还可以骑。后文did the job 和前文 My bike was
+old and shaky 之间存在转折关系，故用表示转折的连词 but 连接。故填 but。
+8.
+【答案】the
+【解析】考查冠词。句意：我们绕着西安城墙走了大约3个小时。结合句意表示“一直；完全地”可
+知短语为 all the way，故用定冠词 the 限定名词 way。故填 the。
+9.
+【答案】watchtowers
+【解析】考查名词复数。句意：据说你可以在两个小时内完成，但我们在不同的大门和了望台停下来
+拍照，或者只是看当地人进行他们的日常生活。根据句意以及前文形容词different 可知，此处可数名
+词watchtower 是复数概念，应用其复数形式。故填watchtowers。
+10.
+【答案】daily
+【解析】考查形容词。修饰后文名词 routines 应用day 的形容词 daily，作定语，修饰名词。故填 daily。
+Passage 15
+【答案】whose
+【解析】考查定语从句。句意：中国古代有一位画家，他的画几乎棚棚如生。此处为定语从句修饰先
+行词 artist，且先行词在从句中作定语，故应用关系代词 whose。故填 whose。
+【答案】finest
+2.
+OOR
+【解析】考查最高级。句意：一天，皇帝想让人给他画一幅肖像，于是他把所有伟大的画家都请来，
+展示他们最好的作品，以便他挑选最好的。结合句意，皇帝想要画家最好的作品，表示“最好的”此
+处应用形容词最高级 finest。故填 finest。
+3.
+【答案】 be chosen
+【解析】考查动词语态。句意：画家确信他会被选中，但是当他把他的杰作送给皇帝的宰相时，这位
+老人笑了。本句中主语 he 与谓语动词 choose 构成被动关系，且 would 后跟动词原形。故填 be chosen。
+4.
+【答案】curiosity
+【解析】考查名词。句意：怀着好奇心，艺术家收拾行囊离开了。with为介词，后跟名词curiosity 作
+宾语，表示“好奇心”。故填curiosity。
+5.
+【答案】When /As
+【解析】考查连接词。句意：当他问河岸上的村民，他在哪里可以找到这位传奇艺术家时，他们笑着
+指着河的下游。本句为时间状语从句，表示“当时候”，且从句中动词asked为短暂性动作动词,
+不能用 while 引导，故应用 when 或 as 引导。句首单词首字母要大写。故填 When /As。
+6.
+【答案】pointed
+【解析】考查动词时态。根据上文 they smiled and 可知此处应用一般过去时。故填 pointed。
+7.
+【答案】 to find
+【解析】考查非谓语动词。句意：第二天早上，他租了一条船，出发去找这位著名的画家。结合句意
+表示“出发去做某事”短语为 set out to do sth.，后跟不定式做目的状语。故填 to find。
+8.
+【答案】gently
+- 18 -
+
+## 第 20 页
+
+公众号/小红书：Arrow插本讨论会
+【解析】考查副词。句意：当小船缓缓地沿着江面移动时，山在水中的倒影使他默默无言。此处修饰
+动词moved 应用副词 gently 作状语，表示“缓缓地”。故填 gently。
+9.
+【答案] surrounding
+【解析】考查非谓语动词。句意：当他看到雾气从河上升起，山顶上乌云环绕，他不禁流下了眼泪。
+分析句子结构可知，the soft clouds 一9（surround）the mountain tops 是独立主格结构做状语，
+surround 在句中应用非谓语动词形式，与逻辑主语 clouds 构成主动关系，故应用现在分词。故填
+surrounding.
+10.
+【答案】on
+【解析】考查介词。句意：这位艺术家最终被世界上最伟大的艺术家一一大自然母亲所折服。结合句
+意表示“在世界上”短语为onearth。故填on。
+- 19 -
