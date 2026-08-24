@@ -34,6 +34,22 @@ category: "english-note"
 
 **适用：** 邀请 / 申请 / 感谢 / 道歉 / 建议 / 推荐 / 投诉等
 
+```mermaid
+flowchart TB
+    A["Dear ______,<br/>（称呼：收信人，未指定写 Mr. Smith）"] --> B["开头段<br/>How is everything going?<br/>I am writing this letter to ..."]
+    B --> C["正文段<br/>万能过渡句 + First and foremost<br/>+ Furthermore + Last but not least<br/>（要点全写进这三句）"]
+    C --> D["结尾段<br/>Taking all these factors into consideration<br/>I am looking forward to hearing from you soon."]
+    D --> E["落款<br/>Yours sincerely,<br/>Li Hua（不要写真名）"]
+
+    style A fill:#2F6B9E,color:#fff
+    style B fill:#C0392B,color:#fff
+    style C fill:#E67E22,color:#fff
+    style D fill:#27AE60,color:#fff
+    style E fill:#8E44AD,color:#fff
+```
+
+> 📌 **书信格式四件套**：称呼（Dear...）→ 开头（目的句）→ 正文（要点三连）→ 落款（Yours sincerely, + 署名）。**格式正确是应用文评分第一关**，背熟框架再填内容。
+
 ```
 Dear _________ , (收信人，题目未指定则写 Mr. Smith 或 Mark)
 

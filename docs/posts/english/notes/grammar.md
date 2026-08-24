@@ -94,6 +94,29 @@ be + done (过去分词)
 
 ## 三、三大从句（🔥🔥 必考）
 
+```mermaid
+mindmap
+  root((三大从句))
+    定语从句
+      修饰名词
+      关系代词 who/which/that/whose
+      非限制性不能用 that
+    名词性从句
+      主语从句 what/that/whether
+      宾语从句 that/if/wh-
+      表语从句 that/whether/wh-
+      同位语从句 that
+    状语从句
+      时间 when/while/before/until
+      条件 if/unless/as long as
+      原因 because/since/as
+      让步 although/though/even though
+      目的 so that/in order that
+      结果 so...that/such...that
+```
+
+> 📌 记忆：**定语从句修饰名词（who/which/that）→ 名词性从句充当主语宾语（that/whether/what）→ 状语从句表时间条件原因让步（when/if/because/although）**。
+
 ### 1️⃣ 定语从句
 
 | 先行词 | 人 | 物 | 人+物/所有格 |

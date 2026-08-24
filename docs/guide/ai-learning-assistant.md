@@ -37,6 +37,16 @@ description: "把视频里的 AI 聊天功能（RAG/记忆/OCR/联网）落地�
 
 ## 三、功能与分期
 
+```mermaid
+flowchart LR
+    A[阶段1 RAG知识库问答<br/>1-2周 MVP<br/>提问→嵌入→检索→生成] --> B[阶段2 真题OCR<br/>+3-5天<br/>拍照→识别→存错题本]
+    B --> C[阶段3 记忆+联网追踪<br/>+1周<br/>薄弱点记忆 · 政策自动检查]
+
+    style A fill:#2F6B9E,color:#fff
+    style B fill:#E67E22,color:#fff
+    style C fill:#27AE60,color:#fff
+```
+
 ### 阶段 1：RAG 知识库问答（MVP，1-2 周）
 ```
 用户提问 → 嵌入 → Chroma 检索相关笔记片段 → DeepSeek 生成回答
