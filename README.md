@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/状态-备考中-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/笔记-130+篇-orange?style=for-the-badge" alt="Notes">
   <img src="https://img.shields.io/badge/真题-60+年份页-red?style=for-the-badge" alt="Exams">
+  <img src="https://img.shields.io/github/actions/workflow/status/wpc725562-dotcom/zhuan-sheng-ben-notes/deploy.yml?style=for-the-badge&label=Deploy" alt="Deploy">
+  <img src="https://img.shields.io/github/stars/wpc725562-dotcom/zhuan-sheng-ben-notes?style=for-the-badge&label=Stars" alt="Stars">
 </p>
 
 <h1 align="center">📚 广东专升本 · 四科复习笔记库</h1>
