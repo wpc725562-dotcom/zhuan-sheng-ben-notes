@@ -1,0 +1,109 @@
+name: dsh-desktop-manager
+version: 2.0.2
+description: DSH Desktop 全套维护——配置/插件/BOM修复/启动恢复/环境变量管理
+trigger_words:
+  - DSH 维护
+  - DSH 修复
+  - DSH 配置
+  - DSH 打不开
+  - DSH 启动失败
+  - DSH 插件
+  - BOM 修复
+  - 恢复 DSH
+system_instructions: |
+  # DSH Desktop 维护手册
+
+  ## 1. 目录结构
+  | 用途 | 路径 |
+  |------|------|
+  | 安装目录 | `C:\Users\Administrator\AppData\Local\Programs\DSH Desktop\` |
+  | 配置文件 | `$APPDATA\dsh-desktop\dsh-home\settings.yaml` |
+  | 插件清单 | `C:\Users\Administrator\.dsh\profiles\desktop\package.json` |
+  | 插件代码 | `C:\Users\Administrator\.dsh\profiles\desktop\node_modules\` |
+  | 环境变量 | 用户级 `BAIAI_API_KEY` (setx) |
+  | 备份 | `Desktop\DSH升级备份\`、`Desktop\DSH插件卸载前备份\` |
+
+  ## 2. 核心配置 (settings.yaml)
+  - 默认模型: `baiapi/deepseek-v4-flash`
+  - API 接口: `https://api.b.ai/v1` (标准 OpenAI 兼容)
+  - API Key 存在环境变量 `BAIAI_API_KEY` 中，不在配置文件写明文
+  - 已配 `compat.requiresReasoningContentOnAssistantMessages: true` 解决 reasoning_content 400 错误
+
+  ## 3. BOM 错误修复（最频繁的启动崩溃）
+  ### 症状
+  DSH 启动报 `Unexpected token '﻿'`，崩溃在"插件配置组合"阶段
+
+  ### 根因
+  `package.json` 被以 UTF-8 BOM 编码写入（DSH 调用 pnpm install 时用了带 BOM 的编码），但 DSH 的 JSON 解析器不处理 BOM
+
+  ### 修复步骤
+  1. 扫描 BOM 文件：
+     ```python
+     import os
+     for r in [r"C:\Users\Administrator\.dsh\profiles\desktop",
+              r"C:\Users\Administrator\AppData\Roaming\dsh-desktop\dsh-home"]:
+         for dp,dn,fn in os.walk(r):
+             for f in fn:
+                 p=os.path.join(dp,f)
+                 with open(p,'rb') as fh: head=fh.read(3)
+                 if head == b'\xef\xbb\xbf': print('BOM:', p)
+     ```
+  2. 去除 BOM（以 package.json 为例）：
+     ```python
+     p=r"C:\Users\Administrator\.dsh\profiles\desktop\package.json"
+     raw=open(p,'rb').read()
+     if raw.startswith(b'\xef\xbb\xbf'):
+         open(p,'wb').write(raw[3:])
+     ```
+
+  ### 预防措施
+  - 不要在 DSH 运行期间手动编辑 package.json
+  - 安装新插件后，若 DSH 打不开，优先检查 package.json 是否带 BOM
+  - 保持 node_modules 完整，避免 DSH 触发 pnpm install（install 步骤可能写 BOM）
+  - 备份一份无 BOM 的 package.json 副本
+
+  ## 4. 插件管理
+  ### 安装第三方插件（npm 方式，避免 pnpm 网络问题）
+  ```bash
+  cd C:\Users\Administrator\.dsh\profiles\desktop
+  npm install --legacy-peer-deps --ignore-scripts 插件名
+  ```
+
+  ### 移除第三方插件
+  1. 从 package.json 的 `dependencies` 移除对应条目
+  2. 从 `dsh.profile.bundles` 移除对应条目
+  3. 删除 `node_modules/插件名` 目录
+  4. 删除 `package-lock.json` 和 `pnpm-lock.yaml`（可选）
+
+  ### 已知问题插件
+  - `@linxin666/dsh-web-ui-all` 及其子包 `@linxin666/dsh-doctor` 启动时需要 `C:\Users\Administrator\.dsh-doctor\state\` 目录，若不存在会报错
+  - `dsh-openviking` 为 git 依赖（`github:Rxiain/dsh-openviking`），npm 11 默认禁用 git 安装，需手动 `git clone` 到 node_modules
+  - pnpm 在 Windows + Node 24 下存在 `UND_ERR_DESTROYED` 网络问题，建议用 npm 代替
+
+  ## 5. 启动恢复步骤
+  DSH 打不开时，按此顺序排查：
+  1. 检查 package.json 是否带 BOM（见第 3 节）
+  2. 检查 `C:\Users\Administrator\.dsh-doctor\state\` 目录是否存在，不存在则创建
+  3. 清理 `$APPDATA\dsh-desktop\` 下的 `.lock` 文件
+  4. 检查环境变量 `BAIAI_API_KEY` 是否设置：`[Environment]::GetEnvironmentVariable("BAIAI_API_KEY","User")`
+  5. 检查 `settings.yaml` 中 provider 配置是否正确
+  6. 查看 DSH 启动日志（运行 `DSH Desktop.exe` 捕获 stderr）
+
+  ## 6. 备份与恢复
+  - 备份位置：`Desktop\DSH升级备份\`、`Desktop\DSH插件卸载前备份\`
+  - 备份包含：settings.yaml、package.json、pnpm-lock.yaml、节点_modules（部分）
+  - 恢复配置文件：从备份复制 settings.yaml 或 package.json 到对应目录
+  - 恢复前先备份当前配置
+
+  ## 7. 环境变量
+  - `BAIAI_API_KEY`：用户级环境变量，值 `sk-1l0f4s5a9phuacbrlknvjh9xx6jrdxl1`
+  - 设置：`[Environment]::SetEnvironmentVariable("BAIAI_API_KEY","值","User")`
+  - 注意：修改后需重启 DSH 才能生效
+
+  ## 8. 已知 issue 备忘
+  - `reasoning_content must be passed back` 400 错误：已通过 compat 配置修复，不复发
+  - `prepareCall is not a function`：DSH 2.0.0 旧版 bug，升级到 2.0.2 解决
+  - `402 Insufficient Balance`：之前因未正确配置 key，已修复
+  - BOM 写入：DSH 2.0.2 的 pnpm install 在 Windows 下可能以 UTF-8 BOM 写 package.json，需手动修复
+execution_mode: agent
+allowed_file_extensions: [".yaml", ".json", ".py", ".md"]
