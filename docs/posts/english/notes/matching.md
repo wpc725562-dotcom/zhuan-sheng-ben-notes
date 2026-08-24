@@ -61,6 +61,20 @@ description: "公共英语 · 短文造句匹配（10分）高分技巧"
 
 ## 三、做题步骤
 
+```mermaid
+flowchart TD
+    A[通读全文<br/>跳过空格抓大意] --> B[读选项<br/>划关键词：指代词/连接词/专有名词]
+    B --> C[逐空对照<br/>找三线索匹配]
+    C --> D[复核<br/>代入读一遍确保通顺]
+    
+    style A fill:#2F6B9E,color:#fff
+    style B fill:#E67E22,color:#fff
+    style C fill:#27AE60,color:#fff
+    style D fill:#8E44AD,color:#fff
+```
+
+> 📌 三线索：**指代词**（前文必须出现指代对象）、**逻辑连接词**（but/so/first）、**词汇复现**（同义词/原词）。
+
 ### 四步法
 
 1. **通读全文**（跳过空格）：了解大意和结构
