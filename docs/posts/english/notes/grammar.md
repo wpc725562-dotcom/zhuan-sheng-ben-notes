@@ -34,6 +34,22 @@ category: "english-note"
 
 > **真题规律：** 80%的时态题在 **一般过去时**、**现在完成时**、**一般现在时** 三者之间选择
 
+```mermaid
+timeline
+    title 核心时态时间轴（左=过去 · 右=未来）
+    section 过去
+        一般过去时 : did，动作在过去完成<br/>yesterday / ago / in 2020
+        过去完成时 : had done，"过去的过去"<br/>站在过去看更早
+    section 现在
+        一般现在时 : do/does，习惯真理状态
+        现在完成时 : have/has done，过去发生影响现在<br/>since / for / already / yet
+        现在进行时 : am/is/are doing，此刻正在发生
+    section 将来
+        一般将来时 : will do，将要发生<br/>tomorrow / next / in the future
+```
+
+> 📌 **80% 时态题就考这三选**：一般过去（动作在过去的某时点）vs 现在完成（过去发生、对现在有影响，**不能用具体时间**）vs 一般现在（习惯/真理）。
+
 ### 📌 现在完成时 vs 一般过去时（必考辨析）
 
 | 维度 | 现在完成时 | 一般过去时 |
