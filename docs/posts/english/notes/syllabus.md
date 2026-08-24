@@ -20,6 +20,24 @@ category: "english-note"
 | 翻译 | 定语从句、被动、比较 | 真题详解页 |
 | 写作 | 书信 / 议论文模板 | 作文模板与高分句型 |
 
+```mermaid
+flowchart TD
+    A["公共英语 100 分"] --> B["词汇语法<br/>高频词+时态+非谓语"]
+    A --> C["阅读理解 30 分<br/>主旨/细节/推理/词义"]
+    A --> D["完形填空 30 分<br/>逻辑连接+固定搭配"]
+    A --> E["写作 15 分<br/>书信模板+议论文"]
+    A --> F["翻译+其他<br/>从句/被动/比较"]
+
+    style A fill:#2F6B9E,color:#fff
+    style B fill:#C0392B,color:#fff
+    style C fill:#E67E22,color:#fff
+    style D fill:#27AE60,color:#fff
+    style E fill:#8E44AD,color:#fff
+    style F fill:#16A085,color:#fff
+```
+
+> 📌 每天词汇 30-50 + 1 篇阅读 → 每周 1 套真题限时 → 作文每周 1 篇对照模板改。
+
 ---
 
 ## 备考节奏
