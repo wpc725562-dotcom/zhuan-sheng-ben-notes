@@ -20,6 +20,17 @@ category: "english-note"
 | 🔤 词义猜测题 | ~15% | ⭐⭐ 中 |
 | 💭 观点态度题 | ~10% | ⭐⭐ 中 |
 
+```mermaid
+pie title 阅读理解六大题型占比
+    "细节理解题 40%" : 40
+    "推理判断题 20%" : 20
+    "主旨大意题 15%" : 15
+    "词义猜测题 15%" : 15
+    "观点态度题 10%" : 10
+```
+
+> 📌 细节题占 40%——**回原文定位 + 同义替换**是最核心的"一招鲜"。
+
 ---
 
 ## 二、六大题型破解
@@ -51,6 +62,23 @@ category: "english-note"
 - ❌ 不要选原文**直接陈述**的内容
 
 > **口诀：** 推断题选"可能但不肯定"的，不选"原文直接说的"
+
+```mermaid
+flowchart TD
+    A[拿到阅读题] --> B{定位题型}
+    B -->|细节题 40%| C[找关键词<br/>回原文定位<br/>选同义替换]
+    B -->|推断题 20%| D[基于原文逻辑推断<br/>不选原文直接说的]
+    B -->|主旨题 15%| E[看首尾段+主题句<br/>选最全面概括的]
+    B -->|猜词题 15%| F[上下文线索<br/>并列/转折/解释]
+    B -->|态度题 10%| G[找态度词<br/>positive/negative/neutral]
+
+    style A fill:#2F6B9E,color:#fff
+    style C fill:#C0392B,color:#fff
+    style D fill:#E67E22,color:#fff
+    style E fill:#27AE60,color:#fff
+    style F fill:#8E44AD,color:#fff
+    style G fill:#16A085,color:#fff
+```
 
 ### 3️⃣ 主旨大意题（15%）
 

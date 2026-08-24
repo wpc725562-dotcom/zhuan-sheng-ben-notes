@@ -163,6 +163,20 @@ mindmap
 
 > **专升本规律：** 80%的虚拟语气题只考前两种（与现在/过去相反）
 
+```mermaid
+flowchart TD
+    A[if 虚拟条件句] --> B[与现在相反<br/>if did/were<br/>→ would/could + do]
+    A --> C[与过去相反<br/>if had done<br/>→ would/could + have done]
+    A --> D[与将来相反<br/>if should do/were to do<br/>→ would/could + do]
+
+    style A fill:#2F6B9E,color:#fff
+    style B fill:#C0392B,color:#fff
+    style C fill:#E67E22,color:#fff
+    style D fill:#27AE60,color:#fff
+```
+
+> 📌 记忆：**时态往后退一格**——现在→过去（did），过去→过去完成（had done），将来→should/were to。
+
 ### 其他虚拟语气考点
 
 | 考点 | 结构 | 例句 |
@@ -184,6 +198,20 @@ mindmap
 | **to do** | 目的、将来 | 不定式：表示目的/主动/将来 |
 | **doing** | 主动、进行 | 现在分词/动名词 |
 | **done** | 被动、完成 | 过去分词表示被动/完成 |
+
+```mermaid
+flowchart LR
+    A[非谓语三兄弟] --> B["to do<br/>目的/将来/主动<br/>want/hope/decide"]
+    A --> C["doing<br/>主动/进行<br/>enjoy/finish/avoid"]
+    A --> D["done<br/>被动/完成<br/>表被动或已完成"]
+    
+    style A fill:#2F6B9E,color:#fff
+    style B fill:#C0392B,color:#fff
+    style C fill:#27AE60,color:#fff
+    style D fill:#E67E22,color:#fff
+```
+
+> 📌 记忆：**to do 表目的将来、doing 表主动进行、done 表被动完成**——先看主被动，再看时态先后。
 
 ### 常考固定搭配
 
