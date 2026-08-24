@@ -2,14 +2,14 @@
   <img src="https://img.shields.io/badge/广东专升本-计算机类-blue?style=for-the-badge&logo=github" alt="Badge">
   <img src="https://img.shields.io/badge/适用-2027届-brightgreen?style=for-the-badge" alt="Year">
   <img src="https://img.shields.io/badge/状态-备考中-yellow?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/笔记-20+篇-orange?style=for-the-badge" alt="Notes">
-  <img src="https://img.shields.io/badge/模拟卷-3套-red?style=for-the-badge" alt="Exams">
+  <img src="https://img.shields.io/badge/笔记-130+篇-orange?style=for-the-badge" alt="Notes">
+  <img src="https://img.shields.io/badge/真题-60+年份页-red?style=for-the-badge" alt="Exams">
 </p>
 
-<h1 align="center">📚 广东专升本 · 计算机复习笔记库</h1>
+<h1 align="center">📚 广东专升本 · 四科复习笔记库</h1>
 
 <p align="center">
-  <strong>VitePress 知识库 · 20+ 篇标准化笔记 · 3 套全真模拟卷</strong><br>
+  <strong>VitePress 知识库 · 130+ 篇笔记 · 60+ 真题年份页 · 8 套模拟卷</strong><br>
   🎯 目标：公办本科 · 计算机类 · 2027 年 3 月考试
 </p>
 
@@ -17,7 +17,6 @@
   <a href="#-仓库结构">📁 仓库结构</a> •
   <a href="#-学习路线">📖 学习路线</a> •
   <a href="#-笔记使用说明">📝 笔记使用说明</a> •
-  <a href="#-模拟卷使用说明">📄 模拟卷使用说明</a> •
   <a href="#-在线访问">🌐 在线访问</a>
 </p>
 
@@ -25,15 +24,16 @@
 
 ## 🎯 项目简介
 
-本仓库是基于 **2026 年广东专升本计算机考纲** 构建的完整复习知识库，覆盖《计算机基础与程序设计》全部 21 个考点，包含：
+本仓库是**广东普通专升本（专插本）四科全科复习知识库**，覆盖：
 
-| 资源 | 数量 | 说明 |
-|:---|:---:|:---|
-| 标准化笔记 | 20+ 篇 | 统一 6 模块模板（考情/引入/核心/例题/扣分坑/自测）|
-| 真题审计报告 | 14 份 | 每章基于 2021-2026 年真题的考点频次/分值/陷阱分析 |
-| 汇总文档 | 2 份 | 全书索引目录、高频错题汇总 |
-| 全真模拟卷 | 3 套 | 每套 45 题 200 分，含完整参考答案和解析 |
-| 专项训练 | 2 份 | 编程题做题策略、改错题专项训练 |
+| 科目 | 分值 | 笔记 | 真题年份页 | 模拟卷 |
+|:---|:---:|:---:|:---:|:---:|
+| **政治理论**（公共课） | 100 | 21 篇 | 2012-2024（9 页） | 6 套 |
+| **公共英语**（公共课） | 100 | 11 篇 | 2005-2025（30 页） | 2 套 |
+| **高等数学**（专业基础课） | 100 | 70 篇 | 2018-2026（11 页） | — |
+| **计算机基础与程序设计**（专业综合课） | **200** | 28 篇 | 2018-2027（14 页） | — |
+
+> 站点同时是 **Obsidian 双链笔记库**（顶层 `历年真题/`、`政治理论/`、`高等数学/` 等为 Obsidian 导航区）+ **VitePress 站点源**（`docs/posts/`）。
 
 ---
 
@@ -41,26 +41,24 @@
 
 ```
 zhuan-sheng-ben-notes/
-├── docs/posts/computer/notes/     # 📖 核心笔记（20+ 篇，VitePress 站点源）
-│   ├── 0.0-计算机基础理论.md        # 前置总览
-│   ├── 1.1-1.11  C语言笔记         # 11 篇系统笔记
-│   ├── 2.1-2.9  数据结构笔记       # 9 篇系统笔记
-│   ├── 3.0-改错题专项训练.md        # 改错题专项
-│   ├── 3.3-编程题做题策略.md        # 编程题专项
-│   ├── 高频错题汇总.md              # 全局高错陷阱
-│   └── index.md                    # 全书索引目录
-├── knowledge/audit/               # 📋 14 份章节审计报告
-├── plan/                          # 📄 模拟卷
-│   ├── 模拟卷命题评估方案.md         # 命题方案
-│   ├── 模拟卷-卷一-基础巩固卷.md     # 卷一
-│   ├── 模拟卷-卷二-综合中档卷.md     # 卷二
-│   └── 模拟卷-卷三-拔高冲刺卷.md     # 卷三
-├── agent-troubleshoot/            # Agent 排障库
-├── computer-kb/                   # 考点速查
-├── skills/                        # 技能库
+├── docs/                          # 📖 VitePress 站点源（在线发布）
+│   ├── posts/
+│   │   ├── math/notes/            #   高等数学系统笔记（70 篇）
+│   │   ├── computer/notes/        #   计算机基础与程序设计笔记（28 篇）
+│   │   ├── politics/notes/        #   政治理论系统笔记（21 篇）
+│   │   ├── english/notes/         #   英语笔记（11 篇）
+│   │   ├── math|computer|politics|english/   # 各科真题年份页
+│   │   ├── 高频考点/              #   高频考点 TOP20
+│   │   └── resources/             #   学习资源库
+│   ├── guide/                     #   报考指南（考纲/院校/分数线）
+│   └── public/                    #   站点静态资源（figs/papers/covers）
+├── 历年真题/                      # 🔗 Obsidian 真题区（双链导航）
+├── 政治理论/ 高等数学/ 编程技能/   # 🔗 Obsidian 笔记区
+├── 资料/ 备考计划/                # 🔗 Obsidian 资料区
+├── bencetong/                     # 🖥️ 本科通 Electron 刷题应用
+├── knowledge/                     # 📋 知识库辅助（审计/考点速查）
 ├── tests/                         # 单元测试
-├── docs/.vitepress/               # VitePress 站点配置
-└── .github/workflows/             # CI/CD 自动部署
+└── docs/.vitepress/               # VitePress 站点配置
 ```
 
 ---
@@ -110,15 +108,6 @@ zhuan-sheng-ben-notes/
 
 ---
 
-## 📄 模拟卷使用说明
-
-- **三卷递进**：卷一摸底（基础 60%）→ 卷二强化（中档 50%）→ 卷三冲刺（拔高 40%）
-- **全真还原**：每套 45 题 200 分，题型/题量/时间与真题一致
-- **参考答案**：每卷附 `<details>` 折叠完整答案，含解析和可运行代码
-- **考点覆盖**：三卷合计覆盖全部 21 个考纲考点
-
----
-
 ## 🌐 在线访问
 
 **VitePress 站点**：https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/
@@ -134,6 +123,7 @@ zhuan-sheng-ben-notes/
 - **数学公式**：markdown-it-mathjax3
 - **代码高亮**：highlight.js
 - **搜索**：VitePress 本地搜索
+- **本地笔记**：Obsidian（双链导航）
 
 ---
 
@@ -141,13 +131,15 @@ zhuan-sheng-ben-notes/
 
 | 日期 | 更新内容 |
 |:---|:---|
+| 2026-08-24 | 仓库四科整合：README 对齐高数/计算机/政治/英语全科结构 |
+| 2026-08-24 | 补全政治历年真题 2012-2019 + 2025 高数回忆版（图片） |
 | 2026-08-16 | P0-P4 全项目闭环：20+ 篇笔记重制、14 份审计报告、3 套模拟卷、2 份汇总文档 |
 | 2026-08-15 | 笔记审计流水线启动，全局 6 模块格式统一，CI 修复 |
 
 ---
 
 <p align="center">
-  <strong>📚 广东专升本 · 计算机复习笔记库</strong><br>
+  <strong>📚 广东专升本 · 四科复习笔记库</strong><br>
   <a href="https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/">🌐 在线访问</a> •
   <a href="https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes">📦 GitHub 仓库</a>
 </p>
