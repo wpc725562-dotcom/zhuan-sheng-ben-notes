@@ -1,7 +1,7 @@
 # 项目维基 · 模块文档
 
 > 仓库各模块的职责、依赖、调用链、已知坑点。
-> 依赖全景图见 [dependency-graph](../dependency-graph.md)；报错排查见 [agent-troubleshoot](../../agent-troubleshoot/README.md)。
+> 依赖全景图见 [dependency-graph](../dependency-graph.md)；报错排查见 [agent-troubleshoot](https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes/tree/main/agent-troubleshoot)。
 
 ---
 

@@ -10,7 +10,7 @@ export default defineConfig({
   base,
   cleanUrls: true,
   lastUpdated: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: false,
 
   head: [
     ['link', { rel: 'icon', href: `${base}favicon.svg` }],
