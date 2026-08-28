@@ -291,6 +291,54 @@
         </div>
       </div>
 
+      <h4 style="font-size: 14px; color: var(--primary); margin-bottom: 8px;">🎬 B站推荐视频（专升本C语言 / 数据结构）</h4>
+      <div class="resource-list" style="margin-bottom: 16px;">
+        <div class="resource-item" v-for="(v, i) in biliCStudyVideos" :key="'c'+i">
+          <span class="resource-icon">💻</span>
+          <div class="resource-info">
+            <div class="resource-name">{{ v.title }}</div>
+            <div class="resource-desc">
+              <a :href="v.url" target="_blank" class="video-link">去B站观看</a>
+              <span v-if="v.duration" style="margin-left: 8px;">⏱ {{ v.duration }}</span>
+            </div>
+          </div>
+        </div>
+        <div class="resource-item" v-for="(v, i) in biliDataStructVideos" :key="'d'+i">
+          <span class="resource-icon">🔗</span>
+          <div class="resource-info">
+            <div class="resource-name">{{ v.title }}</div>
+            <div class="resource-desc">
+              <a :href="v.url" target="_blank" class="video-link">去B站观看</a>
+              <span v-if="v.duration" style="margin-left: 8px;">⏱ {{ v.duration }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <h4 style="font-size: 14px; color: var(--primary); margin-bottom: 8px;">🎬 B站推荐视频（专升本政治 / 英语）</h4>
+      <div class="resource-list" style="margin-bottom: 16px;">
+        <div class="resource-item" v-for="(v, i) in biliPoliticsVideos" :key="'p'+i">
+          <span class="resource-icon">🏛️</span>
+          <div class="resource-info">
+            <div class="resource-name">{{ v.title }}</div>
+            <div class="resource-desc">
+              <a :href="v.url" target="_blank" class="video-link">去B站观看</a>
+              <span v-if="v.duration" style="margin-left: 8px;">⏱ {{ v.duration }}</span>
+            </div>
+          </div>
+        </div>
+        <div class="resource-item" v-for="(v, i) in biliEnglishVideos" :key="'e'+i">
+          <span class="resource-icon">🔤</span>
+          <div class="resource-info">
+            <div class="resource-name">{{ v.title }}</div>
+            <div class="resource-desc">
+              <a :href="v.url" target="_blank" class="video-link">去B站观看</a>
+              <span v-if="v.duration" style="margin-left: 8px;">⏱ {{ v.duration }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <h4 style="font-size: 14px; color: var(--primary); margin-bottom: 8px;">🐙 GitHub 开源学习工具</h4>
       <div class="resource-list" style="margin-bottom: 16px;">
         <div class="resource-item" v-for="(r, i) in githubRepos" :key="'g'+i">
@@ -469,17 +517,59 @@ const biliMathVideos = ref([
   { title: '【高等数学基础】专升本/考研', url: 'https://www.bilibili.com/video/BV1RccMeMEkp/', duration: '11:14:38' },
   { title: '上班族零基础自学高数专用指南，不用跟班上课', url: 'https://www.bilibili.com/video/BV1a3gY6gEro/', duration: '1:37' },
   { title: '山东专升本高数第八讲，零基础小白也能学会', url: 'https://www.bilibili.com/video/BV1hA411y7wn/', duration: '1:02:20' },
-  { title: '【精通学堂】零基础 高分必看', url: 'https://www.bilibili.com/video/BV1oT411b7MZ/', duration: '6:27:16' }
+  { title: '【精通学堂】零基础 高分必看', url: 'https://www.bilibili.com/video/BV1oT411b7MZ/', duration: '6:27:16' },
+  { title: '【2027届】专升本高等数学全程班（覆盖广东/江苏/浙江/山东/河南，88.4万播放）', url: 'https://www.bilibili.com/video/BV1Hc411P7d4/', duration: '62:19:05' },
+  { title: '2025零基础必看专升本高等数学（187.5万播放）', url: 'https://www.bilibili.com/video/BV1X4411J792/', duration: '27:17:03' },
+  { title: '高等数学（下）基础与解法全集 | 同济八版（791.7万播放）', url: 'https://www.bilibili.com/video/BV1GK421t7S8/', duration: '21:30:14' },
+  { title: '2027专升本高数速成（正鑫学长，各省通用）', url: 'https://www.bilibili.com/video/BV1Mh4y1f7Yp/', duration: '41:52:42' }
+])
+
+// B站推荐视频 - 专升本C语言（2026-08-28 大规模搜索新增）
+const biliCStudyVideos = ref([
+  { title: '全新2027专升本C语言零基础入门到进阶（86.4万播放，59h完整版）', url: 'https://www.bilibili.com/video/BV1cp421X755/', duration: '59:09:24' },
+  { title: '2027年专升本C语言速成课·学完必过（19.2万播放）', url: 'https://www.bilibili.com/video/BV1j94y1q7Av/', duration: '11:13:13' },
+  { title: '2026年专升本C语言基础课（54.6万播放）', url: 'https://www.bilibili.com/video/BV1mN4y1g7Gm/', duration: '18:07:50' },
+  { title: '专升本C语言知识点总结（4.4万播放，23min精华）', url: 'https://www.bilibili.com/video/BV1k44y1d7c8/', duration: '22:59' },
+  { title: '2027届专升本C语言-零基础学习C语言（1.8万播放）', url: 'https://www.bilibili.com/video/BV1wt3566Eee/', duration: '05:21:58' }
+])
+
+// B站推荐视频 - 专升本数据结构（2026-08-28 大规模搜索新增）
+const biliDataStructVideos = ref([
+  { title: '【拯救者】数据结构速成（期末+考研+专升本均适用，含考题讲解）', url: 'https://www.bilibili.com/video/BV1z84y1z7Vp/', duration: '' },
+  { title: '专升本数据结构教程·零基础到高分（全国通用）', url: 'https://www.bilibili.com/video/BV1ajMo6TEBm/', duration: '' },
+  { title: '《数据结构》6小时快速入门·通俗易懂手把手教学', url: 'https://www.bilibili.com/video/BV1roNv6SEaW/', duration: '06:00:00' },
+  { title: '《数据结构》清华大学·严蔚敏 C语言版（官方完整版）', url: 'https://www.bilibili.com/video/BV11T411q7Qw/', duration: '' }
+])
+
+// B站推荐视频 - 专升本政治（2026-08-28 大规模搜索新增）
+const biliPoliticsVideos = ref([
+  { title: '专升本政治·40分钟背完毛中特（紧扣考纲快速提分）', url: 'https://www.bilibili.com/video/BV11a411i7Cf/', duration: '40:00' },
+  { title: 'Mayi专插本政治大题带背【毛概+新思想】磨耳朵系列', url: 'https://www.bilibili.com/video/BV1pM1wBRES7/', duration: '' },
+  { title: '6天背完新思想（空卡带背，考研/考公/期末通用）', url: 'https://www.bilibili.com/video/BV16CzGYzELy/', duration: '' },
+  { title: '30分钟学完毛概/毛中特（全书重点）', url: 'https://www.bilibili.com/video/BV1QJN7zcEvZ/', duration: '30:00' },
+  { title: '毛概重点知识点全面扫盲带背（构建整本书易背逻辑）', url: 'https://www.bilibili.com/video/BV1xZ421M7hd/', duration: '' }
+])
+
+// B站推荐视频 - 专升本英语（2026-08-28 大规模搜索新增）
+const biliEnglishVideos = ref([
+  { title: '27年专升本英语零基础系统课（200小时+，持续更新到考试）', url: 'https://www.bilibili.com/video/BV17b7664EZL/', duration: '200:00:00' },
+  { title: '26全国专升本英语真题单选1000题（语法和词汇，完结）', url: 'https://www.bilibili.com/video/BV1eM4m1k7Wn/', duration: '' },
+  { title: '专升本英语599个必背单词（一词一考点，语法基础夯实）', url: 'https://www.bilibili.com/video/BV1a34y1s7Yn/', duration: '' },
+  { title: '【刘晓艳】单词精讲·23天搞定专升本单词', url: 'https://www.bilibili.com/video/BV1FBMF6dEwk/', duration: '' },
+  { title: '2026专升本英语每日刷题（配PDF文档，各省通用）', url: 'https://www.bilibili.com/video/BV1uD4y1b77q/', duration: '' }
 ])
 
 // GitHub 高星学习工具仓库
 const githubRepos = ref([
-  { name: '⭐ alyssaxuu/carden (★486)', desc: 'Flashcards with spaced repetition and gamification' },
-  { name: '⭐ hluaguo/learn-faster-kit (★354)', desc: 'AI-powered learning coach with spaced repetition' },
-  { name: '⭐ SYuan03/Skill-Anything (★317)', desc: 'Any source to interactive learning package with quizzes & flashcards' },
+  { name: '⭐ alyssaxuu/carden (★487)', desc: 'Flashcards with spaced repetition and gamification' },
+  { name: '⭐ hluaguo/learn-faster-kit (★369)', desc: 'AI-powered learning coach with spaced repetition' },
+  { name: '⭐ SYuan03/Skill-Anything (★324)', desc: 'Any source to interactive learning package with quizzes & flashcards' },
   { name: '⭐ Human-Centric-Machine-Learning/memorize (★188)', desc: '"Enhancing Human Learning via Spaced Repetition Optimization", PNAS 2019' },
-  { name: '⭐ ctrlaltwill/LearnKit (★160)', desc: 'A native study system for Obsidian vault - turns notes into flashcards' },
-  { name: '⭐ helloworld1/AnyMemo (★159)', desc: 'Advanced Spaced Repetition flashcard learning software for Android' }
+  { name: '⭐ ctrlaltwill/LearnKit (★165)', desc: 'A native study system for Obsidian vault - turns notes into flashcards' },
+  { name: '⭐ helloworld1/AnyMemo (★157)', desc: 'Advanced Spaced Repetition flashcard learning software for Android' },
+  { name: '⭐ kirilxd/claude-tutor (★119)', desc: 'Turn Claude Code into your personal tutor - SM-2 spaced repetition' },
+  { name: '⭐ rr-/drill (★106)', desc: 'CLI program for learning things through spaced repetition' },
+  { name: '⭐ artcc/freelingo (★86)', desc: 'Self-hosted AI language learning platform with flashcards & spaced repetition' }
 ])
 
 // YouTube 推荐视频（高赞学习方法）
