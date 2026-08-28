@@ -1,0 +1,97 @@
+[
+  {
+    "id": "C01", "module": "C语言基础", "name": "C语言基础（数据类型/运算符/输入输出）",
+    "priority": "CORE", "freq": "5/5", "freq_top": false, "kaogang": "模块1",
+    "score_weight": "~10分", "difficulty": "easy"
+  },
+  {
+    "id": "C02", "module": "顺序程序设计", "name": "顺序程序设计（基本语句/顺序结构）",
+    "priority": "NORMAL", "freq": "3/5", "freq_top": false, "kaogang": "模块2",
+    "score_weight": "~5分", "difficulty": "easy"
+  },
+  {
+    "id": "C03", "module": "选择结构", "name": "选择结构（if/switch/逻辑运算）",
+    "priority": "CORE", "freq": "4/5", "freq_top": false, "kaogang": "模块3",
+    "score_weight": "~10分", "difficulty": "easy"
+  },
+  {
+    "id": "C04", "module": "循环结构", "name": "循环结构（for/while/do-while/break/continue）",
+    "priority": "CORE", "freq": "5/5", "freq_top": true, "freq_rank": 1,
+    "score_weight": "~15分", "difficulty": "medium", "高频": "TOP1·4年连考"
+  },
+  {
+    "id": "C05", "module": "数组", "name": "数组（一维/二维/字符数组/字符串函数）",
+    "priority": "CORE", "freq": "5/5", "freq_top": true, "freq_rank": 4,
+    "score_weight": "~15分", "difficulty": "medium", "高频": "TOP4·4年连考"
+  },
+  {
+    "id": "C06", "module": "函数", "name": "函数（定义/调用/参数传递/作用域/递归）",
+    "priority": "CORE", "freq": "5/5", "freq_top": true, "freq_rank": 3,
+    "score_weight": "~15分", "difficulty": "medium", "高频": "TOP3·4年连考"
+  },
+  {
+    "id": "C07", "module": "指针", "name": "指针（指针变量/指针与数组/函数/字符串）",
+    "priority": "CORE", "freq": "5/5", "freq_top": true, "freq_rank": 2,
+    "score_weight": "~10分", "difficulty": "hard", "高频": "TOP2·4年连考"
+  },
+  {
+    "id": "C08", "module": "结构体与共用体", "name": "结构体/共用体/枚举/typedef",
+    "priority": "NORMAL", "freq": "3/5", "freq_top": true, "freq_rank": 9,
+    "score_weight": "~5分", "difficulty": "medium", "高频": "TOP9·3年"
+  },
+  {
+    "id": "C09", "module": "文件操作", "name": "文件操作（打开/关闭/读写）",
+    "priority": "LOW", "freq": "2/5", "freq_top": true, "freq_rank": 15,
+    "score_weight": "~5分", "difficulty": "medium", "高频": "TOP15"
+  },
+  {
+    "id": "C10", "module": "程序运行环境与调试", "name": "编译/链接/运行错误区别",
+    "priority": "LOW", "freq": "1/5", "freq_top": false, "kaogang": "模块10·2026新增",
+    "score_weight": "~5分", "difficulty": "easy"
+  },
+  {
+    "id": "D01", "module": "数据结构基本概念", "name": "逻辑结构/存储结构/ADT",
+    "priority": "NORMAL", "freq": "3/5", "freq_top": false, "kaogang": "模块11",
+    "score_weight": "~5分", "difficulty": "easy"
+  },
+  {
+    "id": "D02", "module": "线性表", "name": "顺序表/链表/插入删除/复杂度",
+    "priority": "CORE", "freq": "4/5", "freq_top": true, "freq_rank": 10,
+    "score_weight": "~15分", "difficulty": "medium", "高频": "TOP10·3年"
+  },
+  {
+    "id": "D03", "module": "栈和队列", "name": "LIFO/FIFO/循环队列/应用",
+    "priority": "CORE", "freq": "4/5", "freq_top": true, "freq_rank": 6,
+    "score_weight": "~10分", "difficulty": "medium", "高频": "TOP6·4年连考"
+  },
+  {
+    "id": "D04", "module": "串、数组和广义表", "name": "串存储/KMP/广义表",
+    "priority": "NORMAL", "freq": "3/5", "freq_top": false, "kaogang": "模块14",
+    "score_weight": "~5分", "difficulty": "hard"
+  },
+  {
+    "id": "D05", "module": "树和二叉树", "name": "二叉树性质/遍历/哈夫曼树",
+    "priority": "CORE", "freq": "5/5", "freq_top": true, "freq_rank": 5,
+    "score_weight": "~15分", "difficulty": "hard", "高频": "TOP5·4年连考"
+  },
+  {
+    "id": "D06", "module": "图", "name": "存储/遍历/最小生成树/最短路径",
+    "priority": "CORE", "freq": "4/5", "freq_top": true, "freq_rank": 14,
+    "score_weight": "~10分", "difficulty": "hard", "高频": "TOP14"
+  },
+  {
+    "id": "D07", "module": "查找", "name": "顺序查找/折半查找/哈希表",
+    "priority": "CORE", "freq": "4/5", "freq_top": true, "freq_rank": 8,
+    "score_weight": "~10分", "difficulty": "medium", "高频": "TOP8·3年"
+  },
+  {
+    "id": "D08", "module": "排序", "name": "插入/交换/选择/归并排序/稳定性",
+    "priority": "CORE", "freq": "4/5", "freq_top": true, "freq_rank": 7,
+    "score_weight": "~10分", "difficulty": "medium", "高频": "TOP7·4年连考"
+  },
+  {
+    "id": "D09", "module": "算法概念与分析", "name": "算法特性/时间复杂度/空间复杂度",
+    "priority": "NORMAL", "freq": "3/5", "freq_top": true, "freq_rank": 13,
+    "score_weight": "~5分", "difficulty": "medium", "高频": "TOP13"
+  }
+]

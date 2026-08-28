@@ -1,0 +1,13 @@
+[
+  { "name": "鹏哥C语言", "scope": "C语言全系列", "style": "零基础系统课", "url": "https://space.bilibili.com/", "known_series": "C语言从入门到精通" },
+  { "name": "郝斌C语言", "scope": "C语言入门", "style": "经典零基础", "url": "", "known_series": "C语言入门教程" },
+  { "name": "翁恺C语言", "scope": "C语言全系列(浙大)", "style": "系统严谨", "url": "", "known_series": "C语言程序设计" },
+  { "name": "小甲鱼", "scope": "C语言+数据结构", "style": "趣味教学", "url": "", "known_series": "零基础C语言/数据结构与算法" },
+  { "name": "张成叔", "scope": "C语言题库/考点", "style": "考点+刷题", "url": "", "known_series": "C语言1000题/专升本600题" },
+  { "name": "孟涛老师", "scope": "广东专升本计算机真题", "style": "真题解析", "url": "", "known_series": "广东专升本计算机真题解析" },
+  { "name": "王道计算机", "scope": "数据结构", "style": "系统全面", "url": "", "known_series": "数据结构考研/专升本" },
+  { "name": "天勤考研", "scope": "数据结构", "style": "高分笔记", "url": "", "known_series": "数据结构高分笔记" },
+  { "name": "黑马程序员", "scope": "C语言进阶", "style": "项目实战", "url": "", "known_series": "C语言从入门到实战" },
+  { "name": "比特鹏哥", "scope": "C语言全系列", "style": "零基础+项目", "url": "", "known_series": "C语言程序设计" },
+  { "name": "拯救者", "scope": "数据结构速成", "style": "速成应试", "url": "", "known_series": "数据结构速成(含考题讲解)" }
+]

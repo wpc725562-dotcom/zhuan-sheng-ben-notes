@@ -771,6 +771,7 @@ export default defineConfig({
         {
           text: '📚 备考资料',
           items: [
+            { text: '🗺️ 考点资源图谱（计算机）', link: '/posts/resources/考点资源图谱-计算机' },
             { text: '考试概况与科目结构', link: '/posts/resources/考试概况与科目结构' },
             { text: '官方教材与参考书清单', link: '/posts/resources/官方教材与参考书清单' },
             { text: '零基础学习路线图', link: '/posts/resources/零基础学习路线图' },
