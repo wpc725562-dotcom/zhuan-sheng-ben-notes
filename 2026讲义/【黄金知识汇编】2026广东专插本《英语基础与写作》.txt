@@ -1,0 +1,3133 @@
+--- 第1页 ---
+1 / 56
+《英语基础与写作
+广东省普通高等学校专升本考试
+》
+黄金考点汇编
+第一部分语法
+第一章句子概况
+考点1：基本句型
+1、谓语动词是英语句子的必要成分之一，所谓一个句子有且只能有一个谓语动词的黄金原
+则需着重注意。由于动词有不同的种类，故构成了5 种不同的基本句型(Basic Patterns of
+Sentences)。
+考点2：句子成分
+句子成分
+1.必要的成分，即主干、主语、谓语；可能有的成分：宾语、表语、补语、修饰成分(定语、
+状语、同位语)
+2.各句子成分简要说明:
+（1）主语(Subject):句子说明的人或事物；可以由名词、代词、数词、不定式、动名词、从
+句和短语等来担任。
+[例]
+The sun rises in the east. (名词)
+He likes dancing.(代词)
+Twenty years is a short tine in history.(数词)
+Seeing is believing.(动名词)
+To see is to believe.(不定式)
+What he needs is a book. (从句)
+It is very clear that the elephant is tall like a tree.
+(It 做形式主语，主语从句是真正主语)
+[补充]形式主语与真实主语(Formal Subject and Real Subject):主语是不定式短语、动名词短
+语或分句时，常会放在句尾，用it 代替它原来的位置，这个让就称之为形式主语，而被放
+句型
+举例
+主语十不及物动词
+(主谓结构)
+She leaves
+主语十及物动词十宾语
+(主谓宾结构)
+Lucy loves Tom.
+主语十系动词十表语
+(主系表结构)
+Lucy is Tom's wife
+主语+及物动词十双宾语
+(主谓双宾结构)
+Lucy gives Tom a hug.
+主语十及物动词十宾语+宾补
+(主谓宾补结构)
+Lucy finds the book interesting.
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第2页 ---
+对应网课（每年按照最新考纲更新）
+【优课必过】网校
+http://zikao.p1tao.com/mall/detail?id=26359655
+开课加叶学长微信prince-zip咨询
+
+--- 第3页 ---
+2 / 56
+在句尾的原主语为真实主语。
+[例]
+It is very hard to get to sleep. 入睡很难。
+It is very clear that the elephant is tall like a tree.很明显，大象像一棵树一样高。
+（2）谓语(Predicate):说明主语的动作、状态和特征;通常放在主语的后面，它有人称、数、
+时态和语态的变化。谓语还可以分为简单谓语和复合谓语:
+简单谓语: 由动词或动词词组组成;
+[例]
+I saw the flag on the top of the hill.
+He looked after two orphans.
+复合谓语: 由情态动词或助动词组成。
+[例]
+He can speak English well.
+She doesn't seem to like dancing
+（3）宾语(Objective) : 动作的承受者或对象;
+①由名词、代词、数词、动名词、不定式、宾语从句等来充当，位于及物动词后
+[例]I like China.(名词)
+He hates you.(代词)
+How many do you need? -We need two(数词)
+I enjoy working with you. (动名词)
+I hope to see you again. (不定式)
+Did you write down what he said? ( 宾语从句)
+②介宾：由个词后的名、代词、动名词等作宾语
+[例]Are you afraid of the snake?Under the snow,there are many rocks.
+③双宾语:间接宾语(指人或动物)(Indirect Object)和直接宾语(指事或物)(Direct Object)。
+[例]He gave me (Indirect Object) a book (Direct Object) yesterday.
+Give the poor man (Indirect Object) some money ( Direct Object)
+（4）补语(Complement):补充说明主语或宾语行为、状态、身份、特征等;般是由名词、形容
+词、动名词、个词短语、非谓语动词、分词等来充当。补语还可分为主语补足语(Subject
+Complement) 和宾语补足语(Object Complement) :
+①主语补足语(Subject Complement):对主语的补充
+[例]He was elected monitor.(名词)
+He was advised to teach the lazy boy a lesson. (不定式)
+②宾语补足语(Object Complement): 说明宾语的身份和状态以补充其意义不足，使句子的意
+义完整
+[例]We elected him monitor.(名词)
+We will make them happy.(形容词)Please make yourself at home.(介词短语)
+Do not let him do that. (省to 不定式)
+（5）定语(Attribute) : 修饰或限定名词或代词;可以由名词、代词、数词、形容词、副词、
+个词短语、动词不定式、分词、从句或相当于形容词的词、短语或句子等来担任。
+[例]Yanling is a chemistry teacher.(名词)
+He is our friend.(代词)
+（6）状语(Adverbial) : 用来修饰动词、形容词、副词或整个句子，一般是由副词、介词短
+语、非谓语动词或者从句来充当，说明时间、地点、原因、结果、程度、条件、方式和让步
+等。
+[例]I will go there tomorrow.(表示时间)
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第4页 ---
+3 / 56
+The meeting will be held in the meeting-room.(表示地点)
+（7）表语(Predicative) : 说明主语的身份、性质、品性、状态和特征，一般由名词、代词、
+形容词、数词、副词、个词短语、非谓语动词、从句等来充当的。常常位于系动词后，与系
+动词一起构成句子的谓语。
+[例]He is a teacher.(名词)
+Five and five is ten.(数词)
+*常见的系动词有: sound (听起来)，look (看起来)，feel (摸起来)，smell (闻起来)，taste (尝/
+吃起来)，remain (保持，仍是) ，feel(感觉) ......。
+[例]It sounds a good idea
+Tom looks thin
+（8）位语(Appositive) : 即“同等位置”，以一个名词来解释说明另外一个名词。般是由名
+词、代词、数词、从句等来充当的。用于对句子中的某个成分作进一步的解释、说明或者限
+定。同位语一般紧跟在其说明的名词之后。
+[例]Lucy, my friend, is a teacher. (名词)
+第二章主谓一致
+考点1：名词
+知识点1 名词的定义与分类
+名词是指代人、物、事、时、地、情感、概念等实体或抽象事物的词，在句子中通常可以做
+主语和宾语成分。按词汇意义可分为专有名词和普通名词，其中普通名词又可分为可数的个
+体名词和集体名词，以及不可数的物质名词和抽象名词。
+名词
+类别
+意义
+例词
+专有名词
+表示具体的人名、事
+物、国家地名、机构、
+团体等的专有名称
+Jim,China,Shanghai
+普
+通
+名
+词
+可数名词
+个体
+名词
+表示单个个体或事物
+Cat，factor
+集体
+名词
+表示一群人或一些事
+物的总称
+Human Family
+不可数名词
+物质
+名词
+表示无法分为个体的
+物质
+water,air,ice
+抽象
+名词
+表示抽象概念的词
+peace.
+love, happiness
+知识点2 可数名词复数转化规则
+可数名词有单数和复数两种形式。单数名词表示“一个”的意思;而数量为“二”或以上，
+则需要用名词的复数形式。通常情况下可数名词的复数形式，一般在单数形式后面加-s 或
+-es，如：bird 一birds,cat 一cats，box 一boxes，watch 一watches 等。但也有一些特殊变
+形需要特别记忆。
+（1）规则变化
+①一般名词在后面直接加上“s”
+[例]map maps
+bag
+bags
+book
+books
+②以s，x，sh，ch 结尾的词加“-es”
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第5页 ---
+4 / 56
+[例]bus
+buses
+watch watches
+box
+boxes
+③以f 或fe 结尾，大部分变f，e 为ves;
+[例]half halves
+knife
+knives
+④以辅音字母+v 结尾的词，变y 为i 加es，以元音字母+y 结尾，直接加s 变复数:
+[例]
+baby babies
+family families
+study
+studies
+⑤以o 结尾的单词，有生命的+es，无生命+s.
+[例]hero-heroes
+potato potatoes
+tomato-tomatoes
+（2）不规则变化
+由于外来词汇等因素的影响，很多名词复数呈现不规则变化，需要不断总结和积累。
+【例】ox→oxen
+basis→bases
+medium→media
+变形规则
+例子
+某些元音改变
+a→e：man→men，woman→women，policeman→
+policemen...
+oo-ee：goose→geese，foot→feet，tooth→teeth...
+★特殊变化：mouse→mice
+词尾加-en/-ren
+child→children，ox→oxen...
+单复数相同
+Chinese，Japanese，deer，sheep...
+一般以复数形式出现
+★成双、成对、或两个以上部分搭配构成的事物：
+trousers，clothes，glasses，compasses，shoes，shorts...
+★复数形式表特别含义：
+arms（武器），times（时代），manners（礼貌），
+looks（外表），means（方法），works（作品）
+一些集体名词形式上是单数，但用作复
+数
+people，police，cattle，staff...
+复
+合
+名
+词
+写成一个词且不含连字符的
+复合名词，通常在第二部分加
+复数词尾
+bathroom→bathrooms，blackboard→blackboards...
+分开写且中间没有连字符的
+复合名词，但第一个部分为
+man/woman 时，两部分都要
+变成其复数形式
+woman writer→women writers...
+有连字符的复合名词，如复合
+名词中含有生命的名词，则在
+其后加复数词尾；若其中无生
+命名词，则在整个词末加复数
+词尾
+looker on→lookers on，sister in law→sisters in law，
+grown up→grown ups，go between→go betweens...
+注意
+物质名词和抽象名词都是不可数名词，按理不能用不定冠词a/an (一个)修饰，也没有复数
+形式。但是，它们有时也用作普通名词，从而具有可数名词的性质。不可数物质名词在某些
+情况下可变为可数名词，如:
+当物质名词表示种类时
+*I like eating fish.(表鱼肉时，为不可数)
+*There are various kinds of fishes in the
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第6页 ---
+5 / 56
+pool.( 强调鱼的种类时，为可数)
+在某些固定搭配中，作可数名词
+*have a cold 感冒
+*have a rest/break 休息
+知识点3 复合名词的复数形式
+（1）“man/woman 十名词”构成的复合名词，两个词都要变成复数:
+[例]man teacher
+men teachers 男老师
+woman doctor
+women doctors 女医生
+（2）“名词+名词”构成的复合词，将后一个名词变为复数即可man 和woman 除外) :
+[例]boy friend
+boy friends 男朋友
+paper bag
+paper bags 纸袋
+（3）以-man、-woman、-child 结尾的复合名词，只需变词尾(German 为例外) ;
+[例]policeman-policemen 警察
+fireman
+firemen 消防员
+（4）“名词+其他”构成的复合名词，核心词变复数;
+[例]passer-by
+passers-by 过路人
+mother-in-law
+mothers-in-law 岳母
+（5）无核心词的复合名词，在词尾变复数
+[例]grow-up
+grow-ups 成年人
+stand-by
+stand-bys 候补
+知识点4:集体名词的数
+（1）通常作复数的集体名词
+police 警察
+cattle 牛
+clergy 神职人员
+vermin 害虫
+这些集体名词作主语时，谓语动词通常用复数。
+[例]The police are looking for him.警察当局正在找他。
+The cattle provide us with milk, beef and hides 牛给我们提供牛奶、牛肉和皮革。
+（2）既可作单数也可作复数的集体名词
+people 人们，人民
+herd 牧群
+team 队
+council 理事会
+firm 商号
+board 董事会
+government 政府
+crew 全体人员
+company 公司
+group 团体
+flock 羊群
+crowd 人群
+这些集体名词当作一个整体时，用作单数，且常常与定冠词the 连用;若考虑构成这些集体
+的各个成员时，看作复数。
+[例]The jury consists of 7 people.陪审团由7 个人组成。
+知识点5：名词所有格
+名词有主格、宾格和所有格三种形式。名词的主格和宾格形式相同，所以它们又统称作
+通格，分别用作句子的主语、动词或介词的宾语等。英语名词的所有格表示所属关系，它分
+-’s 所有格，of 所有格和双重所有格三种。
+the girl’s mother
+女孩的母亲
+the teachers’ books
+老师的书
+the windows of the house
+房子的窗户
+the name of the book
+书名
+（1）-’s 所有格
+1）直接加在表示有生命的名词后面构成所有格，单数名词加“’s”，词尾有s 的复数名词
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第7页 ---
+6 / 56
+或专有名词后直接加“’”即可。
+【例】Peter’s book 彼得的书
+the boy’s toy 男孩的玩具
+2）’s 所有格也可用于表示时间、城市、地域、团体、机构、度量衡、价值等非生命的事物。
+【例】without a moment’s hesitation 没有丝毫犹豫
+New York’s population 纽约的人口
+3）’s 所有格用于表示店铺、某人家等名词的所有格后面，一般省略它所修饰的名词。
+【例】at the doctor’s 在诊所
+my grandfather’s 我祖父家
+4）表示两人或多人各自的所属关系，要在各个词尾分别加“’s”；表示两人或多人共同的
+所属关系时，只需在最后一个词尾加“’s”。
+【例】Mark’s and Sam’s beds 马克（的床）和萨姆的床（两人各有一张床）
+Mark and Sam’s room 马克和萨姆的房间（两人同住一个房间）
+（2）of 所有格的用法
+1）无生命所有格一般用“of+名词”的结构表示。
+【例】the eye of the beauty 美人之眼
+the gate of the school 学校的大门
+2）若名词或名词修饰语较长时，有时有生命的东西也可用of 表示所有格。
+【例】the speech of President Roosevelt 罗斯福总统的演讲
+3）表示“某人的家”“店铺”等生活、工作处所的所有格后的名词常省略，’s 前的名词通
+常表示人。
+【例】at Mr. Wen’s 在文先生家
+at the barber’s 在理发店
+（3）双重所有格
+“’s”所有格和“of 所有格”两种所有格形式结合在一起，构成“of+所有格”形式，即双
+重所有格。它通常表示部分概念，即全体中的一部分。
+【例】a friend of my sister’s 我姐姐的某一个朋友（很多朋友中的一个）
+a picture of her mother’s 她妈妈的一张照片（许多张照片中的一张）
+考点2：主谓一致的具体应用
+主谓一致
+主谓一致是英语中常见语法现象，指的是谓语动词在人称和数上必须与主语保持一致。主谓
+一致依据语法一致、意义一致和就近三条原则。
+知识点1 语法一致
+（1）语法一致就是单数名词后面谓语动词用单数，而复数名词后面谓语动词则用复数
+【例】The results of the examination show that you have all made good progress
+考试结果表明你们都取得了很大的进步。(语法一致)
+（2）as well as, as much as, along with, together with, rather than, but, together, with,except，
+besides 等连接时，谓语动词的数与最前面的主语保持一致。
+【例】The teacher as well as the students has seen the film.老师和学生都看过这部电影。
+（3）and 连接并列主语，谓语动词通常用复数形式，但下列情况下用单数:
+①and 连接的并列主语指的是同一个人、同一事物或同一概念;
+②and 连接的并列名词有each，every，no 或many a 等修饰时;
+【例】In our country every boy and every girl has the right to receive education.
+我们国家每一个孩子，不管男女，都有受教育的权利。
+（4）其他
+①不定式、动名词(短语)、“疑问词/Whether+ to do”和从句作主语时，谓语动词常用单数形
+式。从句作主语时，若主句为系表结构，主句谓语动词的数通常由作表语的名词或代词决定。
+【例】What to do is one question, and how to do it is quite another.
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第8页 ---
+7 / 56
+应该做什么和应该怎样做是完全不同的两个问题。
+②“分数/百分数+of 十名词”作主语时，谓语动词应与of 后面名词的数保持一致.
+【例】Eighty-five percent of the students in our school are girls.我们学校85%的学生都是女生。
+③A number of+名词”作主语时，后面的谓语动词用复数形式: 而“the number of+名词”作主语
+【例】A number of children were playing in the park 许多孩子在公园里玩耍。
+The number of students in this school is rather small 这个学校里学生的数量很少
+知识点2 意义一致
+意义一致则是要看主语的内容或者意义表达的是单数意思还是复数意思。
+（1）集体名词作主语时，若强调整体则谓语动词用单数:若强调个体则谓语动词用复数。常
+见这类名词有committee，family，group，class，army，enemy 等。
+【例】My family is a large one.我家是个大家庭。
+My family all like comedies.我全家人都爱看喜剧。
+【注意】单复数同形的名词作主语，谓语动词用单数还是复数，视其意义而定。
+（2）表示时间、金钱、距离、重量等的词语作主语，通常被看作一个整体，谓语动词用单
+数。
+[例]Fifteen miles seems like a long walk to me.对我来说，十五英里似乎是一段很长的路
+知识点3 就近原则
+顾名思义，就是谓语动词与最近的名词保持一致。
+(1)由or，either...or..，neither...nor.., not only...but also.., not...but...等连接并列主语时，遵循
+就近原则，即谓语动词应与最靠近它的主语一致。
+[例] Either he or I am wrong.不是他错，就是我错。
+Mary or you are to blame for the fault.要么玛丽要么你该为这个错误负责。
+(2) there be 句型的谓语动词的单、复数形式应与离其最近的主语保持一致。
+There is one girl and ten boys in our class.我们班上只有一个女孩和十个男孩。
+There are ten boys and one girl in our class.我们班上只有十个男孩和一个女孩。
+知识点4 名词化形容作主语时的主谓一致
+“the+形容词”表示一类人时,谓语动词用复数。常见的这类词有: the poor, the rich,the sick, the
+dead,the young, the wise, the deaf, the blind, the learned, the wounded, the aged, the killed, the
+living, the dying.the English，the French, the Chinese 等。
+[例]The rich are not benevolent. 为富不仁。
+知识点5 不定式、动名词和句子作主语时的主谓一致不定式、动名词和句子作主语时，谓
+语动词用单数
+[例]To become doctors is their ambition.当医生是他们的志愿。
+Drinking much alcohol is harmful to one’ s health.喝太多酒有害身体健康。
+第三章代词
+定义:代词是用来代替名词以及起名词作用的短语、分句和句子的词。代词可分为人称代词、
+指示代词、物主代词、反身代词、疑问代词、不定代词、相互代词等。
+考点1：人称代词
+人称
+数
+单数
+复数
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第9页 ---
+8 / 56
+主格
+宾格
+主格
+宾格
+第一人称
+I
+me
+we
+us
+第二人称
+you
+you
+you
+you
+第三人称
+he
+she
+it
+him
+her
+it
+they
+them
+①主格在句中作主语、表语或同位语
+[例]We study English every day 我们每天都学英语。
+②宾格在句中作宾语或表语、补语或同位语等。
+[例]I teach them English.我教他们英语。
+③it 的用法。
+a.用作形式主语或形式宾语
+[例]It is important for us to learn English well.对我们来说学好英语很重要
+I found it important to learn English well 我发现学好英语很重要。
+b.表示天气、距离、时间或环境等。
+[例]It's raining.下雨了。
+It's eight o'clock.8 点了。
+It's about two hours’ walk.步行大约两个小时。
+c.it 用于打电话时，指人。
+[例] Hello, it is Susan.你好，我是苏珊。
+d.it 可指代婴儿或小孩
+[例] Look at the baby. It's laughing in its cradle.看那个小孩，他正在摇篮里笑。e.it 用于强调句
+型it is/was+强调部分+that/who+其余部分。
+[例] It is not only in public ways, but in private life equally, that wisdom is needed.不仅在公共场
+合中，在私人生活中同样需要智慧。
+考点2：物主代词
+单数
+复数
+第一人称
+第二人称
+第三人称
+第一人称
+第二人称
+第三人称
+形容词性
+物主代词
+my
+your
+his/her/its
+our
+your
+their
+名词性物
+主代词
+mine
+yours
+his/hers/its
+ours
+yours
+theirs
+①形容词性物主代词仅用作定语，修饰名词。
+[例]I'm sure you don't want to listen to all my problems.
+我敢肯定你不会想听我所有的问题。
+②名词性物主代词可用作主语、表语和宾语，of+名词性物主代词”结构可用作定语，表示
+范围或所属。
+[例]Miss Wang is an old friend of mine.王女士是我的一个老朋友。
+This baby of hers is so lovely!她的这个孩子真可爱!
+考点3：反身代词
+单数
+复数
+第一人称
+myself
+ourselves
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第10页 ---
+9 / 56
+第二人称
+yourself
+yourselves
+第三人称
+himself
+herself
+itself
+themselves
+①用作宾语和表语，表示“......自己”
+[例] That young man has been teaching himself French.那个年轻人一直在自学法语。
+②用作名词、代词的同位语，以加强名词、代词的语气，一般表示“亲自，本人”的意思。
+[例] Why do I always have to do everything myself?为什么我总是得亲自做每件事情?
+③反身代词常用的固定搭配:
+teach oneself 自学
+lose oneself 迷路
+enjoy oneself 玩得开心
+come to oneself 苏醒
+beside oneself 发狂
+help oneself 请自便....
+devote oneself to 专心于by oneself 独自一人地
+make oneself at home 不受拘束
+in itself 本身
+of oneself 自发地for oneself 替自己，为自己
+between ourselves 你知我知，不要对别人讲
+考点4：指示代词
+①指示代词有this，that，these，those 等。其中:
+a.this、that 指单数，these、those 指复数。
+b.指上文内容时，常用that 和those; 指代下文时，常用this 和these。
+c.this，these 一般用来指时间上或空间上较近的人或物，而that, those 则常指时间上或空间
+上较远的人或物。
+[例]This is a deer and that is a tiger.这是一只鹿，那是一只老虎.
+[注意]为了避免与前面的名词重复，可以用that 或those 来代替
+[例]This painting is not so good as that I saw in the gallery yesterday.
+考点5：不定代词
+①other, others, the other, the others, another:
+other 表示“别的，其他的”，泛指“其他的(人) 或(物)”
+others 是other 的复数形式，泛指“其他几个，其余的”
+the other 是两个人或物中的其中一个
+the others 特指“其他的东西，其他的人”，=the other 十名词复数;
+another 三者或三者以上中的“另一个”，其后一般接名词单数。
+②none: 三者或三者以上的全部都不。
+all: 三者或三者以上的全部肯定，“都”
+neither:两个都不。
+either: 两个中的一个，表二选一
+③any: 表“一些”，用于否定句和疑问句中，后接可数或不可数名词。表“任何”，用于
+肯定句中,相当于all。
+some: 一些，若干，其中的一部分，(数量不确定时用) 有些人。
+many: 许多，许多人。
+④anybody: 任何人；everybody 每个人；nobody 没有人，无人；somebody 某人。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第11页 ---
+10 / 56
+everything: 所有事情;something 某些事情;anything 任何事情; nothing 没有事情。
+⑤one: one 指不定人称时，相当于anyone，表示任何一个人、人人，其反身代词为oneself，
+物主代词为one’s。凡是要重复one 或者one’s 的地方，都可以用he 或者his 来代替。
+[例]They were just like any other young couple 他们同别的年轻夫妇没什么两样。
+Can you give me some money.你能给我一此钱吗?
+Neither of us agrees on the plan.我们双方都不同意这个计划。
+第四章
+动词的时与体
+考点1：动词的分类
+（1）行为动词
+行为动词也叫实义动词，有完整的词义，能独立作谓语。根据动词后是否要跟宾语，行为动
+词可分为及物动词和不及物动词。
+①及物动词：后面要接宾语，可以用于被动语态
+[例] Euclid was trying to convey his idea of a geometrical point.
+欧基里德试图表达他的一个几何学观点。
+[注意] 及物动词后接宾语时，有些后面只接一个宾语，如第一个例句；有些可以跟两个宾
+语，如第二个例句，可接两个宾语动词一般有give，tell，teach，write，buy，bring，hand，
+lend，pass，send 等；还有一种及物动词后跟宾语及宾语补足语，如第五个例句。
+②不及物动词
+本身词义完整，其后不跟宾语，跟宾语时应在动词后面加上相应的介词：不能用于被动语态。
+[例]Smog appeared on the horizon.地平线上升起了烟雾.
+③有些动词既可以作及物动词，也可以作不及物动词。
+[例]He is preparing the exam.他在准备考试。
+(实际意思是，他在准备出考题，他是个老师。)
+He is preparing for the exam.
+他在准备考试。(实际意思是他在复习，为参加考试做准备，他是个学生。)
+（2）连系动词
+本身有词义，但不能单独做谓语。最常用的连系动词是be。和连系动词一起构成的常用语
+法结构(系表结构)有:
+①连系动词+形容词
+这种结构最为常见。这种结构中常用的连系动词有：become，feel，get，grow，keep，look，
+make, remain, sound, smell, stay, taste, turn, go 等
+[例]The company went broke last year 这家公司去年破产了。
+②连系动词十名词
+这种结构中常用的连系动词有：be，become，draw，live，look，make，play，prove，remain，
+return,seem 等。
+[例]Her dream has now become a reality.她的梦想现在已变成了现实。
+③连系动词十分词
+这种结构中常用的连系动词有：appear，become，feel，get，grow，look，prove，remain，
+seem 等。
+[例]It takes three years to become qualified.要取得资格需要三年的时间。
+④连系动词十介词短语
+这种结构中常用的连系动词有：come，continue，grow，keep，look，prove，remain，seem，
+smell,sound，stand 等。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第12页 ---
+11 / 56
+[例]Milk only keeps for a few days.牛奶只能保鲜几天。
+（3）助动词
+本身无词义，不能单独做谓语，主要帮助构成谓语，表示时态、语气、语态等。助动词的作
+用主要有以下几方面:
+①帮助行为动词构成否定句、祈使句或疑问句:
+[例]She doesn't work here, does she?她不在这里工作，是吗? (反义疑问句
+②帮助行为动词构成各种时态:
+[例]She has paid her personal income tax 她已支付了个人所得税
+③帮助行为动词构成被动语态
+[例]The meeting will be put off till Friday 会议将会推迟到星期五。
+④帮助行为动词构成各种语气
+[例] Don't be afraid of making mistakes.不要害怕犯错。(祈使语气)
+（4）情态动词
+本身有一定词意，但不能单独作谓语，只能和动词原形一起构成谓语。情态动词的基本意义
+①must：必须，一定。must have done: 表示动作发生在过去。mustn’t：禁止。
+②can：能够(表现在的能力); 可以(表请求和允许); 可能(只用于否定和疑问句)。can't：不能，
+将不会。
+③could：能够(表过去的能力)；可以(表请求和允许，语气比can 委婉)，可能。
+could have v-ed(过去分词)：本来能够发生的事情没有发生。
+④wil：将会；可以(请求/ 要求)。
+⑤would：将会(will 的过去式)：可以(请求/要求，比will 委婉)。Would have + -ed：本来
+要发生的事情没有发生。wouldn’t：不会，不愿。
+⑥should：应该；按理说。should have + -ed：本来应该发生的事情没有发生。
+shouldn't：不应该
+⑦need：需要，必须(用于否定和疑问句) 。needn’t：没有必要
+⑧dare：敢。(疑问句、否定句和条件从句) dare not：不敢。
+⑨shall：表示将来，将要，将会:在疑问句中同I 和we 连用，表示提出或征求意见。
+⑩ought to：应该；应当；(表示期望或可能发生的事) 应该(表示劝告或建议) 。
+考点2：动词的时态和语态
+英语中表示不同时间发生的动作或存在的状态，需用不同的动词形式表示，不同的动词形式
+称为时态。
+（1）谓语动词时态的表达形式:
+一般现在时:动词原形；第三人称单数：-s /-es
+一般过去时：v-ed(规则变形) ;不规则变形(记)
+一般将来时：will+原形
+现在进行时：be ( am / is / are )w-ing
+过去进行时：was/were v-ing
+现在完成时：have/has done
+过去完成时：had done
+将来完成时：shall / will have + done
+（2）谓语动词时态的基本意义和用法
+1)一般现在时：主语+动词原形(若主语是第三人称单数，动词原形一般加-s 或es)
+①表示经常性或习惯性的动作或存在的状态。常与表示频度的时间状语连用,如always,often,
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第13页 ---
+12 / 56
+usually.every day。
+[例]He always acts on the principle he sets for himself.他总是按照自己所制定的原则行事。
+②表示主语的特征、状态、能力、品质等。
+[例]People enjoy reading books about the rich and famous.
+人们喜欢阅读有关富人和名人的书。
+③表示客观事实或普遍真理
+[例]The sun rises in the east and sets in the west.太阳东升西落。
+2）一般过去时: 表示过去某个特定时间或某一段时间内发生的动作或存在的状态。常与表
+示特定过去时间的状语，如: three days ago，yesterday，in 1994，last week，last year。[例]I
+bought a dog yesterday.昨天我买了只狗。
+3)一般将来时:主语+ shall/will 十动词原形;主语+be going to+动词原形;主语+be+动词不定式;
+主语+be about 十动词不定式;主语+be+现在分词(仅限位移动词)
+①“shall /will+动词原形”一般表示将要发生的动作或存在的状态
+[例]My elder brother will be twenty years old next year.我哥哥明年就20 岁了
+②“be going to+动词原形”表示主观打算做某事或有迹象表明即将发生某事。
+[例] They are going to sail around the little island.他们打算绕着小岛航行。
+③“be 十动词不定式”常表示按安排、计划、约定、职责、义务、禁止或要求将要发生的
+动作。
+[例]The Prime Minister is to visit China tomorrow.首相将于明天访问中国。
+④“be about 十动词不定式”表示即将发生的动作，不可与表示将来的时间状语连用
+[例]The team is about to play an important match.这支队即将进行一场重要的比赛
+4)现在进行时: 主语+ am /is /are+现在分词
+①表示现在、且前或现阶段正在进行的动作或发生的事.
+[例]We are waiting for you at the school gate now.我们现在正在校门口等你。
+②与always，forever，constantly 等副词连用，表示某种感情，如赞许、厌烦、不满、同情
+等。
+[例]The little boy is always thinking of others.
+那个小男孩儿总是为别人着想。(赞许)
+5)过去进行时:主语+ was / were+现在分词表示在过去某一时刻或某段时间内正在进行的动
+作
+[例]I was reading a novel when you called me last night.昨晚你给我打电话时，我正在看一本小
+说。
+6)将来进行时: 主语+ will be+现在分词表示在将来某一时刻或某段时间内正在进行的动作。
+[例]I will be reading a novel tomorrow this time 明天的这个时刻我会正在看书。
+7)现在完成时:主语+have /has+过去分词
+①表示已经做完某事。常与不确定的时间状语连用，如yet，already，just，recently，once，
+before，lately 等
+[例]The company has already shed 10,000 jobs.该公司已经裁去了一万个工作岗位。
+②表示过去的某一动作或行为一直持续到现在，常与表示一段时间的状语连用，如so far，
+up to now.(ever) since,for a long time, for the past few years, these (few) days / weeks / months /
+years 等。
+[例]Up to now we haven’t received any news from her.
+到目前为止，我们还没有收到她的任何消息
+③表示从过去某一时间开始一直延续到现在的动作，这个动作可能刚刚结束，或者可能还要
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第14页 ---
+13 / 56
+继续进行下去;或表示重复性的动作。
+[例]I have been waiting for an hour, but he still hasn't turned up.
+我已经等了一个小时了，但是他还没有来
+8)过去完成时：主语+had+过去分词
+表示过去某个时间或某个动作之前已经完成的动作，或者表示从过去某个时间开始一直延续
+到过去另一个时间的动作。它表示动作发生的时间是“过去的过去”。这个过去的时刻常用含
+by，before 等的介词短语或一个时间状语从句来表示，也可以用一个表示过去的动作或通过
+上下为文来表示。
+[例]She found that she had left her luggage on the bus.
+她发现自己把行李丢在了公共汽车上。
+9)将来完成时:主语+shall / will have+过去分词
+①表示将来某时之前或某动作发生之前已经完成的动作。
+[例]I shall have finished reading the book by the end of this week.
+到本周末之前，我将已读完这本书了。
+②表示一个持续到将来某时或某动作发生之前的动作，一般来说，如果句中出现了“by+将来
+时间构成的时间状语，则应用将来完成时。
+[例]By next Monday, she will have studied here for three years.
+到下周一，她在这里学习就满三年了。
+第五章
+将来时间表达法
+考点1：从现在角度表示将来时间
+1.will/shall
+will/shall 通常用来表示将来时间。Will 用于第一、二、三人称主语，shall 用于第一人称主
+语，都可以表示将来时，但是这种意义通常夹杂着情态意义，即带有说话人的主观态度和看
+法，比如表示“预见”：
+You will feel better if you after taking this medicine.
+有时候表示将来，也含有“意愿”或“意图”
+I will do it if you like it.
+2.be going to
+这一结构的主要意义，一是表示“意图”，即打算在将来做什么。
+Are you going to post that letter by air mail？
+How long is he going to stay here?由于没有语境的限制，也可以换成will。
+We’re going to call a meeting to discuss it.
+意图的体现者通常是句子的主语，但也有可能不是。如：
+The wall is going to be painted green.(=we or somebody else intend to paint the wall green.)
+He’s not going to cheat me again.(=I won’t let him cheat me again.)
+二是表示“预见”，即现在已有的迹象表明将要或即将发生某种情况。如：
+I feel dizzy. I think I am going to faint.
+表“意图”的用法有时候可以与“will+do”互换使用，但是也要注意区分。Be going to do
+表示的是说话之前就已经决定了，而“will+do”则是说话时临时想到的。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第15页 ---
+14 / 56
+A: What a terrible box!
+B: I will help you to carry it.(这里不能换为am going to)
+A: why are you taking your stuffs out of the box?
+B: I am going to carry this box to other place but it is too heavy. So I have to take something out.
+(这里不能用will)
+3.be+-ing(现在进行体)
+一是表示与他人约定或安排于最近要进行什么事，通常带有将来时间状语。
+I am meeting Mary tonight. She is taking me to the movies.
+He is having dinner with Ann on Friday.
+Alex is getting married next month.
+二是一些表示位置转移的动词，如come，go，start，arrive，stay，leave 等，常常用现在进
+行时代替be going to do,表示主语单方面所决定的未来行为。如：
+I’m leaving tomorrow. 明天我要离开。
+Are you staying here till next week?
+4.be to do
+这一结构的主要用法，一是表示按计划、安排即将发生的动作。这种用法比较正式，常见于
+报纸和广播，用于宣传官方的计划或决定。例如：
+I am to have tea with Betty this afternoon.
+二是表示命令、禁止或可能性等。如：
+You are to stand here. Do you understand?
+5.一般现在时
+一般现在时表示将来时间，常见于条件状语或时间状语从句中。
+If he comes, I will let you know.
+I’ll give it to you after I finish it.
+Will 表意愿、意志的时候也可以放在条件状语从句中。如：
+If you will listen to me, I’ll be able to help you.
+I will tell you if you will not tell anyone.
+在主语中用一般现在时表示将来时间通常是表示有标记的极其明确的将来或描述的不能更
+改的将来事件或预定活动，如时间表、日程表、形式里所规定的将来活动。
+Tomorrow is Saturday.
+注意：表示将来时间，一般现在时和现在进行时都有表示位移的动词连用，而且都有计划、
+安排的含义。但是现在时所暗含的计划比较客观，因而具有不可变更性，而且用现在时表示
+将来在口气上也比较正式。
+I’m leaving tomorrow.（个人的主观意愿）
+The plane takes off at 20:30 tonight.（时间表上的规定）
+6.be about to
+即将发生的动作，指眼皮底下就要发生的事情，一般是不跟时间状语的。
+Look, the train is about to leave!
+考点2：过去将来时间表达法
+1.定义：过去将来时表示从过去的某一时间看将要发生的动作或存在的状态。过去将来时常
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第16页 ---
+15 / 56
+用在宾语从句中，且主句必须是一般过去时。
+例：We asked him where we should go to work next week．我们问他我们下周上哪儿去劳动。
+2.过去将来时的标志
+（1）判断过去将来时一定要有一个用于表示“过去”的参照物。这个参照物往往不是时间，
+而是一个发生在过去的动作。因而过去将来时常用于主句是一般过去时的宾语从句中。
+例：I rang up to tell my aunt that I should leave for Japan next Monday．
+我打电话告诉我姑妈下星期一我要上日本去。
+（2）通过上下文来判断：
+The students were getting ready for the exam at that moment They would take part in an English
+exam．
+学生们那时正在为考试做准备。他们将参加一次英语考试。
+3.过去将来时的构成：
+（1）由“助动词would ＋动词原形”构成。would 常可缩写为：I'd，you'd，she'd，they'd 等；
+would not 常缩略为wouldn't。
+The foreigners said they'd go to the Great Wall the next day．
+（2）由“助动词should ＋动词原形”成，should 常可缩写为'd。
+I wasn't sure if it would rain．
+（3）由“was／were going to＋动词原形”构成。I thought it was going to rain．
+He didn’t say when she was coming．
+（4）由“was／were＋to＋动词原形”构成。
+The teacher said he was to tell us a story about the Long March．
+（5）由“was／were about to＋动词原形”构成
+I was about to go out when a friend dropped in．我刚要出去，这时一个朋友来了。
+注意问题：
+（1）should 一般只用于第一人称单复数。作情态动词时表示“应该”，可用于各种人称，
+而would 可用于所有人称。
+（2）表示过去准备、打算或即将发生的动作，一般要用“was／were going to＋动词原形”
+形式。
+（3）表示即将发生的事受条件或环境的制约时，常用would／should，而不用was／were
+going to 形式。
+（4）能用过去进行时表示过去将要发生的动作的动词一般只限于表示位置移动的动词，如：
+arrive，come，go，leave，start 等。
+（5）过去将来时主要用于宾语从句中，主句的谓语动词通常是said，asked，thought，knew，
+told 等。
+4.过去将来时的用法
+（1）过去将来时，一般用于主句为过去时的宾语从句中“would＋动词原形"构成过去将来
+时表示从过去某一时间看将要发生的动作或存在的状态。表示赞许、厌烦等情绪
+He said he would come to see me.
+（2）“was／were going to+动词原形”所表示的过去将来时，表示过去曾经打算或计划将要做
+事。
+She said she was going to buy a new bike．
+（3）“was／were+动词不定式”所表示的过去将来时，表示过去计划或安排将要做某事。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第17页 ---
+16 / 56
+He said he was to finish the work in a week．
+（4）“was／were +about+动词不定式”所表示的过去将来时，表示“即将”要发生的动作。
+The bus was about to start．公共汽车马上就要开了。
+（5）某些动词的过去进行时可表示过去将来时
+come, go, leave, arrive, start 等严格按照时间表发生的表起止的动词可用过去进行时代替
+过去将来时。
+He said the train was leaving at six the next morning.
+（6）过去将来时，用于虚拟语气中，如：
+If I were you, I would not do that. 要是我是你的话，我就不会那样做。
+（7）特定场合的一般过去时可表示过去将来时。条件状语从句和时间状语从句中须用一般
+过去时代替过去将来时。
+例1：I didn't know when she would come, but when she came I would let you know.
+我不知道她什么时候来，但她来了我会告诉你。
+解析：第一个when 引导宾语从句，可使用将来时，第二个when 引导时间状语从句，只能
+用一般过去时代替过去将来时
+第六章
+被动意义表达法
+考点1：谓语动词时态+被动语态
+被动语态由“助动词be 十及物动词的过去分词”构成，如果要特别强调动作或行为的执行者
+时，句子后面接by 短语，译为“被......”
+一般过去时被动、一般将来时被动、现在进行时被动的表达形式:
+一般现在时被动: 主语+ am /is /are+u-ed (规则变形)
+[例]Smokers are warned that smoking is harmful to their health 吸烟者被警告: 吸烟有害健康。
+一般过去时被动:主语+was / were + -ed (规则变形)
+[例] They were given a warm send-off last week 上周他们受到了热烈欢送。
+现在完成时被动:主语+have / has + been +v-ed (规则变形)
+[例]Many new buildings have been completed in the city.这座城市里已建成了许多新建筑。
+过去完成时被动: 主语+had been+v-ed (规则变形)
+[例]He had been warned not to tell anyone about it.
+有人警告他不要把这件事告诉任何人。
+一般将来时被动: 主语+will + be + -ed (规则变形)
+[例]Traffic laws will be strictly enforced next month.
+下个月交通法规将被严格执行。
+现在进行时被动: 主语+be 十being 十-ed (规则变形)
+[例]The traffic accident is being looked into.这起交通事故正在调查中。
+考点2：主动句和被动句
+大多数“主－动－宾”结构的主动句都可以转换为被动句。规则如下：
+（1）将原来的宾语变为主语，并将原来的主动态动词词组变为被动态动词词组。
+例如：
+①This factory produces machine tools.→Machine tools are produced in this factory.
+②The found a wallet in the car.→A wallet was found in the car.
+（2）如果原句带有情态动词或半助动词，在变为被动句时，助动词不变，随后的主动词变
+为被动态。例如：
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第18页 ---
+17 / 56
+①They should do this right now.→This should be done right now.
+②They may be interviewing the applicants at the moment.→The applicants may be being
+interviewed at the moment.
+（3）当主动句变被动句，如果要强调施动者，可将原句主语置于by-词组中表达出来。如：
+A boy found this wallet in the street.→This wallet was found in the street by a boy.
+（4）当主动句是一个“主－动－宾－宾”结构时，可有两种形式。例如：
+Father gave me a toy yesterday.→I was given a toy yesterday.
+→A toy was given to me yesterday.
+（5）当主动句是一个“主－动－宾－补”结构时，可将原来的宾语变为被动句的主语，来的
+宾语补语变为被动句里的主语补语。例如：
+①They named the boy Tom.→The boy was named Tom.
+②We painted the wall pink.→The wall was painted pink.
+考点3：某些不用被动态的用法
+在英语里，有些表达只能用主动态。例如：The door won’t lock. 门锁不上。
+1.He isn＇t allowed to study with friends by his parents.
+(主动句中主语是他的父母.谓语是允许Allow.直接宾语是他.间接宾语是不定式短语to+.因此
+被动语态应该是他得不到去跟朋友一起学习的许可)
+2.I＇m allowed to go to the movies on Friday night.
+(主动句中主语是They.谓语是allow.直接宾语是我.间接宾语是不定式短语)
+3.She wasn＇t allowed to get ears pierced by her mother.
+4.The mistakes should be corrected by the students.
+(主动句主语为students.谓语为should correct.宾语为their mistakes)
+怎样把主动句变为被动句
+考点4：英汉被动意义表示法比较
+英语中的被动语态通常具有以下基本结构：名词词组1＜动作的承受者＞+系动词be+动词
+的过去分词（+介词by+名词词组2＜动作的施事者＞），其中名词词组2 可以省略。一般
+来说，只有及物动词才具有被动语态；在某些情况下，为了强调事物的状态，还可以用“get，
+seem，become，look，feel”等作为系动词。
+通常，被动语态和主动语态的差异主要表现在句型结构上，但所表示的语义是一样的。主被
+动语态相互之间的转化，其实是由说话人的意图所支配的。英语被动语态主要在以下场合中
+使用：
+（一）说话人为突出事件本身，句子侧重要体现人们对事件本身的关注，而非动作施事者。
+如：
+（1）The gift was sent to my teacher.这份礼物送给我的老师。
+（二）说话人不清楚动作施事者是谁，或者不愿道出动作施事者。如：
+（1）The merchant was killed about two hours ago.商人大约两个小时前被害。
+（三）说话人为了强调动作施事者，并觉得如果出现在主语位置上无法得到预期的强调效果
+时，此时还需要通过附加by+动作施事者进行表述，如：
+（1）—Why can’t I drive as fast as I can on this road? 我为何不能在这条路上飞速行驶？
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第19页 ---
+18 / 56
+—It is not allowed by the traffic rule.这是交通法规禁止的。
+这个句子也可以这样表述：“交通法规禁止超速驾驶”，但是在一定的交际语境中，这样的
+表示无法起到预期的强调效果，改用被动语态就显得语气更加强硬。
+（2）—How did you hurt yourself badly? 你怎么伤得这么严重？
+—I was hurt by tripping over the broom.我是被扫帚绊倒而受伤的。
+（四）在复杂句中，句子的主语通常既是一个动作的施事者，又是另一个动作的承受者，为
+了使前后分句的主语保持一致以保证整个句子语意连贯，结构整齐。如：
+（1）Smith participated in the table tennis but was beaten by his rival in the end.史密斯参加了乒
+乓球比赛，但最后输给了对手。
+这个长句虽然可以表述为：“史密斯参加了乒乓球比赛，但对手打败了他”，但是在句子整
+体结构上我们不难发现，句子的连贯性受到了影响，所以一般不采用。
+（五）在英语中，被动语态虽然使用的很频繁，但并不是所有的主动句都可以转换成被动句，
+被动语态的使用也要受到语法方面的限制。
+1.宾语方面的限制。当宾语是反身代词时，不能用被动句式。如：
+He taught himself English
+Himself was taught English by him.（错误表达）
+2.动词方面的限制。除了不及物动词和系动词没有被动式外，一些表示状态的及物动词也不
+能用被动式。如：
+They have a lovely son．
+*A son has been had by them.（错误表达）
+3.意义方面的限制。有时主动句转换成被动句时，意义会随之发生相应的改变。如：
+（1）He can not see the policeman afar.他没有能力看到远处的警察。
+*The policeman afar can not be seen by him.他没看到远处的警察。（错误表达）
+与英语相比较，汉语的被动句较少。有些句子虽然从意义上讲有被动的含义，但却不用“被”
+字句或其他被动形式，而要用主动形式表示，这一点与英语有着共同之处。如：
+（1）昨晚这里放映了一部电影。（即意为：一部电影昨晚在这里被人们放映）
+（2）会议正在召开。（即意为：会议正在这里被领导召开）
+同样，在某些情况下，汉语被动语态表达的语意在英语中必须用主动语态表述，否则不仅不
+符合表意习惯，而且在某些环境中，意义会发生偏差。如：
+（1）房子将要出租。
+The house is to let.
+*The house is to be let.（不符合表意习惯）
+（2）把门关上。
+Close the door.（命令他人关门，体现一个动作过程
+*The door is closed（体现门关上的状态，语意发生明显偏差）
+第七章假设意义表达法
+考点1：虚拟语气
+虚拟语气表示说话人所说的话不是事实，或者是不可能发生的情况，而是一种愿望、建议或
+与事实相反的一种假设。其在条件句中的构成如下：
+虚拟情况
+虚拟条件从句
+主句
+与将来事实相反
+If+主语十动词的过去式If 十主语+were
+主
+语
++should
+/
+would
+/
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第20页 ---
+19 / 56
+to 十动词原形
+could/might 十动词原形
+与现在事实相反
+If+主语+should+动词原形
+If+ 主语+ 动词的过去式
+(be 动词用
+were )
+主语+should / would / could
+/might 十动词原形
+与过去事实相反
+If+主语+had 十过去分词
+主语+should / would / could/
+might+have+过去分词
+考点2：表示“假设意义”的语法手段
+知识点1:虚拟语气假设现在情况
+从句谓语为过去式，be 动词用were;主句谓语为“should / would+动词原形”。在主句中
+should 常用于第一人称，would 可用于各个人称。
+[例]He wouldn't feel so cold if he stayed indoors.
+他要是在室内就不会觉得这么冷了。
+知识点2:虚拟语气假设过去情况
+从句谓语动词用“had+过去分词”;主句谓语为“should /would/might have 十过去分词
+[例]If my lawyer had been here last Sunday, he could have told me what to do.
+如果上周日我的律师在这里的话，他就能告诉我要做什么了。
+知识点3:虚拟语气假设将来情况
+从句谓语动词用过去式(be 动词用were) 或者“should/were to+动词原形”的形式;主句谓语
+动词用“should/ would/could /might+动词原形”的形式。在主中should 常用于第一人称，
+would 可用于各个人称。
+[例]If I did / should do / were to do the work, I would do it in a different way 要是我做这项工作，
+我会以不同的方式去做。
+考点3：BE-型虚拟式和WERE-型虚拟
+一、were 式虚拟
+英语中，被叫做“were 式虚拟”的这种虚拟语气，通过扭曲时态形式来表示与实际情况相
+反的虚构假设，具体的做法是将时态的形式“倒推一个时态”。这样的表述也许不太准确，
+但是非常实用，也极容易理解。
+具体的做法就是将现在时态变成过去时态，将过去时态变成“过去的过去”。
+在这种虚拟语气的用法中，动词be 至少要倒退一个时态成为“过去时态”的were（在虚拟
+语气中一般不用was，is、am、are 倒推一个时态以后都写成were）。因此，这种表示与实
+际情况相反的虚构假设的虚拟语气就就以动词be 的变化为例，叫做were 式虚拟。
+were 式虚拟主要用在wish 从句，as if 从句和非真实条件句。
+下面我们结合具体的例子学习were 式虚拟的用法：
+wish 从句的虚拟语气用法：
+英语中表达一般性的愿望（即希望）用hope 这个词，wish 这个词往往表达难以实现或不能
+实现的愿望，所以要用虚拟语气，我们可以看看具体的用法:
+I wish I had the money to buy the book.
+这句话表达的意思是，“我现在没有钱买这本书，但是希望能买这本书，而因为没有钱，虽
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第21页 ---
+20 / 56
+然有这种愿望，却也买不了这本书。”
+wish 从句中的动词have 用来表达“现在有与没有”的情况，通过一个把have“倒推一个时
+态”变成had，had 实际上表达了一个“现在没有”的概念，正好与have 这个词的本义相反。
+必须牢记：wish 不是hope，wish 要表达的是不能实现或难以实现的愿望，必须使用were
+式虚拟，必须通过扭曲wish 从句的时态来体现这种虚拟语气。
+二、be 式虚拟
+英语中，被叫做“be 式虚拟”的这种虚拟语气，一般用在名词性从句中，这些名词性从句
+一般都与表示祈使意义的动词有关。最典型的是，suggest, order, propose 等表示祈使意义的
+动词的宾语从句，其谓语形式应该使用be 式虚拟。
+be 式虚拟通过一种固定不变的谓语动词形式来表示说话者的一种“祈使愿望”，具体的做
+法是将谓语动词的形式固定为(should) do,不论该语句应该使用什么时态，其谓语动词的形式
+都是(should) do 形式。以典型的动词be 举例，不论它应该是什么时态形式，只要它用来表
+达“祈使愿望”的虚拟，它的形式就是（should) be，或者说是be，因此这种虚拟语气就被
+叫做be 式虚拟。
+例如：
+We strongly suggested that the meeting be put off till the next day.
+The officer ordered that the spy be killed right away.
+三、几个特殊的句式
+1、it is important that... ...
+请先看下列句子：
+It is important that you come and deliver the speech tomorrow.
+It is necessary that we let none of us fall behind.
+It is essential that Mr. Li come to help us with the new task.
+It is only natural that you pay your respect to your colleagues.
+请观察，以上各句所表达的其实都是一种建议，是一种比较强烈的suggestion，因此这类句
+式可以归纳在上面的be 式虚拟中。
+第八章情态意义表达法
+考点1：情态助动词的推测性用法
+情态助动词的意义大致可分为两类: 推测性意义和非推测性意义。推测意义与说话人对概率
+的假设或评估有关，它表明说话人对自己陈述的真实性是否有信心。非预测意义除预测义务、
+决定和意图等含义外，还包括多种含义。
+(1)实际上，推测性意义相当单一，主要涉及说话者的推测或可靠性评估。大多数情况下推
+测性意义表明说话者对其陈述真实性的信心程度。
+在下述的每个回答中，说话者对自己的“推测”都具有一定程度的信心。从might 到must，
+按这种顺序排列的情态助动词都代表了说话者的信心程度--从很低到很高。
+不确定（可能性最小）
+might
+That might be Tom.
+may
+could
+can
+should
+ought to
+would
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第22页 ---
+21 / 56
+will
+确定（可能性最大）
+Must
+That must be Tom.
+知识点1: can 的用法
+（1）推测性意义(可能性) :
+例
+Even in summer it can be very cold here
+情态动词
++ have done 结构
+★
+could have done: 本可以做….但实际没有做
+would have done: 本可以….但实际没有做
+should/ought to have done:本应该做…..而实际没做(表示责备，埋怨，遗憾)
+needn’ t have done: 没有必要做…...实际已经做了
+e.g. You should have finished the report last week.
+你本应该上周就完成这个报告的。(实际情况是上周没有完成。)
+You should have told me yesterday.
+你本应该昨天就应该告诉我的。(实际情况是昨天没有告诉我。)
+表示对过去情况的推测，判断: ★★★
+主语+ 情态动词+ have done
+Must have done: 肯定已经做了某事
+may have done: 也许已经做了某事
+should have done:应该已经做了某事(从客观条件来判断)
+e.g.
+She may have
+known the bad news. 她可能已经知道这个坏消息了，
+You must have stayed up late last night. 你昨晚肯定熬夜了
+第九章不定式
+考点1：不定式的结构形式及句法功能
+不定式：to +原形，词性: n./adj./adv; 用法: 除了谓语外，其他都可作，即主、宾、表、定、
+状、补语。
+内涵：时间--将来;状态--未发生；意义--表目的。
+[例]To do morning exercises is useful for our health.做早操有益于我们的健康。
+I hope to visit this place again 我希望能再次拜访这里。
+不定式的句法功能
+（1）作主语
+[例]To go there for fishing is a good choice 去那里钓鱼是个不错的选择。
+（2）作表语
+[例]The purpose of education is to develop a fine personality in children.
+教育的目的是发展儿童优良的品格。
+（3）作宾语
+[例]I can't afford to take flying lessons.我付不起飞行课程的费用。
+They managed to sign up all the best performers.
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第23页 ---
+22 / 56
+他们设法跟所有最佳演员签订合同。
+（4）作定语:不定式作定语时，通常放在被修饰的名词或代词之后。
+[例]I am looking for a room to live in.我正在找一间屋子住。
+Are you going to the conference to be held next week?
+你要参加下周举行的会议吗?
+（5）作状语:不定式作状语，主要表示且的、结果、原因等。
+[例]He got up early to catch the first bus.
+为了赶上第一班公共汽车，他起得很早。(目的)
+She grew up to be an excellent diplomat.
+她长大后成为一名出色的外交官。(结果)
+（6）作宾语补足语：有些及物动词的宾语之后常用不定式作宾语补足语，构成复合宾语，
+以表达完整的意义。常见结构为: 动词+宾语+to do，这些及物动词有：advise, ask，allow，
+expect, help，get, want.force，forbid 等。
+[例]He was too proud to ask his family to help and support him.
+他自尊心太强，不愿请求家人帮助和支持他。
+第十章-ing 分词
+考点1：-ing 分词的句法功能
+（1）作主语
+[例]Drinking much alcohol is harmful to one's health.喝太多酒有害身体健康。
+Refusing the invitations is not always easy.拒绝邀请并不总是容易的。
+【注意】
+在“It is no use (no good, no help, fun, a waste of time, a good pleasure) +doing”结构中，It 作
+形式主语，真正的主语是后面的动名词(短语)
+[例]
+It is no use worrying about the coming exam.为即将到来的考试担心没有用。
+（2）作表语
+[例] Her job is washing, cleaning and taking care of the children.
+她的工作是洗衣服、打扫卫生和照顾孩子。
+（3）作定语
+[例] A washing machine can help you save a lot of time and energy.
+洗衣机可以帮助你节省很多时间和精力。
+（4）作动词宾语
+以下及物动词和动词短语常用动名词作宾语, 而不能用动词不定式作宾语, 如
+advise,allow,appreciate,avoid,consider, delay, deny, enjoy, escape, finish, forgive, avoid, permit,
+keep, miss, give up 等.
+[例]We don't allow smoking in the hall.我们不准有人在大厅里抽烟。
+The manager doesn't permit giving advice in private.
+这位经理不允许私下提建议。
+第十一章分词
+考点1：分词的句法功能
+现在分词：-ing，词性；adj./adv；用法:当形容词或者副词用，作定、状、补、表语。内涵:
+时间--现在；状态-进行，语态--主动。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第24页 ---
+23 / 56
+[例]Speaking in the public, he will surely be very cheerful.
+他在公共场所讲话时总是十分兴奋。
+过去分词：-ed (规则) /done，词性；adi./adv；用法:当形容词或者副词用，作定、状、补、
+表语。内涵: 时间--过去；状态--完成，语态--被动。
+[例]My heart is broken.我心碎了。
+现在分词的法功能
+（1）作定语
+[例]The crying girl was said to have failed the last exam.
+据说那个正在哭泣的女孩儿没有通过上一次考试
+（2）作状语
+现在分词(短语)作状语，用来进一步说明谓语动词或整个句子的动作或状态，可以表示时间、
+原因、结果、目的、条件、方式、伴随等。分词作状语时位置比较灵活，可置于句首、句中
+或句尾，可用逗号隔开，也可不用逗号隔开。
+[例]Hearing the news, they immediately set off for Shanghai.
+听到这个消息，他们立即出发去上海了。
+（3）作表语
+[例]The story of his life sounds very interesting.他的生平听起来很有趣。
+[注意]现在分词的完成式的结构为“having+过去分词，此时主要作状语，相当于一个状语从
+句也可作定语，表示这个动作在谓语动词所表示的动作之前发生，否定形式是在现在分词
+having 前加not。
+[例]Having finished his speech, he answered our questions.
+演讲完之后，他回答了我们的问题。
+过去分词的句法功能
+过去分词(短语)在句中作状语，可以用来进一步说明谓语动词的动作，也可以说明整个句子，
+表示动作的被动和完成:可以表示时间、原因、方式、条件、让步、伴随等，可置于句首、
+句中或句尾，可用逗号分开，也可不用逗号。
+[例]Asked what had happened, he told us about it.(时间)
+当被问及发生了什么事时，他把这件事告诉了我们。
+第十二章
+形容词、副词
+考点1：形容词和形容词词组
+概念:形容词是用来作定语修饰或描述名词(或代词)，表示人或事物的性质、状态和特征的词。
+通常翻译为“....的”
+[例]strange woman 奇怪的女人
+clever dog 可爱的狗
+知识点1: 多个形容词修饰名词的放置顺序
+多个形容词修饰一个名词时的排序为:
+限定词(包括冠词、代词、名词所有格) 十数词(序数词、基数词) 十用于描绘观点的形容词
+十表示大小、长短、高矮等形状的形容词十表示年龄新旧的形容词十表示颜色的形容词十表
+示国家、地区出处的形容词十表示材料的形容词十表示用途或目的的形容词十中心名词。
+[例]a handsome young man
+a huge red flag
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第25页 ---
+24 / 56
+[记忆口诀1] 限定描绘大长高，形状年龄和新老。颜色国籍出材料，作用类别往后靠。“限
+定”，限定词(包括冠词、代词、名词所有格) 十数词(序数词、基数词)；“描绘”描绘观
+点的形容词;
+“大长高，形状”:表大小、长短、高矮等形状的形容词；
+“年龄和新老”:表年龄、新旧的形容词；
+“颜色”:表颜色的形容词；
+“国籍出”:表国家、地区出处的形容词;“材料”:表材料的形容词；
+“作用类别”:表用途或目的的形容词。
+知识点2:形容词的句法功能
+形容词在句中可以作定语、表语和补足语等。
+[例]Luna is a clever cat.露娜是一只聪明的猫。(前置定语)
+[注意]形容词多前置，后置主要出现在以下几种情况:
+①形容词修饰由some,any-，every-,no-等和-body，-one,-thing 等组成的复合不定代词时，应
+后置；
+[例]The police found nothing strange in the room. 警察在房子里没发现奇怪的东西。②由前缀
+-a 构成的形容词，为表语形容词，如asleep，alike，alive,alone 等，修饰名词应后置；
+[例]He will be remembered for that one book alone.
+仅凭那一本书就可以使他留名于世。
+③表示长、宽、高、深及年龄的形容词，放在修饰的名词之后。
+[例]Mr Henry will be 90 years old next year.亨利先生明年将90 岁高龄了。
+知识点3：由分词转化而来的形容词
+由分词转化而来的形容词有两类，即-ing 形容词和-ed 形容词。其中，一般情况下，前者修
+饰物，后者修饰人。
+考点2：副词和副词词组
+概念:副词是指在句子中表示行为或状态特征的词，用以修饰动词、形容词、其他副词或全
+句，表示时间、地点、程度、方式等概念。
+[例]He works hard.他努力工作。
+构成：
+一般情况下，形容词变副词，直接在词尾+ly
+Safe
+safely
+形容词词尾以辅音+y 结尾，把y 改为i+ly
+Easy
+easily
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第26页 ---
+25 / 56
+形容词以le 或ue 结尾，去e+ly
+True
+truly
+形副同形(既可做形容词也可做副词)
+fast/slow/early/late
+位置：
+副词位置
+例句
+修饰动词时，置后
+He is moving fast.
+频率副词放实义动词前，情态动词或第一个
+助动词后
+Students must always obey the rules.
+修饰形容词或副词，放前
+The book is very interesting.
+疑问副词放句首
+Where is my book?
+表时间、地点时，小单位在前，大单位在后
+The train will leave at eight o'clock on January
+20th
+排序:程度+地点+时间
+The old man runs very slowly (程度) along the
+lake(地点) at six o’clock every morning.(时间)
+知识点1:副词分类
+副词可分时间副词、频率副词、地点副词、方式副词、程度副词、疑问副词、连接副词、关
+系副词等
+（1）地点副词: nowhere 哪里都不；somewhere 在某处；everywhere 到处；anywhere 用
+于否定和疑问句，代替everywhere 表示任何地方；随便哪里
+（2）关系副词: where 表地点，why 表原因，when 表时间
+（3）程度副词: much 非常，很；very 非常，很，完全；so 如此；too 太，很；heavily 大
+量的,在很大程度上；seriously 严重的，严肃的
+（4）时间和频度副词: now 现在；often 经常；early 提早；sometimes 有时；before 在......
+之前；hardy 几乎不；finally 最后；frequently 频繁地
+（5）疑问副词: how 怎样；when 何时；where 何地；why 为何
+（6）连接副词: however 然而；moreover 此外；consequently 因此；also 也；besides 除了；
+otherwise 否则；therefore 因此；thus 因此
+（7）方式副词:由形容词十后-ly 构成的大部分副词都属于方式副词，如: badly 严重地；
+slowly 缓慢地；proudly 骄傲地；carelessly 粗心地；properly 适当地，完全地
+[注意]副词的排列顺序一般为: 方式、地点、时间(有时时间副词也可放于句首)
+[例]She sang very beautifully (方式) in the hall (地点) last night (时间)她昨天晚上在大厅里唱
+得非常好。
+知识点2.:特殊副词用法
+（1）enough 作副词修饰形容词、副词或动词时，一般位于它们的后面: 当它作形容词修饰
+名词时位于名词之前。
+[例]What he has written is good enough 他写的东西非常好。(修饰形容词)
+（2）副词very 可以修饰形容词，但不能修饰动词
+[例]I like English very much.我非常喜欢英语。(不能说I very like English.)
+知识点3:副词的句法功能副词在句中可以作状语、表语和补足语等成分
+[例]I'll dress how I like in my own house!我在自己家里爱怎么穿就怎么穿! (状语)
+考点3：比较等级和比较结构
+一、比较的各种形式
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第27页 ---
+26 / 56
+形容词和副词的比较形式包括: 原级、比较级和最高级。
+知识点1 形容词和副词比较级变化规则比较级和最高级变化规则如下:
+形容词和副词有原级、比较级和最高级三种形式，其中，比较级和最高级变化规则如下：
+（1）规则变化
+单
+音
+节
+词
+和
+少
+数
+双
+音
+节
+词
+一般在词尾加-er，-est
+tall→taller→tallest；bright→brighter→
+brightest；
+high→higher→highest...
+以e 结尾，加-r，-st
+late→later→latest；nice→nicer→nicest；
+wide→wider→widest；large→larger→
+largest...
+重读闭音节词尾只有一个辅音字母，应先
+双写辅音字母，再加-er 和-est
+thin→thinner→thinnest；fat→fatter→fattest；
+fit→fitter→fittest
+辅音字母＋y 结尾的双音节词，改y 为i
+再加-er，-est
+注意：少数以辅音字母＋y 结尾，可直接
+加-er，-est
+heavy→heavier→heaviest；happy→happier→
+happiest；
+early→earlier→earliest；busy→busier→
+busiest...
+shy→shyer→shyest...
+以-er，-ow 结尾的双音节词，在词尾加-er
+和-est
+clever→cleverer→cleverest；narrow→
+narrower→narrowest...
+以-able，-ple 结尾的双音节词，在词尾加-r
+和-st
+able→abler→ablest；simple→simpler→
+simplest...
+以ly 结尾的副词，多音节词和派生的双音节词
+前加more，most 表“更……，最……”或加
+less，least，表“更不……，最不……”
+beautiful→more beautiful→most beautiful；
+delicious→less delicious→least delicious；
+quietly→more quietly→most quietly；
+（2）不规则变化
+形容词原级
+形容词比较级
+形容词最高级
+good / well（身体好的）
+better
+best
+bad / ill（身体不舒服的）
+worse
+worst
+many（可数）/ much（不
+可数）
+more
+most
+little
+less
+least
+far
+farther 表距离和时间/further 表程度
+farthest/furthest
+old
+older / elder
+oldest / eldest
+副词原级
+副词比较级
+副词最高级
+well 好地
+better
+best
+badly 糟糕地
+worse
+worst
+much 非常
+more
+most
+little 少地
+less
+least
+far 远地
+farther 表距离和时间/further 表程度
+farthest/furthest
+知识点2 常见比较词汇的用法说明
+（1）elder 与older 用法
+elder/eldest 表示“前辈的”，“年纪较长的”，仅用于同一家庭成员的比较,只可作定语，用来
+指人，不可与than 连用。older /oldest 可作表语也可作定语，既可指人也可指物，可与than
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第28页 ---
+27 / 56
+连用
+[例]She is my elder sister.
+They live in a older house than any other I have ever seen.
+（2）farther 与further 用法
+无论是farther/farthest 还是further/furthest 都能用来指距离。然而，further/furthest 而不是
+farther/farthest 通常用来指抽象意义:
+1) 表示事物的程度通常用further/furthest;
+2) further 亦可表示更加或进一步，farther 则无此意
+[例] I'm tired. I can't walk any farther/further.
+If there are no further questions, I declare the meeting closed.
+（3）Less 和fewer 用法
+Less 和fewer 作为限定词，less 是little 的比较级，与不可数名词连用; fewer 是few 的
+比较级，与复数名词连用。
+[例] They buy less beer and fewer cigarettes now.
+（4）superior
+inferior
+1) superior adj.(级别、地位) 较高的；(在质量等方面) 较好的；(数量) 较多的；上等的
+2) inferior adj.(质量等) 低劣的；下级的，下等的；(位置在) 下面的；
+3)superior 与inferior 一样，没有比较级，表示比他人更好或更差时，用“be superior /inferior
+to'表示比较。
+[例] His work is superior/inferior to mine
+senior 与junior
+（1）senior 年龄上:较年长的;工作上:在一个机构工作时间较长;(级别、地位等) 较高的。
+（2）junior 年龄上:较年轻的:工作上:在一个机构工作时间较短:(级别、地位等) 较低的。
+[例]John is senior / junior to Bob
+a senior citizen (老人的婉转说法)senior/junior officer (职位的高/低)
+知识点3 比较结构
+（1）原级比较:
+①在as...as..结构中，用形容词、副词或表示数量的限定词(many，much，few 和little) 其
+否定式有两种: not as..as...或者not so...as...两种结构意义相同。
+[例] My brother is as tall as I am.
+②as..as.结构所表达的同等意思可由前置修饰语加强、削弱或取消。这些前置修饰语有: nearly,
+almost,exactly,(three ) times, not nearly，not half, by no means，quite 等等。
+[例]He is exactly as tall as his brother.
+This house is twice as expensive as the one we saw yesterday.
+③A is to B what C is to D 句型:
+其中的连词what 可以用来表示比较两种事物相同或相似的关系，表示“A 之于B 就好像
+C 之于D 样”。但如果是数与数的比较，则一般用as。
+[例]To the Portuguese, the dry salted cod is what pasta is to the Italians.
+咸鳕鱼干对葡萄牙人来说，就像面食对意大利人一样不可或缺。
+（2）比较级:
+①常用“比较级+than”的结构来比较两个人或事物所具有的某种性质的程度:
+[例]Sue is cleverer than you ( are ).
+This is a more delightful house than our old one.
+②形容词、副词和限定词的比较级可带各种前置修饰语: far,even,many,much,still,bit,a lot, a
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第29页 ---
+28 / 56
+(little)a great deal，rather, slightly，(three) times，not any 等。为了强调，有些前置修饰语可
+以重复.
+[例]She is far more honest than her boss.He came even earlier than I asked.
+They have done twice as much work as us.
+③“the 十形容词/副词比较级··...，the 十形容词/副词比较级....”“the 十形容词/副词比较级....，
+the+形容词/副词比较级.....”意为“越....越.....”;表示一种性质的量与另一种性质的量有联系
+[例]The more fiends you have. the less time you will have to see them.
+④比较级的特殊结构。
+more A than B 或rather A than B
+与其说是B，不如说是A
+less A than B 或not so much A as B 与其说是A，不如说是B
+none other than 不是别的......正是......
+no other..than 不是别的......正是.....
+more than 不只是，极其
+no more than 仅仅，只不过
+no more...than... 与......一样不
+other than 不同于......，非.....
+[例]His visit to New York was more than sightseeing.他去纽约不只是为了观光。
+You are not capable of speaking English any more than I am.
+=You are no more capable of speaking English than I am.
+你和我一样都说不好英语。
+Our teacher asked us to write a no more than three-thousand-word essay.
+老师要求我们写一篇不超过3000 字的文章.
+（3）最高级:
+①当涉及到三个或更多的人或事物时，我们用最高级来表示没有人或事物更富有某种性质。
+通常我们需要用of+数字、in 十地点或限制性关系分句，来限定比较的范围;
+[例]This is the most expensive of the three cars.
+Shanghai is the biggest city in China.This is the most exciting birthday party I've ever had.
+②当我们只是把最高级当强化语使用时，就不必限定比较范围;
+[例]I'd like to express my deepest gratitude for all that you've done for me.
+③最常见的最高级前置修饰语是very(例如: her very best dress，the very youngest) 。其他的
+包括:far, by far，far and away 等
+[例]This is far/by far/far and away the best school in the region.
+（4）最高级表达法
+①“A is 倍数+the size/length/width... of B”(A 是B 的几倍大小/长/宽......)。
+②“A is 倍数as+形容词或副词原级+as B”(A 是B 的几倍)。
+③“A is 倍数more than B”(A 比B 多几倍)。
+[例]The Yangtze River is almost three times the length of (= three times as long as =twice longer
+than ) the Pearl River.
+长江差不多是珠江的三倍长。/长江差不多比珠江长两倍
+第十三章介词
+考点1：介词概况
+在语法上，介词是个与众不同的词类，它用于表示空间关系或者标记多种句法功能和语义角
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第30页 ---
+29 / 56
+色。在形式上，介词可以是简单介词(单个词) ，也可以是复杂介词(多个词)。介词的主要
+功能是连接名词、动词和形容词与句子的其他部分。
+知识点1 简单介词(Simple prepositions)
+单个单词充当介词，如about, above, after, against, among, around,as，at, before, behind，
+beside,besides, between, by, despite, during, except, for, from, in, into, like, unlike, near, on, over,
+past,since, than, through, till, to, under, until, up, with, within 等;
+[例]The shortest distance between two points is a straight line.
+两点之间的最短距离就是直线。
+知识点2 复杂介词(Complex prepositions)多个词一起使用,如as from, as for, over against,
+except for, from among, from behind, from under，inside of, outside of, until after, despite of, in
+spite of 等;
+[例]The two girls suddenly emerged from among the bushes.
+那两个女孩儿突然从树从中冒了出来。
+Two Word Prepositions
+两词介词
+..for
+as for, but for，except for 等
+..from
+apart from，away from 等
+..of
+ahead of, because of, instead
+of,
+out
+of,
+outside
+of,
+regardless of 等
+to
+according to, as to, due to,
+near to, next to, on to,owing
+to, prior to, up to 等
+with
+along with，together with 等
+Three-And Four Word Prepositions
+三词/四词介词
+in...of
+in case of, in charge of, in
+consequence of, in the face of,
+in favour of, in front of, in
+(the) light of, in lie of, in need
+of, in place of, in quest of, in
+respect of, in search of, in spite
+of, in terms of, in view of 等
+in...with
+in according with, in common
+with, in comparison with, in
+compliance
+with,
+in
+conformity with, in connection
+with, in contact with, in line
+with 等
+by...of
+by means of, by virtue of, by
+way of, by a stretch of,by the
+end of,by reason of 等
+on...of
+on account of, on behalf of, on
+the part of, on the strength of,
+on top of 等
+其他类型
+as far as, as a result of, at
+variance with, at the expense
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第31页 ---
+30 / 56
+of, at the hands of, for the sake
+of, in exchange for, in return
+for, in addition to, in relation
+to, with / in regard to, with / in
+reference to, with respect to,
+with the exception of 等
+考点2：介词的用法比较
+与地点相关的介词
+1.at，on 和in
+at，on，in 作地点个词表位置含义时，at 表示一个点，on 表示一条线或事物表面，in 则表
+示一人区域或某物的容积。
+（1）at 与被看作点的地点名词/名字连用。当我们把一个城镇看作地图上的一个点，并与其
+他点对照时，通常用at;
+[例]Our train arrived at New York
+（2）当我们把城镇视为由房屋、街道等构成的，并把其区域内与其区域外加以对照时，通
+常用in:
+[例]She has lived in Bath for twenty years.
+The crime rate is very low in Flagstaff
+（3）我们通常用on 来表示与物体的线或面有关的位置;
+[例]She is walking dangerously on the rope.(线)
+London is situated on the River Thames. (线)
+（4）这3 个介词可与同一个名词连用，但表示的位置含义不同
+[例]I'd prefer to put my desk at the window.
+A face appeared in the window.
+[析]此处，at 与by，beside，near 等相似，而且可表示将窗户用于某一目的的意图。in 表
+示一个被框起来的区域，而on 指的是玻璃面。
+（5 ）at 常与下列名词连用: at (the) bank, church, cinema, hotel, office school, theatre ，
+university 等at 表明与一个机构的某种职能有关系，而不是像in 与这些名词连用时通常所
+表示的仅仅是地理位置。
+at/in school.(作为学生)
+peter is
+in the school.(作为视察者、来访者等)
+at Cambridge.(作为学生)
+peter is
+in Cambridge.(作为居民、游人等)
+（6）在引出交通手段时in 和on 可以互换: in/on a bus，train，ship 等但是，一般说来，
+封闭的运载具多用in。
+[例]He came in a car.
+Did you come on foot or on a horse?
+2.over，above，under 和below
+（1）over 和above 是近义词，under 和below 也是近义词。可是，above 和below 仅指
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第32页 ---
+31 / 56
+位置或层面的高/矮: 但over 和under 还表示一种垂直关系，因此，它们的同义词分别是
+directly above 和directly below:
+[例]The lamp hung over/above the table.
+（2）over/under 可以表示某物覆盖在他物之上，而above/below 却不能。
+[例]He kept his coat over his shoulder
+He hid his gun under the pillow.
+[注意]underneath 和beneath 比under 用法正式些，但用得不那么普遍
+3.between 和among
+（1）between 只表示两者之间，among 则表示三者以上之间
+[例]She sat between the two children/among the three children.
+（2）当说到明确的地理位置时，总是用between;
+[例]Our house stands between a school and a supermarket.
+Ecuador lies between Colombia, Peru, and the Pacific Ocean.
+（3）among 涉及的是不确切的位置，有“被包围”或“混在其中”的意思
+[例]It is pleasant to walk among the trees in the morning.
+He lost his son when the film was over and found him among the people outside the cinema.
+与时间有关的介词
+Meaning(意义)
+Prepositions 介词
+Durative 持续性介词
+between...and,
+during,
+for,
+from...to,
+over,
+since, through, till, until 等
+Non-durative 非持续性介词
+At
+延续，非延续性的
+After，on，before
+（1）at, on 和in
+1) 在表示时间位置时，at 大概是唯一的用于不延续意思，只表示时间点的介词:
+six o'clock
+At
+midnight
+his uncle's death
+2）on 用来指日期或某天中的时间段
+Sunday
+Tuesdays and Fridays
+On
+May 23,1988
+Saturday afternoons
+Christmas Day
+3）in 用来指长于或短于一天的时间段。
+the morning/the afternoon/the evening
+the day/the night
+the days/weeks/months/years that followed
+In
+(the) spring/summer/autumn ( fall) /winter
+1996
+the 21st century
+the Stone Age
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第33页 ---
+32 / 56
+一、表示“除……之外”。
+介词
+含义
+例句
+but
+除……之外，常与表示否定意义的词连
+用
+We’ve had nothing but trouble with this car.
+我们这辆车净出毛病。
+excep
+t
+除……之外，除去except 后的人或事物
+We all went to the Great Wall except Li
+Ming.
+除了李明，我们都去了长城。
+besid
+es
+除……之外，还有……，加上除外的人
+或事物
+He had other people to take care of besides
+me.
+除了我，他还有其他人需要照顾。
+二、表示方式及其他常见用法
+in 的
+常见用
+法
+用在表示阳光、灯、影的
+词汇前面，表示“在”。
+Don’t read in dim light.切勿在暗淡的灯光下看书。
+They are sitting in the shade of a tree.他们坐在树阴下
+乘凉。
+用在衣帽前面，表示“穿
+着”；“in+颜色”表示“穿
+着……颜色的衣服”。
+The poor dressed in rags in old society.旧社会穷人们衣衫
+褴褛。
+The woman in white（black, red, yellow）is my aunt.
+穿着白（黑、红、黄）色衣服的女人是我阿姨。
+用在表示语言、材料、单
+位的词前，表示手段、方
+式，意为“用”。
+I really can’t express my idea in English freely.
+我确实不能用英语流利地表达我的思想。
+I wrote a novel in Russian.我用俄语写了一本小说。
+with 与
+by 可表
+示
+手段、方
+式
+with 后常接有形的、具体的
+事物。
+The workers are paving a road with stone.工人们正用石
+子铺路。
+rub with a towel 用毛巾擦
+measure with a stop watch 用秒表计量
+cool with air 用空气冷却
+wash with soap 用肥皂清洗
+by 后通常接无形的、抽象
+的事物，表示“凭借”。
+These baskets are made by hand.这些篮子是手工做
+的。
+Translation is paid by the word.译稿是以字数计酬
+的。
+They sell the cloth by the yard.他们按码售布。
+by 后也可接交通工具或电
+话、信件等词，表示“凭
+借”。
+She told me the good news by phone.
+她打电话把这个好消息告诉我。
+on 的
+常见用
+法
+用在食物、金钱等词前面，
+表示“凭借，依靠”。
+The people in the south live on rice while those in the
+north live on noodles.南方人的主食是大米而北方人
+的主食为面食。
+用在话题、理论等词前面，
+表示“关于”。
+This afternoon we are going to listen to a report on the
+international situation.今天下午我们要听关于国际形
+势的报告。
+on 还可以用在以下词的前
+面：着火、罢工、出售、
+公事、假期、故意、支付。
+The house next to mine was on fire.我邻居的房子着
+火了。
+Grapes and big water melons from Xingjiang are on
+sale.
+新疆葡萄和西瓜上市了。
+I’ve come here on business.我是有公事来的。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第34页 ---
+33 / 56
+第十四章句子类型
+考点1：陈述句和附加疑问句
+一、五种基本句型
+句型
+例句
+S+V
+主谓结构（V 是不及物动词）
+*He changed.
+*She left.
+S+V+O
+主谓宾结构
+(V 是及物动词）
+*He bought a house.
+*The girls don’t like playing basketball.
+*I believe that he still loves her.
+S+V+P
+主系表结构
+*I am a student.
+*He is not at home.
+*Our duty is to make it better.
+S+V+Oi+Od
+主谓双宾结构
+*He gave me（间接宾语）two pens（直接宾语）.
+*I offered a job（直接宾语）to her（间接宾语）.
+S+V+O+C
+主谓宾宾补结构
+*He keeps his room clean.
+*My sister called her dog Wangcai.
+*I saw him reading there.
+陈述
+句
+肯定陈述句
+*He is a teacher.
+*They like shopping.
+陈述
+句
+否定陈述句
+*He is not a teacher.
+*They do not like shopping.
+二、反意疑问句
+反意疑问句（又称“附加疑问句”）是在陈述句后面附加一个简短的疑问句，可以表示
+真实的疑问，也可表示说话者的某种倾向、强调或反问。反意疑问句的第一部分是一个完整
+的陈述句，第二部分是一个简短的疑问句。
+（1）陈述句部分有little，barely，hardly，rarely，scarcely，seldom，few，no，never，nothing
+等词时，反意疑问句部分要用肯定形式。
+【例】Few people live to the age of 100, do they?很少有人能活到100 岁，是吗？
+（2）陈述句部分的主语是代词时
+当陈述句部分的主语是everyone，someone，anyone，no one，everybody，somebody，
+anybody，nobody 等不定代词时，反意疑问句部分的主语通常用they；当陈述句部分的主语
+是this，that，anything，everything，nothing，something 时，反意疑问句部分的主语常用it。
+【例】Everyone is having a very good time, aren’t they?每个人都玩得很高兴，是吗？
+（3）陈述句部分的谓语中含有ought to，used to，would rather，had better，have / has / had to
+时：
+当陈述句部分有ought to 时，反意疑问句部分用shouldn’t 或oughtn’t；陈述句部分的谓
+语是used to 时，反意疑问句部分用didn’t 或usedn’t，陈述句部分有would rather 时，反意疑
+问句部分用wouldn’t；陈述句部分有had better 时，反意疑问句部分用hadn’t；陈述句部分
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第35页 ---
+34 / 56
+有“have / has / had to+动词原形”时，反意疑问句部分常用don’t，doesn’t，didn’t。
+【例】We ought to go now, oughtn’t / shouldn’t we?我们现在该走了，是吗？
+（4）陈述句部分的谓语动词是wish 时
+当陈述句部分的谓语动词是wish 时，反意疑问句部分的谓语要用may，而且两部分都
+用肯定形式。
+【例】I wish to go home now, may I?我想现在回家，可以吗？
+（5）陈述句部分的谓语中含有情态动词must 时
+当陈述句部分有情态动词must 表示“必须，应当”等命令或义务时，反意疑问句部分
+用mustn’t；当must 表示“有必要”时，反意疑问句部分用needn’t（不必）；当must 表示
+“想必，一定”等推测意义时，反意疑问句部分则根据陈述句部分的时态采用相应的动词或
+助动词形式。
+【例】You mustn’t walk on the grass, must you?你不准践踏草坪，可以吗？
+（6）陈述句部分为there be 结构时
+当陈述句部分是以表示“存在”的there 引出时，其后的反意疑问句部分仍用there。
+【例】There will be an art exhibition tomorrow, won’t there?明天有一个艺术展，是吗？
+（7）陈述句部分为祈使句时
+当陈述句部分是祈使句时，后面一般用will you / won’t you / would you / could you，表
+达一种委婉的语气。但是，当祈使句为否定句时，后面常用will you。有时根据语境的需要，
+反意疑问句部分也可以用can you，can’t you 等。
+【例】Mail the letter today, will you?今天把信寄出去，好吗？
+（8）陈述句部分为主从复合句时
+当陈述句部分是主从复合句时，反义疑问句一般与主句保持一致。
+【例】He never said that she would come, did he?他从未说过她要来，是吗？
+【注意】当陈述句部分为“I’m sure/afraid, I (don’t) think/suppose/believe/expect/imagine
+等+宾语从句”结构时，反义疑问句部分要与从句主谓保持一致。并且由于前面陈述句部分
+常常否定前移，所以应依据主句来决定反义疑问句部分用肯定还是否定形式。
+【例】I’m sure that our experiment will succeed, won’t it?我确信我们的实验会成功，对吧？
+（9）陈述句部分为并列句时
+当陈述句部分是并列句时，反义疑问句部分的主语一般与离其最近句子的主语保持一致。
+【例】We must study English hard, or we aren’t good at English, are we?
+我们必须要努力学习英语，否则就无法擅长于此，是吗？
+（10）陈述句部分为感叹句时
+当陈述句部分是感叹句时，反义疑问句部分一律用否定式，而且要用be 动词的一般现在时。
+【例】What a lovely girl, isn’t she?多可爱的一个女孩儿啊，不是吗？
+考点2：祈使句和感叹句
+1.祈使句(Imperative Sentence) :用无to 不定式作动词，表示请求、命令、允许等，句尾通常
+是句号，但有时也用感叹号表示指令不可违抗。祈使句中的主语是you 时，经常省略，也
+可将是you 或其他说话对象说出来表区分，但谓语动词不可添加s。
+【例】
+Please come in.请进来。(表允许)
+2.感叹句：表示强烈感情或情绪的句子称为感叹句，句尾常用感叹号!常用感叹(Exclamatory
+Sentence)用的结构有:what(a/an)+a.tn.(+主语+谓语+其他成分)；how +adj./adv.(+主语+谓语)。
+也可以用how dare/dared(+主语+谓语)表示说话人的愤怒。除此，口语中还可以用陈述句、
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第36页 ---
+35 / 56
+祈使句、疑问句表达感叹。如:
+【例】What a beautiful voice she has ! =How beautiful a voice she has !
+考点3：there-存在句
+1. there be 结构表“存在”，have 表“所有”
+2. 在there be 结构中，be 之后加上not 或no, 即变成否定句。
+3. 变为疑问句时，须把be 移至there 之前
+4. there be 结构中的动词be 与主语的数必须一致，但主语如是一系列事物，第一个事物为单
+形可数名词，谓语动词则可用单数形式。
+5.存在句的结构模式：
+There + be + 实义主语+ 地点状语（+ 时间状语）
+6.存在句的实义主语
+在存在句中作实义主语的名词词组通常是非确定特指，即通常带有不定冠词、零冠词及其他
+表示非确定意义的限定词，如some , any , no , several , many , much , more , （a ）few , （a）
+little , less , another , a lot of , plenty of , a （large）number of , enough , 以及基数词等，而且
+名词中心词可以带有前置、后置修饰语。例如:
+There is a cherry tree in my garden .
+考点4：It-句型
+I. It 作形式主语的句型
+①It + be + adj（kind , wise , careless, clever…）+ of sb to do sth
+It is wise of him to make such a decision.他做出这样的决定是明智的。
+②It + be + adj（easy , safe , common , normal …）+ for sb to do sth
+该句型中adj 若为important, necessary, natural, possible, strange, vital, essential 等可改为从句，
+从句用should+动词原形。
+It’s very dangerous for children to play with fire.
+It is important for us to learn English well.
+（= It is important that we（should）learn English well.）
+③It + be +V-ed（reported, believed, said, suggested…）+ that 从句。该句型中：
+（1）若V-ed 为reported, believed, said 等常译为“据报道”“据认为”“据说”。
+（2）若V-ed 为suggested, ordered, demanded, insisted 等表示“建议”“命令”的词，从句
+要用虚拟语气（should）+动词原形。
+It is suggested that the book（should）be revised.
+It’s said that Tom has been back from abroad.
+（=Tom is said to have been back from abroad.）
+④It + be + n （a pity, a shame, a fact , good news…）+ that 从句：
+该句型中，从句一般用（should）+ 动词原形，表示出乎意料，常译为“竟然”。
+It is a pity that such a thing（should ）happen in your class. 这种事竟然发生在你们班上，真
+是遗憾！
+⑤It is useless/no use/no good /pleasure+ doing sth
+此句型中的it 是形式主语，其后的动名词短语是真正的主语，译为“做…没有用”。
+It ‘s useless arguing with him further. // It’s no use talking with him, because he won’t listen.
+⑥It takes sb.... to do sth.
+该句型中it 是形式主语，真正的宾语是to do sth, 常译为“做…要花费某人…”。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第37页 ---
+36 / 56
+It took thousands of people many years to build the Great Wall.
+It 作形式宾语的句型
+（1）sb find/ believe/ think/ feel/ consider/ make + it +n/adj +to do 或从句
+该句型中的it 作形式宾语。为了记忆方便我们可称该句型为“6123 结构”。6 指主句中常用
+的动词：think, believe, make, find, consider, feel; 1 指的是形式宾语it; 2 指的是宾补的两种
+形式：形容词或名词；3 指的是真正宾语的三种形式：不定式短语，动名词短语或that 引导
+的宾语从句。
+We think it our duty to clean our classroom every day.
+（2）主语＋hate / dislike / love / like ＋it ＋when－从句
+I hate it when people speak with their mouths full.
+（3）主语＋appreciate ＋it ＋if－从句
+I really appreciate it if you could help me with my math.
+（4）sb. depend on/count on/rely on/see to（负责，确保）/ answer for it that…
+You may rely on it that he won’t be late.
+（5）sb. take it for granted that… 认为……是理所当然的
+It 引导的时间句型
+（1）It + is/has been+ 时间段+ since 引导的时间状语从句：
+该句型中从句一般用过去时态，句意为“自从......以来已多久了”
+It is 5 minutes since the bus left. 公汽开走已有5 分钟了
+（2）It + be（will/was）+ 时间段+ before 引导的时间状语从句：
+该句型中，主句谓语动词be 若为肯定式，意为“过多久才......”；若为否定式时，意为“没过
+多久就......”。
+It will be long/ 3 hours before he comes back.要过三个小时他才会回来
+（3）It + be + 时间点+ when 引导的时间状语从句
+这个句型中，it 代指时间，表示时间点的词前没有介词。
+It will be Monday when he comes back. 他周一的时候回来。
+It was Monday when he came back. 他周一回来的。
+（4）It + is（about/high）time +（that）sb did/should dosth
+意为“该是某人做…的时候了”，about/high 是用于加强语气，that 从句用should 或动词一般
+过去时表虚拟。
+亦可转换成It + is+ time +（for sb ）to do sth.
+It’s（high/about）time（that）we handed in/should hand in our homework.
+（5）It / This / That +is+ the first（second …）time + that sb has done sth
+意为“这是某人第…次做…”，注意time 前有序数词，主句是is 时，从句要用现在完成时；
+如果主句用was,则从句须用过去完成时。
+It is the third time that I have seen the film.
+That was the second time that I have been there.
+第十五章并列结构
+考点1：并列句
+并列句(Compound Sentence) :间通常用并列连词或分号来连接;
+例：The food was good, but he had little appetite.食物很好吃，但他没什么胃口。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第38页 ---
+37 / 56
+1. 2 个或2 个以上简单句组成，由连词连接
+2. 并列连词：and, yet, while, however
+3. 以for 为代表的表示因果关系的并列连词补充说明理由，意为“由于，因为”，不用于句
+首；so 表示结果，意为“因此”。
+第十六章从属结构
+考点1：状语从句
+1.含义：（Adverbial Clause）状语从句指在句子中起副词作用的从属句子。它可以修饰谓语、
+非谓语动词、定语、状语或整个句子。状语从句一般由连词（从属连词）引导，也可以由词
+组引起。从句位于句首或句中时通常用逗号与主句隔开，位于句尾时可以不用逗号隔开。
+简单地说，就是在句中作状语的分句。因其功能与副词非常相近，所以又称为副词性从句。
+2.状语从句的连接词
+状语从句按照在句子中起到的作用，可分为时间、地点、原因、让步、条件、结果、目的、
+比较、方式等几大类。
+从
+句
+分
+类
+连接词
+例句
+时
+间
+when / while / as；before；after；since；
+until；as soon as（一……就……）
+在时间状语从句里，主句用将来时态
+时，从句通常不用将来时态，用现在
+时态表示将来的动作或状态。(主将
+从现）
+I was doing my homework when the phone rang.
+电话响的时候我正在做家庭作业。
+I will tell him everything when he comes back.他
+回来时我会告诉他一切事情。
+地
+点
+where ；wherever ；everywhere ；
+anywhere...
+Go wherever you like.去你想去的地方。
+原
+因
+because；as；for；since；now that（由
+于，既然）
+He didn’t pass the exam because he was addicted
+to computer games.他没有通过考试，因为他沉迷于
+电脑游戏。
+让
+步
+although；though；even though；as
+（倒装）；no matter；while（位于句
+首）
+Although it was very cold outside, she was still
+wearing a skirt.虽然外面很冷，但她还是穿着裙
+子。
+条
+件
+if；unless；in case that；only if；as long
+as
+在条件状语从句里，谓语动词通常用
+现在时态表示将来的动作或状态。
+（主将从现）
+They will go hiking if they are free.
+如果他们有空的话，他们会去远足。
+结
+果
+so that；so / such...that...
+It was so hot that many people went swimming
+in the sea.天气太热了，许多人去海里游泳。
+目
+的
+so that；in order that；lest；in case...
+Please speak slowly so that we can follow your
+thoughts.
+请慢慢说，这样我们才能跟随你的想法。
+比
+than；as...as...
+She is as quiet as her mother.她和她母亲一样安
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第39页 ---
+38 / 56
+较
+静。
+方
+式
+as；as if；how；the way...
+We must do as the Party tells us.我们必须遵从党
+的指导。
+（1）状语从句引导词的选择
+状语从句引导词需要根据主从句之间的逻辑关系进行选择。另外，考生应当熟记引导各类状
+语从句的连词，考试中常以词义辨析的形式出现。
+（2）主将从现，主现从现
+在时间、条件和让步状语从句中，如果主句表达将来含义，从句用一般现在时代替一般将来
+时；如果主句是一般现在时，则从句也用一般现在时。
+【例】I will tell him about it when he comes.他来的时候我会告诉他这件事。（时间）
+If it is fine tomorrow, we will go outing.如果明天天气好，我们就出门。（条件）
+Although I’m only a child, I’ll try my best to help you.虽然我只是个孩子，我也会尽我所能
+帮你。（让步）
+（3）as 引导让步状语从句
+as 引导让步状语从句必须倒装，as 可以和though 互相替换，但although 引导时不能倒装，
+同样，未倒装的让步状语从句也不能用as 引导。
+【例】Try as he might, he couldn’t solve the problem.
+尽管他想方设法，却未解决这个问题。（V 原+as+主语+动词）
+考点2：名词性分句
+1. 概念和分类
+概念：在句子中起名词作用的句子叫名词性从句（Noun Clauses）。名词性从句的功能相当
+于名词词组，它在复合句中能担任主语、宾语、表语、同位语、介词宾语等。
+根据名词性从句在句中不同的语法功能，名词从句又可分别称为主语从句、宾语从句、表语
+从句和同位语从句。
+（1）主语从句
+①主语从句是在复合句中作主语的名词性从句，通常放在主句谓语动词之前。通常由连接词
+that，whether，if 和连接代词what，who，which，whatever，whoever 等以及连接副词how，
+when，where，why 等引导。
+【例】That the price of oil will go up is certain.石油价格要上涨是确定无疑的了。
+②it 作形式主语，构成“it+be+过去分词/ 形容词/ 名词短语+that 从句”结构或“it+特殊动
+词+that 从句”结构。
+【例】It is obvious that you are late for the meeting.很明显你开会迟到了。
+（2）宾语从句
+宾语从句是在复合句中作宾语的名词性从句，通常放在主句谓语动词（及物）或介词之后。
+宾语从句可以由连接代词、连接副词或连接词that/whether/if 等引导。
+①作动词的宾语：
+【例】I heard that he would become our leader next month.我听说他下个月当我们的领导。
+②作介词的宾语：
+【例】We are talking about whether we should admit Tom into our club.
+我们正在讨论是否录入Tom 进我们的俱乐部。
+③宾语从句的连接词主要有：that，if/whether，wh-类词
+that 引导
+的宾语从
+句
+that 引导宾语从句时无词义，不
+作任何成分，口语中一般可以省
+略
+*I think (that) you should ask the teacher for
+help.
+*He said (that) he could finish his task before
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第40页 ---
+39 / 56
+tomorrow.
+if/wheth
+er
+引导的
+宾语从
+句
+if/whether 引导宾语从句时，在
+句中不作任何成分，但有具体的
+含义“是否”的意思，不能省略。
+（一般情况下，if/whether 可以
+互换，但介词后和不定式前不用
+if 引导）
+*Nobody knows if/whether he will go abroad for
+further education.
+*I worry about whether I hurt his feeling.
+*I am just wondering whether to help him or let
+him do it by himself.
+wh-类的
+词
+引导的
+宾语从
+句
+wh-类的词一般表示疑问，但
+what，whatever 除了可用于疑问
+句中，还可用于陈述句中
+*The
+police
+asked
+Tom
+how
+the
+accident
+happened.
+*Do you know who has won the champion in the
+football game?
+【注意】宾语从句的语序：在宾语从句中一般用陈述语气。
+【例】I am wondering if you could lend your camera to me.不知你是否能把相机借我用
+一下？
+④宾语从句的时态
+主句是一般现在时，从句时态不受
+主句时态限制，可以用任何时态
+*He thinks his son lied to him.
+*He thinks his son will win the prize.
+*He thinks his son is doing homework.
+主句是过去时，从句要用过去时
+*He said that his son was doing homework.
+*He said that his son would go to college next
+September.
+宾语从句表示是客观真理或自然现
+象，无论主句是何种时态，从句用
+一般现在时
+*The teacher said that the earth goes around the sun.
+⑤宾语从句的否定转移
+大多数宾语从句的否定形式跟一般陈述句的否定形式是一样的，但是当谓语动词是think，
+assume，believe，expect，guess，suppose 等时，常把对从句的否定转移到主句中：
+【例】I don’t think she can pass the exam. 我认为她不能通过考试。
+（3）表语从句
+表语从句是在复合句中作表语的名词性从句，通常谓语连系动词之后，可以后接表语从句的
+连系动词有be，look，remain，seem 等。表语从句基本结构为：主语+连系动词+表语从句。
+有时也可以用as if/though 引导表语从句，其结构为：it looks/seems... as if/though...。
+【例】Our plan is that we’ll go there once a week.我们的计划是一周去那里一次。
+（4）同位语从句
+同位语从句是在复合句中充当同位语的名词性从句。用于解释说明所修饰的名词的具体内容。
+常见的后面跟同位语从句的名词有：news，advice，conclusion，demand，doubt，fact，rumor，
+hope，idea，information，message，order，problem，suggestion，thought，truth，evidence
+等。同位语从句通常由that 引导，同样只起连接作用，不充当任何成分也没有任何意义。
+【例】The idea that the black cat brings bad luck is ridiculous.认为黑猫会带来厄运的想法是荒
+谬的。
+2.引导词分类
+（1）连接词that，whether 和if
+that 本身无词义，有时可省略，可引导任何名词性从句；whether 和if 本身有意义，不能省
+略。这三个词都只起连接作用，不充当句子成分。
+【注意】whether 和if 的用法区分：
+①whether 可以引导所有名词性从句，而if 只能引导动词后的宾语从句和不在句首的主语从
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第41页 ---
+40 / 56
+句；
+②whether 引导从句可以放在句首，而if 引导从句一般只能放在主句谓语动词之后；
+③whether 可与or not 连用，if 不能。
+【例】Whether he will come or not is still unknown to us.他是否会来，我们还不知道。
+I don’t know if it won’t rain tomorrow.我不知道明天是不是会下雨。
+（2）连接代词和连接副词
+引导名词性从句的连接代词有：who（谁，主格），whom（谁，宾格），whose（谁的，所
+有格），what（什么），which（哪一个），whatever（任何……的事物），whichever（……
+的那个/那些），whoever（……的任何人）等。连接代词既起连接作用，又在从句中充当主
+语、宾语、定语、表语等成分。
+引导名词性从句的连接副词有：when（什么时候），where（什么地方），how（如何，怎
+样），why（为什么）。连接副词既起连接作用，又在从句中充当状语。
+【注意】名词性从句一律用陈述语序。
+【例】What Jessica heard at the meeting frightened her.（主）杰西卡在会议上听到的事情吓到
+她了。
+第十七章关系分句
+考点1：关系分句（定语从句）概说
+担任定语功能的句子。定语从句在句中的作用相当于形容词，因此又称为形容词性从句。
+在复合句中，修饰名词或代词的从句叫定语从句，其中，被修饰的名词或代词叫先行词，引
+导定语从句的有关系代词who, whom, whose, which, that 等和关系副词where, when, why 等，
+关系代词和关系副词在定语从句中担任句子成分。
+【例】The girl
+(who wears a red dress)
+is my sister.
+先行词
+关系代词
+这个（穿红裙子的）女孩是我姐姐。
+考点2：关系词的选择
+（1）关系代词在从句中有三个作用：①连词的作用，把主句和从句连接起来；②代词的作
+用，指代前面的先行词；③一定的语法作用，在从句中可以作主语、宾语、表语等成分。
+（2）关系副词引导的定语从句分别用来修饰表示时间、地点、原因等的先行词。这些关系
+副词在从句中均作状语。
+引导词
+指代对象及在从句中充当
+的成分
+例句
+关
+系
+代
+词
+that
+指人或物，充当主语、宾语
+或表语
+The meeting that you have missed yesterday was
+very important.你昨天错过的会议很重要。
+which
+仅指物，充当主语、宾语或
+表语
+I like the cake which you bought yesterday.
+我喜欢你昨天买的蛋糕。
+who
+仅指人，充当主语或宾语
+He is the teacher who helped me.
+他就是那个帮助过我的老师。
+whom
+仅指人，仅做宾语
+She is the girl whom I met at the party.
+她就是我在宴会上遇见的女孩。
+whose
+指人或物，充当定语，相当
+于先行词的所有格
+The old lady whose legs disabled was my teacher.
+这个双腿残疾的老太太是我曾经的老师。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第42页 ---
+41 / 56
+as
+指人或物或整句话，充当主
+语、宾语或表语
+As we all know, he studies very hard.
+众所周知，他学习很努力。
+关
+系
+副
+词
+where
+指地点，充当地点状语
+Beijing is the place where I was born.北京是我的
+故乡。
+when
+指时间，充当时间状语
+That was the day when I first met my wife.
+那天我第一次见到我妻子。
+why
+指原因（先行词只能是
+reason），充当原因状语
+She doesn’t know the reason why I dislike her.
+她不知道我为什么不喜欢她。
+1.介词+关系代词
+如果which 或whom 在定语从句中充当介词的宾语，则这个介词可以提前到从句前，构
+成“介词+关系代词”引导的定语从句。介词+关系代词引导从句时，引导词不能用that，指
+人用whom，指物用which，且不可省略。介词的选择可根据从句谓语动词的搭配来确定。
+【例】This is the house in which we lived last year.这是我们去年居住的房子。
+【注意】①介词+关系代词在从句中如果充当地点、时间或原因状语，有时可以替换成对应的关
+系副词。
+【例】It’s one of the few countries in which (=where) people drive on the left.
+这是为数不多的几个靠左行驶的国家。
+②当介词和从句中的谓语构成固定的短语动词时，一般不能将其拆开提前。如look after，look
+for，look forward to 等。
+【例】The babies whom the nurses are looking after are very healthy.护士们照顾着的那些婴儿
+的身体非常健康。
+2.引导词的选择
+判断定语从句引导词是用关系代词还是关系副词时，要先判断从句是否缺少主宾结构
+（whose 要看是否缺少定语），如果不缺，或者谓语动词是不及物动词或被动语态，则从句
+就用关系副词或者介词+关系代词来引导。
+【例】His father died the year when he was born.他父亲在他出生那年去世了。
+【注意】在表示“方式、时间、地点、理由”等的词语后，可用that 代替关系副词when，where，
+why 等，相当于“介词+which”，修饰的先行词通常为the way，the time，the day，the place
+等。that 一般可省略。
+【例】The way (that/in which) he did the thing was strange and funny.他做那件事的方式既奇特
+又滑稽。
+3.关系代词用that 的情况
+（1）当先行词为不定代词或被不定代词修饰，如（all little，something，everything，nothing，
+someone，anyone，anybody 等），关系代词一般用that。在从句中充当宾语时that 可省略；
+【例】Please just tell me anything (that) you know about the author of the book.
+请告诉我你所知道的关于这本书作者的一切情况。
+（2）当先行词是序数词或最高级，或被序数词或最高级修饰时，关系代词只能用that；
+【例】This is the most toughing story that I have ever read.这是我读过的最感人的故事。
+The first thing that we need to do is to find a hotel to have a rest.
+我们现在要做的第一件事就是找一家宾馆休息一下。
+（3）当先行词被the very，the only，the last 等修饰时，关系代词只能用that；
+【例】He was the only person that was present at the time.他是当时唯一在场的人。
+（4）当先行词既有人也有物时，定语从句用that 引导；
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第43页 ---
+42 / 56
+【例】They are talking about the workers and the factory that they have visited.
+他们正在谈论访问过的工人和参观过的工厂。
+（5）当主句是以who 或which 开头的疑问句时，定语从句用that 引导。
+【例】Who is the man that is standing in front of the crowd?站在人群前面的那个人是谁？
+考点3：非限制性定语从句
+非限制性定语从句通常是对先行词的附加说明，用逗号将其与主句隔开，放置在句中句
+尾皆可，所处位置比限制性定语从句更灵活。
+【例】The woman, who wears a pair of sunglasses, is a famous movie star.
+那个戴太阳镜的女人是一位著名的电影明星。
+【注意】that 不能引导非限制性定语从句。
+第十八章强调
+考点1：强调句
+强调是为了加强句子的语气，突出说话的重点，区别不同的意思等。英语书面语中表示
+强调的手段主要有词汇和语法两种。这里主要介绍通过语法手段实现强调目的的句型。
+1. It is / was +强调部分+that+剩下部分，被强调的部分可以是主语，宾语，状语或表语。
+【例】It was on the corner that I ran into a murder.就是在街角，我撞见了一起凶杀。（强调状
+语）
+It was he that (who) went to that place at that time yesterday.
+昨天那个时候去那个地方的正是他。（强调主语）
+It was those girls in red dress that he aimed at.他的目标是那些穿红裙子的女孩。（强调宾语）
+【注意】此句型不强调谓语。
+2. It was not until+被强调的部分+that+剩下部分，that 后面的句子要用肯定句以及陈述语气。
+【例】It was not until she took off her dark glasses that I recognized she was a famous film star.
+直到她摘下墨镜，我才认出她是一位著名的电影明星。
+3.强调部分为从句或含有从句的情况：
+（1）强调原因状语时，状语从句只能用because 引导，不用as、since、for 等。
+【例】It was because I could speak English that I got the job.因为我会讲英语，所以我得到一
+份工作。
+（2）强调部分含有定语从句
+【例】It was in the factory (that I visited) that I met my old friend.我是在我参观的工厂里遇见我的老
+朋友的。
+4.强调含有not... but...，not only... but also...，either... or...，neither... nor...，as well as 等词组
+构成的句子。
+【例】It was neither you nor he that is willing to go to the Great Wall.你和他都不愿意去长城。
+It was he as well as his classmates who has ever been to Suzhou.他和他的同学都去过苏州。
+5.一般疑问句的强调句式为“Is/Was it +被强调的部分+that/who+其他”。特殊疑问句的强调
+句式是“特殊疑问词（疑问代词或疑问副词）+is/was it that+陈述句语序”。特殊疑问句中
+只有疑问词可以被强调。
+【例】Was it Sally that phoned just now?刚才打电话的人是莎莉吗？
+When was it that you lost your keys?你究竟什么时候丢的钥匙？
+考点2：倒装句
+英语句子的基本语序通常是“主语在前，谓语在后”。如果根据需要将谓语动词的全部
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第44页 ---
+43 / 56
+或一部分放在主语前面，这样的语序被称为倒装句语序。
+1.完全倒装
+谓语部分完全放在主语之前，叫完全倒装。
+（1）there 位于句首+表移动（come、go、be）或状态（stand、live、lie）的谓语动词
+【例】There exists some misunderstanding between them.他们之间有点儿误会。
+There stands a stone bridge across the river.河上有座桥。
+（2）表时间/方位/地点的副词或介词短语位于句首，如now，then，here，down，in 等，且
+谓语动词为表移动（come、go、be）或状态（stand、live、lie）的动词
+【例】Now comes your turn.现在轮到你了。
+Through the window came out the sweet music.悦耳的音乐从窗户里传出来。
+【注意】此句型后主语为代词时不倒装（名倒代不倒）
+【例】Here you are.给你。
+2.部分倒装
+只把be 动词、助动词、情态动词提到主语前，叫部分倒装。
+（1）否定倒装：含否定意义的词位于句首引起部分倒装
+常见否定词：never，nor，not，seldom，rarely，hardly，few，little...
+否定短语：句首否定短语at no time，under / in no circumstances，in no case，in no way，on no
+condition，by no means 等。
+【例】Seldom does he read in his free time.他从不在休闲时间阅读。
+By no means can he get there in ten minutes.他决不能在十分钟内到达那里。
+（2）only 位于句首+副词/介词短语/状语从句
+【例】Only by shouting did we realize the meaning of this poem.
+只有通过呼喊，我们才意识到这首诗的意义。
+（3）频度状语位于句首
+【例】Often have I warned him not to go swimming alone.我经常警告他不要一个人去游泳。
+（4）not... until（不……直到），no sooner... than（一……就），hardly... when（一……就），
+scarcely... when（刚……就），so... that（如此……以至于），such... that（如此……以至于）
+句型中，主句倒装，从句语序正常（主倒从不倒）
+【例】Not until I finished my homework did I go to bed.我直到做完作业才上床睡觉。
+No sooner had I got to the station than the train left.我一到车站火车就开走了。
+3.强调倒装
+将要强调的成分（状语/表语/宾语）放在句首引起的倒装。
+【例】Such are the facts.（表）事实如此。
+Across the river lies a newly built steel bridge.（状）新建的一座钢桥横跨这条河流。
+What he did I cannot imagine.（宾）我想不出他做了什么。
+4.反复倒装
+如果前面所述情况也适用于后者，后面的句子常用so，neither 或nor 引出倒装句。
+【例】She has been to New York and so have I.她去过纽约，我也去过。
+Lily has never seen snow; neither/nor has Tom.莉莉从没有见过雪，汤姆也没有。
+5. as，though 引导让步状语从句时的倒装
+as 引导让步状语从句时，从句需倒装，即将表语、状语或动词原形提至句首；当名词置于
+句首时前面不加任何冠词。though 引导让步状语从句可倒可不倒。
+【例】Strong as the enemy is, we are not afraid.敌人虽然强大，我们却不惧怕。
+Child as he is, he knows a lot of things.尽管他还是个孩子，却知道很多事情。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第45页 ---
+44 / 56
+第二部分翻译
+第一章翻译的标准、过程及对译作的要求
+考点1：翻译的标准
+所谓表达就是通过译文的形式准确无误地再现原文的内容。这就要求译者在忠实于原文内容
+的前提下灵活运用各种翻译技巧和知识，写出语言规范、语句通顺的译文来。翻译的质量最
+终取决于译文的表达水平。英语和汉语在结构和表达习惯上有很大的差异，汉语水平不高或
+者粗心大意都可能会导致表达上的错误。译文的表达应遵循以下三个基本原则: 忠实原文、
+逻辑清晰、语言规范知识点
+1.忠实原文
+译文表达必须最大限度地忠实于原文的内容，对原文的任何曲解或偏离都会造成误译，从而
+使译文质量受到损害。
+例：The new secretary was rude to the workers, but when she talks to the boss, butter wouldn't
+melt in her mouth.
+[原译文]这位新秘书对工人的态度很粗鲁，可是跟老板谈话时，黄油含在她嘴里也不化。
+[改译]这位新秘书对工人的态度很粗鲁，可是跟老板谈话时却满口的奉承话
+考点2:逻辑清晰
+1.逻辑清晰
+原文中隐含的一些逻辑关系，在译文表达中必须清楚地传达出来。否则，译文不是牵强附会，
+就是与原文貌合神离。
+例：With these differences in culture, Chinese trade show industry is definitely getting better and
+better recently.
+[原译文]有这些文化差异，中国的贸易展行业在蒸蒸日上，这一点毋庸置疑。
+[改译]尽管存在文化差异，中国的贸易展行业却在蒸蒸日上，这一点毋庸置疑。
+考点3:语言规范
+英语重形合，句法比较刻板，主、从句之间要使用连接词。而汉语重意合，主、从句靠意义
+贯穿，不用或少用连接词。如果我们在翻译表达时过于拘谨，不敢摆脱英语原文结构的束缚，
+译出的句子就有可能会洋腔洋调，不是通顺规范的汉语。应该根据译入语的表达习惯对译文
+作必要调整，从而使之通顺地道。
+例：The temptation was so great that those who were watching from the sidelines also rushed to
+the tulip markets.
+[原译文]诱惑是如此之大，以至于那些原本持观望态度的人也纷纷加入郁金香生意的行列中
+来。
+[析]so..that.结构一般都表示“如此.....以至于......”，但汉语中却较少这样使用，因而该译文
+应改译为:一些原来持旁观态度的人再也经受不住如此巨大的诱惑，纷纷加入郁金香生意的
+行列中来。
+第四章英译汉常用的方法和技巧
+考点1：语序调整
+（1）插入语的调整:
+插入语:一般是对一句话附加的解释、说明或总结，是个独立的成分，不与句子构成语法关
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第46页 ---
+45 / 56
+系，一般用逗号与其他句子隔开，用于解释、说明、总结、强调、表达说话者的态度和看法
+等。
+①汉语插入语常前置;
+[例]依我看，这事儿就应该严肃处理说句实在话，兵来将挡水来土掩。
+②英语插入语位置则较灵活:
+[例]It is, however, not his fault.
+However, it is not his fault
+It is not his fault, however
+③由以上两点可以获悉，英译汉时，英文中放在句中或句尾的插入语，一般翻译成汉语时需
+要前置，故以上例句在翻译成汉语时，可译为: 然而，这不是他的错.
+（2）定语的调整:
+定语:用来修饰、限定、说明名词或代词的品质与特征。主要有:形容词，此外还有名词、代
+词、数词、介词短语、动词不定式、分词、定语从句或相当于形容词的词、短语或句子都可
+以作定语。
+①汉语定语常前置
+[例]美丽的花儿。
+不肯吃饭的小女孩
+②英语定语位置则较灵活
+[例]beautiful flower
+a girl who eats nothing
+a girl in black
+③由以上两点可以获悉，英译汉时，放在名词或代词后的定语一般前置，故以上例句在翻译
+成汉语时,可译为: 美丽的花儿;不肯吃饭的小女孩:穿黑衣服的女孩。
+（3）状语的调整:
+状语:就是修饰动作的词，也可以理解成修饰谓语的词
+①汉语的一般状语位置;
+[例]他明天下午两点要飞回洛杉矶。他们轻而易举地解决了这个问题。
+②汉语的句首状语位置
+[例]为了更好实现这个目标，我们必须全力以赴!
+2008 年8 月8 日，北京奥运会盛大开幕。
+③英语的状语位置则较灵活
+[例]He will fly to Beijing tomorrow afternoon.
+We will meet in Guangzhou
+They solved the problem easily
+20 years ago, she lived in Beijing.
+In America, business is the most important.
+In 1949,China was fully emancipated.
+总结而言，汉语中状语位置相对固定，一般位于主语之后或者句首;英语中状语位置比
+较灵活，在英译汉时，句首状语顺译即可，句中或者句末状语则是提至主语之后或置于句首，
+故以上例句在翻译成汉语时，可译为:他明天下午将飞去北京:我们将在广州见面:他们很容易
+地解决了这个问题:20 年前，她在北京;在美国，商业是最重要的:1949 年，中国全面解放
+（4）it 做形式主语的调整:
+形式主语:英语中的非人称代词“it”具有明显的物称倾向，而作为形式主语的并无实际语义，
+只是为了满足语法上的需要。因此说话人借助它可避免使用I，we，you 等人称代词或表示
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第47页 ---
+46 / 56
+人的名词，避免提及自己或读者。它代替的是句子的逻辑主语，但在英译汉时需把逻辑主语
+或者说真正的主语提前。逻辑主语概括起来有如下情况:
+①不定式做逻辑主语
+[例]It is very kind of you to help me in time.你能及时帮助我简直太好了。
+②从句做逻辑主语
+[例]It is a fact that English is being accepted as an international language.
+英语作为一门国际语言正日益为人们所接受，这是一个事实。
+③动名词做逻辑主语。
+例]It is no use reasoning with him 跟他讲道理是没有用的。
+[注意]当从句做逻辑主语时，英译汉翻译时可以灵活处理，视句子情况确定是否需要将逻辑
+主语或者说真正的主语提前，例如以下情况可以灵活处理，逻辑主语不提前。
+[例]It is extremely obvious that she has been lying about her identity.
+很明显(的是) ，她一直在隐瞒自己的身份。
+此处如果提前逻辑主语，译文则是: 她一直隐瞒自己的身份，这是很明显的。此译文虽说没
+有错误，但是不符合汉语常用的表达习惯，过重。故由此可得出，如果句子的逻辑主语是句
+子且过长时，可以按照译文原句顺序进行顺译，It is adj.+that 十从句，可以译成“.....的是，+
+从句部分的译文”。
+考点2：定语从句的处理
+定语从句是一种非常常见的从句，也是各类考试的必考点，针对定语从句英译汉时有以下几
+点供参考:
+（1）前置法，译成“...的”;
+对于比较短的定语从句，英译汉时可以将定语从句译在先行词前，同形容词的作用，并用“的”
+连接先行词。
+[例]The man who had robbed the bank was arrested by the police.
+那个抢劫银行的人已经被警察抓了。
+（2）后置法，重复先行词;
+如果定语从句比较长，则不建议采用前置法的翻译技巧。宜将定语从句拆分成几个并列小分
+句或独立的句子。可按照原文结构进行翻译，先翻译原文主句，再翻译从句，拆分从句时，
+可重复先行词。
+[例]They are striving for a same dream that will eventually come to reality in one day.他们在为同
+一个梦想而奋头，这个梦想在未来某一天终将会实现。
+（3）分译法，译成独立句
+对于较长的非限制性定语从句，一般将主句和从句分开，非限制性定语从句翻译时宜译成一
+个独立的句子。
+[例] Anyway, the problem was solved successfully, which showed that she was right 无论如何，问
+题成功地解决了，这表明她是对的。
+考点3：被动语态的处理
+以“人”为主语的句子称为“人称主语句”，以“物”为主的句子称为“物称主语句”。“人
+称主语句”显得较为主观，“物称主语句”显得较为客观。
+英语中较多使用物称表达法，让事物以客观的形式呈现出来，而少用人称来叙述:汉语较多
+从自我出发来叙述客观事物，倾向于描述人及其行为或状态，常常使用人称表达法。这种现
+象构成了英、汉语言中句子结构的差异，英语多用被动句而汉语多用主动句，在翻译时应根
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第48页 ---
+47 / 56
+据语言特点，翻译成适合的译文，符合表达习惯，故英译汉时常将英语被动句改为汉语主动
+句。
+[例]National Day is enthusiastically celebrated by Chinese people on Oct.1 st every year.每年的
+10 月1 日，中国人民都会热烈庆祝国庆节。
+（1）把原句宾语转换成译文主语:
+当英文原句为“动作受动者(主语) 十被动形式十动作发出者(宾语) ”时，可以将发出者转
+为主语。
+[例]She was given a new pen by her father 她爸爸送给她一支新的钢笔。
+（2 补充主语;
+在英文句中，常会出现一种情况，即在特定的环境中，主语动作的发起者显而易见时，原句
+常常省略动作的发起者，这样在翻译成汉语时我们可以适当的添加主语使得句子完整。
+[例]The issue has not yet been wholly explored.迄今为止，人们对这一议题还没有完全参透.
+考点4：英译汉翻译的步骤
+英译汉句子翻译的基本步骤简述如下:
+1.结构分析
+2.句子拆分或断句
+3.分块翻译
+4.整合译文
+5.重读，检查校对
+根据以上宏观的基本步骤，我们再来逐一细述。
+1.结构分析
+英语的句子结构通常分为三种:
+（1）简单句:只包含一个主谓结构句子叫简单句;
+[例]She is fond of collecting stamps.她热衷于收集邮票
+（2）并列句:包含两个或两个以上主谓结构的句子叫并列句，句与句之间通常用并列连词或
+分号来连接
+例：The food was good, but he had little appetite.食物很好吃，但他没什么胃口。
+（3）复合句:包含一个主句和一个或几个从句的句子叫复合句，从句由从属连词引导。
+]例]The film had begun when we got to the cinema.
+了解基本的句子结构，在进行句子翻译时，可以初步判断需要翻译的句子是简单句还是复杂
+句，如果是简单句，基本上进行断句再翻译即可，注意词语的处理，如是复杂句，还需进一
+步分析主从句，找出连接词及主从之间的逻辑关系等。
+2.句子拆分或断句
+（1）不管是简单句还是复合句，句子拆分或断句都是非常重要的一个环节，断句没有断好，
+会直接影响句子意思的正确翻译。我们在讲句子拆分之前，先对句子的基本成分大致回顾:
+成分
+说明
+代表
+例
+主语
+动作发出者
+n. / pron.
+Lucy wrote a book.
+谓语
+说明主语动作或状态
+v.
+Lucy wrote a book.
+宾语
+动作承受者或对象
+n. / pron. / num.
+Lucy wrote a book.
+定语
+限定/修饰名词
+adj.
+Lucy wrote a good
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第49页 ---
+48 / 56
+book.
+状语
+修饰动词，形容词等
+adv
+Lucy
+wrote
+a
+very
+good book.
+补语
+补充说明主语或宾语
+adj. / n.
+Lucy finds it difficult.
+表语
+说明主语的身份、性质、
+品性、特征和状态，常接
+系动词后
+n. / adj
+Lucy is a writer.
+同位语
+指代同一事物的词或短
+语
+n.
+She is smart
+Lucy, my friend, is a
+writer.
+（2）对句子的基本成分大致了解之后，我们进一步了解句子拆分的依据。句子拆分的主要
+依据是语法。拆分要点如下:
+①拆分原则:主从拆开，即把句子的主干和修饰成分拆开，断句我们用“/”表示:
+[例]Their relative simplicity, and need for little equipment ensured / that it became very popular.
+②拆分点: 引导词/连接词、并列连词(除非连接的是两个单词则不需要拆开)、标点符号、介
+词处(固定搭配不拆分)、非谓语、主语很长时(拆到谓语动词之前) ;
+[ 例]Their relative simplicity, / and need for little equipment / ensured / that it became very
+popular.
+③例外:拆分后，内容很短或意思很简单，就不拆分。
+注意：考生们在英译汉的时候，往往会出现句子翻译出来自己也不知道是什么意思的情况，
+这个问题解释起来非常复杂，原因很多。但是其中最重要的原因就是我们在结构上没有处理
+好，所以，如果读起来不通顺的时候，我们便可以重新断句。
+3.分块翻译
+拆分断句之后，以意群或者句段(不是指段落) 为单位，进行词义的推敲，译文的分块翻译
+处理
+[ 例]Their relative simplicity, / and need for little equipment / ensured / that it became very
+popular.
+[析] Their relative simplicity 他们的相对简洁性，and need for little equipment 以及对设备的
+接近零需求，ensured 确保了，that it became very popular 它变得非常流行。
+4.整合译文
+分块翻译之后，意群或句段的基本意思出来了，整合译文，得到初步的译文。
+[ 例]Their relative simplicity, / and need for little equipment / ensured / that it became very
+popular.
+[析]Their relative simplicity 他们的相对简洁性，and need for little equipment 以及对设备的接
+近零需求，ensured_确保了，that it became very popular 它变得非常流行。整合以上分块翻译，
+初步译文: 他们相对的简洁性以及对设备的接近零需求确保了它变得非常流行
+5.重读，检查校对
+重读译文，使之通顺，符合中文的表达习惯，同时也检查译文是否有漏译或误译的地方
+[ 例]Their relative simplicity, ! and need for little equipment / ensured / that it became very
+popular.[析]Their relative simplicity 他们相对的简洁性，and need for little equipment 以及对
+设备的接近零需ensured 确保了，that it became very popular 它变得非常流行。
+整合以上分块翻译，初步译文: 他们的相对简洁性以及对设备的接近零需求确保了它变得非
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第50页 ---
+49 / 56
+常流行。重读译文之后，我们发现，原句含有代词their 以及it，在翻译时，宜结合上下文
+将其词义具体化我们先还原:
+In 1863 the Football Association was established in England, and the rules of the game have
+remained essentially the same ever since. Their relative simplicity, and need for little equipment
+ensured that it became very popular. The power of the British Empire meant that it became played
+in every corner of the world.
+可知此处的their 和it 是指足球这项运动，故我们可以将其词义具体化。其次，原句中的
+simplicity，need 虽然均为名词，但翻译时可以把它们转换成相应的动词，即进行词性转换，
+使译文更加地道。此处可把simplicity，need for little equipment 分别译为“简单易行”、“不
+需要多少设施”。此外，我们再读句子,发现句子之间还含有潜在的因果关系，即因为足球
+运动玩起来简单，不需要多少设备，所以变得非常流行总结以上，我们可以优化初始译文，
+即:足球运动(规则)相对简单易行，而且不需要多少设施，因而这项运动迅速风靡英伦。
+[注意]
+（1）遇到代词，如果直接翻译成代词，意思可以表达清楚，则不需具体化;
+（2）如果直接翻译成代词，意思表达不清楚，则需要具体化;
+（3）如何确定代词的具体化内容: 就近原则、一致原则(语法、意思一致) ;
+（4）如果找不到代词it 所指代的内容或者不认识，就把代词翻译成“这”或者“那”，
+不要直接翻译成“它
+注意:近年考试取消了英译汉，这部分了解为主。
+考点5：汉译英翻译步骤
+句子翻译的基本步骤简述如下
+1.句子拆分或断右
+2.找谓语，确定主干
+3.分块翻译
+4.整合译文
+5.重读，检查校对
+首先，我们来了解中英语言的几个最大的不同点
+（1）语序的不同:
+中文:先出主语+废话(包括定语、状语、补语和插入语等)+最重要成分
+英文: 先出主语+最重要成分+废话(包括定语、状语、补语和插入语等)
+（2）长短差异:
+中文:善用短句
+英文:善用长句
+(3)动静差异:
+中文:善用动词
+英文:善用名词
+(4) 意形差异:
+中文:重在意合;
+英文:重在形合
+根据第一点句子翻译的基本步骤，我们再来逐一细述
+（1）句子拆分：
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第51页 ---
+50 / 56
+首先，因为中文的句子较短，且句与句之间一般不用连接词，多用逗号，所以我们要判断哪
+些句子或者句子中的哪些部分应该放在一起翻译，而不是把所有句子或者一整个句子都一口
+气翻译完。因此，我们也可以把这一步叫做“断句”或者“句子拆分”，同样用“/”来表
+示。
+[例]听了老师的话，/学生们恍然大悟，/才知道/文学成就不是唾手可得。
+（2）找谓语，确定主干;
+初步断句之后，接下来我们要找到中文句子的核心动词，判断句子当中哪个动词重要，哪个
+动词不重要，确定了核心动词，也就确定了译文(英语)的谓语，确定了谓语动词，也确定了
+译文(英语)的主干部分。
+[例]听了老师的话，/学生们恍然大悟，/才知道/文学成就不是唾手可得。
+[析]回到这个例题，我们先挑出句子中的动词:
+①分别是“听了”、“恍然大悟”、“知道”以及“是”。首先，我们需要判断出核心的动
+词，其余的要么变成非谓语，要么是在从句中做谓语或变成介词短语等;
+②以上动词中，经分析，“恍然大悟”是核心的动词，“听了老师的话”之后，学生们才“突
+然明白”了，其后的“文学成就不是唾手可得”正是“恍然大悟(突然明白)”的内容，因此，
+我们可进一步确定“文学成就不是唾手可得”可作为“恍然大悟”的宾语，而恰巧这个宾语
+中的“是”告知我们该宾语部分还是个句子，即宾语从句。确定了核心动词，以及从句的核
+心动词，剩余的“听了”我们可以将其变成非谓语的形式。
+[注意]面对汉语中多个动词的现象，挑选出核心的动词，涉及“谓语动词的层次性”，这是
+汉译英的难点，因为中文是动态性语言，所以句子中的动词较多，而英文是静态性语言，名
+词、非谓语动词、从句句和介词等较多，所以英文的一个句子只有一个谓语，而不是多个动
+词构成的谓语。由此看来，我们就要在纷繁复杂的动词当中判断出哪个动词更重要(做谓语)，
+哪个动词次重要(可变成非谓语)和哪个动词最不重要(变成介词短语或者不翻译)。
+一般情况，如果多个动词出现，我们按照动作发生的先后顺序来判断哪个动词重要，先发生
+的动词比后发生的重要，但并非绝对。
+（3）分块翻译
+[例] 听了老师的话，/学生们恍然大悟，/才知道/文学成就不是唾手可得。
+[析]核心的动词确定了，其动作的发出者，也就是主语也跟着确定了，即句子的主于也出来
+了，我们逐一翻译如下:
+①“学生们恍然大悟”,对应翻译成英文,也就是“学生们突然明白”的意思,可译作:the students
+realized immediately；
+②其后的“才知道”和“恍然大悟”是同一个意思，这里不需要翻译出来了:“文学成就不
+是唾手可得”，先理解“唾手可得”，即“不是轻而易举就能得到的”意思，该宾语从句谓
+语动词为“是”，可译作: success in literary creation is not something easy to obtain；
+③最后，“听了老师的话”,这部分可采取分词做状语,如果直译,基本为“After hearing what the
+teacher said”，问题不大，但是在用词上我们还可以斟酌，先理解“听了老师的话”，即受
+老师的启发，学生们才开始明白，故此处我们可以换种表达，即译作:Enlightened by the
+teacher's words。
+（4）整合译文;
+[例] 听了老师的话，/学生们恍然大悟，/才知道/文学成就不是唾手可得。
+Enlightened
+by the teacher's words, the students realized (that) immediately success in literary
+creation is not something easy to obtain.
+（5）重读，检查校对。
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第52页 ---
+51 / 56
+重读英语译文，检查是否有不符合英语表达习惯的地方，或者是否存在语法错误，这点至关
+重要.
+[例] 听了老师的话，/学生们恍然大悟，/才知道/文学成就不是唾手可得。
+Enlightened by the teacher's words, the students realized (that) immediately success in
+literarycreation is not something easy to obtain.
+（翻译技巧）
+①在第一步断句时，可尝试在每个句子之间加上合适的连词，看逻辑关系是否成立，因汉语
+也存在很多隐性逻辑关系的句子，通过这一步，可以在翻译中将句子内部隐性的逻辑关系在
+英语译文中体现出来
+②汉译英不要着急下笔翻译，在确定谓语动词时，可多朗读句子，将汉语用大白话理解通透，
+那么翻译起来就非常容易下笔了。正如以上的例子，如果要直接去想“恍然大悟”以及“唾
+手可得”对应的英语恐怕比较费劲，而先理解成大白话，对于基础不是很好的考生来说，就
+能快速地从自己的词汇层级和能力水平去翻译，哪怕不能拿到满分，但基础分肯定是可以拿
+到的，毕竟翻译没有最好，只有更好。
+第三部分写作
+第一章写作基本要点
+考点1：基本句型
+句型
+例子
+1.S+ Vi.(Vi 是不及物动词)
+主谓
+He changed
+2.S+ Vt.+ O.(Vt 是及物动词)
+主谓宾
+He bought a house.(名词作宾语)
+3.S+ VL.+ P
+主系表
+I am a student.(名词作表语
+4.S+ Vt .+ O1(sb.) +O2(sth.)主谓双宾
+He gave me two pens.
+5.S+ Vt.+ O+OC
+主谓宾宾补
+He keeps his room clean.(形容词作补足语)
+考点2：并列句
+定义: 并列句(Compound Sentence): 由两个或多个简单句构成，各分句之间往往由逗号加一
+个连接词( and,but,for,nor,or,so,yet ) 连接，且分句间地位相当，内容上相互关联。
+（1）表示并列(顺承) 关系的并列句，分句之间用and 连接
+例：Jane works at the Family Planning Clinic and her husband Smith does research work for the
+same unit.
+简在计划生育诊所工作，她的丈夫史密斯在同一单位做研究工作。
+析：本句由and 连接两个简单句，且这两个简单句Jane works at the Family Planning Clinic
+和herhusband Smith does research work for the same unit 所表达含义具有同等地位。
+（2）表示转折关系的并列句，分句之间用but 或者while 连接
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第53页 ---
+52 / 56
+I like playing basketball, but I hate talking about the skills
+我喜欢打篮球，但我讨厌谈论技术。
+[析]本句由两个简单句构成，其中Ilike playing basketball 和I hate talking about the （3）表
+示选择关系的并列句
+①分句之间用or (或者) ，用于肯定句
+Youcan die oryoucaneat something else.
+你可以(选择) 去死，也可以(选择) 吃点其它东西.
+②分句之间nor (也不) ，用于否定句搭配: nor+be 动词/助动词/情态动词十主语+谓语动词+
+其他部分
+I have no idea about the plan, nor do I know what to do next.
+我不知道这个计划，也不知道下一步做什么。
+（4）表示因果关系的并列句
+①分句之间用so(因此，所以) 来连接
+The heavy rain started suddenly, so we stopped playing basketball.
+突然下起了大雨，所以我们停止了打篮球。
+②分句之间用for (因为) 来连接
+I was late for the school this morning, for I missed the early bus.
+今天早上我上学迟到了，因为我错过了早班车。
+考点3：主从复合句
+概念:主从复合句是指含有两个或更多主谓结构的句子，其中有一个(更多)主谓结构充当整
+个句子的某一(些)成分。充当定语的句子叫定语从句，充当状语的句子叫状语从句，充当主
+语、宾语、表语或司位语的句子叫名词性从句。
+[注意]主句与从句之间用连接词连接起来
+考点4：写句子
+（1）写出句子基本语序
+Every morning, I go jogging in the park near my house.
+每天早上，我要到我家附近的公园去跑步。
+（2）写句子时的基本语法要求
+①一个句子有且只有一个谓语动词，即主语发出的最主要的动词
+[注意] a.句子的谓语动词一定要注意人称和时态
+b.对应于人称，只要特别注意第三人称单数，此人称对应的是一般现在时.
+c.一般过去时的be 动词对应人称有单复数变化。
+②句子的谓语动词一定要注意人称和时态。
+时态
+例子
+一般现在时(常态)
+I like reading.
+一般过去时(过去发生的事情)
+I read yesterday.
+一般将来时(将来才要发生的事情)
+I will read tomorrow.
+现在进行时现在正在进行的动作)
+I am reading.
+过去进行时(过去正在进行的动作)
+I was reading yesterday afternoon.
+现在完成时(从过去发生，动作或状态持续到
+现在才结束，或者没有结束，影响还要继续
+下去)
+I have read three books till now.
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第54页 ---
+53 / 56
+③名词要注意可数和不可数，可数名词要注意单复数
+a.用到可数名词时，表单数的话，前面一定要加冠词
+b.如果不是表示可数名词的单数，一定要变复数
+[例] I read a book yesterday.
+I read books yesterday.
+④在确定了谓语动词的情况下，其他的动词有五种处理方法:
+a.变成非谓语动词之一的现在分词或动名词:
+b.变成非谓语动词之一的过去分词:
+c.变成非谓语动词之一的不定式:
+d.变成从句中的谓语动词
+e.变成其他的词性
+第二章概要性写作
+考点1：写作要求
+概要写作应满足以下五个要求:
+1.完整( Complete)
+2.客观( Objective)
+3.简洁(Brief)
+4.连贯( Coherent)
+5.精确(Accurate)
+考点2：写作技巧
+1．确定体裁，明确主题及结构
+体裁
+结构
+记叙文
+人物＋时间＋地点＋事件
+(起因＋发展＋结果)
+说明文
+事物的性质功能：对象＋性质功能＋利好
+问题的解决方法或措施：问题＋解决方法
+现象类：现象＋原因＋结果
+议论文
+主题＋补充论据(＋结论)
+2.确定主题句，找关键信息
+划出每一段的主题句，抓住关键信息，忽略次要信息。
+3．改写关键信息，得出要点
+使用意义相同或相近的单词、短语或句式，或使用不同的句子结构表达同一意思，如改变语
+态、肯定变否定等，避免抄袭原文句子。
+4．添加连接词，使行文连贯
+要牢记各段落要点之间的逻辑关系和自然衔接，用恰当的关联词去连贯全文。常用的关联词
+有：however，besides，in addition，therefore，instead 等。
+示例
+阅读下面短文，根据其内容写一篇60 词左右的内容概要。
+An 8.2－magnitude earthquake struck off the coast of northern Chile late on Tuesday，cutting
+power and leading to small landslides and a tsunami.Four men and one woman died—two who
+suffered heart attacks and three who were crushed.About 300 prisoners escaped from the northern
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第55页 ---
+54 / 56
+port city of Iquique in the immediate aftershock.
+The quake struck at about 8：46 p．m.local time，some 60 miles northwest of Iquique.It had a depth
+of 12.5 miles.Chile’s National
+Emergency Office asked coastal residents to leave for safe places.“The fact is，we will know the
+extent of the damage as time goes by and when we inspect (视察)the areas in the light of day，”
+Chile’s President Michelle Bachelet said early on Wednesday.“The country has faced these first
+emergency hours very well.”
+Residents in the port city of Antofagasta walked calmly through the streets to higher ground as
+traffic became heavy in some places.“Many people are fearful after experiencing the powerful
+earthquake in 2010，so they immediately rushed to higher ground when they heard the tsunami
+warning，” said a government official.“There have been lots of aftershocks and communications
+have been cut off in many of the affected areas.So people are waiting in the dark hills ，not
+knowing what is to come，and hoping they will be able to return to their homes safely.”
+The Pacific Tsunami Warning Center sent out several tsunami warnings，but called off all of them
+by early Wednesday.Tsunami waves of more than six feet caused by the earthquake washed ashore
+on the coast of Pisagua.Iquique，with a population of more than 200，000，saw seven－foot waves.
+第一步：要点提炼
+要点1：地震发生的时间、地点；
+要点2：地震导致的结果：电力中断、人员伤亡等；
+要点3：余震导致的结果；
+要点4：地震导致了海啸。
+第二步：要点翻译
+1．一场8.2 级的地震在当地时间晚上8：46 袭击了智利北部海岸。
+An 8.2－magnitude earthquake
+struck off the coast of northern Chile at 8：46 p．m.local time.
+2．这场地震导致了电力中断、五人死亡。
+The earthquake caused power cuts and five deaths．
+3．在很多地震灾区通信中断。(cut off)
+Communications were cut off in many of the earthquake－hit areas.
+4．地震导致了六英尺多高的海啸波浪。(cause)
+Tsunami waves of more than six feet were caused by the earthquake．
+5．这些海浪席卷了皮萨瓜沿岸。
+These waves washed ashore on the coast of Pisagua.
+第三步：词句升级
+1．用分词短语作状语升级要点1 和要点2
+An 8.2－magnitude earthquake struck off the coast of northern Chile at 8：46 p．m.local time，
+causing power cuts and five deaths.
+2．用分词短语作定语升级要点4 和要点5
+Tsunami waves of more than six feet caused by the earthquake washed ashore on the coast of
+Pisagua.
+第四步：连句成篇
+An 8.2－magnitude earthquake struck off the coast of northern Chile at 8：46 p．m.local time，
+causing power cuts and five deaths.(要点1) There were lots of aftershocks and communications
+were cut off in many of the earthquake－hit areas.(要点2) Tsunami waves of more than six feet
+caused by the earthquake washed ashore on the coast of Pisagua.(要点3)
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第56页 ---
+55 / 56
+第三章话题式写作
+考点1：观点陈述型
+写作模板(仅供参考) :
+With the development of... 某一现象或事物的现状.
+As far as Iam concerned
+表达自己的观点和看法
+The reasons can be illustrated as following.
+For one thing,Ifirmly believe that 分论点一+[支撑句]或[细节句]
+For another、分论点二+[支撑句]或[细节句)
+Taking all these factors into consideration, we may safely come to the conclusion that
+.Only
+if
+can we
+.(或Overall,I think 重由自己的观点和看法)
+完整范文:In this age, with the development of our society, we notice that arts still play an
+essential role in people'sdaily lives. As far as I am concerned, the function of art is to enrich
+people's spiritual life and improve country'scultural and national identity. The reasons can be
+illustrated as followingFor one thing, I firmly believe that arts create beauty and stimulate
+imagination, and therefore provideenjoyment in an aesthetic way. A beautiful painting or song, for
+example, can bring a sense of satisfaction andfulfillment for the viewer or audience. For another,
+art is a perfect embodiment of a country's cultural and nationaidentity. A good example of this is
+that those who have ever been to Europe are often amazed at locals' artistictaste and aesthetic
+knowledge
+Overall, I think the function of art influences not only on the individuals but also on the whole
+country.
+考点2：观点选择类
+写作模板(仅供参考) :
+Different people have different views on 某一现象或事物.Some people think that
+whereas others argue that
+. As far as I am concerned, I agree with the opinion that
+For one thing,Ifirmly believe that 分论点一+[支撑句]或[细节句] For another, 分论点二+[支
+撑句]或[细节句]
+Therefore,in my opinion，重申自己的观点和看法
+完整范文:
+People have different expectations for jobs. Some prefer to stay in the same job for the same
+company whileothers prefer to try different things and hop from one job to another. In my opinion,
+I totally agree on trying
+different jobs.In my view, there are two reasons to support my opinion. At the most basic level,
+people find that changingjobs can often bring them the pay rise they expect. Therefore, they can
+lead better life and improve their livingquality. The second reason is that by doing different jobs or
+careers, people can increase their work experience andeventually become more versatile. This may
+give them a competitive edge, especially in today's job market where an all-round employee is
+always preferredTherefore, in my opinion, it's advisable to choose to change jobs rather than
+staying in the same company all the time.
+考点3：现象/观点分析类
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
+
+--- 第57页 ---
+56 / 56
+写作模板(仅供参考) :
+模板一:
+Nowadays, we often hear that 题目提及的问题、趋势或现象.This phenomenon is not accidental,
+and thereare social and individual backgrounds.
+For one thing 具体原因一+[细节句].For another、具体原因二+[细节句]
+As far as lam concerned,the reasons why +现象/观点are + 重复原因.I hold a belief that 个人
+看法(可要可不要)
+2 完整范文:
+Nowadays, we often hear that more and more people choose to work from home. Such working
+mode is notonly beneficial for employees at home, but also for the environment.
+My reasons will be explored as below. The telecommuting staff can save significant amounts of
+travel timeand transit costs by being allowed to work in the comforts of home. At home,
+employees are free to do as theyplease, like being in shorts and T-shirts and enjoying music. For a
+society seriously troubled with air pollutionand transport problems, WFH could be partly the
+solution. This advantage is particularly true during the rushhours because the more there is traffic
+congestion, the more there are emissions of gas from motorized vehiclesIn a word, the reasons
+why people choose to work from home are that telework is used not only to helnemplovees
+enhance balance between work and life but also to achieve reduction in environmental impacts on
+communities.
+【优课必过】网校zikao.p1tao.com
+公众号【叶学长自考资料网】
+专插本网课可比市场价实惠很多倍开通！
