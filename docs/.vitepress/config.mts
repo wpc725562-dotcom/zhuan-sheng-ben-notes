@@ -813,6 +813,7 @@ export default defineConfig({
           items: [
             { text: '站点说明', link: '/guide/' },
             { text: '资料边界', link: '/guide/sources' },
+            { text: '📚 学习博客借鉴清单', link: '/guide/学习博客借鉴' },
           ],
         },
         {
