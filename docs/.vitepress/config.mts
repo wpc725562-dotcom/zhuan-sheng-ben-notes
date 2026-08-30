@@ -98,6 +98,7 @@ export default defineConfig({
         text: '🇯🇵 日语',
         items: [
           { text: '学习路线', link: '/learn/' },
+          { text: '🎯 零基础五十音入门', link: '/learn/zero-baseline' },
           { text: '标日手册总目录', link: '/learn/standard-japanese/' },
           { text: '动词形容词变形总览', link: '/learn/standard-japanese/conjugation-guide' },
           { text: '初级篇 1-48 课', link: '/learn/standard-japanese/elementary' },
@@ -133,6 +134,7 @@ export default defineConfig({
           text: '🇯🇵 日语学习',
           items: [
             { text: '学习路线', link: '/learn/' },
+            { text: '🎯 零基础五十音入门', link: '/learn/zero-baseline' },
             { text: '从零开始学日语 📖', link: '/learn/systematic-japanese-learning-guide' },
           ],
         },
