@@ -94,6 +94,18 @@ export default defineConfig({
         ],
       },
       { text: '🎓 学习路线', link: '/guide/零基础学习路线' },
+      {
+        text: '🇯🇵 日语',
+        items: [
+          { text: '学习路线', link: '/learn/' },
+          { text: '标日手册总目录', link: '/learn/standard-japanese/' },
+          { text: '动词形容词变形总览', link: '/learn/standard-japanese/conjugation-guide' },
+          { text: '初级篇 1-48 课', link: '/learn/standard-japanese/elementary' },
+          { text: '中级篇 1-32 课', link: '/learn/standard-japanese/intermediate' },
+          { text: '高级篇 1-24 课', link: '/learn/standard-japanese/advanced' },
+          { text: '从零开始学日语 📖', link: '/learn/systematic-japanese-learning-guide' },
+        ],
+      },
       { text: '🎬 B站资源', link: '/guide/bili-resources' },
       { text: '使用说明', link: '/guide/' },
       { text: '🎯 公办院校', link: '/guide/公办院校与录取' },
@@ -116,6 +128,25 @@ export default defineConfig({
       },
     ],
     sidebar: {
+      '/learn/': [
+        {
+          text: '🇯🇵 日语学习',
+          items: [
+            { text: '学习路线', link: '/learn/' },
+            { text: '从零开始学日语 📖', link: '/learn/systematic-japanese-learning-guide' },
+          ],
+        },
+        {
+          text: '标日同步手册',
+          items: [
+            { text: '三卷总目录', link: '/learn/standard-japanese/' },
+            { text: '词类与变形总览', link: '/learn/standard-japanese/conjugation-guide' },
+            { text: '第一卷：初级篇', link: '/learn/standard-japanese/elementary' },
+            { text: '第二卷：中级篇', link: '/learn/standard-japanese/intermediate' },
+            { text: '第三卷：高级篇', link: '/learn/standard-japanese/advanced' },
+          ],
+        },
+      ],
       '/posts/math/': [
         {
           text: '高等数学 · 真题',

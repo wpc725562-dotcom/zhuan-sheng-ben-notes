@@ -1,5 +1,8 @@
 <template>
-  <div class="live2d-controls">
+  <div
+    class="live2d-controls"
+    :style="{ '--live2d-control-bottom': `${controlBottom}px` }"
+  >
     <button
       v-if="loaded && !disabled"
       class="live2d-close"
@@ -8,6 +11,53 @@
       title="关闭看板娘"
       @click="disableWidget"
     >×</button>
+    <details
+      v-if="loaded && !disabled"
+      class="live2d-size-menu"
+    >
+      <summary
+        aria-label="调整看板娘大小"
+        title="调整看板娘大小"
+      ><span aria-hidden="true">↕</span></summary>
+      <div
+        class="live2d-size-popover"
+        role="group"
+        aria-label="看板娘大小调节"
+      >
+        <button
+          class="live2d-size-step live2d-size-minus"
+          type="button"
+          aria-label="缩小看板娘"
+          :disabled="sizePercent <= SIZE_MIN"
+          @click="adjustSize(-SIZE_STEP)"
+        >−</button>
+        <input
+          v-model.number="sizePercent"
+          class="live2d-size-slider"
+          type="range"
+          :min="SIZE_MIN"
+          :max="SIZE_MAX"
+          :step="SIZE_STEP"
+          aria-label="看板娘大小"
+          :aria-valuetext="`${sizePercent}%`"
+          @input="applyWidgetSize()"
+        >
+        <button
+          class="live2d-size-step live2d-size-plus"
+          type="button"
+          aria-label="放大看板娘"
+          :disabled="sizePercent >= SIZE_MAX"
+          @click="adjustSize(SIZE_STEP)"
+        >＋</button>
+        <button
+          class="live2d-size-value"
+          type="button"
+          aria-label="恢复看板娘默认大小"
+          title="恢复默认大小"
+          @click="resetSize"
+        >{{ sizePercent }}%</button>
+      </div>
+    </details>
     <button
       v-else-if="disabled && desktopEligible"
       class="live2d-restore"
@@ -19,16 +69,26 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, onUnmounted, ref } from 'vue'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
 import { withBase } from 'vitepress'
 
 const MODEL_PATH = withBase('/live2d/model.json')
 const STORAGE_KEY = 'zsb-live2d-disabled'
+const SIZE_STORAGE_KEY = 'zsb-live2d-size'
+const BASE_WIDTH = 200
+const BASE_HEIGHT = 300
+const SIZE_MIN = 70
+const SIZE_MAX = 150
+const SIZE_STEP = 5
+const DEFAULT_SIZE = 100
 const loaded = ref(false)
 const disabled = ref(false)
 const desktopEligible = ref(false)
+const sizePercent = ref(DEFAULT_SIZE)
+const controlBottom = computed(() => Math.round(BASE_HEIGHT * sizePercent.value / 100 - 14))
 let loadTimer: ReturnType<typeof setTimeout> | null = null
 let idleHandle: number | null = null
+let sizeApplyFrame: number | null = null
 
 type IdleWindow = Window & {
   requestIdleCallback?: (callback: () => void, options?: { timeout: number }) => number
@@ -75,11 +135,11 @@ function initWidget(): void {
     },
     display: {
       superSample: 2,
-      width: 200,
-      height: 300,
+      width: BASE_WIDTH,
+      height: BASE_HEIGHT,
       position: 'left',
-      hOffset: 0,
-      vOffset: -20,
+      hOffset: -16,
+      vOffset: -10,
     },
     mobile: {
       show: false,
@@ -103,6 +163,52 @@ function initWidget(): void {
     },
   })
   loaded.value = true
+  scheduleWidgetSize()
+}
+
+function normalizeSize(value: number): number {
+  const safeValue = Number.isFinite(value) ? value : DEFAULT_SIZE
+  const clamped = Math.min(SIZE_MAX, Math.max(SIZE_MIN, safeValue))
+  return Math.round(clamped / SIZE_STEP) * SIZE_STEP
+}
+
+function readStoredSize(): number {
+  const stored = Number(localStorage.getItem(SIZE_STORAGE_KEY))
+  return stored ? normalizeSize(stored) : DEFAULT_SIZE
+}
+
+function applyWidgetSize(persist = true): boolean {
+  sizePercent.value = normalizeSize(sizePercent.value)
+  const canvas = document.getElementById('live2dcanvas')
+  if (persist) localStorage.setItem(SIZE_STORAGE_KEY, String(sizePercent.value))
+  if (!canvas) return false
+  // 旧版 L2Dwidget 在 superSample > 1 时不会为 CSS 尺寸补 px，
+  // 显式固定显示尺寸，既保留高清画布，也避免视觉尺寸翻倍。
+  canvas.style.width = `${BASE_WIDTH}px`
+  canvas.style.height = `${BASE_HEIGHT}px`
+  canvas.style.transformOrigin = 'left bottom'
+  canvas.style.transition = 'transform 180ms ease'
+  canvas.style.transform = `scale(${sizePercent.value / 100})`
+  return true
+}
+
+function scheduleWidgetSize(attempt = 0): void {
+  if (applyWidgetSize(false) || attempt >= 120) {
+    sizeApplyFrame = null
+    return
+  }
+  sizeApplyFrame = requestAnimationFrame(() => scheduleWidgetSize(attempt + 1))
+}
+
+function adjustSize(change: number): void {
+  sizePercent.value = normalizeSize(sizePercent.value + change)
+  applyWidgetSize()
+}
+
+function resetSize(): void {
+  sizePercent.value = DEFAULT_SIZE
+  localStorage.removeItem(SIZE_STORAGE_KEY)
+  applyWidgetSize(false)
 }
 
 function shouldLoad(): boolean {
@@ -144,12 +250,14 @@ function restoreWidget(): void {
   localStorage.removeItem(STORAGE_KEY)
   if (setWidgetVisible(true)) {
     loaded.value = true
+    scheduleWidgetSize()
     return
   }
   void loadWidget()
 }
 
 onMounted(() => {
+  sizePercent.value = readStoredSize()
   desktopEligible.value = shouldLoad()
   disabled.value = localStorage.getItem(STORAGE_KEY) === '1'
   if (!desktopEligible.value || disabled.value) return
@@ -169,6 +277,7 @@ onMounted(() => {
 
 onUnmounted(() => {
   if (loadTimer) clearTimeout(loadTimer)
+  if (sizeApplyFrame !== null) cancelAnimationFrame(sizeApplyFrame)
   if (idleHandle !== null) {
     const idleWindow = window as IdleWindow
     idleWindow.cancelIdleCallback?.(idleHandle)
@@ -178,19 +287,24 @@ onUnmounted(() => {
 
 <style scoped>
 .live2d-close,
-.live2d-restore {
-  position: fixed;
-  left: 16px;
-  z-index: 102;
+.live2d-restore,
+.live2d-size-menu > summary,
+.live2d-size-popover {
   border: 1px solid var(--vp-c-divider);
   background: color-mix(in srgb, var(--vp-c-bg) 88%, transparent);
   color: var(--vp-c-text-2);
   box-shadow: 0 4px 16px rgba(0, 0, 0, .1);
   backdrop-filter: blur(10px);
+}
+.live2d-close,
+.live2d-restore {
+  position: fixed;
+  left: 16px;
+  z-index: 100001;
   cursor: pointer;
 }
 .live2d-close {
-  bottom: 286px;
+  bottom: var(--live2d-control-bottom, 286px);
   width: 30px;
   height: 30px;
   border-radius: 50%;
@@ -203,7 +317,88 @@ onUnmounted(() => {
   border-radius: 999px;
   font-size: 12px;
 }
+.live2d-size-menu {
+  position: fixed;
+  left: 16px;
+  bottom: calc(var(--live2d-control-bottom, 286px) - 36px);
+  z-index: 100001;
+}
+.live2d-size-menu > summary {
+  display: grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border-radius: 50%;
+  font-size: 15px;
+  line-height: 1;
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+}
+.live2d-size-menu > summary::-webkit-details-marker { display: none; }
+.live2d-size-menu[open] > summary {
+  color: var(--accent-color);
+  border-color: var(--sakura-pink);
+}
+.live2d-size-popover {
+  position: absolute;
+  left: 38px;
+  bottom: 0;
+  display: grid;
+  grid-template-columns: 26px 86px 26px;
+  grid-template-areas:
+    "minus slider plus"
+    ". value .";
+  gap: 5px 7px;
+  width: 166px;
+  padding: 8px;
+  border-radius: 12px;
+}
+.live2d-size-step,
+.live2d-size-value {
+  border: 0;
+  color: var(--vp-c-text-1);
+  background: color-mix(in srgb, var(--sakura-pink) 18%, transparent);
+  cursor: pointer;
+}
+.live2d-size-step {
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 1;
+}
+.live2d-size-minus { grid-area: minus; }
+.live2d-size-plus { grid-area: plus; }
+.live2d-size-slider {
+  grid-area: slider;
+  width: 86px;
+  accent-color: var(--accent-color);
+  cursor: pointer;
+}
+.live2d-size-value {
+  grid-area: value;
+  justify-self: center;
+  min-width: 48px;
+  padding: 3px 7px;
+  border-radius: 999px;
+  font-size: 11px;
+}
+.live2d-size-step:disabled {
+  cursor: not-allowed;
+  opacity: .4;
+}
+.live2d-size-step:hover:not(:disabled),
+.live2d-size-value:hover { color: var(--accent-color); }
+.live2d-size-menu > summary:focus-visible,
+.live2d-size-popover button:focus-visible,
+.live2d-size-slider:focus-visible {
+  outline: 2px solid var(--sakura-pink);
+  outline-offset: 2px;
+}
 .live2d-close:hover,
-.live2d-restore:hover { color: var(--accent-color); border-color: var(--sakura-pink); }
+.live2d-restore:hover,
+.live2d-size-menu > summary:hover { color: var(--accent-color); border-color: var(--sakura-pink); }
 @media (max-width: 899px) { .live2d-controls { display: none; } }
 </style>
