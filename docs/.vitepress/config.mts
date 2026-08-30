@@ -60,6 +60,7 @@ export default defineConfig({
       {
         text: '高数',
         items: [
+          { text: '📖 学习手册 ⭐', link: '/posts/math/学习手册' },
           { text: '章节笔记', link: '/posts/math/notes/' },
           { text: '真题总览', link: '/posts/math/' },
           { text: '2026 全卷', link: '/posts/math/2026' },
@@ -153,6 +154,10 @@ export default defineConfig({
         {
           text: '高等数学 · 真题',
           items: [
+                    {
+                              "text": "📖 学习手册（零基础版）",
+                              "link": "/posts/math/学习手册"
+                    },
                     {
                               "text": "真题总览",
                               "link": "/posts/math/"
