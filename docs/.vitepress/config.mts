@@ -70,6 +70,7 @@ export default defineConfig({
       {
         text: '计算机',
         items: [
+          { text: '📖 学习手册 ⭐', link: '/posts/computer/学习手册' },
           { text: '2027 备考指南 ⭐', link: '/posts/computer/2027-备考指南' },
           { text: '知识点', link: '/posts/computer/notes/' },
           { text: '2024 全卷', link: '/posts/computer/2024' },
@@ -80,6 +81,7 @@ export default defineConfig({
       {
         text: '英语',
         items: [
+          { text: '📖 学习手册 ⭐', link: '/posts/english/学习手册' },
           { text: '学习笔记', link: '/posts/english/notes/' },
           { text: '真题总览', link: '/posts/english/' },
           { text: '2024', link: '/posts/english/2024' },
@@ -89,6 +91,7 @@ export default defineConfig({
       {
         text: '政治',
         items: [
+          { text: '📖 学习手册 ⭐', link: '/posts/politics/学习手册' },
           { text: '系统笔记', link: '/posts/politics/notes/' },
           { text: '真题总览', link: '/posts/politics/' },
           { text: '大纲题型', link: '/posts/politics/notes/00-考试大纲与题型' },
@@ -494,6 +497,10 @@ export default defineConfig({
           text: '计算机 · 真题',
           items: [
                     {
+                              "text": "📖 学习手册（零基础版）",
+                              "link": "/posts/computer/学习手册"
+                    },
+                    {
                               "text": "2027 备考指南 ⭐",
                               "link": "/posts/computer/2027-备考指南"
                     },
@@ -693,6 +700,7 @@ export default defineConfig({
         {
           text: '英语 · 学习笔记',
           items: [
+            { text: '📖 学习手册（零基础版）', link: '/posts/english/学习手册' },
             { text: '笔记总览', link: '/posts/english/notes/' },
             { text: '教材目录基准 📗', link: '/posts/english/教材目录基准' },
             { text: "2026 黄金知识汇编 ⭐", link: '/posts/english/2026-黄金知识汇编' },
@@ -745,6 +753,7 @@ export default defineConfig({
         {
           text: '政治 · 系统笔记',
           items: [
+            { text: '📖 学习手册（零基础版）', link: '/posts/politics/学习手册' },
             { text: '笔记总览', link: '/posts/politics/notes/' },
             { text: '教材目录基准 📗', link: '/posts/politics/教材目录基准' },
             { text: "00 考试大纲与题型", link: '/posts/politics/notes/00-考试大纲与题型' },
