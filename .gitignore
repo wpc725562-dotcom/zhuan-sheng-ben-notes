@@ -63,6 +63,15 @@ __pycache__/
 # (actual cache lives outside repo at D:/专升本/_pdf_cache/ — belt & suspenders)
 _pdf_cache/
 **/_pdf_cache/
+
+# ForestDeer clone: keep .txt/.md text versions tracked, block binaries.
+# 2026-09-03: 234MB of .doc/.docx/.epub/.gif were committed via "Initial commit from zip";
+# untracked them (git rm --cached) — they stay on disk, just out of git.
+guangdong-zhuanshengben-resources/**/*.doc
+guangdong-zhuanshengben-resources/**/*.docx
+guangdong-zhuanshengben-resources/**/*.epub
+guangdong-zhuanshengben-resources/**/*.gif
+guangdong-zhuanshengben-resources/**/*.pdf
 # OCR intermediate dumps if someone copies them under notes root
 **/_ocr_raw/
 **/*_tesseract.txt
