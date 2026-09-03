@@ -1,0 +1,590 @@
+# 2011-paper
+
+> 由 `scripts/pdf_to_md.py` 从 PDF 文字层直抽，共 10 页，实质内容 10 页，跳过 0 页（水印/空白/纯图片）。
+> 未做人工校对；公式与图片内容不在文字层内，需另行 OCR。
+
+<!-- 原 PDF 第 1 页 -->
+
+机密★启用前
+广东省2011 年普通高等学校本科插班生招生考试
+英语
+Part I
+Vocabulary and Structure (35%)
+Directions: There are 35 incomplete sentences in this part. For each sentence, there are four
+choices marked A, B, C and D. Choose the one that best completes the sentence, and then mark
+the corresponding letter on the Answer Sheet.
+l.One of my ______ sayings is “where there is a will, there is a way.”
+A. alike
+B. likely
+C. favourite
+D. favourable
+2.One afternoon I went to ______ Miss White again.
+A. call for
+B. call in
+C. call off
+D. call on
+3.I am______of the same program every evening though we have few entertainments in our town.
+A. bored
+B. ill
+C. tired
+D. exhausted
+4.Teachers have free ______ to the library that can provide a lot of data.
+A. admission
+B. access
+C. account
+D. approach
+5.High interest rates ______ people from borrowing money even they are in bad need of it.
+A. discourage
+B. distribute
+C. disappoint
+D. disturb
+6.Climate and weather affect every ______ of our lives.
+A. factor
+B. respect
+C. fact
+D. aspect
+7.A dog was ______ by a vehicle and killed.
+A. knocked into
+B. knocked out
+C. held back
+D. run over
+8.Two planes were hardly ______ on the horizon.
+A. sensible
+B. invisible
+C. visible
+D. available
+9.Last year the income of the organization was ______ more than one-fourth.
+A. cut down
+B. slowed down
+C. dropped off
+D. brought down
+10.He always did well at school ______ having to do part-time jobs every now and then.
+A. despite of
+B. in spite of
+C. regardless of
+D. in case of
+11.You should not ______ too much from him even if he has made a promise..
+A. expect
+B. express
+C. expose
+D. experience
+12.He was left alone in the room with ______ to look after him though he was only five years old.
+A. anyone
+B. someone
+C. not one
+D. no one
+13.It would unwise to ______ too much importance to this opinion polls.
+A. stick
+B. attach
+C. apply
+D. insist
+14.Import of the first three months this years is larger by 7 percent than that ______ of the period
+last year
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 2 页 -->
+
+A. relating
+B. concerning
+C. corresponding
+D. regarding
+15.My cap looks ______ to the John’s, so I often take his by mistake.
+A. same
+B. identical
+C. different
+D. likely
+16.Aunty Mary earned a good reputation ______ hard working and being honest.
+A. about
+B. with
+C. at
+D. for
+17.Jim isn’t ______, but he did badly in the final exams last term, which surprised us greatly.
+A. dull
+B. bright
+C. awkward
+D. clever
+18.Finally we ______ to get what we wanted after we had suffered so much hardship.
+A. operated
+B. attempted
+C. managed
+D. succeeded
+19.It’s ______ my power to give you advice on the matter.
+A. above
+B. below
+C. under
+D. beyond
+20.Having stayed in the United States for more than ten years, he got an American ______.
+A. speech
+B. accent
+C. voice
+D. sound
+21.February is the month ______ is usually the coldest.
+A. the weather
+B. whose weather
+C. its weather
+D. when the weather
+22.At first, I didn’t recognize her because she ______ at least fifty pounds.
+A. have lost
+B. might lose
+C. had lost
+D. may lose
+23.John suggested ______ anything about it until they found out more facts.
+A. not to say
+B. not say
+C. to say not
+D. not saying
+24.The general’s command was that the soldiers ______ the place and carry out more important
+tasks.
+A. leave
+B. left
+C. have left
+D. would leave
+25.I was very tired. Otherwise, I ______ to the theatre with you for the new film.
+A. had gone
+B. have gone
+C. would have gone
+D. must have gone
+26.______ to wait for hours, she brought alone a book to read.
+A. Expected
+B. Expecting
+C. Expects
+D. To expect
+27.Mrs. Smith, together with her friends, ______ to visit the new museum.
+A. are going
+B. are
+C. is going
+D. will be
+28.______ before we leave the day after tomorrow, we should have a wonderful dinner party.
+A. Had they arrived
+B. Were they to arrive
+C. Were they arriving
+D. would they arrive
+29.Mr. Wang said such a thing ______ to happen at school again and he forgave me this time.
+A. ought not to be allowed
+B. ought to be not allowed
+C. ought to be allowed not
+D. not ought to be allowed
+30.A dream of the Red Mansion is said ______ into dozens of languages in the last decades.
+A. to translate
+B. to have translated
+C. to be translated
+D. to have been translated
+3l.We enjoyed ourselves very much last night at the party. You ______ with us.
+A. should have come
+B. must come
+C. must have come
+D. should come
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 3 页 -->
+
+32.Only under special circumstances ______ to take make-up tests.
+A. freshman are permitted
+B. are freshman permitted
+C. permitted freshman are
+D. are permitted freshman
+33.There is not much news in today’s paper, ______?
+A. is it
+B. isn’t it
+C. isn’t there
+D. is there
+34.You’ve already missed too many classes this term. You ______ four classes just last week.
+A. had missed
+B. miss
+C. missed
+D. have missed
+35.Before leaving the village, he visited the old house ______ he spent his childhood.
+A. in which
+B. which
+C. to which
+D. at which
+Part II
+Reading Comprehension (40 %)
+Directions: In this section, there are four passages, each of which is followed by fave questions or
+unfinished statements. Choose the best and mark the corresponding letter on the answer Sheet.
+Passage 1
+Even people who don’t understand English can enjoy Chaplin’s films because they are almost
+silent. It isn’t what he says that makes us laugh. His comedy(喜剧) doesn’t depend upon words of
+language, but on the little actions which near the same thing to people all over the world.
+In his films, Chaplin raises his thick black eyebrow(眉毛). He straightens his coat or swings
+his walking stick in the air. He hides behind a fat lady or climbs under a table to escape from his
+enemies. Trying to be brave, he faints away on the floor. He pretend to be what he is not and never
+could be a rich, successful, important man. It is the secret of Chaplin’s huge success.
+He discovered the character of the little tramp almost by accident. As young men, he and his
+brother travelled to American in a small company of actors and acted in various cities. One day
+Charles was invited to join a new company that as making comedies. It was in his second film that
+he wore the clothes that made his reputation: black hat, tight coat, big trousers, huge shoes,
+moustache( 胡须)and walking stick. He intended simply to make people laugh. But the odd
+disguises(扮相) made him look comic and sad.
+His appearance was a popular success, right from the beginning. But his early films hadn’t
+much story. They were full of actions. The little man played fast-moving games of hide-and –seek
+with his enemies, racing down city streets, jumping on trains, and boating down rivers.
+36. Which of the flowing is true?
+A. Chaplin is a homeless traveler.
+B. Chaplin hardly did actions in films.
+C. Chaplin amused his audience by his actions.
+D. Chaplin always did the same actions in his films.
+37. The secret of Chaplin’s success is that he created a character who ______.
+A. faints away on the floor, trying to be brave
+B. behaves as if he was a successful, important rich man
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 4 页 -->
+
+C. straightens his coat or swings his walking stick in the air
+D. hides behind a fat lady or climbs under a table to escape from his enemies
+38. The word “tramp” in Line 1, Paragraph 3 may mean a “______” .
+A. person who walks far
+B. person who walks heavily
+C. disabled person who is unlucky
+D. homeless person who moves about
+39. With the help of his odd appearance, Chaplin intended to look ______.
+A. rich
+B. funny
+C. successful
+D. impressive
+40. Chaplin’s films were full of the following actions EXCEPT ______.
+A. boating down rivers
+B. racing down city streets
+C. jumping on trains
+D. driving bicycles
+Passage 2
+A cat burglar invaded the bedroom of the President of the United States, who confronted him
+and he helped him escaped. The event occurred in the early morning hours in one of the first days
+of the presidency of Calvin Coolidge, late in August, 1923. He and his family were living at the
+Willard Hotel in Washington that they had occupied during his vice presidency.
+Coolidge awoke to see a burglar search his clothes. Finally he got a wallet and a watch.
+When he was removing the watch chain, Coolidge spoke: “I wish you wouldn’t take that.” The
+thief, at his voice said: “Why?” “I don’t mean the watch and chain, only the charm. Take it near
+the window and read what is engraved(雕刻) on the back of it,” the president said. The burglar
+read: “President to Calvin Coolidge, Speaker of the House, by the Massachusetts General Court.”
+“Are you President Coolidge?” he asked. The president answered, “Yes, and the Legislature gave
+me that watch charm…I’m fond of it. It would do you no good. You want money. Let’s talk this
+over.” Holding out the wallet, the thief bargained: “I’ll take this and leave everything else.”
+Coolidge, knowing there was $ 80 in the billfold, persuaded the thief to sit down and talk. The
+young man said he and his college roommate had overspent during their vacation and did not have
+enough money to pay their hotel bill. Coolidge added up the room rate and two rail tickets back to
+the campus. Then he counted out $ 32 and said it was a loan. He then told the thief that there
+probably would be a Secret Service agent patrolling( 巡逻) the hotel corridor and asked if an
+escape could be made by going back along the hotel ledge(窗台).
+The man left through the same window he had entered.
+41 .The phrase “a cat burglar” in the first line means “a thief who ______”.
+A. steals cats
+B. has nine lives like a cat
+C. is fond of the game of cat-and-mouse
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 5 页 -->
+
+D. enters buildings by climbing through windows
+42. The burglar intended to steal the ______.
+A. wallet
+B. watch
+C. wallet and the watch
+D. wallet and the watch chain
+43. The “charm” in Paragraph 2 probably means “______”.
+A. the power of attracting people
+B. a word believed to have magic power
+C. a small object that is attached to a chain
+D. a small thing worn for supposed magic power
+44. The president gave the burglar ______ dollars.
+A. 80
+B. 32
+C.48
+D. 112
+45. What can we infer from the passage?
+A. Coolidge kept the secret for the burglar.
+B. Coolidge gave the watch to the burglar but kept the charm.
+C. Coolidge gave the burglar a sum of money which was only enough to pay his hotel bill.
+D. Coolidge reported the burglary to the secret Service Agency and the burglar was arrested.
+Passage 3
+China will continue its policy of encouraging people to study abroad, Vice-Minister of
+Education Wei Yu said last week.
+China will also encourage students to return to the motherland to participate in its
+modernization effort, she said, and if they want to go abroad again the country will give them the
+green light.
+On June 23, 1978, the late Deng Xiaoping, then Chinese Vice-premier, decided that more
+people should study abroad, and the policy started a 20-year study –abroad fever.
+In Chinese cities, it is difficult to find a young person who has not heard of TOEFL (Test of
+English as a Foreign Language or GRE (Graduate Record Examination, the primary tests
+required to attend graduate school in the United States.
+China sent its first group of students to study in the United States and Europe back in 1872.
+The ended during World War Ⅱ.
+During the 1950’s, the major destination for students was the former Soviet Union. Many
+Chinese leaders were students in Soviet colleges.
+But the “Cultural revolution (1966-76” dealt a blow to the enthusiasm. Any contacts with
+foreigners were strictly banned(禁止.
+“To some extent, the difficulty of a shortage of talented people has been eased,” she said,
+“thanks to the study-abroad policy which has in turn promoted China’s opening-up to the rest of
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 6 页 -->
+
+the world.” Wei went on to say that during the past two decades, about 300,000Chinese have gone
+to study in more than 100countries. By the end of 1997, a total of 163,100 Chinese had studied in
+United States, accounting for 56 percent of the students who went overseas to study.
+“Facts have proved that Deng’s decision was correct.” Wei said.
+Another official said that more and more students have returned to China after completing
+their studies abroad. “China’s economic miracle is providing them with opportunities to develop
+their talent.” Ha said, adding that their social status，working and living conditions have been
+improving.
+46. In paragraph 2, the “gream light” refers to ______.
+A. the passport
+B. the permission
+C. the symbol of welcome
+D. one of the traffic signals
+47. The passage implies that ______.
+A. in China few young people have taken the TOEFL test
+B.it is difficult to find many young people to take TOEFL test
+C.TOEFL and GRE are tests for primary education in the U.S.
+D. TOEFL and GRE are two popular tests for Chinese youth to study in the U.S.
+48. According to the passage, about 300,000 Chinese have been sent to study abroad
+since______.
+A. 1978
+B. 1976
+C. 1950
+D. 1872
+49. China’s study-abroad policy is rewarded, for
+.
+A. the returned talents from abroad have helped China to develop
+B. 163000 students have received or completed higher education in the U.S
+C. all the students who went to the U.S for further studies have returned to China
+D. the problem of shortage of talents has become more severe
+50. In the passage, it may be concluded that ______.
+A. People go abroad mainly for better working conditions
+B. very few young people have completed their education abroad
+C. China’s study-abroad policy has been proved a great success
+D. more talented overseas students will come to China to finish their studies
+Passage 4
+Thousands of years ago man used handy rocks for his surgical operations. Later he used
+sharp bone or horn, mental knives and more recently, rubber and plastic and that was where we
+stuck, in surgical instrument terms, for many years. In the 1960s a new tool was developed, one
+which was, first of all, to be of great practical use to the armed forces and industry, but which was
+also, in time, to change greatly the art and science of surgery.
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 7 页 -->
+
+The tool is the laser(激光) and it is being used by more and more surgeons all over the world.
+As we all know, light is hot, any source of light----from the sun itself down to a simple match
+burning----will give warmth. But light is usually spread out over a wide sea. The light in a laser
+beam(激光束), however ,is concentrated(密集). This means that a light with no more power than
+that produced by an ordinary electric light bulb becomes intensely strong as it is concentrated to a
+pinpoint-sized(针尖大小的) beam.
+Experiments with these pinpoint beams showed researchers that different energy sources
+beams that have a particular effect on certain living cells. It’s now possible for eye surgeons to
+operate on the back of human eye without harming the front of the eye, simply by passing a laser
+beam light through the eye-ball. No knives, no stitches( 缝针), no unwanted damage----a true
+surgical wonder operations which once made patients tired and in need of long period of recovery
+time now leave them feeling calm and comfortable. So much more difficult operations can now be
+tried.
+The rapid development of laser techniques in the past ten years has made it clear that the
+future is likely to be very exciting. Perhaps some cancers will be treated with laser in a way that
+makes surgery not only safer but also more effective. Altogether, tomorrow may see more and
+more information coming to light on the diseases which can be treated medically.
+51. The instruments of surgical operations up until 1960s can be described as ______.
+A. traditional
+B. complicated
+C. magical
+D. revolutionary
+52. What changes have taken place since the appearance of laser in the 1960s?
+A. Industrial revolution has made medical help available for industrial workers.
+B. The research in study of art went through a complete revolution.
+C. Surgery benefits greatly from the industrial revolution.
+D. The methods in surgery for patients changed greatly.
+53. The laser beam is very strong because ______.
+A. it is artificially lighted
+B. it gives off heat all directions
+C. it contains a concentrated beam of the light
+D. its temperature increases due to the heat of the sun
+54. By applying the laser beam, surgeons can perform operations which ______.
+A. may make their patients suffer with negative effects
+B. may take their patients a long time to recover
+C. do little harm to their patients
+D. can only treat eye diseases
+55. The rapid development of laser techniques indicates that ______.
+A. in future we also cure cancers
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 8 页 -->
+
+B. surgery is likely to be improved considerably
+C. in future all the diseases can certainly be cured
+D. operations will be performed more complicatedly future
+Part III
+Cloze (10%)
+Directions: There are 20 blanks in the following passage, for each blank there are four
+choices. Choose the one best answer grad mark the corresponding letter on the answer Sheet.
+People from different cultures sometimes do things that make each other uncomfortable,
+sometimes without realizing it. Most Americans 56 out of the country and have very 57 experience
+with foreigners. But they are usually spontaneous(朴实的), friendly and open, and enjoy 58 new
+people, having guests and bringing people together formally and informally. They tend to use first
+names 59 most situations and speak freely 60 themselves. So if your American hosts do something
+that 61 you uncomfortable, try to let them know 62 you feel. Most people will 63 you honesty and
+try not to make you uncomfortable again. And you’ll 64 something about another culture!
+Many travelers find 65 easier to meet the people in the U.S. 66 in other countries. They may
+just come 67 and introduce themselves or even invite you over 68 they really know you.
+Sometimes Americans are said to be 69. Perhaps it seems so, but they are probably just 70 a good
+time. Just like anywhere else, it 71 time to become real friends 72 people in the U.S.
+If and 73 you stay with American friends, they will probably 74 introducing you to their
+friend and family, and if they seem proud 75 you, it’s probably because they are. Relax and enjoy
+it!
+56.
+A. have never been
+B. have been never
+C. has never been
+D. has been never
+57.
+A. a little
+B. little
+C. much
+D. a great deal
+58.
+A. meet
+B. to meet
+C. meeting
+D. to have meet
+59.
+A. on
+B. among
+C. under
+D. in
+60.
+A. of
+B. on
+C. in
+D. about
+61.
+A. make
+B. makes
+C. made
+D. making
+62.
+A. how
+B. why
+C. when
+D. where
+63.
+A. praise
+B. judge
+C. appreciate
+D. believe
+64.
+A. research
+B. learn
+C. inquire
+D. study
+65.
+A. it
+B. this
+C. them
+D. that
+66.
+A. where
+B. when
+C. than
+D. why
+67.
+A. on
+B. by
+C. off
+D. up
+68.
+A. When
+B. before
+C. though
+D. if
+69.
+A. superficially friend
+B. superficial friend
+C. superficial friendly
+D. superficially friendly
+70.
+A. having
+B. taking
+C. making
+D. getting
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 9 页 -->
+
+71.
+A. spends
+B. gains
+C. takes
+D. gets
+72.
+A. with
+B. among
+C. to
+D. in
+73.
+A. after
+B. though
+C. where
+D. when
+74.
+A. hate
+B. forbid
+C. enjoy
+D. avoid
+75.
+A. knowing
+B. to know
+C. know
+D. having known
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 10 页 -->
+
+Part IV
+Writing (15%)
+Directions: This part is to test your ability in practical writing. Now you are required to write a
+letter according to the information given in Chinese. Your writing should contain over 100 words
+and you should write it on the Composition Sheet.
+76．你叫李明，去年考上了大学，而你的同桌张强却落榜了。经过一年的复习，他今年也考
+上了大学。你得知此消息后，十分高兴，给他写了一封贺信。信中谈到了你们三年高中学习
+中难忘的事情以及你们之间的友谊，还可以向他简单谈谈你的大学生活感受，并且给他一些
+忠告，以应付即将开始的大学生活。
+温馨提示：你只能根据上述提示写一封贺信，不可以直接将上面这段文字翻译成英语。
+不可以署你的真实姓名。
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881

@@ -1,0 +1,672 @@
+# 2008-paper
+
+> 由 `scripts/pdf_to_md.py` 从 PDF 文字层直抽，共 10 页，实质内容 10 页，跳过 0 页（水印/空白/纯图片）。
+> 未做人工校对；公式与图片内容不在文字层内，需另行 OCR。
+
+<!-- 原 PDF 第 1 页 -->
+
+机密★启用前
+广东省2008 年普通高等学校本科插班生招生考试
+英语
+Part I
+Vocabulary and Structure (35%)
+Directions: There are 35 incomplete sentences in this part. For each sentence, there are four
+choices marked A, B, C and D. Choose the one that best completes the sentence, and then mark
+the corresponding letter on the Answer Sheet.
+1. The last decade ______ tremendous changes in the means of transportation.
+A. has witnessed
+B. was witnessed
+C. witnessed
+D. is witnessed
+2. When they entered the room, they found the windows open and something ______.
+A. stolen
+B. to be stolen
+C. to steal
+D. stealing
+3. You can join us for this activity ______ you follow these rules strictly.
+A. on condition that
+B. just as
+C. now that
+D. in case
+4. The research scientists often meet with problems ______new types of instruments for their
+solution.
+A. require
+B. to require
+C. required
+D. requiring
+5. The house is well decorated ______ the disarrangement of a few photos.
+A. except
+B. besides
+C. except for
+D. in addition to
+6. Without computers, we ______ the tremendous medical advancement in the last few decades.
+A. would not make
+B. will not have made
+C. could not make
+D. couldn’t have made
+7. The tree, the branches ______ are almost bare, is a very old one.
+A. whose
+B. in which
+C. of which
+D. which
+8. What’s dons is done, It’s no use ______ anyone for it.
+A. blaming
+B. blame
+C. to blame
+D. to be blaming
+9. It is the boy’s laziness that ______ his failure in the exam.
+A. resulted from
+B. led to
+C. brought in
+D. led into
+10. I can’t ______ this type of computer; it’s too expensive.
+A. cost
+B. spend
+C. afford
+D. trade
+11. The students were assigned different tasks according to their ______ abilities.
+A. respectful
+B. respectable
+C. respective
+D. responsible
+12. Thank you for the ______ you did me to move the sofa upstairs.
+A. favor
+B. good
+C. help
+D. kindness
+关注微信公众号
+免费下载更多资料
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 2 页 -->
+
+13. As for the quality of this model of color TV sets, the ones made in Chine are by no means
+______ those imported.
+A. inferior than
+B. less inferior to
+C. less inferior than
+D. inferior to
+14. This well-known international organization was ______ several years ago.
+A. set up
+B. made up
+C. taken up
+D. got up
+15. The couples had to move to the north because they found it hard to ______ themselves to the
+hot climate in the south.
+A. adopt
+B. make
+C. enjoy
+D. adjust
+16. I remembered ______ the door before I left the house.
+A. locking
+B. lock
+C. to lock
+D. locked
+17. I didn’t hear ______because there was too much noise where I was sitting.
+A. what did he say
+B. what he had said
+C. what was he saying
+D. what to say
+18. George took ______ of the fine weather to do a day’s work in his garden.
+A. advantage
+B. profit
+C. interest
+D. charge
+19. We found that the plane ______when we got to the airport.
+A. already took off
+B. had already taken off
+C. was already taking off
+D. was already taken off
+20. The sudden rise in oil prices led to an economic ______ in the country.
+A. crash
+B. crisis
+C. threat
+D. danger
+21. The reason I didn’t attend the lecture was simply ______ I got a bad cold that day.
+A. because
+B. as
+C. that
+D. for
+22. California relies heavily on income from fruit crops, ______ .
+A. also does Florida
+B. so Florida does
+C. so does Florida
+D. Florida does either
+23. Such a reliable person as him won’t make ______ promises.
+A.
+bare
+B. empty
+C. blank
+D. vacant
+24. In English vocabulary, words of French ______ are not rare.
+A. source
+B. resource
+C. birth
+D. origin
+25. One new ______ to learning a foreign language is to study the language in its cultural context.
+A. approach
+B. solution
+C. manner
+D. road
+26. Staring at the ruins of his house, he couldn’t ______ how the fire had broken out.
+A. bring out
+B. turn out
+C. figure out
+D. pick out
+27. I didn’t know what to do, but then an idea ______ to me suddenly.
+A. happened
+B. entered
+C. hit
+D. occurred
+28. The government has lost a great deal of ______ because of the large increase in food price.
+A. strength
+B. support
+C. agreement
+D. vote
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 3 页 -->
+
+29. I continued to study ______ the discouragement I had received.
+A. despite of
+B. despite
+C. in spite
+D. in spite that
+30. They said I had given ______ the whistle was worth.
+A. twice as many as
+B. as twice many as
+C. as twice much as
+D. twice as much as
+31. It is necessary to ______ a large vocabulary in learning a language.
+A. accumulate
+B. collect
+C. assemble
+D. gather
+32. Many people in Africa seem to be ______ of the American way of life: driving everywhere.
+A. envious
+B. hopeful
+C. pleased
+D. happy
+33. One requirement for this job is that you must be ______ to work on weekends.
+A. accessible
+B. available
+C. acceptable
+D. capable
+34. Rain does not ______ bring down the temperature.
+A. certainly
+B. undoubtedly
+C. necessarily
+D. completely
+35. Theory is based on practice and ______ serves and guides practice.
+A. in turn
+B. by turns
+C. taking turns
+D. in return
+Part II
+Reading Comprehension (40%)
+Directions: In this section, there are four passages, each of which is followed by five questions or
+unfinished statements. Choose the best and mark the corresponding letter on the answer Sheet.
+Passage 1
+In Western countries people have been using the installment（分期付款）plan since the first
+half of the twentieth century. Today, a large number of families in Great Britain buy furniture,
+household goods and cars by installment. In the U.S. , the figure is much higher than in Great
+Britain, and people there spend over 10 percent of their income on the installment plan.
+The price of an article bought on installment is always higher than the price that would be
+paid by cash. There is a charge for interest. The buyer pays one quarter or one third of the price as
+a down payment （首期付款）when the goods are delivered to him. He then makes regular
+payments, weekly or monthly, until the full piece is paid up. The legal ownership of the goods
+remains with the seller until the final payment has been made.
+Installment buying has advantages and disadvantages. It can help couples with small
+incomes to furnish their homes and start housekeeping. It increases the demand for goods, and in
+this way helps business and employment. There is, however, the danger that when business is bad,
+installment buying may end suddenly, making business much worse. This may result in a great
+increase in unemployment. If the people on the installment plan lose their jobs, they will probably
+not be able to make their payments. If great numbers of people are not able to pay their installment
+debts there is a possibility that businessmen cannot collect their debts and will therefore lose
+money. If businessmen lose money or fail to make a satisfactory profit, it becomes more likely to
+have a depression. This is why, in some countries, the government controls the installment plan by
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 4 页 -->
+
+fixing the amount of the down payment and each of the following installments to discourage
+people from buying more than they can pay for on the installment plan.
+36. Which of the following is NOT true about the installment plan?
+A. A lot of British families use the installment plan.
+B. More than 10 percent American families buy things on installments.
+C. Americans depend more on installment than British people do.
+D. Americans spend more than one tenth of their income on installment buying.
+37. Goods bought on installments are more expensive than goods bought by cash because ______.
+A. the buyer has to pay extra money as interest
+B. the delivery of the goods charges extra money
+C. the buyer has to pay a down payment
+D. the service offered by installment plan is much better
+38. What will happen to a buyer if he fails to make the full payment for an item bought on
+installment?
+A. He might lose his job.
+B. He will not own the item he has bought.
+C. He will have to sell what he has bought.
+D. He will go into debt.
+39. The advantage of installment buying might include all the following EXCEPT that ______.
+A. purchasing power is strengthened
+B. employment might be increased
+C. people develop a good habit of saving money
+D. young couples are able to furnish their homes
+40. In some countries, the governments control the installment plan to ______.
+A. increase employment
+B. increase people’s income
+C. ensure that businesses make good profits
+D. ensure that people can pay for what they buy
+Passage 2
+Publicity（宣传，报道）offers several benefits. There are no costs for message time or space.
+An ad in prime time television may cost $ 250,000 or more per minute, whereas a five-minute
+report on a network newscast would not cost anything. However, there are costs for news releases
+（发布）, a publicity department, and other items. As with advertising, publicity reaches a mass
+audience. Within a short time, new products or company policies are widely known.
+Credibility（可信度）about messages is high, because they are reported in independent
+media. A newspaper review of a movie has more believability than an ad in the same paper,
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 5 页 -->
+
+because the reader associates independence with objectivity. Similarly, people are more likely to
+pay attention to news reports than ads. Readers spend time reading the stories, but they flip
+through （草草翻阅）the ads. Furthermore, there may be hundreds of ads in a magazine. Feature
+stories （专题报道）are much fewer in number and stand out clearly.
+Publicity also has some significant limitations. A firm has little control over messages,
+their timing, placement（报道顺序）, or coverage. It may issue detailed news releases and find only
+small portions of them reported by the media; and media have the ability to be much more critical
+than a company would like. A firm may want publicity during certain periods, such as when a new
+product is introduced or new store opened, but the media may not cover the introduction or
+opening until after the time it would aid the firm. Similarly, media determine the placement of a
+story; it may follow a report on crime or sports. Finally, the media ascertain（确定）whether to
+cover a story at all and the amount of coverage to be devoted to it. A company-sponsored（赞助）
+job program might go unreported or receive three-sentence coverage in a local newspaper.
+41.The author mentions all of the following advantages of publicity EXCEPT ______.
+A. having no time costs
+B. having attentiveness
+C. having high credibility
+D. having no space costs
+42.People are more likely to believe in news reports than ads because ______.
+A. they reach a larger audience than ads do
+B. they are all latest events
+C. they appear in independent media
+D. they are much more in number and stand out clearly
+43.Which of the following in NOT a limitation of publicity?
+A. Bad timing
+B. Very detailed reporting
+C. Placement after a report on crime
+D. Being reported much less than expected
+44.One of the reasons why feature stories seem more reliable than ads is that ______.
+A. they are more believable
+B. they are more objective
+C. they are more interesting
+D. they are much fewer in number and stand out clearly
+45.The last sentence in the last paragraph implies that ______.
+A. the placement of a story is not quite important
+B. the report of a crime may not be true
+C. local newspapers may not be interested in company-sponsored programs
+D. publicity is always successful
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 6 页 -->
+
+Passage 3
+The idea behind “ the rule of law ” is that it is laws based on logical reasons and clear
+thinking that should govern social life. “ We live under a rule of law, not of men. ” American
+teachers tell their students. The students accept the idea. They believe that “no man is above the
+law,” and that laws apply equally to all people no matter how wealthy they are, what their personal
+connections are, or what their stations in life are. Their faith in the rule of law explains the belief
+many Americans held, and many foreigners could not understand, that President Richard Nixon
+should be removed from office as a result of his behavior in connection with what was
+called“ Watergate Scandal ( 水门事件)”. Nixon had broken the law and therefore should be
+punished, Americans believed, even if he was the President.
+The belief in the rule of law goes beyond the area of politics to other areas of life that are
+governed by formal rules and procedures. To get a job with government institutions, for example,
+or to get government funding for a research project, one must follow published procedures and
+show that one meets the published requirements. Personal connections are not supposed to matter
+under the rule of law.
+This is not to say that personal contacts, wealth, and social influence do not matter in
+situations where laws and rules are to be obeyed. They may. What is said above describes the ideal
+with which Americans agree. In reality, connections can sometimes help a person get a
+government job. Rich people can sometimes go unpunished for illegal behavior that poor people
+would be likely to be punished for. But in general the rule of law prevails, and Americans are
+proud that it does.
+46.The word “ stations” (Line 5, Para 1) is closest in meaning to ______.
+A. stages
+B. situations
+C. successes
+D. social positions
+47.The writer mentions President Richard Nixon in the first paragraph in order to show that
+______.
+A. no man is above the law
+B. the president should make sure of the rule of law
+C. the rule of law is important in politics
+D. American people have the right to remove the president
+48.It can be learned from the last paragraph that in the United States the rule of law ______.
+A. is not carried out as fully as it should be
+B. makes poor people also likely to be successful
+C. is, in reality, almost impossible to realize
+D. makes sure that everyone is punished for his wrongdoing
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 7 页 -->
+
+49.The pronoun “ They ” in the second line of the last paragraph refers to all of the following
+EXCEPT ______.
+A.personal connections
+B. laws and rules
+C. social influence
+D. wealth
+50.The main idea of the last paragraph is ______.
+A. Americans are idealistic (理想主义的) about laws
+B. rich people can sometimes go unpunished for illegal behavior
+C. the American employment system is unfair
+D. laws are more important than personal connections or influence in most cases in the US
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 8 页 -->
+
+Passage 4
+Human cloning（克隆）technology could be used to reverse heart attacks. Scientists believe
+that they may be able to treat heart attack victims by cloning their healthy heart cells and injecting
+them into the areas of the heart that have been damaged, and other problems may be solved if
+human cloning and its technology are not forbidden.
+With cloning, infertile couples could have children. Current treatments for infertility, in
+terms of percentages （百分比）, are not very successful. Couples go through physically and
+emotionally painful procedures for a small chance of having children. Many couples run out of
+time and money without successfully having children. Human cloning could make it possible for
+many more infertile couples to have children than ever before. We should be able to clone the
+bone marrow (骨髓) for children and adults suffering from leukemia (白血病). This is expected to
+be one of the first benefits to come from cloning technology.
+We may learn how to switch cells on and off through cloning and thus be able to cure cancer.
+Cloning technology can be used to test for and perhaps cure gene-related diseases. The above are
+just a few examples of what human cloning technology can do for mankind.
+This new technology promises unprecedented advancement in medicine if people will
+release their fears and let the benefits begin.
+51. Heart attacks can be treated with human cloning technology by ______.
+A. removing the damaged part of the heart
+B. replacing the old heart with a cloned one
+C. repairing the heart with cells cloned from healthy ones
+D. giving the patients injections of various medicines
+52. The word “ infertile ”(Line 1, Para. 2) most probably means
+“______” .
+A. unable to give birth to a child
+B. having physical and emotional problems
+C. short of time and money
+D. separated from each other for long
+53. Paragraph Two implies that in treating infertility, ______.
+A. the percentage of successful treatments is very high when present methods are used
+B. the present treatment is very cheap
+C. the cloning technology costs less time and money in treating infertility
+D. the cloning technology is more suitable for treating infertility than leukemia
+54. The following are all examples of the benefits from the cloning technology EXCEPT ______.
+A. treating heart attack victims
+B. releasing people’s fears
+C. treatment for infertility
+D. curing cancer
+55. According to the writer, the main problem with the development of human cloning technology
+is that ______.
+A. it may be out of human control
+B. it has brought about few benefits so far
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 9 页 -->
+
+C. people still know little about it
+D. people are afraid of such technology
+Part III
+Cloze (10%)
+Directions: There are 20 blanks in the following passage, for each blank there are four choices.
+Choose the one best answer grad mark the corresponding letter on the answer Sheet.
+We got up early this morning and
+56 a long walk after breakfast. We walked
+the
+business section of the city. The city
+larger than I thought it would be. Well, the business
+section is smaller than I thought it would be. I suppose that’s
+Washington is a special kind
+of city.
+60 of the people in Washington work for the government.
+About 9:30 we went to the White House. It’s
+the public from ten
+twelve, and
+there was a long line of people
+to get in. We didn’t have to wait very long, because the line
+moved pretty quickly.
+The White House is really white. It
+64 every year. And it seems very white, because it’s got
+beautiful lawns
+around it, with many trees and shrubs. The grounds
+about four
+square blocks. I mean, they’re about two blocks long
+each side.
+Of course, we didn’t see the whole building. The part
+the President lives and works
+can not be visited by the public. But the part we saw was beautiful. We went through five of the
+main rooms. One of
+was the library, on the ground floor. On the next floor, there are three
+rooms named
+the colors that are used in them: the Red Room, the Blue Room, and the
+Green Room. The walls are covered with silk 71 . There are
+old furniture, from the time
+the White House was
+built. And everywhere there are paintings and statues of former
+presidents and
+famous people from history.
+56.
+A. made
+B.
+took
+C.
+did
+D.
+set
+57.
+A. among
+B.
+through
+C.
+between
+D.
+upon
+58.
+A. was
+B.
+is
+C.
+has been
+D.
+should be
+59.
+A. reason
+B.
+for
+C.
+because
+D.
+since
+60.
+A. Amounts
+B.
+Much
+C.
+A great deal
+D.
+Most
+61.
+A. open to
+B.
+opened to
+C.
+open for
+D.
+opened for
+62.
+A. near
+B.
+since
+C.
+towards
+D.
+to
+63.
+A. waited
+B.
+wait
+C.
+waiting
+D.
+to wait
+64.
+A. was painted
+B.
+has been painted
+C.
+gets painted
+D.
+had been paint
+65.
+A. all
+B.
+whole
+C.
+every
+D.
+each
+66.
+A. cover
+B.
+make
+C.
+cost
+D.
+spend
+67.
+A. about
+B.
+on
+C.
+in
+D.
+for
+68.
+A. that
+B.
+which
+C.
+where
+D.
+what
+69.
+A. that
+B.
+those
+C.
+it
+D.
+them
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
+
+
+<!-- 原 PDF 第 10 页 -->
+
+70.
+A. in
+B.
+by
+C.
+with
+D.
+after
+71.
+A. cloth
+B.
+clothing
+C.
+clothes
+D.
+dressing
+72.
+A. many pieces of
+B.
+many bits of
+C.
+a great many
+D.
+many a
+73.
+A. which
+B.
+that
+C.
+when
+D.
+where
+74.
+A. firstly
+B.
+at first
+C.
+first
+D.
+early
+75.
+A. the other
+B.
+other
+C.
+others
+D.
+another
+Part IV
+Writing (15%)
+Directions: This part is to test your ability in practical writing. Now you are required to write a
+letter according to the information given in Chinese. Your writing should contain 100 to 120
+words and you should write it on the Answer Sheet.
+76．2010 年广州将举办亚运会。你从报纸上得知广州亚运会组织委员会（Guangzhou Asian
+Games Organizing Committee）将招募志愿者（recruit volunteers）。请你以个人名义给组委
+会写一封申请信，说明你希望当一位志愿者。信中必须包括：
+（1）你申请的理由；
+（2）具备的条件；
+（3）你有何设想和建议。
+写信人：张明（考生不得署自己的真实姓名）
+更多插本资讯&资料
+公众号：插本政治通
+公众号：插本政治通
+资料下载Q群：783176020/913885881
