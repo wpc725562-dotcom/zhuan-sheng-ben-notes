@@ -23,15 +23,17 @@
 | `math/` | 2003–2019 合集 | 86 页合集，文字层完整 |
 | `politics/` | 2012–2019 合集 | 41 页合集，文字层完整 |
 
+**图片排版页已 OCR 补齐**：`english/2024-full.md` 有 9 页是整页图片（扫描版真题），已由 `scripts/pdf_fill_image_pages.py` 用视觉模型补齐并插回原页序，标记为 `<!-- 原 PDF 第 N 页（视觉模型 OCR 补齐） -->`。这些页需人工校对。
+
 ---
 
-## 无文字层（需 OCR，本目录未生成）
+## 纯扫描件（整本无文字层，单独成文）
 
-| 源文件 | 页数 | 处理 |
+| 源文件 | 页数 | 文字版 |
 |:---|:---:|:---|
-| `english/2008-2012-answers.pdf` | 5 | 纯扫描，用 `scripts/pdf_vision_ocr.py` |
-| `politics/2020.pdf` | 5 | 纯扫描，同上 |
-| `math/2020.pdf` | 6 | 纯扫描，同上 |
+| `english/2008-2012-answers.pdf` | 5 | `english/2008-2012-answers-OCR版.md` |
+| `politics/2020.pdf` | 5 | `politics/2020-OCR版.md` |
+| `math/2020.pdf` | 6 | `math/2020-OCR版.md` |
 
 ---
 
