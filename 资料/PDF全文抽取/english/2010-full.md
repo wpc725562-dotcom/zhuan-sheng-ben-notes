@@ -65,11 +65,8 @@ B.with
 C.owing to
 D.for
 11.There were no tickets ______ for Friday’s performance．
-关注微信公众号
 免费下载更多资料
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -159,8 +156,6 @@ C.saying
 D.speaking
 27.Two hundred people showed up for the wedding, about 50 more than we ______ planned.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -229,8 +224,6 @@ real world. The young need to learn that no one can be best at everything, no on
 time—and that it is possible to enjoy a game even when you don’ t win. A child who’ s not invited
 to a birthday party, who doesn’t t make the honor roll on the baseball team, feels terrible, of
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -271,8 +264,6 @@ C.To find out the cause and improve himself.
 D.To remember the past failures.
 Passage 2
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -314,8 +305,6 @@ C.They believe that men want them to do so.
 D.They have low self-esteem in their appearance.
 44.What is men’s proper reaction when a woman asks how she looks, according to this passage?
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -358,8 +347,6 @@ B.In Scotland there are no other snakes except the adder.
 C.Snake bites seem more dangerous than they actually are.
 D.People’s attempts at emergency treatment are utterly unnecessary.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -399,8 +386,6 @@ of larger communities. In the United States, the school bus also led to the decl
 because it made it possible to consolidate(合并) numerous small schools. Small villages where
 small schools were closed went into decline.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -443,8 +428,6 @@ C.contribution of transportation to professionals
 D.transportation’s role in economy
 55. Which of the following is NOT true according to the last two paragraphs?
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -544,8 +527,6 @@ B.adapt
 C.put
 D.direct
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -582,8 +563,6 @@ B.for
 C.upon
 D.at
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -601,6 +580,4 @@ words and you should write it on the Answer Sheet.
 爱好、性格特征(personal characteristics)、家庭地址、联系电话、电子邮箱等等。
 提示：不要写成求职信，不可将上面的说明文字直接翻译成英语，不能署真实姓名。
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881

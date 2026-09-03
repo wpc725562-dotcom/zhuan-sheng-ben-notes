@@ -74,11 +74,8 @@ B. heavily
 C. badly
 D. severely
 13. The fire that ______ yesterday caused at least ten people’s death.
-关注微信公众号
 免费下载更多资料
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -180,8 +177,6 @@ B. has
 C. will have
 D. should have
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -239,8 +234,6 @@ D. like to be a leader rather than a follower
 37.
 If one enjoys life, one is sure to prefer ______.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -287,8 +280,6 @@ concern brings hope for farmers competing with powerful supermarkets. While most
 food from the big supermarkets, hundreds of independent Farmers’ Markets are becoming popular.
 41. Charlotte Hollins is talking about her feeling of a battle between “______”
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -337,8 +328,6 @@ friends, imagine how you would manage if you could not get up steps, or on to bu
 How would you cope if you could not see where you were going or could not hear the traffic? But
 there are other barriers: prejudice can be even harder to break down and ignorance inevitably
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -385,8 +374,6 @@ one fateful day. No one can show his best in worry, or after a sleepless night, 
 what the examination system expects him to do.
 A good education should, among other things, train you to think for yourself. The examination
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -446,8 +433,6 @@ half of it or keeping the text
 the title. Therefore, I should prepare
 61 I start to cut. Or it
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -581,8 +566,6 @@ B. rich
 C. bad
 D. weak
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -596,6 +579,4 @@ and you should write it on the Composition Sheet.
 息的来源、表示高兴和祝贺、讲座内容（他成功的经验）。
 温馨提示：不可将上面的说明文字直接翻译成英语；考生不能署真实姓名。
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881

@@ -81,8 +81,6 @@ D. insist
 14.Import of the first three months this years is larger by 7 percent than that ______ of the period
 last year
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -179,8 +177,6 @@ B. must come
 C. must have come
 D. should come
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -236,8 +232,6 @@ D. Chaplin always did the same actions in his films.
 A. faints away on the floor, trying to be brave
 B. behaves as if he was a successful, important rich man
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -285,8 +279,6 @@ A. steals cats
 B. has nine lives like a cat
 C. is fond of the game of cat-and-mouse
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -333,8 +325,6 @@ foreigners were strictly banned(禁止.
 “To some extent, the difficulty of a shortage of talented people has been eased,” she said,
 “thanks to the study-abroad policy which has in turn promoted China’s opening-up to the rest of
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -382,8 +372,6 @@ stuck, in surgical instrument terms, for many years. In the 1960s a new tool was
 which was, first of all, to be of great practical use to the armed forces and industry, but which was
 also, in time, to change greatly the art and science of surgery.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -429,8 +417,6 @@ D. can only treat eye diseases
 55. The rapid development of laser techniques indicates that ______.
 A. in future we also cure cancers
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -533,8 +519,6 @@ B. taking
 C. making
 D. getting
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -566,8 +550,6 @@ B. to know
 C. know
 D. having known
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -585,6 +567,4 @@ and you should write it on the Composition Sheet.
 温馨提示：你只能根据上述提示写一封贺信，不可以直接将上面这段文字翻译成英语。
 不可以署你的真实姓名。
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881

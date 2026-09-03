@@ -71,8 +71,6 @@ B. richer
 C. poor
 D. poorer
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -164,8 +162,6 @@ B. thought
 C. paid
 D. thanked
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -233,8 +229,6 @@ Check tire pressure often, especially when the weather turns cold. The differenc
 winter and summer tire pressure can be as much as eight pounds. This could cost you two miles
 per gallon.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -282,8 +276,6 @@ B.means less gas consumption for the air conditioner
 C. prevents any gas from coming out of the tank
 D. helps start your car more easily
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -326,8 +318,6 @@ development -- health problems such as overweight are all becoming more common, 
 people take taxis to work instead of riding their bicycles, and other labour-saving devices become
 more popular.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -369,8 +359,6 @@ D. they are short of money
 49. According to the passage, who need regular exercise most?
 A. Only young and middle-aged ladies.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -411,8 +399,6 @@ For eighteen months, Jacob was paid a salary to paint pictures. For the first ti
 professional artist.
 51. All of the following are TRUE about Jacob EXCEPT that_____.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -451,8 +437,6 @@ asked yourself why children go to school? You will probably say that they
 go 57 languages, arithmetic, history, science and 58 subjects. That is quite true; but why do
 they learn these things? And are these things 59 that they learn at school?
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -644,8 +628,6 @@ Directions: This part is to test your ability in practical writing. Now you are 
 letter according to the information given in Chinese. Your writing should contain over 100 words
 and you should write it on the Composition Sheet.
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -659,6 +641,4 @@ and you should write it on the Composition Sheet.
 温馨提示：格式要符合英文信件要求；你的作文可以包括但不只限于上述内容；请勿
 直接将上述说明译成英语，要结合自己的情况写。不要署自己的真实姓名。
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881

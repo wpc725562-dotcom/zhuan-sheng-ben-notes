@@ -74,11 +74,8 @@ A. favor
 B. good
 C. help
 D. kindness
-关注微信公众号
 免费下载更多资料
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -168,8 +165,6 @@ B. support
 C. agreement
 D. vote
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -234,8 +229,6 @@ debts there is a possibility that businessmen cannot collect their debts and wil
 money. If businessmen lose money or fail to make a satisfactory profit, it becomes more likely to
 have a depression. This is why, in some countries, the government controls the installment plan by
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -278,8 +271,6 @@ audience. Within a short time, new products or company policies are widely known
 Credibility（可信度）about messages is high, because they are reported in independent
 media. A newspaper review of a movie has more believability than an ad in the same paper,
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -324,8 +315,6 @@ B. the report of a crime may not be true
 C. local newspapers may not be interested in company-sponsored programs
 D. publicity is always successful
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -369,8 +358,6 @@ B. makes poor people also likely to be successful
 C. is, in reality, almost impossible to realize
 D. makes sure that everyone is punished for his wrongdoing
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -388,8 +375,6 @@ B. rich people can sometimes go unpunished for illegal behavior
 C. the American employment system is unfair
 D. laws are more important than personal connections or influence in most cases in the US
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -438,8 +423,6 @@ is that ______.
 A. it may be out of human control
 B. it has brought about few benefits so far
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -599,8 +582,6 @@ it
 D.
 them
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
 
 
@@ -667,6 +648,4 @@ Games Organizing Committee）将招募志愿者（recruit volunteers）。请你
 （3）你有何设想和建议。
 写信人：张明（考生不得署自己的真实姓名）
 更多插本资讯&资料
-公众号：插本政治通
-公众号：插本政治通
 资料下载Q群：783176020/913885881
