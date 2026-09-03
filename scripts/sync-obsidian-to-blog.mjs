@@ -5,6 +5,13 @@
  * - 各科真题（不覆盖已完整的详解页）
  * - 英语系统学习笔记
  * - 重写侧栏 config.mts + 各科 index
+ *
+ * ⚠️ 危险（2026-09-04 实测）：本脚本的模板已落后于 docs/ 里的人工精修内容。
+ * 直接 `npm run docs:sync` 会删掉 config.mts 的 PWA 配置、日语板块、四科
+ * 「学习手册」导航（-290 行），以及 english/notes/grammar.md 的 Mermaid
+ * 时态时间轴与真题专项链接（-69 行）。跑完必须 `git diff` 逐文件核对，
+ * 或先 `git stash`/提交再跑。新增的 guardSource() 只防「源目录缺失→写空
+ * 索引」这一类，防不住模板过时导致的覆盖。
  */
 import fs from 'node:fs'
 import path from 'node:path'
@@ -39,6 +46,24 @@ function listMd(dir) {
     else if (ent.name.endsWith('.md') && !ent.name.startsWith('_')) out.push(full)
   }
   return out
+}
+
+/**
+ * 源目录缺失/无匹配笔记时中止该科的同步。
+ * 否则会用空列表覆盖已上线的 index.md，把整科导航清空（2026-09-04 实测
+ * 计算机程序设计/ 不存在，syncComputerNotes 会写出空索引覆盖 40 篇笔记入口）。
+ */
+function guardSource(label, srcRoot, files) {
+  const rel = path.relative(ROOT, srcRoot).replace(/\\/g, '/')
+  if (!fs.existsSync(srcRoot)) {
+    console.warn(`⚠️  跳过 ${label}：源目录 ${rel}/ 不存在，保留站点现有页面不动`)
+    return false
+  }
+  if (files.length === 0) {
+    console.warn(`⚠️  跳过 ${label}：${rel}/ 下没有可同步的 .md，保留站点现有页面不动`)
+    return false
+  }
+  return true
 }
 
 /** Obsidian → VitePress Markdown */
@@ -208,6 +233,7 @@ function chapterMetaFromPath(filePath) {
 function syncMathNotes() {
   const srcRoot = path.join(ROOT, '高等数学')
   const files = listMd(srcRoot)
+  if (!guardSource('高等数学章节笔记', srcRoot, files)) return { byChapter: new Map(), ordered: [] }
   const byChapter = new Map()
 
   for (const f of files) {
@@ -280,6 +306,7 @@ ${ordered.map((c) => `| ${c} | ${byChapter.get(c)?.length || 0} |`).join('\n')}
 function syncComputerNotes() {
   const srcRoot = path.join(ROOT, '计算机程序设计')
   const files = listMd(srcRoot)
+  if (!guardSource('计算机知识点笔记', srcRoot, files)) return []
   const items = []
 
   for (const f of files) {
@@ -339,6 +366,7 @@ ${dPart.map((i) => `- [${i.title}](/posts/computer/notes/${i.slug})`).join('\n')
 function syncPoliticsNotes() {
   const srcRoot = path.join(ROOT, '政治理论')
   const files = listMd(srcRoot)
+  if (!guardSource('政治系统笔记', srcRoot, files)) return []
   const items = []
 
   for (const f of files) {
