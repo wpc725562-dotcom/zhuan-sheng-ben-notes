@@ -1,5 +1,5 @@
 # 断链检查报告
-- 检查时间: 2026-09-04 04:26
+- 检查时间: 2026-09-04 07:59
 
 ## Wiki 双链检查
-- ❌ docs/learn/standard-japanese/conjugation-guide.md → [[toc]]
+- ❌ docs/posts/高频考点/index.md → [[../_考题模板排序|考题模板排序]]
