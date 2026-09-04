@@ -105,6 +105,7 @@ export default defineConfig({
           { text: '🎯 零基础五十音入门', link: '/learn/zero-baseline' },
           { text: '标日手册总目录', link: '/learn/standard-japanese/' },
           { text: '动词形容词变形总览', link: '/learn/standard-japanese/conjugation-guide' },
+          { text: '🎯 易混淆语法对比表', link: '/learn/standard-japanese/grammar-comparison' },
           { text: '初级篇 1-48 课', link: '/learn/standard-japanese/elementary' },
           { text: '中级篇 1-32 课', link: '/learn/standard-japanese/intermediate' },
           { text: '高级篇 1-24 课', link: '/learn/standard-japanese/advanced' },
@@ -147,6 +148,7 @@ export default defineConfig({
           items: [
             { text: '三卷总目录', link: '/learn/standard-japanese/' },
             { text: '词类与变形总览', link: '/learn/standard-japanese/conjugation-guide' },
+            { text: '🎯 易混淆语法对比表', link: '/learn/standard-japanese/grammar-comparison' },
             { text: '第一卷：初级篇', link: '/learn/standard-japanese/elementary' },
             { text: '第二卷：中级篇', link: '/learn/standard-japanese/intermediate' },
             { text: '第三卷：高级篇', link: '/learn/standard-japanese/advanced' },
@@ -196,6 +198,10 @@ export default defineConfig({
                     {
                               "text": "2026 全卷",
                               "link": "/posts/math/2026"
+                    },
+                    {
+                              "text": "2025 回忆版 📷",
+                              "link": "/posts/math/2025"
                     },
                     {
                               "text": "2024 全卷",
