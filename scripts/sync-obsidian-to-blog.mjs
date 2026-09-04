@@ -12,6 +12,12 @@
  * 时态时间轴与真题专项链接（-69 行）。跑完必须 `git diff` 逐文件核对，
  * 或先 `git stash`/提交再跑。新增的 guardSource() 只防「源目录缺失→写空
  * 索引」这一类，防不住模板过时导致的覆盖。
+ *
+ * ⚠️ 2025 例外（2026-08-30 补记）：docs/posts/math/2025.md 是人工聚合页
+ * （3 张 gif 回忆版），顶层 历年真题/高等数学/ 无 2025.md 源（_索引.md 已
+ * 声明该缺口），syncYearPapers 不会覆盖它，但 writeConfig 重建侧边栏时
+ * 「2025 回忆版 📷」条目会丢——跑完 sync 后需把它手工加回 config.mts
+ * 数学年份组（插在 2026 与 2024 之间）。
  */
 import fs from 'node:fs'
 import path from 'node:path'
