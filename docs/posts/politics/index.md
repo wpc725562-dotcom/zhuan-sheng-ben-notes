@@ -58,6 +58,7 @@ description: "系统笔记 + 2018–2024 真题演练"
 
 | 年份 | 页面 |
 |:---:|:---|
+| 2025 | [考情页（无可靠原卷）](/posts/politics/2025) |
 | 2024 | [打开](/posts/politics/2024) |
 | 2023 | [打开](/posts/politics/2023) |
 | 2022 | [打开](/posts/politics/2022) |
