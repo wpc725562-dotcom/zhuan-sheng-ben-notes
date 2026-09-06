@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/适用-2027届-brightgreen?style=for-the-badge" alt="Year">
   <img src="https://img.shields.io/badge/状态-备考中-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/笔记-130+篇-orange?style=for-the-badge" alt="Notes">
-  <img src="https://img.shields.io/badge/真题-60+年份页-red?style=for-the-badge" alt="Exams">
+  <img src="https://img.shields.io/badge/真题-67+年份页-red?style=for-the-badge" alt="Exams">
   <img src="https://img.shields.io/github/actions/workflow/status/wpc725562-dotcom/zhuan-sheng-ben-notes/deploy.yml?style=for-the-badge&label=Deploy" alt="Deploy">
   <img src="https://img.shields.io/github/stars/wpc725562-dotcom/zhuan-sheng-ben-notes?style=for-the-badge&label=Stars" alt="Stars">
 </p>
@@ -32,8 +32,8 @@
 |:---|:---:|:---:|:---:|:---:|
 | **政治理论**（公共课） | 100 | 29 篇 | 2012–2026（15 页） | 3 套 |
 | **公共英语**（公共课） | 100 | 42 篇 | 2005–2025（39 页） | 2 套 |
-| **高等数学**（专业基础课） | 100 | 82 篇 | 2003–2026（10 页） | 3 套 |
-| **计算机基础与程序设计**（专业综合课） | **200** | 60 篇 | 2018–2026（13 页） | 3 套 |
+| **高等数学**（专业基础课） | 100 | 82 篇 | 2003–2026（10 页，含 2025 OCR 版） | 3 套 |
+| **计算机基础与程序设计**（专业综合课） | **200** | 60 篇 | 2018–2027（14 页） | 3 套 |
 
 > **统计口径**（2026-09-04 重算，此前四科数字全部失真，曾导致外部评估误判为"模拟卷缺失"）：
 > - 笔记 = `docs/posts/<科>/**/*.md`，排除 `index.md`、模拟卷目录、答案页、正文 < 800 字符的占位页
@@ -151,6 +151,7 @@ zhuan-sheng-ben-notes/
 
 | 日期 | 更新内容 |
 |:---|:---|
+| **2026-09-07** | **知识库完善冲刺**：新增计算机 5 个必杀考点专项（3.4 循环数组 / 3.5 指针 / 3.6 递归 / 2.4a KMP / 2.5a 二叉树建树，26 项答案验证通过）；高数 2025 图片回忆版 OCR 文字化成卷（高置信题详解+低置信待校对）；政治 2025 考情页；高数新增 1.10 极限计算三法决策树；README 账实刷新；新增 .gitattributes 根治 CRLF |
 | 2026-08-24 | **仓库同步与升级**：合并远程/本地提交，新增 Agent 开发项目展示区 |
 | 2026-08-24 | 仓库四科整合：README 对齐高数/计算机/政治/英语全科结构 |
 | 2026-08-24 | 补全政治历年真题 2012-2019 + 2025 高数回忆版（图片） |

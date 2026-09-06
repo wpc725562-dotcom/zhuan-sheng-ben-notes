@@ -268,6 +268,10 @@ export default defineConfig({
                     {
                               "text": "1.5 闭区间上连续函数的性质",
                               "link": "/posts/math/notes/1.5-闭区间上连续函数的性质"
+                    },
+                    {
+                              "text": "1.10 极限计算三法决策树 ⭐",
+                              "link": "/posts/math/notes/1.10-极限计算三法决策树"
                     }
           ],
         },
@@ -655,8 +659,16 @@ export default defineConfig({
                               "link": "/posts/computer/notes/2.4-串、数组和广义表"
                     },
                     {
+                              "text": "2.4a 串与KMP",
+                              "link": "/posts/computer/notes/2.4a-串与KMP"
+                    },
+                    {
                               "text": "2.5 树和二叉树",
                               "link": "/posts/computer/notes/2.5-树和二叉树"
+                    },
+                    {
+                              "text": "2.5a 二叉树遍历与建树模板 🔴",
+                              "link": "/posts/computer/notes/2.5a-二叉树遍历与建树模板"
                     },
                     {
                               "text": "2.6 图",
@@ -687,6 +699,18 @@ export default defineConfig({
                     {
                               "text": "3.1 高频考点强化练习 ⭐",
                               "link": "/posts/computer/notes/3.1-高频考点强化练习"
+                    },
+                    {
+                              "text": "3.4 循环与数组综合编程专项 🔴",
+                              "link": "/posts/computer/notes/3.4-循环与数组综合编程专项"
+                    },
+                    {
+                              "text": "3.5 指针专项（函数/结构体） 🔴",
+                              "link": "/posts/computer/notes/3.5-指针专项·指针与函数结构体"
+                    },
+                    {
+                              "text": "3.6 递归与函数设计专项 🔴",
+                              "link": "/posts/computer/notes/3.6-递归与函数设计专项"
                     }
           ],
         },
