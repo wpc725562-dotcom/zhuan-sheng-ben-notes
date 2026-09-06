@@ -1,0 +1,17 @@
+# 统一换行符：所有文本文件入库规范化为 LF，杜绝 CRLF/LF 幻影修改
+* text=auto
+
+# 明确的二进制类型（防止误规范化）
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.zip binary
+*.gz binary
+*.db binary
