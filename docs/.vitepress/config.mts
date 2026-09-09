@@ -272,6 +272,10 @@ export default defineConfig({
                     {
                               "text": "1.10 极限计算三法决策树 ⭐",
                               "link": "/posts/math/notes/1.10-极限计算三法决策树"
+                    },
+                    {
+                              "text": "1.11 极限求值零基础·抓大头 ⭐",
+                              "link": "/posts/math/notes/1.11-极限求值零基础-抓大头"
                     }
           ],
         },
@@ -611,6 +615,10 @@ export default defineConfig({
                     {
                               "text": "1.5 循环结构程序设计",
                               "link": "/posts/computer/notes/1.5-循环结构程序设计"
+                    },
+                    {
+                              "text": "1.3a 变量与赋值·零基础 ⭐",
+                              "link": "/posts/computer/notes/1.3a-变量与赋值-零基础"
                     },
                     {
                               "text": "1.6 数组",

@@ -1,0 +1,14 @@
+{"date":"2026-09-07","subject":"综合","kind":"quiz","title":"5题诊断试水","score":"部分","mastery":"failed","note":"暴露：C语言不会默写最小框架(0/20)；不认识 lim 符号；求导 (x²)′=2x 会背写不出依据","weak":"C-程序框架, 高数-lim符号, 高数-求导依据"}
+{"date":"2026-09-07","subject":"英语","kind":"tool","title":"Anki 导入专升本英语高频词 2230 张","score":"","mastery":"na","note":"牌组「专升本英语-高频词」建立，之后按复习曲线自动排程","weak":""}
+{"date":"2026-09-08","subject":"综合","kind":"tool","title":"作战台门户 v1 上线（樱花风 6 页嵌入）","score":"","mastery":"na","note":"工具产出，非学习事件","weak":""}
+{"date":"2026-09-09","subject":"高数","kind":"quiz","title":"极限 4 题（读式子+判断）","score":"20/40","mastery":"partial","note":"会读符号但不会算结果：题2 只翻译条件没写出 =0；题4 判断对但不说原因","weak":"高数-极限求值(应用错误)"}
+{"date":"2026-09-09","subject":"C语言","kind":"quiz","title":"最小框架默写","score":"20/20","mastery":"passed","note":"#include / int main() / 大括号 / return 0 / 分号 全对，09-07 的框架残缺消除","weak":""}
+{"date":"2026-09-09","subject":"高数","kind":"lecture","title":"20 分钟扫盲微课（lim 读法/x→0与x→∞/∞不是数/C框架/整数除法）","score":"","mastery":"na","note":"替代作废的 15 题计划（对当时零基础量级不对）","weak":""}
+{"date":"2026-09-09","subject":"英语","kind":"anki","title":"Anki 复习 56 次","score":"17/56","mastery":"failed","note":"正确率 30%：在把错的刷熟，已立「掉下五成即停」规矩","weak":"英语-高频词正确率"}
+{"date":"2026-09-10","subject":"高数","kind":"quiz","title":"极限求值 6 题（含欠交 3 题 + 抓大头 2 题 + 判断说理）","score":"100/100","mastery":"passed","note":"①=0 ②=3 ③自己写出理由 ④=2 ⑤=5；同考点 09-09 仅 50% → 缺口闭合","weak":""}
+{"date":"2026-09-10","subject":"C语言","kind":"quiz","title":"for 循环人肉编译","score":"0/40","mastery":"failed","note":"答 4（正确 10）：把计数器 i 的末值当累计器 s；以为循环只跑 1 轮。根因=教练未教变量就出循环题","weak":"C-for循环, C-计数器与累计器混淆"}
+{"date":"2026-09-10","subject":"C语言","kind":"quiz","title":"赋值覆盖（无表格独立做）","score":"10/10","mastery":"passed","note":"① a=a+2;a=a*2; 答 10 ✅ ② x=10;x=x-4;x=x+1;x=x*2; 答 14 ✅ 同型连对 2 次，「= 从右往左」过关","weak":""}
+{"date":"2026-09-10","subject":"C语言","kind":"quiz","title":"for(i<=3) 重做","score":"0/10","mastery":"failed","note":"答 10（正确 6）且没交表格 —— 把上一题 i<=4 的答案搬过来了。新判据：只给数字不给过程=按错题重做。登记 #C002","weak":"C-跳过计算搬上题答案"}
+{"date":"2026-09-10","subject":"C语言","kind":"lecture","title":"第三课（提前插队）：变量=盒子 / = 是塞不是相等 / 花括号管到哪行","score":"","mastery":"na","note":"沉淀为讲义 1.3a；教学纪律立 5 条（一次一概念/没教不出题/答错先自查跳步/判卷先看过程/相邻题答案刻意错开）","weak":""}
+{"date":"2026-09-10","subject":"高数","kind":"lecture","title":"讲义 1.11 极限求值零基础·抓大头（含 x→0 分岔口）","score":"","mastery":"na","note":"真 LaTeX 公式已排；⚠️ x→0 尚未实测","weak":""}
+{"date":"2026-09-10","subject":"工具","kind":"tool","title":"本机首个 C 编译器 w64devkit v2.9.1 装好 + 公式台接入作战台","score":"","mastery":"na","note":"SHA256 双重校验；run-c.bat 拖拽即编译运行（成功/失败双路径实测）；D:\\math-notes 挂成门户 /math 标签页，46 处公式 0 渲染失败","weak":""}
