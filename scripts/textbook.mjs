@@ -94,8 +94,18 @@ const opt = (name, dft) => {
 };
 const has = (name) => args.includes(name);
 
-/* 分支一：章节目录 / 某章范围 */
-if (has('--toc') || has('--ch')) {
+/* 关键词 = 非选项、且不是某个选项的取值 */
+const used = new Set();
+const query = [];
+for (let i = 0; i < args.length; i++) {
+  if (args[i].startsWith('--')) { i++; continue; } // 跳过选项及其取值
+  const k = args[i];
+  if (!used.has(k)) { used.add(k); query.push(k); }
+}
+
+/* 分支一：章节目录 / 某章范围。
+   只给 --ch 不给关键词 = 查该章页码范围；给了关键词则 --ch 退化为「限章检索」，走分支三。 */
+if (has('--toc') || (has('--ch') && !query.length)) {
   if (has('--toc')) {
     console.log(`谭浩强《C语言程序设计》第4版 · 共 ${TOTAL} 页 · 章节页码地图`);
     console.log('（页码 = txt 的 PDF 物理页，与书 printing 页码差约 13 页）\n');
@@ -134,14 +144,7 @@ if (pg) {
   process.exit(0);
 }
 
-/* 分支三：关键词检索 */
-const used = new Set();
-const query = [];
-for (let i = 0; i < args.length; i++) {
-  if (args[i].startsWith('--')) { i++; continue; } // 跳过选项及其取值
-  const k = args[i];
-  if (!used.has(k)) { used.add(k); query.push(k); }
-}
+/* 分支三：关键词检索（query 已在分支一之前统一算好） */
 if (!query.length) {
   console.log('用法：node scripts/textbook.mjs <关键词> [--limit N] | --page N | --pages A-B | --toc | --ch N');
   process.exit(0);
