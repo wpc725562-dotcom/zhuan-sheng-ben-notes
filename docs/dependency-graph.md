@@ -85,7 +85,7 @@
 
 ## 外部依赖清单（package.json）
 
-### `zhuan-sheng-ben-notes/package.json`
+### `darling016/package.json`
 - dependencies:
 - devDependencies:
   - `markdown-it-mathjax3@^4.3.2`

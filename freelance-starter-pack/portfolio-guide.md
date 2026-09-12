@@ -25,7 +25,7 @@ Built with Python. Features: quiz practice, wrong answer review,
 flashcard sync, progress tracking. Downloaded by 100+ students.
 ```
 
-### ✅ 项目 2：GitHub 笔记仓库（zhuan-sheng-ben-notes）
+### ✅ 项目 2：GitHub 笔记仓库（darling016）
 
 你的笔记仓库本身展示了你的学习能力、文档能力、Git 使用能力。
 

@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/状态-备考中-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/笔记-130+篇-orange?style=for-the-badge" alt="Notes">
   <img src="https://img.shields.io/badge/真题-67+年份页-red?style=for-the-badge" alt="Exams">
-  <img src="https://img.shields.io/github/actions/workflow/status/wpc725562-dotcom/zhuan-sheng-ben-notes/deploy.yml?style=for-the-badge&label=Deploy" alt="Deploy">
-  <img src="https://img.shields.io/github/stars/wpc725562-dotcom/zhuan-sheng-ben-notes?style=for-the-badge&label=Stars" alt="Stars">
+  <img src="https://img.shields.io/github/actions/workflow/status/wpc725562-dotcom/darling016/deploy.yml?style=for-the-badge&label=Deploy" alt="Deploy">
+  <img src="https://img.shields.io/github/stars/wpc725562-dotcom/darling016?style=for-the-badge&label=Stars" alt="Stars">
 </p>
 
 <h1 align="center">📚 广东专升本 · 四科复习笔记库</h1>
@@ -48,7 +48,7 @@
 ## 📁 仓库结构
 
 ```
-zhuan-sheng-ben-notes/
+darling016/
 ├── docs/                          # 📖 VitePress 站点源（在线发布）
 │   ├── posts/
 │   │   ├── math/notes/            #   高等数学系统笔记（70 篇）
@@ -77,26 +77,26 @@ zhuan-sheng-ben-notes/
 
 | 顺序 | 内容 | 时间 |
 |:---:|:---|:---:|
-| 1 | [0.0 计算机基础理论](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/0.0-计算机基础理论) | 1 天 |
-| 2 | [1.1 C语言概述](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.1-C语言概述与基本概念) → [1.5 循环结构](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.5-循环结构程序设计) | 5 天 |
-| 3 | [1.6 数组](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.6-数组) → [1.7 函数](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.7-函数) → [1.8 指针](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.8-指针) | 5 天 |
-| 4 | [1.9 结构体](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.9-结构体与共用体) → [1.10 文件](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/1.10-文件操作) | 2 天 |
+| 1 | [0.0 计算机基础理论](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/0.0-计算机基础理论) | 1 天 |
+| 2 | [1.1 C语言概述](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.1-C语言概述与基本概念) → [1.5 循环结构](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.5-循环结构程序设计) | 5 天 |
+| 3 | [1.6 数组](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.6-数组) → [1.7 函数](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.7-函数) → [1.8 指针](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.8-指针) | 5 天 |
+| 4 | [1.9 结构体](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.9-结构体与共用体) → [1.10 文件](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/1.10-文件操作) | 2 天 |
 
 ### 阶段二：数据结构（第二轮）
 
 | 顺序 | 内容 | 时间 |
 |:---:|:---|:---:|
-| 1 | [2.1 数据结构概念](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.1-数据结构基本概念) → [2.2 线性表](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.2-线性表) → [2.3 栈和队列](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.3-栈和队列) | 4 天 |
-| 2 | [2.4 串/数组/广义表](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.4-串、数组和广义表) → [2.5 树和二叉树](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.5-树和二叉树) | 3 天 |
-| 3 | [2.6 图](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.6-图) → [2.7 查找](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.7-查找) → [2.8 排序](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/2.8-排序) | 4 天 |
+| 1 | [2.1 数据结构概念](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.1-数据结构基本概念) → [2.2 线性表](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.2-线性表) → [2.3 栈和队列](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.3-栈和队列) | 4 天 |
+| 2 | [2.4 串/数组/广义表](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.4-串、数组和广义表) → [2.5 树和二叉树](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.5-树和二叉树) | 3 天 |
+| 3 | [2.6 图](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.6-图) → [2.7 查找](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.7-查找) → [2.8 排序](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/2.8-排序) | 4 天 |
 
 ### 阶段三：专项突破 + 模拟（第三轮）
 
 | 顺序 | 内容 | 时间 |
 |:---:|:---|:---:|
-| 1 | [3.0 改错题专项](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/3.0-改错题专项训练) | 1 天 |
-| 2 | [3.3 编程题策略](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/3.3-编程题做题策略) | 1 天 |
-| 3 | [高频错题汇总](https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/posts/computer/notes/高频错题汇总) 复盘 | 1 天 |
+| 1 | [3.0 改错题专项](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/3.0-改错题专项训练) | 1 天 |
+| 2 | [3.3 编程题策略](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/3.3-编程题做题策略) | 1 天 |
+| 3 | [高频错题汇总](https://wpc725562-dotcom.github.io/darling016/posts/computer/notes/高频错题汇总) 复盘 | 1 天 |
 | 4 | 卷一 → 卷二 → 卷三 限时模拟 | 3 天 |
 
 ---
@@ -118,7 +118,7 @@ zhuan-sheng-ben-notes/
 
 ## 🌐 在线访问
 
-**VitePress 站点**：https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/
+**VitePress 站点**：https://wpc725562-dotcom.github.io/darling016/
 
 > 站点全量同步笔记内容，支持搜索、导航、代码高亮、数学公式渲染。
 
@@ -162,6 +162,6 @@ zhuan-sheng-ben-notes/
 
 <p align="center">
   <strong>📚 广东专升本 · 四科复习笔记库</strong><br>
-  <a href="https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/">🌐 在线访问</a> •
-  <a href="https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes">📦 GitHub 仓库</a>
+  <a href="https://wpc725562-dotcom.github.io/darling016/">🌐 在线访问</a> •
+  <a href="https://github.com/wpc725562-dotcom/darling016">📦 GitHub 仓库</a>
 </p>

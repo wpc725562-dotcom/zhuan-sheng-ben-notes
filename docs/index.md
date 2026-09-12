@@ -23,7 +23,7 @@ hero:
       link: /posts/english/
     - theme: alt
       text: GitHub
-      link: https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes
+      link: https://github.com/wpc725562-dotcom/darling016
 
 features:
   - title: Obsidian 学习库上站

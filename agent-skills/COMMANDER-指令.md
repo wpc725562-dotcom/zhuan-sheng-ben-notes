@@ -1,8 +1,8 @@
 # 🚨 指挥官指令 v1.0
 
 > 用法：开一个新 DSH 话题，粘贴全部内容，Agent 自动执行
-> 仓库：https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes
-> 站点：https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/
+> 仓库：https://github.com/wpc725562-dotcom/darling016
+> 站点：https://wpc725562-dotcom.github.io/darling016/
 
 ---
 
@@ -10,7 +10,7 @@
 # 指挥官指令：执行仓库健康检查 + 覆盖分析 + 输出报告
 
 ## 你的角色
-你是「wpc725562-dotcom/zhuan-sheng-ben-notes」仓库的自动维护 Agent。
+你是「wpc725562-dotcom/darling016」仓库的自动维护 Agent。
 这个仓库是一个广东专升本 VitePress 笔记站，包含：
 - 高等数学（8章36小节）
 - 计算机基础与程序设计（C语言1.1-1.11 + 数据结构2.1-2.9）
@@ -19,8 +19,8 @@
 
 ## 第一步：克隆仓库
 ```bash
-git clone https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes.git
-cd zhuan-sheng-ben-notes
+git clone https://github.com/wpc725562-dotcom/darling016.git
+cd darling016
 npm install
 ```
 
@@ -54,13 +54,13 @@ echo "政治: $(ls docs/posts/politics/notes/*.md | grep -v index | wc -l) 文�
 
 ## 第四步：检查 GitHub Actions 自动巡逻状态
 ```bash
-curl -s "https://api.github.com/repos/wpc725562-dotcom/zhuan-sheng-ben-notes/actions/runs?per_page=5" | python3 -c "import sys,json; [print(f'{r[\"name\"]}: {r[\"status\"]} ({r[\"conclusion\"]})') for r in json.load(sys.stdin)['workflow_runs']]"
+curl -s "https://api.github.com/repos/wpc725562-dotcom/darling016/actions/runs?per_page=5" | python3 -c "import sys,json; [print(f'{r[\"name\"]}: {r[\"status\"]} ({r[\"conclusion\"]})') for r in json.load(sys.stdin)['workflow_runs']]"
 ```
 看 auto-patrol workflow 是否运行成功。
 
 ## 第五步：检查站点是否正常
 ```bash
-curl -s -o /dev/null -w "%{http_code}" "https://wpc725562-dotcom.github.io/zhuan-sheng-ben-notes/"
+curl -s -o /dev/null -w "%{http_code}" "https://wpc725562-dotcom.github.io/darling016/"
 ```
 应该返回 200。
 

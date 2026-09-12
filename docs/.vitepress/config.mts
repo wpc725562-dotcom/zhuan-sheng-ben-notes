@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // GitHub Pages 项目站固定 base
-const base = process.env.VITEPRESS_BASE || '/zhuan-sheng-ben-notes/'
+const base = process.env.VITEPRESS_BASE || '/darling016/'
 
 export default defineConfig({
   title: '专升本笔记 · Sakiko 风',
@@ -130,7 +130,7 @@ export default defineConfig({
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes',
+        link: 'https://github.com/wpc725562-dotcom/darling016',
       },
     ],
     sidebar: {
@@ -873,7 +873,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/wpc725562-dotcom/zhuan-sheng-ben-notes',
+        link: 'https://github.com/wpc725562-dotcom/darling016',
       },
     ],
     footer: {

@@ -14,7 +14,7 @@ PUBLIC = ROOT / "docs/public/papers/english"
 DST.mkdir(parents=True, exist_ok=True)
 
 # 与 config.mts base 保持一致
-BASE = "/zhuan-sheng-ben-notes"
+BASE = "/darling016"
 
 
 def pdf_block(year: int) -> str:
