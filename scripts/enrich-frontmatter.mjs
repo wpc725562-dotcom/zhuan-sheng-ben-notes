@@ -1,5 +1,5 @@
 // 批量给专升本笔记 frontmatter 添加 difficulty/frequency/mastery 字段
-// 用法: node scripts/enrich-frontmatter.mjs   (在 darling016 目录下)
+// 用法: node scripts/enrich-frontmatter.mjs   (在 darling016123 目录下)
 import fs from 'node:fs';
 import path from 'node:path';
 

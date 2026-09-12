@@ -23,7 +23,7 @@ hero:
       link: /posts/english/
     - theme: alt
       text: GitHub
-      link: https://github.com/wpc725562-dotcom/darling016
+      link: https://github.com/wpc725562-dotcom/darling016123
 
 features:
   - title: Obsidian 学习库上站

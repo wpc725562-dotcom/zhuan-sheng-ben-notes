@@ -101,11 +101,11 @@
       <p style="font-size: 13px; color: var(--text-secondary); line-height: 1.6;">
         本科通 v1.0.0 — 广东专升本学习助手<br/>
         基于认知科学的 All-in-one 学习工具：计划看板 + 笔记阅读 + 刷题练习 + 科学学习指南<br/>
-        数据源：darling016 笔记仓库
+        数据源：darling016123 笔记仓库
       </p>
       <div class="shortcuts" style="margin-top: 12px;">
         <h4 style="font-size: 13px; margin-bottom: 6px;">🔗 快捷链接</h4>
-        <a href="https://github.com/wpc725562-dotcom/darling016" target="_blank" class="shortcut-link">GitHub 仓库</a>
+        <a href="https://github.com/wpc725562-dotcom/darling016123" target="_blank" class="shortcut-link">GitHub 仓库</a>
         <a href="https://a3292334877-star.github.io/blog" target="_blank" class="shortcut-link">Sakiko 真题源</a>
       </div>
     </div>

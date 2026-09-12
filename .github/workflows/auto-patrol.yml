@@ -376,7 +376,7 @@ jobs:
         if: always()
         run: |
           git config user.name "Auto Patrol Bot"
-          git config user.email "auto-patrol@darling016"
+          git config user.email "auto-patrol@darling016123"
           git add knowledge/patrol-report-*.md knowledge/link-report.md knowledge/quality-report.md knowledge/index-report.md knowledge/coverage-report.md 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "🚨 auto-patrol: $(date '+%Y-%m-%d') 巡检报告自动提交"

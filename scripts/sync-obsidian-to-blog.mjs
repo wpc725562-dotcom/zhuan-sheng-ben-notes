@@ -755,7 +755,7 @@ hero:
       link: /posts/english/
     - theme: alt
       text: GitHub
-      link: https://github.com/wpc725562-dotcom/darling016
+      link: https://github.com/wpc725562-dotcom/darling016123
 
 features:
   - title: Obsidian 学习库上站
@@ -905,7 +905,7 @@ function writeConfig({ mathChapters, computerNotes, mathYears, compYears, polYea
   const config = `import { defineConfig } from 'vitepress'
 
 // GitHub Pages 项目站固定 base
-const base = process.env.VITEPRESS_BASE || '/darling016/'
+const base = process.env.VITEPRESS_BASE || '/darling016123/'
 
 export default defineConfig({
   title: '专升本笔记 · Sakiko 风',
@@ -993,7 +993,7 @@ export default defineConfig({
       { text: '使用说明', link: '/guide/' },
       {
         text: 'GitHub',
-        link: 'https://github.com/wpc725562-dotcom/darling016',
+        link: 'https://github.com/wpc725562-dotcom/darling016123',
       },
     ],
     sidebar: {
@@ -1092,7 +1092,7 @@ ${polYears.map((y) => `            { text: '${y.year}', link: '/posts/politics/$
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/wpc725562-dotcom/darling016',
+        link: 'https://github.com/wpc725562-dotcom/darling016123',
       },
     ],
     footer: {

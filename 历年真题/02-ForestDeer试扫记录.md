@@ -2,7 +2,7 @@
 
 > 试扫起始：2026-07-24
 > 目标公开库：[https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources](https://github.com/ForestDeerDev/guangdong-zhuanshengben-resources)
-> 本库私有仓库：`wpc725562-dotcom/darling016`
+> 本库私有仓库：`wpc725562-dotcom/darling016123`
 > 原则：**先试扫小体积、有文字层的文件 → 写 Markdown 讲解/摘录 → 推 GitHub**；功能稳了再扩大范围。
 > **禁止**：把对方 1GB+ PDF 整仓拷进本库 Git。
 
